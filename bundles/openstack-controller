@@ -1,0 +1,12 @@
+# [TITLE]: openstack-controller
+# [DESCRIPTION]: Provides an OpenStack multi-service control server
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
+include(database-mariadb)
+include(message-broker-rabbitmq)
+include(openstack-identity)
+include(openstack-image)
+include(openstack-compute-controller)
+include(openstack-dashboard)
+include(openstack-python-clients)

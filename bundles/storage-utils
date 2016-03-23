@@ -1,0 +1,19 @@
+# [TITLE]: storage-utils
+# [DESCRIPTION]: Provides basic storage-related utilities
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+e2fsprogs-extras
+parted
+LVM2
+LVM2-extras
+xfsprogs
+dosfstools
+btrfs-progs
+ndctl
+rdma
+ibutils
+libmlx4-dev
+libmlx5-dev
+opensm
+mstflint

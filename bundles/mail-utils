@@ -1,0 +1,8 @@
+# [TITLE]: mail-utils
+# [DESCRIPTION]: Provides utilities for reading and sending email
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+msmtp
+mutt
+procmail

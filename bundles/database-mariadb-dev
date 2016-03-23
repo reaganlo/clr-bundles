@@ -1,0 +1,9 @@
+# [TITLE]: database-mariadb-dev
+# [DESCRIPTION]: Provides MariaDB development tools (libraries and drivers)
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(database-mariadb)
+mariadb-dev
+MySQL-python
+golang-github-go-sql-driver-mysql

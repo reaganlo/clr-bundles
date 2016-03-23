@@ -1,0 +1,12 @@
+# [TITLE]: devtools-basic
+# [DESCRIPTION]: Provides basic set of languages and tools for development
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(R-basic)
+include(go-basic)
+include(hpc-basic)
+include(os-core-dev)
+include(perl-basic)
+include(python-basic)
+include(ruby-basic)

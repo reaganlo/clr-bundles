@@ -1,0 +1,8 @@
+# [TITLE]: network-proxy-client
+# [DESCRIPTION]: Tools for dealing with client-side network proxy settings.
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+pacrunner
+redsocks
+iptables

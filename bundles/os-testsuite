@@ -1,0 +1,36 @@
+# [TITLE]: os-testsuite
+# [DESCRIPTION]: Provides basic test suite for Clear Linux for iA
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+pcre
+diffutils
+dejagnu
+libc6-dev
+expect
+tcl
+libgcc1
+linux-libc-headers
+cpio
+make
+acl
+gawk-bin
+pkg-config
+attr
+autoconf
+gcc
+gcc-dev
+m4
+automake
+asciidoc
+source-highlight
+automake-dev
+rsync
+popt
+binutils
+elfutils
+git
+bats
+openssl
+perl-YAML-Tiny
+perl-TAP-Harness-Archive

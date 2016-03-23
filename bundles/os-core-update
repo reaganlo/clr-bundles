@@ -1,0 +1,16 @@
+# [TITLE]: os-core-update
+# [DESCRIPTION]: Provides basic suite for running the Clear Linux for iA Updater
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
+include(os-core)
+btrfs-progs
+bzip2
+clr-hardware-files
+clr-specialized-updaters
+gzip-bin
+pacrunner
+pigz-bin
+swupd-client
+tar-bin
+xz-bin

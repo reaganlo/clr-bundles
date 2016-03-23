@@ -1,0 +1,16 @@
+# [TITLE]: python-extras
+# [DESCRIPTION]: Provides extra libraries for Python
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: Top 10 in pypi ranking
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+include(python-basic)
+boto
+certifi
+lxml
+nose
+pbr
+python-dateutil
+requests
+simplejson
+six
+virtualenv

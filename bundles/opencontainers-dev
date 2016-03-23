@@ -1,0 +1,9 @@
+# [TITLE]: opencontainers-dev
+# [DESCRIPTION]: Includes required components for developing against the Open Container Specification
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+include(go-basic)
+runc
+runv
+containerd

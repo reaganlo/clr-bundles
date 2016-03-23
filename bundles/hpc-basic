@@ -1,0 +1,8 @@
+# [TITLE]: hpc-basic
+# [DESCRIPTION]: Provides basic suite of MPI/HPC development tools
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(os-core-dev)
+mpich
+mpich-dev

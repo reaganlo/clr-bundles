@@ -1,0 +1,16 @@
+# [TITLE]: perl-extras
+# [DESCRIPTION]: Provides extra libraries for Perl
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: Top 5 to 15 popular Perl packages
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+include(perl-basic)
+perl-DateTime
+perl-DateTime-Locale
+perl-Dist-CheckConflicts
+perl-Text-Autoformat
+perl-Text-CSV_XS
+perl-Text-Reform
+perl-XML-NamespaceSupport
+perl-XML-SAX
+perl-XML-SAX-Base
+perl-XML-SAX-Expat

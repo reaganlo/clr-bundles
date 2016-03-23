@@ -1,0 +1,24 @@
+# [TITLE]: openstack-all-in-one
+# [DESCRIPTION]: Provides an All-in-one OpenStack deployment
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
+include(database-mariadb)
+include(database-mongodb)
+include(message-broker-rabbitmq)
+include(openstack-block-storage)
+include(openstack-block-storage-controller)
+include(openstack-compute)
+include(openstack-compute-controller)
+include(openstack-dashboard)
+include(openstack-data-processing)
+include(openstack-database)
+include(openstack-identity)
+include(openstack-image)
+include(openstack-lbaas)
+include(openstack-network)
+include(openstack-object-storage)
+include(openstack-orchestration)
+include(openstack-python-clients)
+include(openstack-telemetry)
+include(openstack-vpnaas)

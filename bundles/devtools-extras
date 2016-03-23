@@ -1,0 +1,11 @@
+# [TITLE]: devtools-extras
+# [DESCRIPTION]: Provides extra set of languages and tools for development
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+include(R-extras)
+include(devtools-basic)
+include(go-extras)
+include(perl-extras)
+include(python-extras)
+include(ruby-extras)

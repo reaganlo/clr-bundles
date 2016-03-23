@@ -1,0 +1,10 @@
+# [TITLE]: database-mongodb
+# [DESCRIPTION]: Provides components needed to run mongodb
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+boost
+gperftools-lib
+mongodb
+snappy-lib
+wiredtiger-dev

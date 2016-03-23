@@ -1,0 +1,28 @@
+# [TITLE]: os-dev-extras
+# [DESCRIPTION]: Additional C/C++ development packages (beyond os-core-dev)
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+attr-dev
+bsdiff-dev
+bzip2-dev
+check-dev
+curl-dev
+dbus-dev
+flex-dev
+gettext-dev
+glib-dev
+gnutls-dev
+libcap-ng-dev
+libnl-dev
+libpcap-dev
+libpciaccess-dev
+libtasn1-dev
+libvirt-dev
+libxslt-dev
+LVM2-dev
+openssl-dev
+swupd-client-dev
+systemd-dev
+telemetrics-client-dev
+xz-dev

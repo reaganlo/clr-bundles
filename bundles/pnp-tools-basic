@@ -1,0 +1,15 @@
+# [TITLE]: pnp-tools-basic
+# [DESCRIPTION]: Provides basic Power and Performance testing tools
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+htop
+powertop
+iotop
+procps-ng
+net-tools
+sysstat
+dstat
+nicstat
+tiptop
+gperf

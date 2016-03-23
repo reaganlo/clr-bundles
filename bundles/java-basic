@@ -1,0 +1,7 @@
+# [TITLE]: java-basic
+# [DESCRIPTION]: Provides all openjdk tools
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: Compile and run basic java applications
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+openjdk
+openjdk-dev

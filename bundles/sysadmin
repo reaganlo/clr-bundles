@@ -1,0 +1,6 @@
+# [TITLE]: sysadmin
+# [DESCRIPTION]: Moved to sysadmin-basic
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(sysadmin-basic)

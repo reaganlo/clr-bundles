@@ -1,0 +1,6 @@
+# [TITLE]: rust-basic
+# [DESCRIPTION]: rust compiler and cargo packaging tool
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: Can compile and build rust projects
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+rustc

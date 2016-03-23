@@ -1,0 +1,12 @@
+# [TITLE]: cryptography
+# [DESCRIPTION]: Cryptographic tools
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Dimitri John Ledkov <dimitri.j.ledkov@intel.com>
+gnupg
+pinentry
+openssl
+gnutls
+ca-certs
+nss-bin
+openssh-bin

@@ -1,0 +1,8 @@
+# [TITLE]: os-dev-full
+# [DESCRIPTION]: A bundle containing all development libraries and headers
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+# 
+# Removing all content and replacing with m4 to create an 'empty' bundle
+m4

@@ -1,0 +1,11 @@
+# [TITLE]: mixer
+# [DESCRIPTION]: Provide required utilities to make derivative releases
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
+
+hardlink
+swupd-server
+mixer-tools
+bundle-chroot-builder
+createrepo_c

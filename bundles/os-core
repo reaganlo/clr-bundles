@@ -1,0 +1,28 @@
+# [TITLE]: os-core
+# [DESCRIPTION]: The basic core OS components of Clear Linux for iA 
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+filesystem
+systemd
+shadow
+gawk-bin
+grep-bin
+kmod-bin
+util-linux-bin
+coreutils-bin
+hostname-bin
+dbus-bin
+sed-bin
+iproute2-bin
+netbase
+ca-certs
+e2fsprogs-bin
+clr-power-tweaks
+dist-pam-configs
+motd-update
+clr-systemd-config
+nss-altfiles
+systemd-libs
+procps-ng-bin
+tzdata-minimal

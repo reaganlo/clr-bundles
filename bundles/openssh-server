@@ -1,0 +1,7 @@
+# [TITLE]: openssh-server
+# [DESCRIPTION]: Provides an SSH server (and client)
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+openssh
+openssh-extras

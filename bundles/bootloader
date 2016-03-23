@@ -1,0 +1,6 @@
+# [TITLE]: bootloader
+# [DESCRIPTION]: UEFI bootloaders
+# [STATUS]: ACTIVE
+# [CAPABILITIES]:
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+systemd-boot

@@ -1,0 +1,10 @@
+# [TITLE]: cloud-control
+# [DESCRIPTION]: Support packages for a cloud control surface
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-utils)
+include(kvm-host)
+include(net-utils)
+sqlite-autoconf
+xorriso

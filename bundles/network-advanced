@@ -1,0 +1,20 @@
+# [TITLE]: network-advanced
+# [DESCRIPTION]: More utilities for advanced host-level networking; bridge, switch, netfilter, vpn etc.
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+bridge-utils
+openvswitch
+iptables
+ebtables
+dpdk
+dpdk-bin
+dpdk-lib
+openconnect
+quagga
+rdma
+ibutils
+libmlx4-dev
+libmlx5-dev
+opensm
+mstflint

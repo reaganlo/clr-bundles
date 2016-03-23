@@ -1,0 +1,9 @@
+# [TITLE]: clr-devops
+# [DESCRIPTION]: Provides build/release tools for Clear devops team
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: P. Leonard <pam.leonard@intel.com>
+mash
+ister
+swupd-client
+swupd-server

@@ -1,0 +1,15 @@
+# [TITLE]: dpdk-dev
+# [DESCRIPTION]: All headers and libraries necessary to develop with the Data Plane Development Kit.
+# [STATUS]: ACTIVE
+# [CAPABILITIES]:  
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-core-dev)
+libpcap
+libpcap-dev
+libpcap-lib
+libpcap-bin
+dpdk
+dpdk-bin
+dpdk-dev
+dpdk-lib
+dpdk-data

@@ -1,0 +1,10 @@
+# [TITLE]: file-utils
+# [DESCRIPTION]: Provides basic set of file manipulation utilities
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+bzip2
+file
+findutils
+lsof
+unzip

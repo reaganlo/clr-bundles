@@ -1,0 +1,9 @@
+# [TITLE]: editors
+# [DESCRIPTION]: Provides popular text editors
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+joe
+emacs
+vim
+nano

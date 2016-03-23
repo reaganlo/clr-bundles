@@ -1,0 +1,63 @@
+# [TITLE]: os-clr-on-clr
+# [DESCRIPTION]: content for development of the Clear Linux OS on the Clear Linux OS
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-dev-extras)
+acl
+automake-dev
+autoconf-bin
+bridge-utils
+cffi
+clr-ovmf-bin
+clr-python-timestamp
+cmake
+collectl
+configobj
+connect-proxy
+createrepo_c
+cryptography
+curl
+cve-check-tool
+dnsmasq
+dosfstools
+ebtables
+enum34
+git
+gptfdisk
+include(mail-utils)
+include(storage-utils)
+iptables
+ister
+koji
+kvmtool
+libtool
+libtool-dev
+lz4
+m4
+make
+make
+mock
+ncurses-data-rare
+ncurses-dev
+openssh
+parted
+patch
+pkg-config-dev
+pyOpenSSL
+pycparser
+pycurl
+pyliblzma
+python-rpm
+python3-core
+qemu
+rpm
+rpm-build
+rpm-common
+six
+tzdata
+urlgrabber
+yum
+yum-metadata-parser
+yum-utils
+include(os-core-update)

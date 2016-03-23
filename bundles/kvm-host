@@ -1,0 +1,14 @@
+# [TITLE]: kvm-host
+# [DESCRIPTION]: Provides necessary tools to run usable virtual machines with QEMU-KVM (independently of OpenStack).
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(kernel-kvm)
+qemu 
+libvirt
+bridge-utils
+iptables
+ebtables
+bndl-kvm-host
+dnsmasq
+clr-ovmf-bin

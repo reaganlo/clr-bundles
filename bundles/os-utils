@@ -1,0 +1,25 @@
+# [TITLE]: os-utils
+# [DESCRIPTION]: Provides a core set of OS utilities
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+procps-ng
+less
+man-db
+ncurses-bin
+tmux
+which
+man-pages
+groff
+kbd
+openssl
+psmisc
+sudo
+efibootmgr-bin
+include(editors)
+include(dev-utils)
+include(sysadmin-basic)
+include(network-basic)
+include(file-utils)
+include(network-proxy-client)
+include(internet-console-utils)

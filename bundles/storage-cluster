@@ -1,0 +1,17 @@
+# [TITLE]: storage-cluster
+# [DESCRIPTION]: Ceph Cluster Storage
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+ceph
+leveldb-lib
+gperftools-lib
+boost
+rocksdb-lib
+snappy-lib
+gflags-lib
+keyutils-lib
+setuptools
+parted
+xfsprogs
+btrfs-progs

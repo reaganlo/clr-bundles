@@ -1,0 +1,15 @@
+# [TITLE]: sysadmin-hostmgmt
+# [DESCRIPTION]: Utilities and Services for managing large-scale clusters of networked hosts
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-utils)
+include(pxe-server)
+pssh
+ansible
+clear-config-management
+# ansible deps
+PyYAML
+Jinja2
+paramiko-python
+# End ansible deps

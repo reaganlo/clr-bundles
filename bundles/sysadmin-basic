@@ -1,0 +1,17 @@
+# [TITLE]: sysadmin-basic
+# [DESCRIPTION]: Provides a basic set of system administration utilities.
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+powertop
+pciutils
+pciutils-data
+strace
+usbutils
+libc-bin
+clr-hardware-files
+collectl
+htop
+lsacpi
+mosh
+cpuid

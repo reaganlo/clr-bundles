@@ -1,0 +1,15 @@
+# [TITLE]: dev-utils
+# [DESCRIPTION]: Provides a limited set of development utilities
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+linux-tools
+clr-debug-info
+gdb
+python-core
+strace
+libc-bin
+valgrind
+libc6-locale
+libaio
+lcov

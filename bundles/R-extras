@@ -1,0 +1,66 @@
+# [TITLE]: R-extras
+# [DESCRIPTION]: Provides deeper functionality R language libraries
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(R-basic)
+
+#
+# Popular R packages
+#
+R-Rcpp
+R-proto
+R-labeling
+R-plyr
+R-dichromat
+R-RColorBrewer
+R-labeling
+R-colorspace
+R-munsell
+R-scales
+R-digest
+R-gtable
+R-stringr
+R-reshape2
+R-ggplot2
+R-zoo
+R-bitops
+R-mvtnorm
+R-car
+R-bitops
+R-sp
+R-lmtest
+R-gtools
+R-randomForest
+R-tree
+R-tau
+R-manipulate
+R-SparseM
+R-memoise
+R-lubridate
+R-png
+R-DBI
+R-jsonlite
+R-rstudioapi
+R-whisker
+R-mime
+R-R6
+R-httr
+R-RCurl
+R-devtools
+R-evaluate
+R-e1071
+R-glmnet
+R-brew
+R-roxygen2
+R-RcppEigen
+R-quantreg
+R-minqa
+R-lme4
+R-Cairo
+
+
+#
+# 3rd party libraries
+#
+eigen

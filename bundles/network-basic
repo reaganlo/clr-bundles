@@ -1,0 +1,14 @@
+# [TITLE]: network-basic
+# [DESCRIPTION]: Provides a basic suite of networking utilities
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+curl-bin
+openssh
+openssh-extras
+iputils
+tcpdump
+net-tools
+rsync
+ethtool
+wpa_supplicant

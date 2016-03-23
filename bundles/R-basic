@@ -1,0 +1,33 @@
+# [TITLE]: R-basic
+# [DESCRIPTION]: Provides core R language and libraries
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+
+#
+# If you want R, you need to be able to compile basic things
+#
+gcc
+gcc-dev
+make
+libgfortran-avx
+
+#
+# R base packages
+#
+clr-R-helpers
+R
+R-dev
+
+
+#
+# Not listed because these are part of the R core above
+#
+
+# R-foreign
+# R-nnet
+# R-lattice
+# R-MASS
+# R-Matrix
+# R-survival
+

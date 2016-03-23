@@ -1,0 +1,8 @@
+# [TITLE]: tcl-basic
+# [DESCRIPTION]: Components related to the TCL interpreter and associated tools
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: jim.chamings@intel.com
+tcl
+tk
+expect

@@ -1,0 +1,12 @@
+# [TITLE]: koji
+# [DESCRIPTION]: Sets up a koji build service (builder-only, for now) based on NFS mounts.
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+nfs-utils
+koji
+rpm-build
+mock
+createrepo_c-bin
+Cheetah
+usermode

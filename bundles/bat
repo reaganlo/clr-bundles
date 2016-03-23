@@ -1,0 +1,11 @@
+# [TITLE]: bat
+# [DESCRIPTION]: Provides the neccesary bundles to perform BAT succesfully
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(devtools-basic)
+include(openstack-test-suite)
+include(os-testsuite)
+include(pnp-tools-basic)
+include(openstack-all-in-one)
+include(storage-utils)

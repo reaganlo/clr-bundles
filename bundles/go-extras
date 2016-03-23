@@ -1,0 +1,20 @@
+# [TITLE]: go-extras
+# [DESCRIPTION]: Most popular Golang libraries
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+include(go-basic)
+golang-github-go-mgo-mgo
+golang-github-go-sql-driver-mysql
+golang-github-gorilla-context
+golang-github-gorilla-mux
+golang-github-gorilla-websocket
+golang-github-lib-pq
+golang-github-streadway-amqp
+golang-github-stretchr-objx
+golang-github-stretchr-testify
+golang-googlecode-go-crypto
+golang-googlecode-go-mobile
+golang-googlecode-go-net
+golang-googlecode-go-text
+golang-googlecode-go-tools

@@ -1,0 +1,16 @@
+# [TITLE]: os-cloudguest
+# [DESCRIPTION]: Provides clr-cloud-init cloud guest configuration utilities
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+include(openssh-server)
+include(telemetrics)
+yaml-lib
+glib-lib
+curl-lib
+json-glib-lib
+parted-lib
+util-linux-lib
+e2fsprogs-bin
+sudo
+clr-cloud-init

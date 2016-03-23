@@ -1,0 +1,6 @@
+# [TITLE]: virtualbox-guest
+# [DESCRIPTION]: Include the modules and binaries meant to be used as a VirtualBox instance
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Gabriel Briones Sayeg <gabriel.briones.sayeg@intel.com>
+linux-vboxguest-modules

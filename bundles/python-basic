@@ -1,0 +1,15 @@
+# [TITLE]: python-basic
+# [DESCRIPTION]: Provides core Python language and libraries
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+pep8
+python-core
+python3-core
+python-dev
+python3-dev
+numpy
+scipy
+clr-python-timestamp
+python-tappy
+libgfortran-avx

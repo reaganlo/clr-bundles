@@ -1,0 +1,52 @@
+# [TITLE]: os-core-dev
+# [DESCRIPTION]: Basic development tools
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: At a minimum, can compile a Linux kernel with this bundle.
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+asciidoc
+autoconf
+autofdo
+autofdo-tools
+automake
+automake-dev
+bc
+binutils
+bison
+clr-python-timestamp
+cpio
+cscope
+dejagnu
+diffutils
+diffstat
+elfutils
+expect
+flex
+gawk-bin
+gcc
+gcc-dev
+git
+libc6-dev
+libc-bin
+libgcc1
+libtool
+libtool-dev
+linux-dev
+linux-libc-headers
+m4
+make
+man-pages
+ncurses
+ncurses-dev
+openssl-dev
+patch
+patchutils
+perl
+perl-Error
+pkg-config
+pkg-config-dev
+python-core
+source-highlight
+tcl
+bc
+llvm
+llvm-dev

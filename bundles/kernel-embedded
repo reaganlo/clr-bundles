@@ -1,0 +1,8 @@
+# [TITLE]: kernel-embedded
+# [DESCRIPTION]: Provides a Linux kernel appropriate for embedded devices
+# [STATUS]: ACTIVE
+# [CAPABILITIES]:
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(bootloader)
+linux-embedded
+linux-firmware

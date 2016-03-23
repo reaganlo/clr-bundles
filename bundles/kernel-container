@@ -1,0 +1,7 @@
+# [TITLE]: kernel-container
+# [DESCRIPTION]: Provides a Linux kernel appropriate for a Clear Container
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Dimitri John Ledkov <dimitri.j.ledkov@intel.com>
+linux-container
+

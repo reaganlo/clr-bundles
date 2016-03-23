@@ -1,0 +1,18 @@
+# [TITLE]: shells
+# [DESCRIPTION]: All available shell programs for Clear, along with ancillary files
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+bash
+bash-bin
+bash-doc
+bash-extras
+bash-locales
+bash-completion
+bash-completion-data
+bash-completion-dev
+zsh
+zsh-bin
+zsh-data
+zsh-doc
+zsh-lib
