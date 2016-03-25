@@ -3,6 +3,8 @@
 # [STATUS]: WIP 
 # [CAPABILITIES]:
 # [MAINTAINER]: Jose Luis Rivera <jose.luis.rivera.magallon@intel.com>
+include(openstack-common)
+
 Babel
 Flask
 Jinja2

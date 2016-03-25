@@ -3,6 +3,8 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+include(openstack-common)
+
 Babel
 Jinja2
 Mako
