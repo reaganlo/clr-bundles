@@ -5,7 +5,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(os-utils)
 include(devtools-extras)
-include(hpc-basic)
 include(lamp-basic)
 php
 pcre-dev
