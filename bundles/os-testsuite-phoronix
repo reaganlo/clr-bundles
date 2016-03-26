@@ -4,11 +4,9 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(os-utils)
-include(devtools-basic)
+include(devtools-extras)
 include(hpc-basic)
-include(R-extras)
 include(lamp-basic)
-include(go-basic)
 php
 pcre-dev
 cmake
