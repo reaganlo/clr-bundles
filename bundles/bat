@@ -3,7 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(devtools-extras)
+include(devtools-basic)
 include(openstack-test-suite)
 include(os-testsuite)
 include(pnp-tools-advanced)
