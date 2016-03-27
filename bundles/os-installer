@@ -12,6 +12,7 @@ ister
 ister-extras
 less
 parted-bin
+pycurl
 python-urwid
 python3-core
 qemu
