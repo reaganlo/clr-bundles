@@ -4,6 +4,9 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(os-dev-extras)
+include(mail-utils)
+include(storage-utils)
+include(os-core-update)
 acl
 automake-dev
 autoconf-bin
@@ -25,8 +28,6 @@ ebtables
 enum34
 git
 gptfdisk
-include(mail-utils)
-include(storage-utils)
 iptables
 ister
 koji
@@ -60,4 +61,4 @@ urlgrabber
 yum
 yum-metadata-parser
 yum-utils
-include(os-core-update)
+fuse-dev
