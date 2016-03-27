@@ -62,3 +62,4 @@ yum
 yum-metadata-parser
 yum-utils
 fuse-dev
+nosync
