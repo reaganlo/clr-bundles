@@ -16,6 +16,7 @@ openssl
 psmisc
 sudo
 efibootmgr-bin
+gawk-extras
 include(editors)
 include(dev-utils)
 include(sysadmin-basic)
