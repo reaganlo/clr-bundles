@@ -1,0 +1,8 @@
+# [TITLE]: openstack-telemetry-controller
+# [DESCRIPTION]: Provides an OpenStack Telemetry server
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+# This bundle was renamed to openstack-telemetry and
+# openstack-telemetry-controller can be deleted in anytime.
+include(openstack-telemetry)
