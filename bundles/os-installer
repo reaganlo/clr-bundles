@@ -11,6 +11,7 @@ iputils
 ister
 ister-extras
 less
+netifaces
 parted-bin
 pycurl
 python-urwid
