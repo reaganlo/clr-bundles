@@ -9,3 +9,4 @@ swupd-server
 mixer-tools
 bundle-chroot-builder
 createrepo_c
+nosync
