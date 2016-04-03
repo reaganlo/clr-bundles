@@ -4,6 +4,7 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(os-utils)
+include(python-basic
 xorg-server
 xf86-video-fbdev
 xf86-video-vesa
