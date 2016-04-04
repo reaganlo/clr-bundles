@@ -12,3 +12,11 @@ All bundle files must include a filled-out bundle-header.txt at the top
 of the file. These are used to generate documentation, so be descriptive
 and precise.
 
+
+For debugging and visualization purposes, a small perl program called
+`make-dot.pl` is included. If run, the output will be suitable to create
+a dependency graph of the bundles. Run it as so:
+
+   `make-dot.pl | dot -Tsvg`
+
+This will output a "dot.svg" file that can be opened with a web browser.
