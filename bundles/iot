@@ -7,4 +7,5 @@ soletta-bin
 soletta-dev-app
 nodejs
 graphviz
+libmicrohttpd
 include(kernel-embedded)
