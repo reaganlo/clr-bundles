@@ -5,6 +5,7 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(os-utils)
 include(pxe-server)
+include(python-basic)
 pssh
 ansible
 clear-config-management
