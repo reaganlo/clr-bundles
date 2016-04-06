@@ -50,3 +50,12 @@ tcl
 bc
 llvm
 llvm-dev
+acl
+attr
+bats
+openssl
+pcre
+perl-TAP-Harness-Archive
+perl-YAML-Tiny
+popt
+rsync
