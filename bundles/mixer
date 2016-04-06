@@ -3,7 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
-
+include(os-clr-on-clr)
 hardlink
 swupd-server
 mixer-tools
