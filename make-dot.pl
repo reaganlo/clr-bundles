@@ -76,10 +76,16 @@ subgraph clusteropenstack {
 	"message-broker-rabbitmq";
 };
 subgraph cluster0 {
-	style=invis;	
+	style=invis;
 	"sysadmin-basic";
 	"sysadmin-advanced";
 }
+
+rankdir=LR;
+{ rank=same "hpc-basic" "go-basic" "ruby-basic" "perl-basic" "python-basic" }
+{ rank=same "hpc-extras" "go-extras" "ruby-extras" "perl-extras" "python-extras" }
+{ rank=same "kernel-native" "kernel-container" "kernel-embedded" "kernel-kvm" }
+{ rank=bottommost "os-core" }
 END_INCLUDE
 
 print $inc;
@@ -93,6 +99,13 @@ foreach my $filename (@files) {
 	open (my $fh, "<", $filename);
 	my $first = 0;
 	my $bundle = basename($filename);
+
+	#if ($bundle =~ /^os-core/) {
+	#	next;
+	#}
+	#if ($bundle =~ /^bat/) {
+	#	next;
+	#}
 
 	while (<$fh>) {
 		chomp;
