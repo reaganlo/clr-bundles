@@ -3,7 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-
+include(libX11client)
 #
 # If you want R, you need to be able to compile basic things
 #

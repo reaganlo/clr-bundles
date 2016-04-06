@@ -3,5 +3,6 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: Compile and run basic java applications
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+include(libX11client)
 openjdk
 openjdk-dev

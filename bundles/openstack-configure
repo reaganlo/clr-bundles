@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: None at the moment, work very much in progress.
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+include(python-basic)
 clearstack
 python3-core
 pbr

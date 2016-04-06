@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: 
 # [MAINTAINER]: jim.chamings@intel.com
+include(libX11client)
 tcl
 tk
 expect

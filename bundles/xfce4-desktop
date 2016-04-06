@@ -1,34 +1,19 @@
-# [TITLE]: os-utils-gui
-# [DESCRIPTION]: Provides a graphical desktop environment 
+# [TITLE]: xfce4-desktop
+# [DESCRIPTION]: Provides the XFCE4 graphical desktop environment 
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
-include(os-utils)
-include(python-basic)
-include(xfce4-desktop)
-xorg-server
-xf86-video-fbdev
-xf86-video-vesa
-xf86-video-intel
-xf86-input-evdev
-xf86-input-mouse
-xf86-input-synaptics
+include(libX11client)
 xfce4-panel
 xfce4-settings
 gtk-xfce-engine
 exo
 garcon
-iceauth
 xfwm4
 Thunar
 xfdesktop
 xinit
-xkbcomp
-mesa
-xauth
-xkeyboard-config
 xfconf
-dbus-extras
 gdk-pixbuf
 xfce4-session
 clear-font
@@ -41,40 +26,21 @@ gtk+
 gnome-icon-theme
 xfce4-terminal
 font-bitstream-type1
-openssl
-fontconfig
 Vertex-theme
 murrine
 moka-icon-theme
 faba-icon-theme
-gvim
-xemacs
-clr-wallpapers
 xfce4-whiskermenu-plugin
 powerline-fonts
-xscreensaver
-bash-completion
-firefox
-thunderbird
 xfce4-appfinder
 gnome-themes-standard
-hexchat
-desktop-file-utils
-librsvg
 arc-theme
 elementary-xfce
 clr-desktop-defaults
 libxfce4ui-bin
-alsa-utils
-alsa-plugins-lib
 xfce4-screenshooter
 tumbler
 thunar-volman
 shared-mime-info
 xfce4-notifyd
 libnotify-bin
-virt-viewer
-graphviz
-websockify
-pulseaudio
-pulseaudio-bin
