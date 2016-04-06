@@ -3,7 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(os-utils)
+include(os-utils-gui)
 include(devtools-extras)
 include(lamp-basic)
 php
