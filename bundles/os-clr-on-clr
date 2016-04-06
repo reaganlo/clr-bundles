@@ -7,6 +7,8 @@ include(os-dev-extras)
 include(mail-utils)
 include(storage-utils)
 include(os-core-update)
+include(python-basic)
+include(perl-basic)
 acl
 automake-dev
 autoconf-bin
