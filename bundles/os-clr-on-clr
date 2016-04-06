@@ -9,6 +9,7 @@ include(storage-utils)
 include(os-core-update)
 include(python-basic)
 include(perl-basic)
+include(os-core-utils)
 acl
 automake-dev
 autoconf-bin
