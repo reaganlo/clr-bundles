@@ -79,3 +79,4 @@ websockify
 pulseaudio
 pulseaudio-bin
 libva
+libva-intel-driver
