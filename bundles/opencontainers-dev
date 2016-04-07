@@ -7,3 +7,4 @@ include(go-basic)
 runc
 runv
 containerd
+qemu-lite
