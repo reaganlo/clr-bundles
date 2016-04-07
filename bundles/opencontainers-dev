@@ -5,6 +5,4 @@
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(go-basic)
 runc
-runv
 containerd
-qemu-lite
