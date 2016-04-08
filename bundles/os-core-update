@@ -14,3 +14,4 @@ pigz-bin
 swupd-client
 tar-bin
 xz-bin
+findutils
