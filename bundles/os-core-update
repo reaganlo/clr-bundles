@@ -8,10 +8,10 @@ btrfs-progs
 bzip2
 clr-hardware-files
 clr-specialized-updaters
+findutils
 gzip-bin
 pacrunner
 pigz-bin
 swupd-client
 tar-bin
 xz-bin
-findutils
