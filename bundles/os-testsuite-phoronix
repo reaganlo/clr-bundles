@@ -64,3 +64,4 @@ libogg-dev
 libvorbis-dev
 libgfortran-avx
 flac-dev
+beignet-dev
