@@ -1,0 +1,12 @@
+# [TITLE]: cloud-network
+# [DESCRIPTION]: Support for cloud networking
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Salvador Fuentes <salvador.fuentes@intel.com>
+
+include(openssh-server)
+include(net-utils)
+dnsmasq
+iptables
+vim
+
