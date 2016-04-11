@@ -4,7 +4,6 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
 include(openstack-common)
-
 Babel
 Jinja2
 MarkupSafe
@@ -13,7 +12,6 @@ PasteDeploy
 PyYAML
 Routes
 WebOb
-aioeventlet
 amqp
 anyjson
 cachetools
@@ -63,11 +61,9 @@ pytz
 repoze.lru
 retrying
 setuptools
-simplejson
 six
 stevedore
 swift
-trollius
 wrapt
 xattr
 xfsprogs

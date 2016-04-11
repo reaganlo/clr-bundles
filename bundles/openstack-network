@@ -4,7 +4,6 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
 include(openstack-common)
-
 Babel
 Jinja2
 Mako
@@ -12,19 +11,19 @@ MarkupSafe
 MySQL-python
 Paste
 PasteDeploy
+PyMySQL
 PyYAML
 Routes
 SQLAlchemy
 Tempita
 WebOb
 WebTest
-aioeventlet
 alembic
 amqp
 anyjson
 appdirs
 beautifulsoup4
-bridge-utils-bin
+bridge-utils
 cachetools
 cliff
 cmd2
@@ -33,14 +32,13 @@ crudini
 debtcollector
 decorator
 dnsmasq
-dpdk-dev
-dpdk-lib
 ebtables
 enum34
 ethtool
 eventlet
 fasteners
 funcsigs
+functools32
 futures
 futurist
 greenlet
@@ -49,6 +47,7 @@ iniparse
 ipset
 iptables
 iso8601
+jsonschema
 keystoneauth1
 keystonemiddleware
 kombu
@@ -60,6 +59,7 @@ netaddr
 netifaces
 networking-ovs-dpdk
 neutron
+neutron-lib
 openvswitch
 ordereddict
 os-client-config
@@ -72,21 +72,25 @@ oslo.log
 oslo.messaging
 oslo.middleware
 oslo.policy
+oslo.reports
 oslo.rootwrap
 oslo.serialization
 oslo.service
 oslo.utils
 oslo.versionedobjects
+ovs
 pbr
 pecan
 pika
 pika-pool
 positional
 prettytable
+psutil
 pycadf
 pyinotify
 pyparsing
 python-dateutil
+python-designateclient
 python-editor
 python-keystoneclient
 python-neutronclient
@@ -105,7 +109,6 @@ sqlalchemy-migrate
 sqlparse
 stevedore
 sudo
-trollius
 unicodecsv
 waitress
 wrapt

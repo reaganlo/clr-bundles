@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(openstack-common)
-
+include(openstack-network)
 Babel
 Jinja2
 Mako
@@ -16,7 +16,6 @@ Routes
 SQLAlchemy
 Tempita
 WebOb
-aioeventlet
 alembic
 amqp
 anyjson
@@ -31,7 +30,6 @@ funcsigs
 futures
 futurist
 greenlet
-include(openstack-network)
 iso8601
 kombu
 libreswan
@@ -39,6 +37,7 @@ monotonic
 msgpack-python
 netaddr
 netifaces
+neutron-lib
 neutron-vpnaas
 nss-bin
 nss-lib
@@ -55,6 +54,8 @@ oslo.serialization
 oslo.service
 oslo.utils
 pbr
+pika
+pika-pool
 pyinotify
 python-dateutil
 python-editor
@@ -66,6 +67,5 @@ six
 sqlalchemy-migrate
 sqlparse
 stevedore
-trollius
 unbound-lib
 wrapt

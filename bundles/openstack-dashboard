@@ -4,7 +4,6 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
 include(openstack-common)
-
 Babel
 Django
 Pint
@@ -24,7 +23,6 @@ XStatic-JQuery.TableSorter
 XStatic-JQuery.quicksearch
 XStatic-JSEncrypt
 XStatic-Jasmine
-XStatic-Magic-Search
 XStatic-Rickshaw
 XStatic-Spin
 XStatic-bootswatch
@@ -34,8 +32,6 @@ XStatic-mdi
 XStatic-roboto-fontface
 XStatic-smart-table
 XStatic-term.js
-amqp
-anyjson
 appdirs
 cliff
 cmd2
@@ -46,12 +42,10 @@ django-pyscss
 django_compressor
 django_openstack_auth
 enum34
-eventlet
 fasteners
 funcsigs
 functools32
 futures
-greenlet
 horizon
 httpd
 httplib2
@@ -60,7 +54,6 @@ jsonpatch
 jsonpointer
 jsonschema
 keystoneauth1
-kombu
 librabbitmq
 memcached
 mod_wsgi
@@ -70,6 +63,7 @@ netaddr
 netifaces
 nginx
 openstacksdk
+ordereddict
 os-client-config
 oslo.concurrency
 oslo.config
@@ -92,9 +86,7 @@ python-memcached
 python-neutronclient
 python-novaclient
 python-openstackclient
-python-saharaclient
 python-swiftclient
-python-troveclient
 pytz
 rcssmin
 requests

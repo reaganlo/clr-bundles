@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Jose Luis Rivera <jose.luis.rivera.magallon@intel.com>
 include(openstack-common)
-
 Babel
 Flask
 Jinja2
@@ -19,16 +18,18 @@ SQLAlchemy
 Tempita
 WebOb
 Werkzeug
-aioeventlet
 alembic
 amqp
 anyjson
 appdirs
 cachetools
+castellan
+cffi
 cliff
 cmd2
 contextlib2
 crudini
+cryptography
 debtcollector
 decorator
 ecdsa
@@ -40,12 +41,15 @@ functools32
 futures
 futurist
 greenlet
+idna
 iniparse
+ipaddress
 iso8601
 itsdangerous
 jsonpatch
 jsonpointer
 jsonschema
+kazoo
 keystoneauth1
 keystonemiddleware
 kombu
@@ -76,11 +80,12 @@ pika
 pika-pool
 positional
 prettytable
+pyasn1
 pycadf
+pycparser
 pycrypto
 pyinotify
 pyparsing
-python-barbicanclient
 python-cinderclient
 python-dateutil
 python-editor
@@ -104,7 +109,9 @@ six
 sqlalchemy-migrate
 sqlparse
 stevedore
-trollius
+tooz
 unicodecsv
+voluptuous
 warlock
 wrapt
+zake

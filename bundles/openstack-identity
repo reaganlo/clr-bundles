@@ -4,7 +4,6 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
 include(openstack-common)
-
 Babel
 Jinja2
 Mako
@@ -12,12 +11,12 @@ MarkupSafe
 MySQL-python
 Paste
 PasteDeploy
+PyMySQL
 PyYAML
 Routes
 SQLAlchemy
 Tempita
 WebOb
-aioeventlet
 alembic
 amqp
 anyjson
@@ -60,6 +59,7 @@ nginx
 oauthlib
 openssl
 ordereddict
+oslo.cache
 oslo.concurrency
 oslo.config
 oslo.context
@@ -102,7 +102,6 @@ six
 sqlalchemy-migrate
 sqlparse
 stevedore
-trollius
 uwsgi
 wrapt
 zope.interface

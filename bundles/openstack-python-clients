@@ -4,12 +4,10 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
 include(openstack-common)
-
 Babel
 PyYAML
 appdirs
 cliff
-cliff-tablib
 clr-python-timestamp
 cmd2
 debtcollector
@@ -26,8 +24,10 @@ msgpack-python
 netaddr
 netifaces
 openstacksdk
+ordereddict
 os-client-config
 oslo.config
+oslo.context
 oslo.i18n
 oslo.log
 oslo.serialization
@@ -36,10 +36,12 @@ pbr
 pip
 positional
 prettytable
+pyinotify
 pyparsing
 python-barbicanclient
 python-ceilometerclient
 python-cinderclient
+python-dateutil
 python-designateclient
 python-glanceclient
 python-heatclient
@@ -57,7 +59,6 @@ setuptools
 simplejson
 six
 stevedore
-tablib
 unicodecsv
 warlock
 wrapt

@@ -4,7 +4,6 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
 include(openstack-common)
-
 Babel
 Jinja2
 Mako
@@ -16,7 +15,6 @@ Routes
 SQLAlchemy
 Tempita
 WebOb
-aioeventlet
 alembic
 amqp
 anyjson
@@ -24,6 +22,7 @@ appdirs
 boto
 bridge-utils
 cachetools
+castellan
 cffi
 cliff
 clr-ovmf-bin
@@ -38,6 +37,8 @@ decorator
 dmidecode
 dnsmasq
 docker-py
+dogpile.cache
+dogpile.core
 dosfstools-bin
 ebtables
 ecdsa
@@ -80,6 +81,8 @@ open-iscsi
 ordereddict
 os-brick
 os-client-config
+os-win
+oslo.cache
 oslo.concurrency
 oslo.config
 oslo.context
@@ -88,6 +91,7 @@ oslo.i18n
 oslo.log
 oslo.messaging
 oslo.middleware
+oslo.policy
 oslo.reports
 oslo.rootwrap
 oslo.serialization
@@ -131,7 +135,6 @@ sqlparse
 stevedore
 sudo
 sysfsutils
-trollius
 unicodecsv
 uwsgi
 warlock

@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(openstack-common)
-
 Babel
 Jinja2
 Mako
@@ -20,7 +19,6 @@ WSME
 WebOb
 WebTest
 Werkzeug
-aioeventlet
 alembic
 amqp
 anyjson
@@ -31,7 +29,6 @@ ceilometer
 cliff
 cmd2
 contextlib2
-croniter
 debtcollector
 decorator
 enum34
@@ -116,7 +113,6 @@ sqlparse
 stevedore
 sudo
 tooz
-trollius
 unicodecsv
 voluptuous
 waitress
