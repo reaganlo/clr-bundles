@@ -5,7 +5,7 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(kernel-kvm)
 include(libX11client)
-qemu 
+qemu
 libvirt
 bridge-utils
 iptables
