@@ -4,3 +4,4 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 mariadb-server
+MySQL-python
