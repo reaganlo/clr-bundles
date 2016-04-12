@@ -65,3 +65,6 @@ libvorbis-dev
 libgfortran-avx
 flac-dev
 beignet-dev
+jemalloc-dev
+lua-dev
+redis-native
