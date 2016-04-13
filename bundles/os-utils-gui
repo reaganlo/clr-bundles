@@ -80,3 +80,5 @@ pulseaudio
 pulseaudio-bin
 libva
 libva-intel-driver
+xrandr
+xhost
