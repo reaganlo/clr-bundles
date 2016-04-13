@@ -68,3 +68,4 @@ beignet-dev
 jemalloc-dev
 lua-dev
 redis-native
+gtk+-dev
