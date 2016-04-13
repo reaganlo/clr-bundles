@@ -69,3 +69,5 @@ jemalloc-dev
 lua-dev
 redis-native
 gtk+-dev
+x11perf
+imlib2-dev
