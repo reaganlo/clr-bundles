@@ -74,7 +74,6 @@ imlib2-dev
 libXv-dev
 libXvMC-dev
 mesa-demos
-qt-everywhere-opensource-src-dev
 SDL
 SDL-dev
 SDL2_mixer-dev
