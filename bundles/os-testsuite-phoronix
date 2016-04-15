@@ -80,7 +80,7 @@ SDL2_mixer-dev
 SDL2_net-dev
 SDL2_gfx-dev
 SDL2_image-dev
-sDL2_ttf-dev
+SDL2_ttf-dev
 SDL_gfx-dev
 SDL_ttf-dev
 SDL_net-dev
