@@ -73,3 +73,12 @@ x11perf
 imlib2-dev
 libXv-dev
 libXvMC-dev
+mesa-demos
+qt-everywhere-opensource-src-dev
+SDL
+SDL-dev
+SDL2_mixer-dev
+SDL2_net-dev
+SDL2_gfx-dev
+SDL2_image-dev
+sDL2_ttf-dev
