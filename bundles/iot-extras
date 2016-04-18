@@ -1,0 +1,10 @@
+# [TITLE]: iot-extras
+# [DESCRIPTION]: The IoT (Internet of Things) base bundle
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(iot-base)
+include(nodejs-basic)
+soletta-dev-app
+graphviz
+include(iot-message-broker)
