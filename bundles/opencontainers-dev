@@ -4,5 +4,9 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(go-basic)
+include(network-advanced)
+gnupg
 runc
 containerd
+clear-containers-docker-testing
+clr-systemd-config-extras
