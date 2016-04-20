@@ -37,6 +37,7 @@ iptables
 ister
 koji
 kvmtool
+libcap-dev
 libtool
 libtool-dev
 lz4
