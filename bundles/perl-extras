@@ -10,7 +10,6 @@ perl-Dist-CheckConflicts
 perl-Text-Autoformat
 perl-Text-CSV_XS
 perl-Text-Reform
-perl-XML-NamespaceSupport
 perl-XML-SAX
 perl-XML-SAX-Base
 perl-XML-SAX-Expat
