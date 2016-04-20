@@ -32,6 +32,7 @@ enum34
 git
 gptfdisk
 intltool
+intltool-dev
 iptables
 ister
 koji
