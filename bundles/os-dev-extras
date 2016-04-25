@@ -24,6 +24,5 @@ libxslt-dev
 LVM2-dev
 openssl-dev
 swupd-client-dev
-systemd-dev
 telemetrics-client-dev
 xz-dev
