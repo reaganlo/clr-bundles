@@ -1,5 +1,5 @@
 # [TITLE]: cloud-network
-# [DESCRIPTION]: Support for cloud networking
+# [DESCRIPTION]: Support for cloud networking agents
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Salvador Fuentes <salvador.fuentes@intel.com>
@@ -10,3 +10,5 @@ dnsmasq
 iptables
 ethtool
 vim
+ciao
+ciao-cnci-agent

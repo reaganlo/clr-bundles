@@ -8,3 +8,4 @@ include(kvm-host)
 include(net-utils)
 sqlite-autoconf
 xorriso
+ciao
