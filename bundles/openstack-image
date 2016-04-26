@@ -50,6 +50,7 @@ keystoneauth1
 keystonemiddleware
 kombu
 librabbitmq
+memcached
 monotonic
 msgpack-python
 netaddr
@@ -83,6 +84,7 @@ pyinotify
 python-dateutil
 python-editor
 python-keystoneclient
+python-memcached
 pytz
 repoze.lru
 requests
