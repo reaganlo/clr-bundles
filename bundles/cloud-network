@@ -8,5 +8,5 @@ include(openssh-server)
 include(net-utils)
 dnsmasq
 iptables
+ethtool
 vim
-

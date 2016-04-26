@@ -14,3 +14,4 @@ util-linux-lib
 e2fsprogs-bin
 sudo
 clr-cloud-init
+ethtool
