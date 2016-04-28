@@ -17,7 +17,6 @@ gmp-dev
 mpfr-dev
 libpng-dev
 openssl-dev
-tiff-dev
 cairo-dev
 bison
 flex
