@@ -30,6 +30,7 @@ dosfstools
 ebtables
 enum34
 git
+global
 gptfdisk
 intltool
 intltool-dev
