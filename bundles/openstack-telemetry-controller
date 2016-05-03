@@ -5,4 +5,5 @@
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 # This bundle was renamed to openstack-telemetry and
 # openstack-telemetry-controller can be deleted in anytime.
-include(openstack-telemetry)
+# Removing all content and replacing with m4 to create an 'empty' bundle
+m4

@@ -1,23 +1,7 @@
 # [TITLE]: openstack-configure
 # [DESCRIPTION]: Provides a suggested default configuration for OpenStack on Clear Linux.
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]: None at the moment, work very much in progress.
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(python-basic)
-clearstack
-python3-core
-pbr
-libcgroup-bin
-ipaddress
-netifaces
-paramiko
-Sphinx
-pycrypto
-ecdsa
-Pygments
-docutils
-Jinja2
-MarkupSafe
-# to build clearstack - temporal dependencies
-python3-dev
-configparser
+# Removing all content and replacing with m4 to create an 'empty' bundle
+m4
