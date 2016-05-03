@@ -7,7 +7,8 @@
 include(openssh-server)
 include(net-utils)
 dnsmasq
-iptables
+iptablee
+nftabless
 ethtool
 vim
 ciao

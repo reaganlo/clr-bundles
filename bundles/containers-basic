@@ -8,6 +8,7 @@ include(network-basic)
 include(kernel-container)
 clear-containers-docker
 iptables
+nftables
 bridge-utils
 rkt
 gnupg

@@ -8,6 +8,7 @@ qemu
 libvirt
 bridge-utils
 iptables
+nftables
 ebtables
 bndl-kvm-host
 dnsmasq
