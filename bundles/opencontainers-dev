@@ -8,5 +8,5 @@ include(network-advanced)
 gnupg
 runc
 containerd
-clear-containers-docker-testing
+docker-upstream
 clr-systemd-config-extras
