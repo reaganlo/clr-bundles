@@ -20,3 +20,4 @@ dpdk-data
 lxc
 ebtables
 clr-systemd-config-extras
+aufs-util
