@@ -1,6 +1,6 @@
 # [TITLE]: kernel-pxe
 # [DESCRIPTION]: Provides a Linux kernel linking an initramfs as root
-# [STATUS]: ACTIVE
+# [STATUS]: Deprecated
 # [CAPABILITIES]: 
 # [MAINTAINER]: Brad Peters <brad.t.peters@intel.com>
-linux-pxe
+m4
