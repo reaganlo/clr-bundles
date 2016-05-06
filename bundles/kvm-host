@@ -13,3 +13,4 @@ ebtables
 bndl-kvm-host
 dnsmasq
 clr-ovmf-bin
+dmidecode
