@@ -10,3 +10,4 @@ sqlite-autoconf
 xorriso
 ciao
 docker-upstream
+aufs-util
