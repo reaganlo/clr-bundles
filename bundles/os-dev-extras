@@ -26,3 +26,4 @@ openssl-dev
 swupd-client-dev
 telemetrics-client-dev
 xz-dev
+swig
