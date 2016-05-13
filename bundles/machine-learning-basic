@@ -13,3 +13,5 @@ numpy
 wheel
 googletest-dev
 protobuf-dev
+openjdk-dev
+
