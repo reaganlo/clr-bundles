@@ -20,3 +20,8 @@ R-deepnet
 R-neuralnet
 R-statmod
 Theano
+caffe
+neon
+h5py
+hdf5-dev
+opencv-dev
