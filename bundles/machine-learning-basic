@@ -16,3 +16,4 @@ protobuf-dev
 openjdk-dev
 libjpeg-turbo-dev
 eigen-dev
+R-deepnet
