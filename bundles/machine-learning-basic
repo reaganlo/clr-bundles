@@ -17,3 +17,5 @@ openjdk-dev
 libjpeg-turbo-dev
 eigen-dev
 R-deepnet
+R-neuralnet
+R-statmod
