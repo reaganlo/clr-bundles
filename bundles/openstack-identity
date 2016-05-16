@@ -37,7 +37,6 @@ functools32
 futures
 futurist
 greenlet
-httpd
 idna
 iniparse
 ipaddress
@@ -50,7 +49,6 @@ kombu
 ldappool
 librabbitmq
 memcached
-mod_wsgi
 monotonic
 msgpack-python
 netaddr

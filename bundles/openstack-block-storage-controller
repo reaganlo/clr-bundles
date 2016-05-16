@@ -57,6 +57,7 @@ msgpack-python
 netaddr
 netifaces
 networkx
+nginx
 oauth2client
 ordereddict
 os-brick
@@ -117,6 +118,7 @@ tooz
 unicodecsv
 uritemplate
 urllib3
+uwsgi
 voluptuous
 warlock
 wrapt
