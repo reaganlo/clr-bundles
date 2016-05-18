@@ -83,3 +83,5 @@ libva-intel-driver
 xrandr
 xhost
 gtk3
+geany
+xdg-utils
