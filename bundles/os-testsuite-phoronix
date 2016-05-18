@@ -90,3 +90,5 @@ fio
 fftw-dev
 p7zip
 dialog
+libXpm
+libXpm-dev
