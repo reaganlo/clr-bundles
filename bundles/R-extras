@@ -58,6 +58,15 @@ R-quantreg
 R-minqa
 R-lme4
 R-Cairo
+R-XML
+R-rjson
+R-timeDate
+R-rversions
+R-BH
+R-chron
+R-praise
+R-xml2R-mondate
+R-tis
 
 
 #
