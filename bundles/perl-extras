@@ -13,3 +13,13 @@ perl-Text-Reform
 perl-XML-SAX
 perl-XML-SAX-Base
 perl-XML-SAX-Expat
+perl-MIME-Base64
+perl-Devel-Confess
+perl-Test-NoWarnings
+perl-Test-Pod
+perl-Module-ScanDeps
+perl-List-AllUtils
+perl-Test-Deep
+perl-CPAN-Meta-Check
+perl-Digest-CRC
+perl-MIME-Base64
