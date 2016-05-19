@@ -8,3 +8,4 @@ strace
 ltrace
 iproute2
 blktrace
+ltp
