@@ -52,6 +52,7 @@ keystonemiddleware
 kombu
 librabbitmq
 lxml
+memcached
 monotonic
 msgpack-python
 netaddr

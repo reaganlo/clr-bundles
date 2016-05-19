@@ -38,6 +38,7 @@ monotonic
 msgpack-python
 netaddr
 netifaces
+nginx
 ordereddict
 oslo.concurrency
 oslo.config
@@ -64,6 +65,7 @@ setuptools
 six
 stevedore
 swift
+uwsgi
 wrapt
 xattr
 xfsprogs
