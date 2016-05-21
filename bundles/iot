@@ -9,3 +9,4 @@ nodejs
 graphviz
 libmicrohttpd
 include(kernel-embedded)
+include(iot-message-broker)
