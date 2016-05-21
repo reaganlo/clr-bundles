@@ -60,3 +60,8 @@ perl-YAML-Tiny
 popt
 rsync
 systemd-dev
+glibc-libc32
+glibc-dev32
+gcc-dev32
+gcc-libgcc32
+gcc-libstdc++32
