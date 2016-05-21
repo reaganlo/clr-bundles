@@ -25,3 +25,4 @@ neon
 h5py
 hdf5-dev
 opencv-dev
+fann-dev
