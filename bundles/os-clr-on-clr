@@ -100,3 +100,7 @@ mesa-dev
 libXvMC-dev
 libXxf86vm-dev
 libxshmfence-dev
+libva-dev
+gtk+-dev
+gtk3-dev
+gdk-pixbuf-dev
