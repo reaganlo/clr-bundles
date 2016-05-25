@@ -8,5 +8,5 @@ soletta-dev-app
 nodejs
 graphviz
 libmicrohttpd
-include(kernel-embedded)
+include(kernel-iot)
 include(iot-message-broker)
