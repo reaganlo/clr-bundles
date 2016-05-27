@@ -16,7 +16,8 @@ openssl
 psmisc
 sudo
 efibootmgr-bin
-parallel
+# broken package:
+# parallel
 gawk-extras
 include(editors)
 include(dev-utils)
