@@ -27,3 +27,5 @@ swupd-client-dev
 telemetrics-client-dev
 xz-dev
 p7zip
+python-dev
+python3-dev
