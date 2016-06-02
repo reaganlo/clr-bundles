@@ -5,6 +5,7 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(os-core-dev)
 attr-dev
+bats
 bsdiff-dev
 bzip2-dev
 check-dev
@@ -23,6 +24,8 @@ libvirt-dev
 libxslt-dev
 LVM2-dev
 openssl-dev
+patchutils
+perl-TAP-Harness-Archive
 swupd-client-dev
 telemetrics-client-dev
 xz-dev
