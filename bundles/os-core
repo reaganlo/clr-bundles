@@ -5,6 +5,7 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 filesystem
 systemd
+systemd-bootchart-bin
 shadow
 gawk-bin
 grep-bin
