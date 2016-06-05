@@ -6,3 +6,4 @@
 include(libX11client)
 openjdk
 openjdk-dev
+apache-ant
