@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-core-dev)
 include(os-dev-extras)
 include(mail-utils)
 include(storage-utils)

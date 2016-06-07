@@ -1,33 +1,47 @@
 # [TITLE]: os-dev-extras
-# [DESCRIPTION]: Additional C/C++ development packages (beyond os-core-dev)
+# [DESCRIPTION]: Development utilities and helpful base Linux dev environment tools
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
-include(os-core-dev)
-attr-dev
+acl
+asciidoc
+attr
+autofdo
+autofdo-tools
 bats
+bc
 bsdiff-dev
-bzip2-dev
 check-dev
-curl-dev
-dbus-dev
-flex-dev
-gettext-dev
+clr-python-timestamp
+cpio
+cscope
+diffstat
+elfutils
+gawk-bin
 glib-dev
 gnutls-dev
-libcap-ng-dev
+libc-bin
+libgcc1
 libnl-dev
 libpcap-dev
 libpciaccess-dev
 libtasn1-dev
 libvirt-dev
-libxslt-dev
+linux-dev
+llvm
+llvm-dev
 LVM2-dev
-openssl-dev
-patchutils
-perl-TAP-Harness-Archive
-swupd-client-dev
-xz-dev
+man-pages
+ncurses
+openssl
 p7zip
-python-dev
-python3-dev
+pcre
+perl
+perl-Error
+perl-TAP-Harness-Archive
+perl-YAML-Tiny
+popt
+python-core
+rsync
+source-highlight
+swupd-client-dev
