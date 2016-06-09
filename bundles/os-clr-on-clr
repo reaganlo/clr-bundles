@@ -64,6 +64,7 @@ rpm
 rpm-build
 rpm-common
 six
+smartmontools
 tzdata
 urlgrabber
 yum
