@@ -4,6 +4,7 @@
 # [CAPABILITIES]:  
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(os-core-dev)
+include(os-dev-extras)
 libpcap
 libpcap-dev
 libpcap-lib

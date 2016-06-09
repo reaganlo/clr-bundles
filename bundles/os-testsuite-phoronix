@@ -58,7 +58,6 @@ sqlite-autoconf-dev
 gnupg
 pbzip2
 dmidecode
-golang-googlecode-go-benchmarks
 libogg-dev
 libvorbis-dev
 libgfortran-avx
@@ -92,4 +91,4 @@ p7zip
 dialog
 libXpm
 libXxf86dga
-
+jemalloc-dev

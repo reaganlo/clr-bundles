@@ -68,6 +68,9 @@ R-praise
 R-xml2
 R-mondate
 R-tis
+R-microbenchmark
+R-testit
+R-highr
 
 
 #

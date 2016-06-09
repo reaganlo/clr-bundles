@@ -19,6 +19,8 @@ perl-Test-NoWarnings
 perl-Test-Pod
 perl-Module-ScanDeps
 perl-List-AllUtils
+perl-List-SomeUtils
+perl-List-SomeUtils-XS
 perl-Test-Deep
 perl-CPAN-Meta-Check
 perl-Digest-CRC

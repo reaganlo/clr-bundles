@@ -1,0 +1,10 @@
+# [TITLE]: lnmp-basic
+# [DESCRIPTION]: Basic LNMP Server (nginx, mariadb, php5)
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+nginx
+mariadb
+mariadb-server
+mariadb-config
+php

@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-core-dev)
 include(os-dev-extras)
 include(mail-utils)
 include(storage-utils)
@@ -78,3 +79,30 @@ nftables
 p7zip
 clr-rpm-config
 quilt
+glproto-dev
+Mako-python
+elfutils-dev
+libgcrypt-dev
+nettle-dev
+libdrm-dev
+expat-dev
+openssl-dev
+libxcb-dev
+scons
+dri2proto-dev
+dri3proto-dev
+xf86driproto-dev
+systemd-dev
+presentproto-dev
+xcb-proto-dev
+damageproto-dev
+libXdamage-dev
+libXfixes-dev
+mesa-dev
+libXvMC-dev
+libXxf86vm-dev
+libxshmfence-dev
+libva-dev
+gtk+-dev
+gtk3-dev
+gdk-pixbuf-dev
