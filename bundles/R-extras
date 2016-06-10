@@ -71,7 +71,8 @@ R-tis
 R-microbenchmark
 R-testit
 R-highr
-
+R-pryr
+R-yaml
 
 #
 # 3rd party libraries
