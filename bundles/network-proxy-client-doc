@@ -1,0 +1,7 @@
+# [TITLE]: network-proxy-client-doc
+# [DESCRIPTION]: Provides documentation and manpages for network-proxy-client
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+iptables-doc
+iptables-extras

@@ -1,0 +1,9 @@
+# [TITLE]: editors-doc
+# [DESCRIPTION]: Provides documentation and manpages for editors
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+joe-doc
+emacs-doc
+vim-doc
+nano-doc

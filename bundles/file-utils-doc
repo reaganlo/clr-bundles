@@ -1,0 +1,11 @@
+# [TITLE]: file-utils-doc
+# [DESCRIPTION]: Provides documentation and manpages for file-utils
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+bzip2-doc
+file-doc
+findutils-doc
+unzip-doc
+dos2unix-doc
+sharutils-doc

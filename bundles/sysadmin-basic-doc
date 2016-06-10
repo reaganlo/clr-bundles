@@ -1,0 +1,13 @@
+# [TITLE]: sysadmin-basic-doc
+# [DESCRIPTION]: Provides documentation and manpages for sysadmin-basic
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+powertop-doc
+pciutils-doc
+strace-doc
+usbutils-doc
+collectl-doc
+htop-doc
+mosh-doc
+cpuid-doc

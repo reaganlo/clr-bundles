@@ -1,0 +1,9 @@
+# [TITLE]: dev-utils-doc
+# [DESCRIPTION]: Provides documentation and manpages for dev-utils
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+gdb-doc
+strace-doc
+valgrind-doc
+lcov-doc

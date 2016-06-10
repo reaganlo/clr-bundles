@@ -1,0 +1,9 @@
+# [TITLE]: os-core-doc
+# [DESCRIPTION]: Provides documentation and manpages for os-core
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+systemd-doc
+systemd-extras
+shadow-doc
+clr-systemd-config-extras
