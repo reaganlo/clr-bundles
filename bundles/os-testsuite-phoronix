@@ -86,6 +86,7 @@ SDL_net-dev
 SDL_mixer-dev
 SDL_image-dev
 ocl-icd
+ocl-icd-dev
 fio
 fftw-dev
 p7zip
