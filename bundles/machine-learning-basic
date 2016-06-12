@@ -21,6 +21,7 @@ R-neuralnet
 R-statmod
 Theano
 caffe
+caffe-dev
 neon
 h5py
 hdf5-dev
