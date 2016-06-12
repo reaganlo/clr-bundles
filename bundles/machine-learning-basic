@@ -33,3 +33,6 @@ openblas
 leveldb-dev
 hdf5-dev
 lmdb-dev
+ocl-icd
+ocl-icd-dev
+beignet-dev
