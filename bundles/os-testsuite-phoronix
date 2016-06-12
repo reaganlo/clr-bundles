@@ -6,6 +6,7 @@
 include(os-utils-gui)
 include(devtools-extras)
 include(lamp-basic)
+include(machine-learning-basic)
 php
 pcre-dev
 cmake
