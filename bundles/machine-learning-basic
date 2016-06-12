@@ -28,4 +28,7 @@ opencv-dev
 fann-dev
 glog-dev
 gflags-dev
-
+boost-dev
+openblas
+leveldb-dev
+hdf5-dev
