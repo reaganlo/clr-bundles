@@ -32,3 +32,4 @@ boost-dev
 openblas
 leveldb-dev
 hdf5-dev
+lmdb-dev
