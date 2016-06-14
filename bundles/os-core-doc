@@ -3,6 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-core)
 systemd-doc
 systemd-extras
 shadow-doc

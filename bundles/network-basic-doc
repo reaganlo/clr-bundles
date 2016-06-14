@@ -3,6 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(network-basic)
 openssh-doc
 openssh-extras
 tcpdump-doc

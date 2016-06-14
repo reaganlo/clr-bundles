@@ -3,5 +3,6 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Geronimo Orozco <geronimo.orozco@intel.com>
+include(internet-console-utils)
 irssi-doc
 links-doc

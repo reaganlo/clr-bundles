@@ -3,5 +3,6 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(network-proxy-client)
 iptables-doc
 iptables-extras

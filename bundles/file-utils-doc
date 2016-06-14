@@ -3,9 +3,11 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(file-utils)
 bzip2-doc
 file-doc
 findutils-doc
 unzip-doc
 dos2unix-doc
 sharutils-doc
+tree-doc

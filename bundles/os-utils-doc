@@ -3,6 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(os-utils)
 include(editors-doc)
 include(dev-utils-doc)
 include(sysadmin-basic-doc)
