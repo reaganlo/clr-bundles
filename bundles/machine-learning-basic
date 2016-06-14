@@ -38,4 +38,4 @@ ocl-icd
 ocl-icd-dev
 beignet-dev
 protobuf-c-dev
-
+snappy-dev
