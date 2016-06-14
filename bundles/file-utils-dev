@@ -94,7 +94,6 @@ mpfr-dev
 ncurses-dev
 netbase
 nss-altfiles
-openssl-dev
 patch
 pbr
 pcre-dev

@@ -185,6 +185,7 @@ libc6-locale
 libcap-dev
 libcap-ng-dev
 libcgroup-dev
+libcroco-dev
 libedit-dev
 libevent-dev
 libffi-dev
@@ -210,7 +211,6 @@ libtool
 libtool-dev
 libunistring-dev
 libunwind-dev
-libxml2
 libxml2-dev
 libxml2-python
 libxslt
