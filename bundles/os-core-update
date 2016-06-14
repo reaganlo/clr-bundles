@@ -7,7 +7,7 @@ include(os-core)
 btrfs-progs
 bzip2
 clr-hardware-files
-clr-boot-manager
+clr-specialized-updaters
 findutils
 gzip-bin
 pacrunner
