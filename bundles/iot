@@ -3,9 +3,9 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(nodejs-basic)
 soletta-bin
 soletta-dev-app
-nodejs
 graphviz
 libmicrohttpd
 include(kernel-iot)

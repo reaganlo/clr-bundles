@@ -1,0 +1,6 @@
+# [TITLE]: cloud-dashboard
+# [DESCRIPTION]: A graphical, web-based frontend UI for a cloud scheduler service.  Dependencies only for now.
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(nodejs-basic)
