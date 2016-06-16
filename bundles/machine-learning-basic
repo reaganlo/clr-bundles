@@ -37,5 +37,6 @@ lmdb-dev
 ocl-icd
 ocl-icd-dev
 beignet-dev
+beignet
 protobuf-c-dev
 snappy-dev
