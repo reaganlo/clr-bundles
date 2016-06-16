@@ -10,3 +10,4 @@ include(openstack-all-in-one)
 include(storage-utils)
 include(sysadmin-hostmgmt)
 include(kvm-host)
+helloworld

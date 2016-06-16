@@ -4,7 +4,9 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 linux-tools
+cgdb
 clr-debug-info
+cppcheck
 gdb
 python-core
 strace

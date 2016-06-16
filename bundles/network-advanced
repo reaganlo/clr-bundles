@@ -5,7 +5,10 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(network-basic)
 bridge-utils
+connman
+conntrack-tools
 openvswitch
+ipset
 iptables
 ebtables
 dpdk
