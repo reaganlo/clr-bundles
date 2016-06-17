@@ -1,0 +1,13 @@
+# [TITLE]: os-cloudguest-azure
+# [DESCRIPTION]: Basic requirements for a cloud guest image on MS Azure
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(openssh-server)
+openssl
+parted
+parted
+ethtool
+e2fsprogs-bin
+sudo
+WALinuxAgent
