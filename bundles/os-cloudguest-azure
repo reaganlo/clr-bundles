@@ -5,7 +5,7 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(openssh-server)
 openssl
-parted
+net-tools
 parted
 ethtool
 e2fsprogs-bin
