@@ -151,6 +151,7 @@ guile-dev
 gzip
 hacking
 harfbuzz-dev
+help2man
 hostname
 hypothesis-python
 icu4c-dev
@@ -249,6 +250,8 @@ opensm-dev
 openssh
 openssl
 openssl-dev
+p11-kit
+p11-kit-bin
 parted-dev
 patch
 pbr
@@ -308,6 +311,7 @@ sqlite-autoconf-dev
 strace
 subunit
 systemd
+systemd-boot
 systemd-dev
 systemd-libs
 tar

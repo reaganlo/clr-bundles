@@ -93,6 +93,8 @@ mpfr-dev
 ncurses-dev
 netbase
 nss-altfiles
+p11-kit
+p11-kit-bin
 patch
 pbr
 pcre-dev

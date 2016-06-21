@@ -4,6 +4,7 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(dev-utils)
+cgdb-doc
 gdb-doc
 strace-doc
 valgrind-doc

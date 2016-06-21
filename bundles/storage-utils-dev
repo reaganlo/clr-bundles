@@ -111,6 +111,8 @@ nss-altfiles
 opensm-dev
 openssl
 openssl-dev
+p11-kit
+p11-kit-bin
 parted-dev
 patch
 pbr

@@ -6,5 +6,6 @@
 include(editors)
 joe-doc
 emacs-doc
+ctags-doc
 vim-doc
 nano-doc

@@ -36,6 +36,7 @@ bison
 bison-dev
 bzip2
 bzip2-dev
+ca-certs
 clr-rpm-config
 cmake
 coreutils
@@ -87,6 +88,7 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+help2man
 hostname
 intltool
 intltool-dev
@@ -131,6 +133,8 @@ numactl-dev
 onig-dev
 openssl
 openssl-dev
+p11-kit
+p11-kit-bin
 patch
 pbr
 pcre-dev

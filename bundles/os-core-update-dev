@@ -103,6 +103,8 @@ ncurses-dev
 netbase
 nss-altfiles
 openssl-dev
+p11-kit
+p11-kit-bin
 patch
 pbr
 pcre-dev
@@ -122,6 +124,7 @@ shadow
 shared-mime-info
 strace
 swupd-client-dev
+systemd-boot
 systemd-dev
 systemd-libs
 tar
