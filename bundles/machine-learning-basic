@@ -20,6 +20,7 @@ R-deepnet
 R-neuralnet
 R-statmod
 Theano
+Theano-dev
 caffe
 caffe-dev
 neon
@@ -40,3 +41,5 @@ beignet-dev
 beignet
 protobuf-c-dev
 snappy-dev
+LuaJIT
+LuaJIT-dev
