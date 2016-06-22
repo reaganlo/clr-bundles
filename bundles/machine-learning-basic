@@ -20,7 +20,6 @@ R-deepnet
 R-neuralnet
 R-statmod
 Theano
-Theano-dev
 caffe
 caffe-dev
 neon
