@@ -18,8 +18,10 @@ openconnect
 quagga
 rdma
 ibutils
+libibcm
 libmlx4-dev
 libmlx5-dev
+librdmacm
 opensm
 mstflint
 nftables

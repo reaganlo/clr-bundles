@@ -18,6 +18,7 @@ sudo
 efibootmgr-bin
 parallel
 gawk-extras
+procenv
 include(editors)
 include(dev-utils)
 include(sysadmin-basic)
