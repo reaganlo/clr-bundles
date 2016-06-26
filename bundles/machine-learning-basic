@@ -40,6 +40,4 @@ beignet-dev
 beignet
 protobuf-c-dev
 snappy-dev
-LuaJIT
-LuaJIT-dev
 CNTK
