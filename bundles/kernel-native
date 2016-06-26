@@ -7,3 +7,4 @@ include(bootloader)
 linux
 linux-firmware
 mcelog
+irqbalance
