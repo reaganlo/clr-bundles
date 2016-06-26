@@ -6,3 +6,4 @@
 include(internet-console-utils)
 irssi-doc
 links-doc
+znc-doc

@@ -18,3 +18,4 @@ libmlx5-dev
 opensm
 mstflint
 mdadm
+sshfs
