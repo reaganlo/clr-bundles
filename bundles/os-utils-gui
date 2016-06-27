@@ -25,6 +25,7 @@ fontconfig
 garcon
 gdk-pixbuf
 geany
+glib-networking-lib
 gnome-icon-theme
 gnome-themes-standard
 graphviz
