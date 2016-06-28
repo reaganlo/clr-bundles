@@ -37,6 +37,7 @@ bison-dev
 bzip2
 bzip2-dev
 ca-certs
+check
 clr-rpm-config
 cmake
 coreutils

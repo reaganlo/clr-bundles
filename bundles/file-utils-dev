@@ -18,6 +18,7 @@ bison
 bison-dev
 bzip2
 bzip2-dev
+check
 clr-rpm-config
 cmake
 coreutils
@@ -27,6 +28,7 @@ curl-dev
 db-dev
 dbus-dev
 dejagnu
+desktop-file-utils
 diffutils
 docbook-xml
 doxygen
@@ -45,11 +47,13 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
 git
 glib-bin
+glib-dev
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -59,6 +63,7 @@ gnu-efi-dev
 gperf
 graphviz
 grep
+groff
 gtk-doc
 gtk-doc-dev
 guile
@@ -77,6 +82,7 @@ libcgroup-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
+libpng-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -94,6 +100,9 @@ mpfr-dev
 ncurses-dev
 netbase
 nss-altfiles
+onig-dev
+openssl
+openssl-dev
 p11-kit
 p11-kit-bin
 patch
@@ -105,6 +114,7 @@ pkg-config
 pkg-config-dev
 popt-dev
 procps-ng
+procps-ng-bin
 python-dev
 python3-dev
 readline-dev
@@ -112,6 +122,9 @@ rpm-build
 sed
 setuptools
 shadow
+shared-mime-info
+slang-dev
+sqlite-autoconf
 strace
 systemd-dev
 systemd-libs

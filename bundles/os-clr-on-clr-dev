@@ -52,6 +52,7 @@ ca-certs
 ceph-dev
 cffi
 cffi-python
+check
 clear-font
 clr-rpm-config
 cmake
@@ -291,6 +292,7 @@ qemu
 readline-dev
 rocksdb-dev
 rpm-build
+rpm-common
 rpm-dev
 ruby
 scons
