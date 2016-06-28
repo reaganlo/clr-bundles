@@ -4,6 +4,7 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(openssh-server)
+swupd-client-extras
 openssl
 net-tools
 parted
