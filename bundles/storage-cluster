@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+include(storage-utils)
 ceph
 leveldb-lib
 gperftools-lib
