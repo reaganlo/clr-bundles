@@ -58,6 +58,7 @@ pycparser
 pyeclib
 pyinotify
 python-dateutil
+python-memcached
 pytz
 repoze.lru
 retrying
