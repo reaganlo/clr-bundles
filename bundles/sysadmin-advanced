@@ -29,3 +29,4 @@ acpica-unix2
 hdparm
 setserial
 iperf
+socat
