@@ -98,6 +98,7 @@ python-heatclient
 python-keystoneclient
 python-magnumclient
 python-manilaclient
+python-memcached
 python-mistralclient
 python-neutronclient
 python-novaclient
