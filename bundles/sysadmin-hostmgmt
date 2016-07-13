@@ -12,6 +12,7 @@ clear-config-management
 ipmitool
 git
 # ansible deps
+pyasn1
 PyYAML
 Jinja2
 paramiko-python
