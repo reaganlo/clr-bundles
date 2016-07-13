@@ -10,6 +10,7 @@ pssh
 ansible
 clear-config-management
 ipmitool
+git
 # ansible deps
 PyYAML
 Jinja2
