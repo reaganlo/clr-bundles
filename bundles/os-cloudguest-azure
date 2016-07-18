@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Basic requirements for a cloud guest image on MS Azure
 # [STATUS]: WIP
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
 swupd-client-extras
 openssl
@@ -10,5 +10,6 @@ net-tools
 parted
 ethtool
 e2fsprogs-bin
+linux-tools-hyperv
 sudo
 WALinuxAgent
