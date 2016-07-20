@@ -4,13 +4,14 @@
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
-swupd-client-extras
-openssl
-net-tools
-parted
-ethtool
-e2fsprogs-bin
-linux-tools-hyperv
-sudo
 WALinuxAgent
 azure-configs
+e2fsprogs-bin
+e2fsprogs-extras
+ethtool
+linux-tools-hyperv
+net-tools
+openssl
+parted
+sudo
+swupd-client-extras
