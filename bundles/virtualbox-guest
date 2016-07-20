@@ -3,4 +3,5 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Gabriel Briones Sayeg <gabriel.briones.sayeg@intel.com>
-linux-vboxguest-modules
+include(kernel-lts)
+linux-lts-vboxguest-modules
