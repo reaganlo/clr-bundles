@@ -5,6 +5,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
 WALinuxAgent
+at
 azure-configs
 e2fsprogs-bin
 e2fsprogs-extras
