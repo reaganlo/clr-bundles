@@ -26,6 +26,7 @@ neon
 h5py
 hdf5-dev
 opencv-dev
+opencv-python
 fann-dev
 glog-dev
 gflags-dev
