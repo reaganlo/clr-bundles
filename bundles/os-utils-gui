@@ -3,9 +3,12 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+include(cryptography)
 include(os-utils)
 include(python-basic)
 include(xfce4-desktop)
+Thunar
+Vertex-theme
 alsa-plugins-lib
 alsa-utils
 arc-theme
@@ -18,8 +21,8 @@ desktop-file-utils
 elementary-xfce
 exo
 faba-icon-theme
-flatpak
 firefox
+flatpak
 font-bitstream-type1
 fontconfig
 garcon
@@ -30,8 +33,8 @@ gnome-icon-theme
 gnome-themes-standard
 graphviz
 gtk+
-gtk3
 gtk-xfce-engine
+gtk3
 gvim
 hexchat
 hicolor-icon-theme
@@ -51,12 +54,10 @@ powerline-fonts
 pulseaudio
 pulseaudio-bin
 shared-mime-info
-Thunar
 thunar-volman
 thunderbird
 tigervnc
 tumbler
-Vertex-theme
 virt-viewer
 websockify
 xauth
