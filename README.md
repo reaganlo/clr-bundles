@@ -20,3 +20,7 @@ a dependency graph of the bundles. Run it as so:
    `make-dot.pl | dot -Tsvg > dot.svg`
 
 This will output a "dot.svg" file that can be opened with a web browser.
+
+Currently maintained by:
+Robert Nesius <robert.a.nesius@intel.com>
+William Douglas <william.douglas@intel.com>
