@@ -8,3 +8,4 @@ emacs
 ctags
 vim
 nano
+vim-go
