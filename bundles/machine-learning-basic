@@ -42,3 +42,4 @@ beignet
 protobuf-c-dev
 snappy-dev
 CNTK
+scipy-python
