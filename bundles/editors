@@ -3,6 +3,7 @@
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+include(python-basic)
 joe
 emacs
 ctags
