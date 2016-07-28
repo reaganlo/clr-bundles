@@ -43,3 +43,5 @@ protobuf-c-dev
 snappy-dev
 CNTK
 scipy-python
+matplotlib-python
+cycler-python
