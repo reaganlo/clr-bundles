@@ -45,3 +45,4 @@ CNTK
 scipy-python
 funcsigs
 python-mock
+protobuf-python
