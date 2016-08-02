@@ -17,7 +17,6 @@ golang-googlecode-go-crypto
 golang-googlecode-go-mobile
 golang-googlecode-go-net
 golang-googlecode-go-text
-golang-googlecode-go-tools
 golang-github-BurntSushi-toml
 golang-github-Sirupsen-logrus
 golang-github-boltdb-bolt

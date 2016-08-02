@@ -45,3 +45,6 @@ CNTK
 scipy-python
 matplotlib-python
 cycler-python
+funcsigs
+python-mock
+protobuf-python
