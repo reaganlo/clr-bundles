@@ -5,6 +5,7 @@
 # [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 e2fsprogs-extras
 parted
+gptfdisk
 LVM2
 LVM2-extras
 xfsprogs
