@@ -1,0 +1,8 @@
+# [TITLE]: clear-containers
+# [DESCRIPTION]: Installs Clear Containers
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Carlos Venegas <jose.carlos.venegas.munoz@intel.com>
+linux-container-testing
+qemu-lite
+cc-oci-runtime
