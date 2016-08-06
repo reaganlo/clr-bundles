@@ -99,3 +99,4 @@ glog-dev
 gflags-dev
 snappy-dev
 hwloc-dev
+gnuplot
