@@ -91,3 +91,5 @@ xorg-server
 xrandr
 xrdb
 xscreensaver
+connman-gtk
+
