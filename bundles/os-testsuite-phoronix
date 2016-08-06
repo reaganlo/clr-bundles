@@ -100,3 +100,4 @@ gflags-dev
 snappy-dev
 hwloc-dev
 gnuplot
+perl-Digest-MD5
