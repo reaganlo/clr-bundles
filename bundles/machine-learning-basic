@@ -24,6 +24,7 @@ Theano
 nose-parameterized
 caffe
 caffe-dev
+Pillow
 neon
 h5py
 hdf5-dev
