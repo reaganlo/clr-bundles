@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: 
 # [MAINTAINER]: Dimitri John Ledkov <dimitri.j.ledkov@intel.com>
+include(network-advanced)
 include(storage-utils)
 include(network-basic)
 include(kernel-container)
@@ -20,3 +21,9 @@ dpdk-data
 lxc
 ebtables
 clr-systemd-config-extras
+runc
+containerd
+docker-upstream
+linux-container-testing
+qemu-lite
+cc-oci-runtime

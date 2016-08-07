@@ -6,6 +6,7 @@
 include(os-core-dev)
 include(devtools-extras)
 scikit-learn
+scikit-image
 swig
 bazel
 six

@@ -14,3 +14,5 @@ requests
 simplejson
 six
 virtualenv
+scikit-image
+scikit-learn
