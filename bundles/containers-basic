@@ -1,29 +1,19 @@
 # [TITLE]: containers-basic
-# [DESCRIPTION]: Installs rkt base for Clear Containers
-# [STATUS]: WIP
-# [CAPABILITIES]: 
-# [MAINTAINER]: Dimitri John Ledkov <dimitri.j.ledkov@intel.com>
+# [DESCRIPTION]: Provides basic functionality to run containers workloads
+# [STATUS]: ACTIVE
+# [CAPABILITIES]:
+# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(network-advanced)
 include(storage-utils)
-include(network-basic)
 include(kernel-container)
-clear-containers-docker
-iptables
-nftables
-bridge-utils
-rkt
 gnupg
-kvmtool
-qemu
-dpdk
-dpdk-dev
-dpdk-data
-lxc
-ebtables
 clr-systemd-config-extras
 runc
 containerd
-docker-upstream
-linux-container-testing
+docker
 qemu-lite
 cc-oci-runtime
+clear-containers-image
+glib
+json-glib
+util-linux
