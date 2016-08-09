@@ -1,12 +1,6 @@
 # [TITLE]: opencontainers-dev
 # [DESCRIPTION]: Includes required components for developing against the Open Container Specification
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(go-basic)
-include(network-advanced)
-gnupg
-runc
-containerd
-docker-upstream
-clr-systemd-config-extras
+m4

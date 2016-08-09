@@ -9,4 +9,4 @@ include(net-utils)
 sqlite-autoconf
 xorriso
 ciao
-docker-upstream
+docker
