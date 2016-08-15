@@ -10,6 +10,7 @@ azure-configs
 e2fsprogs-bin
 e2fsprogs-extras
 ethtool
+init-rdahead
 kexec-tools
 linux-tools-hyperv
 net-tools
