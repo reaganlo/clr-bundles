@@ -1,7 +1,6 @@
 # [TITLE]: kernel-container
 # [DESCRIPTION]: Provides a Linux kernel appropriate for a Clear Container
-# [STATUS]: WIP
+# [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Dimitri John Ledkov <dimitri.j.ledkov@intel.com>
+# [MAINTAINER]: Carlos Venegas <jose.carlos.venegas.munoz@intel.com>
 linux-container
-
