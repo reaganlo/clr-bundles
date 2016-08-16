@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the file-utils bundle.
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(file-utils)
 include(os-core-dev)
 include(os-dev-extras)

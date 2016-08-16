@@ -1,8 +1,8 @@
 # [TITLE]: os-clr-on-clr
 # [DESCRIPTION]: content for development of the Clear Linux OS on the Clear Linux OS
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(os-core-dev)
 include(os-dev-extras)
 include(mail-utils)
