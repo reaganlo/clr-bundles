@@ -16,4 +16,6 @@ pyasn1
 PyYAML
 Jinja2
 paramiko-python
+docker-py
+MySQL-python
 # End ansible deps
