@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Provides the RabbitMQ messaging service
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
+# [MAINTAINER]: Geronimo Orozco <geronimo.orozco@intel.com>
 otp
 rabbitmq-server
