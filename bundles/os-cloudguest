@@ -6,7 +6,6 @@
 include(openssh-server)
 yaml-lib
 glib-lib
-curl-lib
 json-glib-lib
 parted-lib
 util-linux-lib
