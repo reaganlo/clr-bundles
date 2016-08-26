@@ -25,3 +25,4 @@ librdmacm
 opensm
 mstflint
 nftables
+libmnl
