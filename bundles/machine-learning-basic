@@ -22,8 +22,6 @@ R-neuralnet
 R-statmod
 Theano
 nose-parameterized
-caffe
-caffe-dev
 Pillow
 neon
 h5py
