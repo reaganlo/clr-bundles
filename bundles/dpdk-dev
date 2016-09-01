@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All headers and libraries necessary to develop with the Data Plane Development Kit.
 # [STATUS]: ACTIVE
 # [CAPABILITIES]:  
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(os-core-dev)
 include(os-dev-extras)
 libpcap

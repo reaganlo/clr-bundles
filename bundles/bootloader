@@ -2,6 +2,6 @@
 # [DESCRIPTION]: UEFI bootloaders
 # [STATUS]: ACTIVE
 # [CAPABILITIES]:
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 systemd-boot
 syslinux
