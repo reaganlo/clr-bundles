@@ -13,3 +13,4 @@ mariadb-server
 mariadb-config
 php
 bndl-lamp-basic
+php-extras
