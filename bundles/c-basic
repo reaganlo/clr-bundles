@@ -1,0 +1,21 @@
+# [TITLE]: c-basic
+# [DESCRIPTION]: c compilers
+# [STATUS]: ACTIVE
+# [CAPABILITIES]: Can compile c programs
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+autoconf
+autogen
+automake
+automake-dev
+cmake
+gcc
+libstdc++
+glibc-utils
+libc6-dev
+libc6-locale
+llvm
+llvm-dev
+m4
+make
+pkg-config
+# scons intentionally left out for now
