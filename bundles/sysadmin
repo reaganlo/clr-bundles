@@ -1,6 +1,6 @@
 # [TITLE]: sysadmin
 # [DESCRIPTION]: Moved to sysadmin-basic
-# [STATUS]: ACTIVE
+# [STATUS]: Deprecated
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(sysadmin-basic)

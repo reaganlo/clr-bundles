@@ -1,6 +1,6 @@
 # [TITLE]: os-cloudguest-cci
 # [DESCRIPTION]: Retired bundle - now provided by os-cloudguest
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]: 
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(os-cloudguest)
