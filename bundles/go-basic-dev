@@ -6,6 +6,8 @@
 include(go-basic)
 include(os-core-dev)
 include(os-dev-extras)
+CUnit-dev
+LVM2-dev
 Linux-PAM-dev
 acl-dev
 asciidoc
@@ -29,6 +31,7 @@ cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
+dbus-glib-dev
 dejagnu
 diffutils
 docbook-xml
@@ -54,6 +57,7 @@ gettext-bin
 gettext-dev
 git
 glib-bin
+glib-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -84,15 +88,22 @@ intltool-dev
 iptables-dev
 kmod-dev
 ldd
+libICE-dev
+libSM-dev
+libX11-dev
 libc6-dev
 libc6-locale
 libcap-dev
 libcap-ng-dev
 libcgroup-dev
+libevent-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
 libidn-dev
+libnetfilter_conntrack-dev
+libnfnetlink-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -111,6 +122,7 @@ ncurses-dev
 netbase
 nghttp2-dev
 nss-altfiles
+nss-dev
 openssl
 openssl-dev
 p11-kit
@@ -119,6 +131,7 @@ patch
 pbr
 pcre-dev
 perl-Error
+perl-XML-Parser
 pigz
 pip
 pkg-config

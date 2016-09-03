@@ -6,6 +6,7 @@
 include(internet-console-utils)
 include(os-core-dev)
 include(os-dev-extras)
+LVM2-dev
 Linux-PAM-dev
 acl-dev
 attr-dev
@@ -26,6 +27,7 @@ cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -71,6 +73,9 @@ iptables-dev
 irssi-dev
 kmod-dev
 ldd
+libICE-dev
+libSM-dev
+libX11-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -79,6 +84,9 @@ libcgroup-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
+libnetfilter_conntrack-dev
+libnfnetlink-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -96,12 +104,14 @@ mpfr-dev
 ncurses-dev
 netbase
 nss-altfiles
+nss-dev
 openssl-dev
 p11-kit
 p11-kit-bin
 patch
 pbr
 pcre-dev
+perl-XML-Parser
 pigz
 pip
 pkg-config

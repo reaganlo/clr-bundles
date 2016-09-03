@@ -7,10 +7,10 @@ include(python-basic)
 include(os-core-dev)
 include(os-dev-extras)
 Babel-python
+LVM2-dev
 Linux-PAM-dev
 Pygments
 acl-dev
-apipkg-python
 argcomplete
 argparse-python
 attr-dev
@@ -33,6 +33,7 @@ curl-dev
 db
 db-dev
 dbus-dev
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -61,6 +62,7 @@ gettext-dev
 gfortran
 git
 glib-bin
+glib-dev
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -80,6 +82,9 @@ intltool-dev
 iptables-dev
 kmod-dev
 ldd
+libICE-dev
+libSM-dev
+libX11-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -88,6 +93,9 @@ libcgroup-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
+libnetfilter_conntrack-dev
+libnfnetlink-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -107,6 +115,7 @@ netbase
 nose
 nose-python
 nss-altfiles
+nss-dev
 numpy
 openblas
 openssl
@@ -116,6 +125,7 @@ p11-kit-bin
 patch
 pbr
 pcre-dev
+perl-XML-Parser
 pexpect
 pigz
 pip
@@ -142,12 +152,15 @@ shared-mime-info
 six
 six-python
 sqlite-autoconf
+sqlite-autoconf-dev
 strace
 systemd-dev
 systemd-libs
 tar
 tcl
+tcl-dev
 texinfo
+tk-dev
 tox
 tzdata
 unittest2

@@ -2,10 +2,12 @@
 # [DESCRIPTION]: All packages required to build the dev-utils bundle.
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(dev-utils)
 include(os-core-dev)
 include(os-dev-extras)
+CUnit-dev
+LVM2-dev
 Linux-PAM-dev
 acl-dev
 asciidoc
@@ -20,8 +22,11 @@ binutils
 binutils-dev
 bison
 bison-dev
+boost-dev
+btrfs-progs-dev
 bzip2
 bzip2-dev
+ca-certs
 clr-rpm-config
 cmake
 coreutils
@@ -30,6 +35,7 @@ cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
+dbus-glib-dev
 dejagnu
 diffutils
 docbook-xml
@@ -43,6 +49,7 @@ expect
 filesystem-chroot
 flex
 flex-dev
+fuse-dev
 gawk
 gcc
 gcc-dev
@@ -56,6 +63,7 @@ gettext-bin
 gettext-dev
 git
 glib-bin
+glib-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -79,17 +87,24 @@ iptables-dev
 kmod
 kmod-dev
 ldd
+libICE-dev
+libSM-dev
+libX11-dev
 libaio-dev
 libc6-dev
 libc6-locale
 libcap-dev
 libcap-ng-dev
 libcgroup-dev
+libevent-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
 libidn-dev
+libnetfilter_conntrack-dev
+libnfnetlink-dev
 libpng-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -106,7 +121,9 @@ mpc-dev
 mpfr-dev
 ncurses-dev
 netbase
+nghttp2-dev
 nss-altfiles
+nss-dev
 numactl-dev
 onig-dev
 openssl
@@ -117,6 +134,7 @@ patch
 pbr
 pcre-dev
 perl
+perl-XML-Parser
 pigz
 pip
 pkg-config
@@ -133,12 +151,15 @@ setuptools
 shadow
 slang-dev
 sqlite-autoconf
+sqlite-autoconf-dev
 strace
 systemd-dev
 systemd-libs
 tar
 tcl
+tcl-dev
 texinfo
+tk-dev
 tzdata
 unzip
 util-linux

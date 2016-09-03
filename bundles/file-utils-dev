@@ -2,10 +2,11 @@
 # [DESCRIPTION]: All packages required to build the file-utils bundle.
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
 include(file-utils)
 include(os-core-dev)
 include(os-dev-extras)
+LVM2-dev
 Linux-PAM-dev
 acl-dev
 attr-dev
@@ -27,6 +28,7 @@ cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -74,6 +76,9 @@ intltool-dev
 iptables-dev
 kmod-dev
 ldd
+libICE-dev
+libSM-dev
+libX11-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -82,7 +87,10 @@ libcgroup-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
+libnetfilter_conntrack-dev
+libnfnetlink-dev
 libpng-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -100,6 +108,7 @@ mpfr-dev
 ncurses-dev
 netbase
 nss-altfiles
+nss-dev
 onig-dev
 openssl
 openssl-dev
@@ -108,6 +117,7 @@ p11-kit-bin
 patch
 pbr
 pcre-dev
+perl-XML-Parser
 pigz
 pip
 pkg-config
@@ -125,12 +135,15 @@ shadow
 shared-mime-info
 slang-dev
 sqlite-autoconf
+sqlite-autoconf-dev
 strace
 systemd-dev
 systemd-libs
 tar
 tcl
+tcl-dev
 texinfo
+tk-dev
 tzdata
 unzip
 util-linux-dev

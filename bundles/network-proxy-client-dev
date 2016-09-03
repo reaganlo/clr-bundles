@@ -6,6 +6,8 @@
 include(network-proxy-client)
 include(os-core-dev)
 include(os-dev-extras)
+CUnit-dev
+LVM2-dev
 Linux-PAM-dev
 acl-dev
 attr-dev
@@ -16,8 +18,10 @@ automake-dev
 binutils
 bison
 bison-dev
+boost-dev
 bzip2
 bzip2-dev
+ca-certs
 clr-rpm-config
 cmake
 coreutils
@@ -26,6 +30,7 @@ cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -51,6 +56,7 @@ gettext-bin
 gettext-dev
 git
 glib-bin
+glib-dev
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -71,6 +77,9 @@ intltool-dev
 iptables-dev
 kmod-dev
 ldd
+libICE-dev
+libSM-dev
+libX11-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -81,6 +90,10 @@ libffi-dev
 libgcrypt-dev
 libgpg-error-dev
 libidn-dev
+libmnl-dev
+libnetfilter_conntrack-dev
+libnfnetlink-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -97,13 +110,16 @@ mpc-dev
 mpfr-dev
 ncurses-dev
 netbase
+nghttp2-dev
 nss-altfiles
+nss-dev
 openssl-dev
 p11-kit
 p11-kit-bin
 patch
 pbr
 pcre-dev
+perl-XML-Parser
 pigz
 pip
 pkg-config
