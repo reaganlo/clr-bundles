@@ -1,7 +1,6 @@
 # [TITLE]: openstack-network
 # [DESCRIPTION]: Provides an OpenStack Neutron server
 # [STATUS]: Deprecated
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-# Removing all content and replacing with m4 to create an 'empty' bundle
-m4
+filesystem

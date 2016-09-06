@@ -1,8 +1,6 @@
 # [TITLE]: openstack-compute
 # [DESCRIPTION]: Provides an OpenStack nova-compute node
 # [STATUS]: Deprecated
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-# Removing all content and replacing with m4 to create an 'empty' bundle
-m4
-
+filesystem

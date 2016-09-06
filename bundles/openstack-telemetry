@@ -3,5 +3,4 @@
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
-# Removing all content and replacing with m4 to create an 'empty' bundle
-m4
+filesystem
