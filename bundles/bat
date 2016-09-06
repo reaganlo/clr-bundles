@@ -1,8 +1,8 @@
 # [TITLE]: bat
 # [DESCRIPTION]: Provides the neccesary bundles to perform BAT succesfully
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
-# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Abraham Castillo <abraham.castillo@intel.com>
 include(devtools-extras)
 include(openstack-test-suite)
 include(pnp-tools-advanced)
