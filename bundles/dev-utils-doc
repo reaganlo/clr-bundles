@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides documentation and manpages for dev-utils
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 cgdb-doc
 gdb-doc

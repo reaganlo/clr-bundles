@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides documentation and manpages for file-utils
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(file-utils)
 bzip2-doc
 file-doc

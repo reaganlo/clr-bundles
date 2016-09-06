@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides documentation and manpages for editors
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(editors)
 joe-doc
 emacs-doc
