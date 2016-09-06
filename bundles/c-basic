@@ -1,7 +1,7 @@
 # [TITLE]: c-basic
 # [DESCRIPTION]: c compilers
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: Can compile c programs
+# [STATUS]: Active
+# [CAPABILITIES]: Build and run C language programs
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 autoconf
 autogen
