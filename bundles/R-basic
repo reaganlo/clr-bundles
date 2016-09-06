@@ -1,16 +1,9 @@
 # [TITLE]: R-basic
-# [DESCRIPTION]: Provides core R language and libraries
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Run R language programs
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(libX11client)
-#
-# If you want R, you need to be able to compile basic things
-#
-gcc
-gcc-dev
-make
-libgfortran-avx
 
 #
 # R base packages
@@ -19,6 +12,10 @@ clr-R-helpers
 R
 R-dev
 
+#
+# Required for performance reasons
+#
+libgfortran-avx
 
 #
 # Not listed because these are part of the R core above
@@ -30,4 +27,3 @@ R-dev
 # R-MASS
 # R-Matrix
 # R-survival
-
