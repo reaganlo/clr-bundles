@@ -1,7 +1,7 @@
 # [TITLE]: R-extras
-# [DESCRIPTION]: Provides deeper functionality R language libraries
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Improve the user experience with a common set of prebuilt R libraries
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 
