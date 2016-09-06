@@ -1,6 +1,6 @@
 # [TITLE]: bootloader
-# [DESCRIPTION]: UEFI bootloaders
-# [STATUS]: ACTIVE
+# [DESCRIPTION]: Loads kernel from disk and boots the system
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 systemd-boot
