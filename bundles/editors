@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides popular text editors
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(python-basic)
 joe
 emacs

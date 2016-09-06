@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides basic storage-related utilities
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 e2fsprogs-extras
 parted
 gptfdisk

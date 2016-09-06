@@ -2,7 +2,7 @@
 # [DESCRIPTION]: The basic core OS components of Clear Linux for iA 
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 filesystem
 systemd
 systemd-bootchart-bin

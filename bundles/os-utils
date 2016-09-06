@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides a core set of OS utilities
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 procps-ng
 less
 man-db

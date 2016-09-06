@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the mail-utils bundle.
 # [STATUS]: WIP
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(mail-utils)
 include(os-core-dev)
 include(os-dev-extras)

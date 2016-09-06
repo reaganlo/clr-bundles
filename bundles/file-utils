@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides basic set of file manipulation utilities
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bzip2
 file
 findutils

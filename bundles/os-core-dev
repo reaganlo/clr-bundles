@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the os-core bundle.
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(os-core)
 LVM2-dev
 Linux-PAM-dev

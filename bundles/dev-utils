@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides a limited set of development utilities
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 linux-tools
 cgdb
 clr-debug-info
