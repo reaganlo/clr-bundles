@@ -1,7 +1,7 @@
 # [TITLE]: clr-devops
-# [DESCRIPTION]: Provides build/release tools for Clear devops team
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Run all Clear Linux devops workloads
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Gabi Beyer <Gabrielle.n.beyer@intel.com>
 mash
 ister
