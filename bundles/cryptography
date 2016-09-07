@@ -1,8 +1,8 @@
 # [TITLE]: cryptography
-# [DESCRIPTION]: Cryptographic tools
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
-# [MAINTAINER]: Dimitri John Ledkov <dimitri.j.ledkov@intel.com>
+# [DESCRIPTION]: Encrypt, decrypt, sign and verify objects
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 gnupg
 pinentry
 openssl
