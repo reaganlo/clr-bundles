@@ -1,8 +1,9 @@
 # [TITLE]: editors
-# [DESCRIPTION]: Provides popular text editors
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Run popular terminal text editors
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# Run time requirement as vim is compiled to use libpython
 include(python-basic)
 joe
 emacs
