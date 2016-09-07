@@ -1,7 +1,7 @@
 # [TITLE]: go-extras
-# [DESCRIPTION]: Most popular Golang libraries
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Improve the user experience with a common set of go libraries
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(go-basic)
 golang-github-go-mgo-mgo
