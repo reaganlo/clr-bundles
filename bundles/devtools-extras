@@ -1,7 +1,7 @@
 # [TITLE]: devtools-extras
 # [DESCRIPTION]: Provides extra set of languages and tools for development
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(R-extras)
 include(devtools-basic)
