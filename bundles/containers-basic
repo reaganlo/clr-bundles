@@ -1,6 +1,6 @@
 # [TITLE]: containers-basic
-# [DESCRIPTION]: Provides basic functionality to run containers workloads
-# [STATUS]: ACTIVE
+# [DESCRIPTION]: Run container applications from Dockerhub
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(kernel-container)
