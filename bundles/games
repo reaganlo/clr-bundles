@@ -1,6 +1,6 @@
 # [TITLE]: games
-# [DESCRIPTION]: A colossal, but entertaining waste of time
-# [STATUS]: ACTIVE
+# [DESCRIPTION]: Play games in Clear Linux
+# [STATUS]: Active
 # [CAPABILITIES]: Makes you forget about work, for a little bit
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
