@@ -1,16 +1,6 @@
 # [TITLE]: dpdk-dev
 # [DESCRIPTION]: All headers and libraries necessary to develop with the Data Plane Development Kit.
-# [STATUS]: ACTIVE
-# [CAPABILITIES]:  
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-include(os-core-dev)
-include(os-dev-extras)
-libpcap
-libpcap-dev
-libpcap-lib
-libpcap-bin
-dpdk
-dpdk-bin
-dpdk-dev
-dpdk-lib
-dpdk-data
+filesystem
