@@ -1,7 +1,6 @@
 # [TITLE]: database-mariadb
 # [DESCRIPTION]: Provides components needed to run MariaDB
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
-mariadb-server
-MySQL-python
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+filesystem
