@@ -1,7 +1,7 @@
 # [TITLE]: file-utils
 # [DESCRIPTION]: Provides basic set of file manipulation utilities
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bzip2
 file
