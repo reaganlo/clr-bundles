@@ -1,9 +1,8 @@
 # [TITLE]: cloud-network
 # [DESCRIPTION]: Support for cloud networking agents
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
-# [MAINTAINER]: Salvador Fuentes <salvador.fuentes@intel.com>
-
+# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(openssh-server)
 include(net-utils)
 dnsmasq
