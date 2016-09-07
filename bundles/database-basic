@@ -1,0 +1,7 @@
+# [TITLE]: database-basic
+# [DESCRIPTION]: Run a SQL database
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+mariadb-server
+postgresql
