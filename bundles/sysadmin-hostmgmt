@@ -12,6 +12,7 @@ clear-config-management
 ipmitool
 git
 # ansible deps
+backports.ssl_match_hostname
 pyasn1
 PyYAML
 Jinja2
@@ -20,4 +21,5 @@ MySQL-python
 docker-py-python
 requests-python
 six-python
+websocket-client
 # End ansible deps
