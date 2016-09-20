@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
 # TODO re-evaluate the need for os-utils
-include(os-utils)
 include(kvm-host)
 include(net-utils)
 sqlite-autoconf
@@ -12,3 +11,7 @@ xorriso
 ciao
 ciao-cnci-agent
 docker
+openssl
+sudo
+openssh
+psmisc  # /usr/sbin/fuser used by ciao-launcher
