@@ -9,6 +9,9 @@ certifi
 lxml
 nose
 pbr
+pypy-core
+pypy-dev
+pypy-lib
 python-dateutil
 requests
 simplejson
