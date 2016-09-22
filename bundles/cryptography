@@ -10,3 +10,5 @@ gnutls
 ca-certs
 nss-bin
 openssh-bin
+rng-tools
+rng-tools-extras
