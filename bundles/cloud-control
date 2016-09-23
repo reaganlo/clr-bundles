@@ -3,7 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
-# TODO re-evaluate the need for os-utils
 include(kvm-host)
 include(net-utils)
 sqlite-autoconf
@@ -14,4 +13,4 @@ docker
 openssl
 sudo
 openssh
-psmisc  # /usr/sbin/fuser used by ciao-launcher
+psmisc
