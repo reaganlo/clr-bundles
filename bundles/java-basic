@@ -8,3 +8,4 @@ openjdk
 openjdk-dev
 apache-ant
 apache-maven
+jdk-plexus-classworlds
