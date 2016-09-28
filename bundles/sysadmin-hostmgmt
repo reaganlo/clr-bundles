@@ -1,8 +1,8 @@
 # [TITLE]: sysadmin-hostmgmt
 # [DESCRIPTION]: Utilities and Services for managing large-scale clusters of networked hosts
 # [STATUS]: WIP
-# [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [CAPABILITIES]:
+# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(os-utils)
 include(pxe-server)
 include(python-basic)

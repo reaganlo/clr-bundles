@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides NFS binaries, associated utilities, and tools.  Currently only client services are fully supported.
 # [STATUS]: WIP
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 rpcbind
 nfs-utils
 usermode

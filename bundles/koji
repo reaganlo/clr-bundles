@@ -1,8 +1,8 @@
 # [TITLE]: koji
 # [DESCRIPTION]: Sets up a koji build service (builder-only, for now) based on NFS mounts.
 # [STATUS]: WIP
-# [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [CAPABILITIES]:
+# [MAINTAINER]: Gabi Beyer <Gabrielle.n.beyer@intel.com>
 nfs-utils
 koji
 rpm-build

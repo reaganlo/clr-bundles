@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides a basic set of system administration utilities.
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 powertop
 pciutils
 pciutils-data

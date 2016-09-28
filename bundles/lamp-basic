@@ -5,7 +5,7 @@
 #                 2)  Starts Apache2 (httpd) on startup (currently port 80 & no-SSL)
 #                 3)  Apache2 is configured to run PHP.
 #                 4)  Data area is ready at /usr/share/httpd/{cgi-bin,htdocs,etc.}
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 httpd
 httpd-dev
 mariadb

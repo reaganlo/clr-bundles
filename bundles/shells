@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All available shell programs for Clear, along with ancillary files
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bash
 bash-bin
 bash-doc

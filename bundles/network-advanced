@@ -2,7 +2,7 @@
 # [DESCRIPTION]: More utilities for advanced host-level networking; bridge, switch, netfilter, vpn etc.
 # [STATUS]: WIP
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(network-basic)
 bridge-utils
 connman

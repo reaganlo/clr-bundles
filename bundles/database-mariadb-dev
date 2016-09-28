@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides MariaDB development tools (libraries and drivers)
 # [STATUS]: ACTIVE
 # [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(database-mariadb)
 mariadb-dev
 MySQL-python

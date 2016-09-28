@@ -1,8 +1,8 @@
 # [TITLE]: kvm-host
-# [DESCRIPTION]: Provides necessary tools to run usable virtual machines with QEMU-KVM (independently of OpenStack).
+# [DESCRIPTION]: Provides necessary tools to run usable virtual machines with QEMU-KVM.
 # [STATUS]: WIP
-# [CAPABILITIES]: 
-# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libX11client)
 qemu
 libvirt
