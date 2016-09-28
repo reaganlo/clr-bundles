@@ -1,6 +1,6 @@
 # [TITLE]: os-installer
 # [DESCRIPTION]: Provides an installer for Clear Linux for iA
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 btrfs-progs

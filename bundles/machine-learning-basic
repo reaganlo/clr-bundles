@@ -1,6 +1,6 @@
 # [TITLE]: machine-learning-basic
 # [DESCRIPTION]: Basic components for machine learning development 
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(os-core-dev)

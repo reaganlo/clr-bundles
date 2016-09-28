@@ -1,6 +1,6 @@
 # [TITLE]: message-broker-rabbitmq
 # [DESCRIPTION]: Provides the RabbitMQ messaging service
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Geronimo Orozco <geronimo.orozco@intel.com>
 otp

@@ -1,6 +1,6 @@
 # [TITLE]: mixer
 # [DESCRIPTION]: Provide required utilities to make derivative releases
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
 include(os-clr-on-clr)

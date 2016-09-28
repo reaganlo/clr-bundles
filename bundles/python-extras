@@ -1,6 +1,6 @@
 # [TITLE]: python-extras
 # [DESCRIPTION]: Provides extra libraries for Python
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: Top 10 in pypi ranking
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(python-basic)

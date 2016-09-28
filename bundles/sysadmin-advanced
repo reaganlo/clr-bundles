@@ -1,6 +1,6 @@
 # [TITLE]: sysadmin-advanced
 # [DESCRIPTION]: Toolchest that a sysadmin needs to diagnose issues
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(sysadmin-basic)

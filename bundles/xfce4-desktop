@@ -1,6 +1,6 @@
 # [TITLE]: xfce4-desktop
 # [DESCRIPTION]: Provides the XFCE4 graphical desktop environment 
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(libX11client)

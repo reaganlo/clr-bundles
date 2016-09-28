@@ -1,6 +1,6 @@
 # [TITLE]: database-mariadb-dev
 # [DESCRIPTION]: Provides MariaDB development tools (libraries and drivers)
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(database-mariadb)

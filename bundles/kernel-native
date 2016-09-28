@@ -1,6 +1,6 @@
 # [TITLE]: kernel-native
 # [DESCRIPTION]: Provides a Linux kernel appropriate for physical machines
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)

@@ -1,6 +1,6 @@
 # [TITLE]: kernel-lts
 # [DESCRIPTION]: Provides a Linux LTS kernel appropriate for physical machines
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(bootloader)

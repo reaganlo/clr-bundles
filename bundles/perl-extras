@@ -1,6 +1,6 @@
 # [TITLE]: perl-extras
 # [DESCRIPTION]: Provides extra libraries for Perl
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: Top 5 to 15 popular Perl packages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(perl-basic)

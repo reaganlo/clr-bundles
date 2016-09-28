@@ -1,6 +1,6 @@
 # [TITLE]: lamp-basic
 # [DESCRIPTION]: Basic LAMP Server (apache2, mariadb, php5)
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 1)  Starts MariaDB on boot 
 #                 2)  Starts Apache2 (httpd) on startup (currently port 80 & no-SSL)
 #                 3)  Apache2 is configured to run PHP.

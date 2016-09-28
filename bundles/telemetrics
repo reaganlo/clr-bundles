@@ -1,6 +1,6 @@
 # [TITLE]: telemetrics
 # [DESCRIPTION]: Provides the Telemetrics client for Clear Linux for iA
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
 telemetrics-client

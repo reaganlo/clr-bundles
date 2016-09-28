@@ -1,6 +1,6 @@
 # [TITLE]: java-basic
 # [DESCRIPTION]: Provides all openjdk tools
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: Compile and run basic java applications
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(libX11client)
