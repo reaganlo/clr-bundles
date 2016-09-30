@@ -1,10 +1,6 @@
-# [TITLE]: iot
+# [TITLE]: iot-dev
 # [DESCRIPTION]: The IoT (Internet of Things) base bundle
-# [STATUS]:
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(iot-base)
-soletta-dev
-soletta-data
-gdb
-jsonschema
+filesystem
