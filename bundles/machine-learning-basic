@@ -1,10 +1,10 @@
 # [TITLE]: machine-learning-basic
-# [DESCRIPTION]: Basic components for machine learning development 
+# [DESCRIPTION]: Basic components for machine learning development
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(os-core-dev)
-include(devtools-extras)
+include(c-basic)
+include(python-extras)
 scikit-learn
 scikit-image
 swig

@@ -3,12 +3,11 @@
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Abraham Castillo <abraham.castillo@intel.com>
-include(devtools-extras)
-include(openstack-test-suite)
-include(pnp-tools-advanced)
-include(openstack-all-in-one)
-include(storage-utils)
-include(sysadmin-hostmgmt)
 include(kvm-host)
 include(lamp-basic)
+include(openstack-all-in-one)
+include(openstack-test-suite)
+include(pnp-tools-advanced)
+include(storage-utils)
+include(sysadmin-hostmgmt)
 helloworld
