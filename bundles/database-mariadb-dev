@@ -1,9 +1,6 @@
 # [TITLE]: database-mariadb-dev
 # [DESCRIPTION]: Provides MariaDB development tools (libraries and drivers)
-# [STATUS]: Active
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(database-mariadb)
-mariadb-dev
-MySQL-python
-golang-github-go-sql-driver-mysql
+filesystem
