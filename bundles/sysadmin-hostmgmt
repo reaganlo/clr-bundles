@@ -3,7 +3,6 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
-include(os-utils)
 include(pxe-server)
 include(python-basic)
 pssh

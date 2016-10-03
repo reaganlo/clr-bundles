@@ -1,27 +1,6 @@
 # [TITLE]: os-utils
 # [DESCRIPTION]: Provides a core set of OS utilities
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-procps-ng
-less
-man-db
-ncurses-bin
-tmux
-which
-man-pages
-groff
-kbd
-openssl
-psmisc
-sudo
-efibootmgr-bin
-parallel
-gawk-extras
-procenv
-include(editors)
-include(dev-utils)
-include(sysadmin-basic)
-include(network-basic)
-include(network-proxy-client)
-include(internet-console-utils)
+filesystem

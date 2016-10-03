@@ -9,7 +9,6 @@ network-proxy-client
 os-clr-on-clr
 os-core
 os-core-update
-os-utils
 perl-basic
 python-basic
 storage-utils

@@ -1,10 +1,9 @@
 # [TITLE]: os-utils-gui
-# [DESCRIPTION]: Provides a graphical desktop environment 
+# [DESCRIPTION]: Provides a graphical desktop environment
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(cryptography)
-include(os-utils)
 include(python-basic)
 include(xfce4-desktop)
 Thunar

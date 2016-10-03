@@ -1,26 +1,6 @@
 # [TITLE]: os-utils-doc
 # [DESCRIPTION]: Provides documentation and manpages for os-utils
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(os-utils)
-include(editors-doc)
-include(dev-utils-doc)
-include(sysadmin-basic-doc)
-include(network-basic-doc)
-include(file-utils-doc)
-include(network-proxy-client-doc)
-include(internet-console-utils-doc)
-procps-ng-doc
-less-doc
-man-db-doc
-tmux-doc
-which-doc
-man-pages-doc
-groff-doc
-kbd-doc
-openssl-doc
-psmisc-doc
-sudo-doc
-parallel-doc
-procenv-doc
+filesystem
