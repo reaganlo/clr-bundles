@@ -1,6 +1,8 @@
+containers-basic
 dev-utils
 editors
 file-utils
+go-basic
 internet-console-utils
 mail-utils
 network-basic
@@ -13,5 +15,3 @@ perl-basic
 python-basic
 storage-utils
 sysadmin-basic
-go-basic
-containers-basic
