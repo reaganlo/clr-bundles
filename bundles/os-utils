@@ -1,7 +1,7 @@
 # [TITLE]: os-utils
 # [DESCRIPTION]: Provides a core set of OS utilities
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 procps-ng
 less
@@ -23,6 +23,5 @@ include(editors)
 include(dev-utils)
 include(sysadmin-basic)
 include(network-basic)
-include(file-utils)
 include(network-proxy-client)
 include(internet-console-utils)

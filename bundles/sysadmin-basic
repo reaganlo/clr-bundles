@@ -1,19 +1,28 @@
 # [TITLE]: sysadmin-basic
-# [DESCRIPTION]: Provides a basic set of system administration utilities.
+# [DESCRIPTION]: Run common utilites useful for managing a system
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-powertop
+bzip2
+clr-hardware-files
+collectl
+cpuid
+dos2unix
+file
+findutils
+htop
+libc-bin
+lsacpi
+lsof
+mc
+mosh
 pciutils
 pciutils-data
 pciutils-doc
+powertop
+shareutils
 strace
-usbutils
-libc-bin
-clr-hardware-files
-collectl
-htop
-lsacpi
-mosh
-cpuid
 systemd-doc
+tree
+unzip
+usbutils

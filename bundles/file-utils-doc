@@ -1,14 +1,6 @@
 # [TITLE]: file-utils-doc
 # [DESCRIPTION]: Provides documentation and manpages for file-utils
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(file-utils)
-bzip2-doc
-file-doc
-findutils-doc
-unzip-doc
-dos2unix-doc
-sharutils-doc
-tree-doc
-mc-doc
+filesystem
