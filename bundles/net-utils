@@ -1,19 +1,6 @@
 # [TITLE]: net-utils
 # [DESCRIPTION]: Provides an essential suite of core networking configuration and debug tools
-# [STATUS]: Active
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-iputils
-net-tools
-iproute2
-tcpdump
-traceroute
-netcat
-bind-utils
-iptraf
-###TODO?
-#fping
-#telnet 
-#nmap - failing build
-#ipv6calc?
-#other ipv6 stuff? its own bundle?
+filesystem

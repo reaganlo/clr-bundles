@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(kernel-container)
-include(network-advanced)
+include(network-basic)
 include(storage-utils)
 cc-oci-runtime
 clear-containers-image

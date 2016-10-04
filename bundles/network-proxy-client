@@ -1,8 +1,6 @@
 # [TITLE]: network-proxy-client
 # [DESCRIPTION]: Tools for dealing with client-side network proxy settings.
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-pacrunner
-redsocks
-iptables
+filesystem

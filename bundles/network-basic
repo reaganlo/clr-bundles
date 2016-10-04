@@ -1,14 +1,43 @@
 # [TITLE]: network-basic
-# [DESCRIPTION]: Provides a basic suite of networking utilities
+# [DESCRIPTION]: Run network utilities and modify network settings
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# perl-basic and tcl-basic included to avoid duplication
+include(perl-basic)
+include(tcl-basic)
+bind-utils
+bridge-utils
+connman
+conntrack-tools
 curl-bin
-openssh
-openssh-extras
-iputils
-tcpdump
-net-tools
-rsync
+dpdk
+ebtables
 ethtool
+ibutils
+iproute2
+ipset
+iptables
+iptables
+iptraf
+iputils
+irssi
+libibcm
+librdmacm
+links
+mstflint
+net-tools
+netcat
+nftables
+openconnect
+opensm
+openvswitch
+pacrunner
+quagga
+rdma
+redsocks
+rsync
+tcpdump
+traceroute
 wpa_supplicant
+znc

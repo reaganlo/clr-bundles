@@ -1,27 +1,6 @@
 # [TITLE]: network-advanced
 # [DESCRIPTION]: More utilities for advanced host-level networking; bridge, switch, netfilter, vpn etc.
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(network-basic)
-bridge-utils
-connman
-conntrack-tools
-openvswitch
-ipset
-iptables
-ebtables
-dpdk
-dpdk-bin
-dpdk-lib
-openconnect
-quagga
-rdma
-ibutils
-libibcm
-libmlx4-dev
-libmlx5-dev
-librdmacm
-opensm
-mstflint
-nftables
+filesystem

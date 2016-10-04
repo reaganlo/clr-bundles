@@ -1,9 +1,6 @@
 # [TITLE]: internet-console-utils-doc
 # [DESCRIPTION]: Provides documentation and manpages for internet-console-utils
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Geronimo Orozco <geronimo.orozco@intel.com>
-include(internet-console-utils)
-irssi-doc
-links-doc
-znc-doc
+filesystem

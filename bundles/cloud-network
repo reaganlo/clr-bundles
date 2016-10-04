@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(openssh-server)
-include(net-utils)
+include(network-basic)
 bridge-utils
 dnsmasq
 ebtables

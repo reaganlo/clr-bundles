@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
 include(kvm-host)
-include(net-utils)
+include(network-basic)
 sqlite-autoconf
 xorriso
 ciao

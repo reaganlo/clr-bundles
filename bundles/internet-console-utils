@@ -1,8 +1,6 @@
 # [TITLE]: internet-console-utils
 # [DESCRIPTION]: Includes internet console tools to interact with internet
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Geronimo Orozco <geronimo.orozco@intel.com>
-irssi
-links
-znc
+filesystem
