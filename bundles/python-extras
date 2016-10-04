@@ -1,7 +1,7 @@
 # [TITLE]: python-extras
-# [DESCRIPTION]: Provides extra libraries for Python
+# [DESCRIPTION]: Improve user experience with a common set of prebuilt python libraries
 # [STATUS]: Active
-# [CAPABILITIES]: Top 10 in pypi ranking
+# [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(python-basic)
 boto

@@ -1,29 +1,29 @@
 # [TITLE]: os-core
-# [DESCRIPTION]: The basic core OS components of Clear Linux for iA 
+# [DESCRIPTION]: Run a minimal Linux userspace
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+ca-certs
+clr-power-tweaks
+clr-systemd-config
+coreutils-bin
+dbus-bin
+dist-pam-configs
+e2fsprogs-bin
 filesystem
-systemd
-systemd-bootchart-bin
-shadow
 gawk-bin
 grep-bin
-kmod-bin
-util-linux-bin
-coreutils-bin
 hostname-bin
-dbus-bin
-sed-bin
 iproute2-bin
-netbase
-ca-certs
-e2fsprogs-bin
-clr-power-tweaks
-dist-pam-configs
+kmod-bin
 motd-update
-clr-systemd-config
+netbase
 nss-altfiles
-systemd-libs
 procps-ng-bin
+sed-bin
+shadow
+systemd
+systemd-bootchart-bin
+systemd-libs
 tzdata-minimal
+util-linux-bin

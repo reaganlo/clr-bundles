@@ -1,26 +1,26 @@
 # [TITLE]: libX11client
-# [DESCRIPTION]: Provides basic client libraries for X11 applications
+# [DESCRIPTION]: Grouping only bundle for use in X using bundles
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
-pixman-lib
-fontconfig-lib
-fontconfig-data
-glib-lib
 cairo-lib
+fontconfig-data
+fontconfig-lib
 freetype-lib
 glib-data
 glib-lib
+glib-lib
+gtk+-data
+gtk+-lib
 harfbuzz-lib
-libX11-lib
 libX11-data
+libX11-lib
 libXau-lib
 libXdmcp-lib
 libXext-lib
 libXft-lib
 libXrender-lib
-libxcb-lib
 libpng-lib
+libxcb-lib
 pango-lib
-gtk+-lib
-gtk+-data
+pixman-lib

@@ -1,7 +1,7 @@
 # [TITLE]: kernel-hyperv
-# [DESCRIPTION]: Provides a Linux kernel appropriate for running under HyperV
+# [DESCRIPTION]: Run the hyperv specific kernel
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
 linux-hyperv

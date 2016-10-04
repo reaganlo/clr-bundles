@@ -1,22 +1,22 @@
 # [TITLE]: storage-utils
-# [DESCRIPTION]: Provides basic storage-related utilities
+# [DESCRIPTION]: Run disk and filesystem management functions
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-e2fsprogs-extras
-parted
-gptfdisk
 LVM2
 LVM2-extras
-xfsprogs
-dosfstools
 btrfs-progs
-ndctl
-rdma
+dosfstools
+e2fsprogs-extras
+gptfdisk
 ibutils
 libmlx4-dev
 libmlx5-dev
-opensm
-mstflint
 mdadm
+mstflint
+ndctl
+opensm
+parted
+rdma
 sshfs
+xfsprogs

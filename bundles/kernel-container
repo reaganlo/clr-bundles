@@ -1,6 +1,6 @@
 # [TITLE]: kernel-container
-# [DESCRIPTION]: Provides a Linux kernel appropriate for a Clear Container
+# [DESCRIPTION]: Run the container specific kernel
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Carlos Venegas <jose.carlos.venegas.munoz@intel.com>
 linux-container

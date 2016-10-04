@@ -5,6 +5,5 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(iot-base)
 include(nodejs-basic)
-soletta-dev-app
 graphviz
-include(iot-message-broker)
+soletta-dev-app

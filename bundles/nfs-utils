@@ -1,9 +1,9 @@
 # [TITLE]: nfs-utils
-# [DESCRIPTION]: Provides NFS binaries, associated utilities, and tools.  Currently only client services are fully supported.
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Run an NFS client
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-rpcbind
-nfs-utils
-usermode
 autofs
+nfs-utils
+rpcbind
+usermode

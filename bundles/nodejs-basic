@@ -1,7 +1,7 @@
 # [TITLE]: nodejs-basic
-# [DESCRIPTION]: NodeJS and associated dev tools
+# [DESCRIPTION]: Run javascript server side
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 nodejs
 nodejs-doc

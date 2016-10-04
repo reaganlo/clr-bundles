@@ -1,5 +1,5 @@
 # [TITLE]: kernel-iot
-# [DESCRIPTION]: Provides a Linux kernel appropriate for iot devices
+# [DESCRIPTION]: Run the iot specific kernel
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>

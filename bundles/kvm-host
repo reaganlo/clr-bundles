@@ -1,6 +1,6 @@
 # [TITLE]: kvm-host
-# [DESCRIPTION]: Provides necessary tools to run usable virtual machines with QEMU-KVM.
-# [STATUS]: WIP
+# [DESCRIPTION]: Run virtual machines
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libX11client)

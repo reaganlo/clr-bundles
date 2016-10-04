@@ -1,7 +1,7 @@
 # [TITLE]: perl-basic
-# [DESCRIPTION]: Provides essential Perl language and dev tools
+# [DESCRIPTION]: Run perl language programs
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 perl
 perl-Crypt-SSLeay

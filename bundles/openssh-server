@@ -1,7 +1,7 @@
 # [TITLE]: openssh-server
-# [DESCRIPTION]: Provides an SSH server (and client)
+# [DESCRIPTION]: Run an ssh server
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 openssh
 openssh-extras

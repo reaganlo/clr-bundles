@@ -1,7 +1,7 @@
 # [TITLE]: os-cloudguest-azure
-# [DESCRIPTION]: Basic requirements for a cloud guest image on MS Azure
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Run any initialization process requried of an Azure cloud guest VM
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
 WALinuxAgent

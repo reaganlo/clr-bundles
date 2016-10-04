@@ -1,5 +1,5 @@
 # [TITLE]: kernel-lts
-# [DESCRIPTION]: Provides a Linux LTS kernel appropriate for physical machines
+# [DESCRIPTION]: Run the lts native kernel
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>

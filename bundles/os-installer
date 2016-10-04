@@ -1,5 +1,5 @@
 # [TITLE]: os-installer
-# [DESCRIPTION]: Provides an installer for Clear Linux for iA
+# [DESCRIPTION]: Run image creation and installation for Clear Linux
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>

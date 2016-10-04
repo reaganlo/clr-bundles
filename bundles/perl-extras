@@ -1,7 +1,7 @@
 # [TITLE]: perl-extras
-# [DESCRIPTION]: Provides extra libraries for Perl
+# [DESCRIPTION]: Improve user experience with a common set of prebuilt perl libraries
 # [STATUS]: Active
-# [CAPABILITIES]: Top 5 to 15 popular Perl packages
+# [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(perl-basic)
 perl-DateTime

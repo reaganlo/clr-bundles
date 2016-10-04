@@ -1,18 +1,18 @@
 # [TITLE]: storage-cluster
-# [DESCRIPTION]: Ceph Cluster Storage
+# [DESCRIPTION]: Run a storage server
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(storage-utils)
-ceph
-leveldb-lib
-gperftools-lib
 boost
-rocksdb-lib
-snappy-lib
-gflags-lib
-keyutils-lib
-setuptools
-parted
-xfsprogs
 btrfs-progs
+ceph
+gflags-lib
+gperftools-lib
+keyutils-lib
+leveldb-lib
+parted
+rocksdb-lib
+setuptools
+snappy-lib
+xfsprogs

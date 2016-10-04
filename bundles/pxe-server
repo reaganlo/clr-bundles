@@ -1,7 +1,7 @@
 # [TITLE]: pxe-server
-# [DESCRIPTION]: All the bits to run a PXE server for Clear Linux
+# [DESCRIPTION]: Run a PXE server
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 dhcp
 dnsmasq

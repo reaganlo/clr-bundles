@@ -1,47 +1,47 @@
 # [TITLE]: xfce4-desktop
-# [DESCRIPTION]: Provides the XFCE4 graphical desktop environment 
+# [DESCRIPTION]: Run GUI desktop environment
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(libX11client)
-xfce4-panel
-xfce4-settings
-gtk-xfce-engine
-exo
-garcon
-xfwm4
 Thunar
-xfdesktop
-xinit
-xfconf
-gdk-pixbuf
-xfce4-session
+Vertex-theme
+arc-theme
 clear-font
+clr-desktop-defaults
+elementary-xfce
+exo
+faba-icon-theme
+font-bitstream-type1
+garcon
+gdk-pixbuf
+gnome-icon-theme
+gnome-themes-standard
+gtk+
+gtk-xfce-engine
+hicolor-icon-theme
+libnotify-bin
+libxfce4ui-bin
 mkfontdir
 mkfontscale
-xcursor-themes
-hicolor-icon-theme
-xrdb
-gtk+
-gnome-icon-theme
-xfce4-terminal
-font-bitstream-type1
-Vertex-theme
-murrine
 moka-icon-theme
-faba-icon-theme
-xfce4-whiskermenu-plugin
+murrine
 powerline-fonts
-xfce4-appfinder
-gnome-themes-standard
-arc-theme
-elementary-xfce
-clr-desktop-defaults
-libxfce4ui-bin
-xfce4-screenshooter
-tumbler
-thunar-volman
 shared-mime-info
-xfce4-notifyd
-libnotify-bin
+thunar-volman
+tumbler
+xcursor-themes
+xfce4-appfinder
 xfce4-dev-tools
+xfce4-notifyd
+xfce4-panel
+xfce4-screenshooter
+xfce4-session
+xfce4-settings
+xfce4-terminal
+xfce4-whiskermenu-plugin
+xfconf
+xfdesktop
+xfwm4
+xinit
+xrdb

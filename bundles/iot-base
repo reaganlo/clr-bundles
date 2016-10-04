@@ -3,6 +3,6 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-soletta-bin
-libmicrohttpd
 include(kernel-iot)
+libmicrohttpd
+soletta-bin
