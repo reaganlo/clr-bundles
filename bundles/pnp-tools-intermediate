@@ -1,15 +1,6 @@
 # [TITLE]: pnp-tools-intermediate
 # [DESCRIPTION]: Provides a deeper-level suite of Power and Performance testing tools
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(pnp-tools-basic)
-ethtool
-tcpdump
-util-linux
-sysstat
-collectl
-iptraf
-net-snmp
-open-lldp
-latencytop
+filesystem

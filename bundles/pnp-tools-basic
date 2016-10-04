@@ -1,16 +1,32 @@
 # [TITLE]: pnp-tools-basic
-# [DESCRIPTION]: Provides basic Power and Performance testing tools
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Run performance and power measurements
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-htop
-powertop
-iotop
-procps-ng
-net-tools
-sysstat
+include(perl-basic)
+include(tcl-basic)
+blktrace
+collectl
 dstat
-nicstat
-tiptop
+ethtool
 gperf
+htop
+iotop
+iproute2
+iptraf
+latencytop
+ltp
+ltrace
+net-snmp
+net-tools
+nicstat
+open-lldp
+powertop
+procps-ng
 psstop
+strace
+sysstat
+sysstat
+tcpdump
+tiptop
+util-linux

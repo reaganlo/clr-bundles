@@ -1,11 +1,6 @@
 # [TITLE]: pnp-tools-advanced
 # [DESCRIPTION]: Provides advanced Power and Performance measurement tools
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(pnp-tools-intermediate)
-strace
-ltrace
-iproute2
-blktrace
-ltp
+filesystem
