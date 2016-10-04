@@ -1,0 +1,7 @@
+# [TITLE]: php-basic
+# [DESCRIPTION]: Run php language programs
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+php
+php-extras
