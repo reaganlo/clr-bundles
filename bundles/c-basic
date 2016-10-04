@@ -13,6 +13,8 @@ libstdc++
 glibc-utils
 libc6-dev
 libc6-locale
+libtool
+libtool-dev
 llvm
 llvm-dev
 m4

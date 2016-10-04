@@ -3,15 +3,17 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-linux-tools
 cgdb
 clr-debug-info
 cppcheck
 gdb
-python-core
-strace
-libc-bin
-valgrind
-libc6-locale
-libaio
+git
 lcov
+libaio
+libc-bin
+libc6-locale
+linux-tools
+patch
+quilt
+strace
+valgrind
