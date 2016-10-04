@@ -11,6 +11,7 @@ clear-containers-image
 clr-systemd-config-extras
 containerd
 docker
+docker-py
 gnupg
 qemu-lite
 runc
