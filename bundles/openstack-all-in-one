@@ -1,15 +1,6 @@
 # [TITLE]: openstack-all-in-one
 # [DESCRIPTION]: Provides an All-in-one OpenStack deployment
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-include(database-mariadb)
-include(message-broker-rabbitmq)
-include(openstack-block-storage)
-include(openstack-block-storage-controller)
-include(openstack-identity)
-include(openstack-image)
-include(openstack-object-storage)
-include(openstack-orchestration)
-include(openstack-python-clients)
-
+filesystem
