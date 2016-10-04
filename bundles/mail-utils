@@ -1,7 +1,7 @@
 # [TITLE]: mail-utils
-# [DESCRIPTION]: Provides utilities for reading and sending email
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [DESCRIPTION]: Process, read and send email
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 msmtp
 mutt
