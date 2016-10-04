@@ -1,12 +1,13 @@
 # [TITLE]: mixer
-# [DESCRIPTION]: Provide required utilities to make derivative releases
+# [DESCRIPTION]: Create Clear Linux releases
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
-include(os-clr-on-clr)
-hardlink
-swupd-server
-mixer-tools
+include(python-basic)
+include(sysadmin-basic)
 bundle-chroot-builder
 createrepo_c
+hardlink
+mixer-tools
 nosync
+swupd-server
