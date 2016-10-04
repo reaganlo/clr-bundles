@@ -1,11 +1,9 @@
 # [TITLE]: openstack-common
-# [DESCRIPTION]: common components for OpenStack functionalit
-# [STATUS]: WIP
-# [CAPABILITIES]: 
-# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+# [DESCRIPTION]: Grouping bundle used by all openstack using bundles
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
 include(python-basic)
-
 Babel
 Jinja2
 Mako
