@@ -28,7 +28,7 @@ pciutils-doc
 powertop
 procps-ng
 psmisc
-shareutils
+sharutils
 sudo
 strace
 systemd-doc
