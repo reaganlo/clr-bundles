@@ -3,7 +3,10 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Gabi Beyer <Gabrielle.n.beyer@intel.com>
+include(os-installer)
+include(os-core-update)
+include(mixer)
+include(java-basic)
+include(rust-basic)
+httpd
 mash
-ister
-swupd-client
-swupd-server
