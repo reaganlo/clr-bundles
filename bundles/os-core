@@ -16,7 +16,6 @@ grep-bin
 hostname-bin
 iproute2-bin
 kmod-bin
-motd-update
 netbase
 nss-altfiles
 procps-ng-bin
