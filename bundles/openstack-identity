@@ -12,6 +12,7 @@ ipaddress
 keystone
 ldappool
 memcached
+mariadb-server
 nginx
 oauthlib
 openssl
