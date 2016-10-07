@@ -1,6 +1,6 @@
 # [TITLE]: os-core-update-dev
 # [DESCRIPTION]: All packages required to build the os-core-update bundle.
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 include(os-core-update)
@@ -9,7 +9,6 @@ include(os-dev-extras)
 include(os-core)
 include(os-core-dev)
 CUnit-dev
-LVM2-dev
 Linux-PAM-dev
 acl-dev
 attr-dev
@@ -99,7 +98,6 @@ libgpg-error-dev
 libidn-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
-libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -119,7 +117,6 @@ ncurses-dev
 netbase
 nghttp2-dev
 nss-altfiles
-nss-dev
 openssl-dev
 p11-kit
 p11-kit-bin
@@ -131,7 +128,6 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-popt-dev
 procps-ng
 python-dev
 python3-dev

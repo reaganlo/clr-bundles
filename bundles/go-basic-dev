@@ -1,13 +1,12 @@
 # [TITLE]: go-basic-dev
 # [DESCRIPTION]: All packages required to build the go-basic bundle.
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(go-basic)
 include(os-core-dev)
 include(os-dev-extras)
 CUnit-dev
-LVM2-dev
 Linux-PAM-dev
 acl-dev
 asciidoc
@@ -23,6 +22,7 @@ boost-dev
 bzip2
 bzip2-dev
 ca-certs
+check-dev
 clr-rpm-config
 cmake
 coreutils
@@ -33,6 +33,7 @@ db-dev
 dbus-dev
 dbus-glib-dev
 dejagnu
+desktop-file-utils
 diffutils
 docbook-xml
 doxygen
@@ -83,14 +84,20 @@ gtk-doc-dev
 guile
 gzip
 hostname
+inputproto
+inputproto-dev
 intltool
 intltool-dev
 iptables-dev
+kbproto-dev
 kmod-dev
 ldd
 libICE-dev
 libSM-dev
 libX11-dev
+libXdmcp-dev
+libXext-dev
+libXi-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -103,12 +110,12 @@ libgpg-error-dev
 libidn-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
-libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
 libtool-dev
 libunwind-dev
+libxcb-dev
 libxml2-dev
 libxslt
 libxslt-bin
@@ -122,7 +129,6 @@ ncurses-dev
 netbase
 nghttp2-dev
 nss-altfiles
-nss-dev
 openssl
 openssl-dev
 p11-kit
@@ -136,16 +142,17 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-popt-dev
 procps-ng
 procps-ng-bin
 python-dev
+python3
 python3-dev
 readline-dev
 rpm-build
 sed
 setuptools
 shadow
+shared-mime-info
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
@@ -162,10 +169,17 @@ unzip
 util-linux
 util-linux-dev
 util-linux-extras
+util-macros-dev
 valgrind
 valgrind-dev
 which
+xcb-proto-dev
+xcb-proto-python
+xextproto-dev
+xf86bigfontproto-dev
 xmlto
+xproto-dev
+xtrans-dev
 xz
 xz-dev
 zlib-dev

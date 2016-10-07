@@ -1,20 +1,22 @@
 # [TITLE]: containers-basic-dev
 # [DESCRIPTION]: All packages required to build the containers-basic bundle.
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(containers-basic)
 include(os-core-dev)
 include(os-dev-extras)
 include(kernel-container)
-include(network-advanced)
+include(network-basic)
 include(storage-utils)
+include(network-basic-dev)
 include(storage-utils-dev)
 CUnit-dev
 LVM2-dev
 Linux-PAM-dev
 acl-dev
 asciidoc
+atk-dev
 attr-dev
 autoconf
 autogen
@@ -32,8 +34,10 @@ btrfs-progs-devel
 bzip2
 bzip2-dev
 ca-certs
+cairo-dev
 check-dev
 clear-containers-image
+clear-font
 clr-rpm-config
 cmake
 containerd-dev
@@ -42,6 +46,7 @@ cppcheck
 cracklib-dev
 cryptsetup-dev
 curl-dev
+db
 db-dev
 dbus-dev
 dbus-glib-dev
@@ -60,8 +65,13 @@ emacs
 expat-dev
 expect
 filesystem-chroot
+flake8-python
 flex
 flex-dev
+font-bitstream-type1
+fontconfig-data
+fontconfig-dev
+freetype-dev
 fuse-dev
 gawk
 gcc
@@ -69,8 +79,11 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
+gdk-pixbuf
+gdk-pixbuf-dev
 gettext
 gettext-bin
 gettext-dev
@@ -99,13 +112,17 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+harfbuzz-dev
 hostname
 icu4c-dev
+inputproto
+inputproto-dev
 intltool
 intltool-dev
 iptables-dev
 json-c-dev
 json-glib-dev
+kbproto-dev
 kmod
 kmod-dev
 lcov
@@ -114,6 +131,12 @@ less
 libICE-dev
 libSM-dev
 libX11-dev
+libXdmcp-dev
+libXext-dev
+libXft-dev
+libXi-dev
+libXinerama-dev
+libXrender-dev
 libassuan-dev
 libc-bin
 libc6-dev
@@ -129,6 +152,7 @@ libibmad-dev
 libibumad-dev
 libibverbs-dev
 libidn-dev
+libjpeg-turbo-dev
 libksba-dev
 libmnl-dev
 libnetfilter_conntrack-dev
@@ -140,7 +164,8 @@ libnftnl-dev
 libnl-dev
 libpcap-dev
 libpng-dev
-libpwquality-dev
+librsvg
+librsvg-dev
 libseccomp-dev
 libstdc++
 libstdc++-dev
@@ -149,6 +174,7 @@ libtool
 libtool-dev
 libunwind-dev
 libusb-compat-dev
+libxcb-dev
 libxml2-dev
 libxslt
 libxslt-bin
@@ -160,6 +186,7 @@ m4
 make
 mpc-dev
 mpfr-dev
+nasm-bin
 ncurses-dev
 net-tools
 netbase
@@ -169,7 +196,6 @@ nettle-lib
 nghttp2-dev
 npth-dev
 nss-altfiles
-nss-dev
 numactl-dev
 opensm-dev
 openssl
@@ -177,11 +203,38 @@ openssl-dev
 p11-kit
 p11-kit-bin
 p11-kit-dev
+pango-dev
 patch
 pbr
 pcre-dev
 perl
+perl-Class-Singleton
+perl-Crypt-SSLeay
+perl-Encode-Locale
+perl-HTML-Tagset
+perl-HTTP-Date
+perl-HTTP-Message
+perl-IO-HTML
+perl-IO-Socket-SSL
+perl-LWP-MediaTypes
+perl-LWP-Protocol-https
+perl-Module-Build
+perl-Module-Implementation
+perl-Module-Runtime
+perl-Mozilla-CA
+perl-Net-HTTP
+perl-Net-SSLeay
+perl-Params-Validate
+perl-Path-Class
+perl-Test-Fatal
+perl-Test-Output
+perl-Test-Requires
+perl-Test-Simple
+perl-Test-Taint
+perl-Try-Tiny
+perl-URI
 perl-XML-Parser
+perl-libwww-perl
 pigz
 pip
 pixman-dev
@@ -191,9 +244,13 @@ popt-dev
 procps-ng
 procps-ng-bin
 python-dev
+python3
 python3-dev
+qemu
 qemu-lite
 readline-dev
+renderproto-dev
+requests-python
 rpm-build
 ruby
 runc-dev
@@ -216,11 +273,20 @@ unzip
 util-linux
 util-linux-dev
 util-linux-extras
+util-macros-dev
 valgrind
 valgrind-dev
+websocket_client
 which
 wpa_supplicant
+xcb-proto-dev
+xcb-proto-python
+xextproto-dev
+xf86bigfontproto-dev
+xineramaproto-dev
 xmlto
+xproto-dev
+xtrans-dev
 xz
 xz-dev
 zlib-dev

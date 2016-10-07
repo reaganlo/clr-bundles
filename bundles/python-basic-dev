@@ -1,15 +1,12 @@
 # [TITLE]: python-basic-dev
 # [DESCRIPTION]: All packages required to build the python-basic bundle.
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(python-basic)
 include(os-core-dev)
 include(os-dev-extras)
-Babel-python
-LVM2-dev
 Linux-PAM-dev
-Pygments
 acl-dev
 argcomplete
 argparse-python
@@ -23,6 +20,7 @@ bison
 bison-dev
 bzip2
 bzip2-dev
+check-dev
 clr-rpm-config
 cmake
 colorama-python
@@ -47,7 +45,6 @@ expect
 filesystem-chroot
 flex
 flex-dev
-funcsigs-python
 gawk
 gcc
 gcc-dev
@@ -59,7 +56,6 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-gfortran
 git
 glib-bin
 glib-dev
@@ -77,14 +73,20 @@ gtk-doc-dev
 guile
 gzip
 hostname
+inputproto
+inputproto-dev
 intltool
 intltool-dev
 iptables-dev
+kbproto-dev
 kmod-dev
 ldd
 libICE-dev
 libSM-dev
 libX11-dev
+libXdmcp-dev
+libXext-dev
+libXi-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -95,12 +97,12 @@ libgcrypt-dev
 libgpg-error-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
-libpwquality-dev
 libstdc++
 libstdc++-dev
 libtool
 libtool-dev
 libunwind-dev
+libxcb-dev
 libxml2-dev
 libxslt
 libxslt-bin
@@ -112,12 +114,8 @@ mpc-dev
 mpfr-dev
 ncurses-dev
 netbase
-nose
 nose-python
 nss-altfiles
-nss-dev
-numpy
-openblas
 openssl
 openssl-dev
 p11-kit
@@ -131,26 +129,19 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-pluggy
-popt-dev
 procps-ng
 procps-ng-bin
-py-python
-pytest
 pytest-xdist
 python-dev
 python-mock
-python-mock-python
+python3
 python3-dev
-pytz-python
 readline-dev
 rpm-build
 sed
 setuptools
 shadow
 shared-mime-info
-six
-six-python
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
@@ -161,17 +152,22 @@ tcl
 tcl-dev
 texinfo
 tk-dev
-tox
 tzdata
 unittest2
 unzip
 util-linux-dev
 util-linux-extras
+util-macros-dev
 valgrind
 valgrind-dev
-virtualenv
 which
+xcb-proto-dev
+xcb-proto-python
+xextproto-dev
+xf86bigfontproto-dev
 xmlto
+xproto-dev
+xtrans-dev
 xz
 xz-dev
 zlib-dev

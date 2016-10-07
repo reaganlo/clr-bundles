@@ -1,12 +1,11 @@
 # [TITLE]: mail-utils-dev
 # [DESCRIPTION]: All packages required to build the mail-utils bundle.
-# [STATUS]: WIP
-# [CAPABILITIES]: 
+# [STATUS]: Active
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(mail-utils)
 include(os-core-dev)
 include(os-dev-extras)
-LVM2-dev
 Linux-PAM-dev
 acl-dev
 attr-dev
@@ -97,7 +96,6 @@ libgpg-error-dev
 libidn-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
-libpwquality-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -120,7 +118,6 @@ nettle
 nettle-dev
 nettle-lib
 nss-altfiles
-nss-dev
 openssl-dev
 p11-kit
 p11-kit-bin
@@ -133,7 +130,6 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-popt-dev
 procps-ng
 python-dev
 python3-dev
