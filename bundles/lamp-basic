@@ -1,16 +1,8 @@
 # [TITLE]: lamp-basic
 # [DESCRIPTION]: Basic LAMP Server (apache2, mariadb, php5)
-# [STATUS]: Active
-# [CAPABILITIES]: 1)  Starts MariaDB on boot 
-#                 2)  Starts Apache2 (httpd) on startup (currently port 80 & no-SSL)
-#                 3)  Apache2 is configured to run PHP.
-#                 4)  Data area is ready at /usr/share/httpd/{cgi-bin,htdocs,etc.}
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-httpd
-httpd-dev
-mariadb
-mariadb-server
-mariadb-config
-php
-bndl-lamp-basic
-php-extras
+include(database-basic)
+include(php-basic)
+include(web-server-basic)

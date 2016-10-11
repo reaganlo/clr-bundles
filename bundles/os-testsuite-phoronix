@@ -1,9 +1,11 @@
 # [TITLE]: os-testsuite-phoronix
-# [DESCRIPTION]: All the required pieces for running the Phoronix Test Suite
+# [DESCRIPTION]: Run the Phoronix testsuite
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(lamp-basic)
+include(database-basic)
+include(php-basic)
+include(web-server-basic)
 include(machine-learning-basic)
 include(os-utils-gui)
 SDL
@@ -25,6 +27,7 @@ bc
 beignet
 beignet-dev
 bison
+bndl-lamp-basic
 boost-dev
 bzip2-dev
 bzip2-dev
