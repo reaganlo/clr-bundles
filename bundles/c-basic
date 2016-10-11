@@ -15,6 +15,7 @@ libc6-dev
 libc6-locale
 libtool
 libtool-dev
+linux-libc-headers
 llvm
 llvm-dev
 m4
