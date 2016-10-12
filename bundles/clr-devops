@@ -8,5 +8,6 @@ include(os-core-update)
 include(mixer)
 include(java-basic)
 include(rust-basic)
+include(koji)
 httpd
 mash
