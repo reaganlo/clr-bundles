@@ -12,6 +12,7 @@ bison
 cmake
 flex
 gcc
+gcc-dev
 libstdc++
 glibc-utils
 libc6-dev
