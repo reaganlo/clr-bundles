@@ -21,4 +21,5 @@ docker-py-python
 requests-python
 six-python
 websocket_client
+openssh-bin
 # End ansible deps
