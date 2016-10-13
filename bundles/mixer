@@ -8,6 +8,9 @@ include(sysadmin-basic)
 bundle-chroot-builder
 createrepo_c
 hardlink
+m4
 mixer-tools
 nosync
+rpm
 swupd-server
+yum
