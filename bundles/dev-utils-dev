@@ -8,6 +8,7 @@ include(os-core-dev)
 include(os-dev-extras)
 CUnit-dev
 Linux-PAM-dev
+Pygments
 acl-dev
 asciidoc
 attr-dev
@@ -147,6 +148,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+processor-trace-dev
 procps-ng
 procps-ng-bin
 python-dev

@@ -38,8 +38,10 @@ Jinja2
 LVM2
 LVM2-dev
 Linux-PAM-dev
+Mako
 Mako-python
 MarkupSafe
+Pygments
 R-dev
 Sphinx
 Sphinx-python
@@ -134,6 +136,7 @@ flake8
 flex
 flex-dev
 font-bitstream-type1
+font-util-dev
 fontconfig-data
 fontconfig-dev
 freeglut-dev
@@ -318,6 +321,8 @@ m4
 make
 man-db
 mesa-dev
+mkfontdir-bin
+mkfontscale-bin
 mpc-dev
 mpfr-dev
 nasm-bin
@@ -354,8 +359,10 @@ pciutils-dev
 pcre-dev
 pep8
 perl
+perl-Capture-Tiny
 perl-Class-Singleton
 perl-Crypt-SSLeay
+perl-Data-OptList
 perl-Encode-Locale
 perl-Error
 perl-HTML-Tagset
@@ -371,8 +378,11 @@ perl-Module-Runtime
 perl-Mozilla-CA
 perl-Net-HTTP
 perl-Net-SSLeay
+perl-Params-Util
 perl-Params-Validate
 perl-Path-Class
+perl-Sub-Exporter
+perl-Sub-Install
 perl-Test-Fatal
 perl-Test-Output
 perl-Test-Requires
@@ -393,6 +403,7 @@ pluggy
 popt-dev
 presentproto-dev
 pretend-python
+processor-trace-dev
 procps-ng
 procps-ng-bin
 protobuf-dev
