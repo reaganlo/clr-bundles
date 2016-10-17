@@ -8,3 +8,4 @@ linux
 linux-firmware
 mcelog
 irqbalance
+thermal_daemon
