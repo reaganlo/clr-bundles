@@ -5,4 +5,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 httpd
 httpd-dev
+mod_wsgi
 nginx
+uwsgi
