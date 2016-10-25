@@ -12,7 +12,7 @@ bind-utils
 bridge-utils
 connman
 conntrack-tools
-curl-bin
+curl
 dpdk
 ebtables
 ethtool

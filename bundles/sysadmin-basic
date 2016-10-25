@@ -3,16 +3,27 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# pciutils is not autospeced and so -data and -doc are specified manually
+# This bundle specificly contains all -doc bundles for os-core as well due
+# to size constraints for os-core.
 bzip2
 clr-hardware-files
 collectl
+coreutils
 cpuid
+dbus
 dos2unix
+e2fsprogs
 file
 findutils
+gawk
 gawk-extras
+grep
+hostname
 htop
+iproute2
 kbd
+kmod
 less
 libc-bin
 lsacpi
@@ -21,6 +32,7 @@ man-db
 man-pages
 mc
 mosh
+motd-update
 parallel
 pciutils
 pciutils-data
@@ -28,13 +40,17 @@ pciutils-doc
 powertop
 procps-ng
 psmisc
+sed
+shadow
 sharutils
-sudo
 strace
-systemd-doc
+sudo
+systemd
+systemd-bootchart
+systemd-extras
 tmux
 tree
 unzip
 usbutils
+util-linux
 which
-motd-update

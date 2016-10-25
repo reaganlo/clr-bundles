@@ -1,10 +1,6 @@
 # [TITLE]: os-core-doc
 # [DESCRIPTION]: Provides documentation and manpages for os-core
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(os-core)
-systemd-doc
-systemd-extras
-shadow-doc
-clr-systemd-config-extras
+filesystem

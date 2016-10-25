@@ -1,11 +1,6 @@
 # [TITLE]: dev-utils-doc
 # [DESCRIPTION]: Provides documentation and manpages for dev-utils
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(dev-utils)
-cgdb-doc
-gdb-doc
-strace-doc
-valgrind-doc
-lcov-doc
+filesystem

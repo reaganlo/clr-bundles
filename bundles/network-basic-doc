@@ -1,12 +1,6 @@
 # [TITLE]: network-basic-doc
 # [DESCRIPTION]: Provides documentation and manpages for network-basic
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(network-basic)
-openssh-doc
-openssh-extras
-tcpdump-doc
-net-tools-doc
-rsync-doc
-ethtool-doc
+filesystem
