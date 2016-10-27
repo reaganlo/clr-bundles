@@ -4,27 +4,27 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(c-basic)
+include(dev-utils)
 include(dev-utils-dev)
-include(dev-utils-doc)
-include(editors-doc)
+include(editors)
 include(go-basic)
 include(koji)
 include(kvm-host)
 include(mail-utils)
 include(mail-utils-dev)
 include(mixer)
+include(network-basic)
 include(network-basic-dev)
-include(network-basic-doc)
 include(openssh-server)
+include(os-core)
 include(os-core-dev)
-include(os-core-doc)
 include(os-core-update-dev)
 include(perl-basic)
 include(python-basic)
+include(storage-utils)
 include(storage-utils-dev)
-# needs autodoc first include(storage-utils-doc)
+include(sysadmin-basic)
 include(sysadmin-basic-dev)
-include(sysadmin-basic-doc)
 Mako-python
 catkin
 catkin_pkg
