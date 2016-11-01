@@ -1,8 +1,0 @@
-# [TITLE]: lamp-basic
-# [DESCRIPTION]: Basic LAMP Server (apache2, mariadb, php5)
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(database-basic)
-include(php-basic)
-include(web-server-basic)

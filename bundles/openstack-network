@@ -1,6 +1,0 @@
-# [TITLE]: openstack-network
-# [DESCRIPTION]: Provides an OpenStack Neutron server
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-filesystem

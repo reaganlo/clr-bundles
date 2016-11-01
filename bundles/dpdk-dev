@@ -1,6 +1,0 @@
-# [TITLE]: dpdk-dev
-# [DESCRIPTION]: All headers and libraries necessary to develop with the Data Plane Development Kit.
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-filesystem

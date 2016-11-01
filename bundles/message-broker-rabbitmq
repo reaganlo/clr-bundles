@@ -1,6 +1,0 @@
-# [TITLE]: message-broker-rabbitmq
-# [DESCRIPTION]: Provides the RabbitMQ messaging service
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Geronimo Orozco <geronimo.orozco@intel.com>
-filesystem

@@ -1,8 +1,0 @@
-# [TITLE]: iot
-# [DESCRIPTION]: The IoT (Internet of Things) base bundle
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-# This bundle was split into iot-base and iot-extas, and iot
-# can be deleted anytime.
-include(iot-extras)

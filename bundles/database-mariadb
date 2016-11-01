@@ -1,6 +1,0 @@
-# [TITLE]: database-mariadb
-# [DESCRIPTION]: Provides components needed to run MariaDB
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-filesystem
