@@ -1,6 +1,6 @@
 # [TITLE]: cloud-network
-# [DESCRIPTION]: Support for cloud networking agents
-# [STATUS]: Deprecated
+# [DESCRIPTION]: Configure a cloud orchestration network
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(openssh-server)
