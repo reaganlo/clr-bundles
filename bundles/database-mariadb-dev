@@ -1,0 +1,6 @@
+# [TITLE]: database-mariadb-dev
+# [DESCRIPTION]: Provides MariaDB development tools (libraries and drivers)
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+filesystem

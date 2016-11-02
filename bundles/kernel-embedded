@@ -1,0 +1,6 @@
+# [TITLE]: kernel-embedded
+# [DESCRIPTION]: Provides a Linux kernel appropriate for embedded devices
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(kernel-iot)

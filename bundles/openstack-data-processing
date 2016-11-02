@@ -1,0 +1,6 @@
+# [TITLE]: openstack-data-processing
+# [DESCRIPTION]: Provides a simple means to provision a data-intensive application cluster 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Jose Luis Rivera <jose.luis.rivera.magallon@intel.com>
+filesystem

@@ -1,0 +1,6 @@
+# [TITLE]: openstack-compute-controller
+# [DESCRIPTION]: Provides an OpenStack Nova control server
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
+filesystem

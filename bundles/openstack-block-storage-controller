@@ -1,0 +1,6 @@
+# [TITLE]: openstack-block-storage-controller
+# [DESCRIPTION]: Run openstack block storage controller service
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
+filesystem

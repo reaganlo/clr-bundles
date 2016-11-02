@@ -1,0 +1,8 @@
+# [TITLE]: lnmp-basic
+# [DESCRIPTION]: Basic LNMP Server (nginx, mariadb, php5)
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(database-basic)
+include(php-basic)
+include(web-server-basic)

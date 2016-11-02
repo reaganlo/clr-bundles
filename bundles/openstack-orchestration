@@ -1,0 +1,6 @@
+# [TITLE]: openstack-orchestration
+# [DESCRIPTION]: Provides an OpenStack Heat service
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
+filesystem

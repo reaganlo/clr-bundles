@@ -1,0 +1,6 @@
+# [TITLE]: network-advanced
+# [DESCRIPTION]: More utilities for advanced host-level networking; bridge, switch, netfilter, vpn etc.
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+filesystem

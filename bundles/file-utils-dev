@@ -1,0 +1,6 @@
+# [TITLE]: file-utils-dev
+# [DESCRIPTION]: All packages required to build the file-utils bundle.
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+filesystem

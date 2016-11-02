@@ -1,0 +1,6 @@
+# [TITLE]: os-utils
+# [DESCRIPTION]: Provides a core set of OS utilities
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+filesystem

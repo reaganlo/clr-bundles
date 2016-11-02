@@ -1,0 +1,6 @@
+# [TITLE]: file-utils
+# [DESCRIPTION]: Provides basic set of file manipulation utilities
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+filesystem

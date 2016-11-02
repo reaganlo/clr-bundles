@@ -1,0 +1,6 @@
+# [TITLE]: openstack-telemetry
+# [DESCRIPTION]: Provides an OpenStack Telemetry server
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+filesystem

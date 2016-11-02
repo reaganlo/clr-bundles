@@ -1,0 +1,6 @@
+# [TITLE]: network-proxy-client-dev
+# [DESCRIPTION]: All packages required to build the network-proxy-client bundle.
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Jim Chamings <jim.chamings@intel.com>
+filesystem

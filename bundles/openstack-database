@@ -1,0 +1,6 @@
+# [TITLE]: openstack-database
+# [DESCRIPTION]: Provides a Database as a Service server
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
+filesystem
