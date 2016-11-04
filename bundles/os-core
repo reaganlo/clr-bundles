@@ -26,3 +26,5 @@ systemd-bootchart-bin
 systemd-libs
 tzdata-minimal
 util-linux-bin
+nano-bin
+nano-data
