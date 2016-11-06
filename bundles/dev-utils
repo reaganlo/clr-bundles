@@ -14,6 +14,8 @@ libc-bin
 libc6-locale
 linux-tools
 patch
+patchutils
 quilt
 strace
+ltrace
 valgrind
