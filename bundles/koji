@@ -11,3 +11,4 @@ createrepo_c-bin
 Cheetah
 usermode
 enum34
+cffi
