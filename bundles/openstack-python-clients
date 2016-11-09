@@ -13,6 +13,7 @@ jsonpatch
 jsonpointer
 openstacksdk
 os-client-config
+osc-lib
 pip
 pyparsing
 python-barbicanclient
