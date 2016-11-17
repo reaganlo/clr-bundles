@@ -5,16 +5,3 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 go
 git
-golang-github-client9-gospell
-golang-github-client9-misspell
-golang-github-client9-plaintext
-golang-github-fzipp-gocyclo
-golang-github-golang-lint
-golang-github-google-gofuzz
-golang-github-gordonklaus-ineffassign
-golang-github-kisielk-errcheck
-golang-github-kisielk-gotool
-golang-github-naoina-go-stringutil
-golang-github-naoina-toml
-golang-github-ryanuber-go-glob
-golang-googlecode-go-tools

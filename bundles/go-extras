@@ -1,49 +1,6 @@
 # [TITLE]: go-extras
 # [DESCRIPTION]: Improve the user experience with a common set of go libraries
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-include(go-basic)
-golang-github-go-mgo-mgo
-golang-github-go-sql-driver-mysql
-golang-github-gorilla-context
-golang-github-gorilla-mux
-golang-github-gorilla-websocket
-golang-github-lib-pq
-golang-github-streadway-amqp
-golang-github-stretchr-objx
-golang-github-stretchr-testify
-golang-googlecode-go-crypto
-golang-googlecode-go-mobile
-golang-googlecode-go-net
-golang-googlecode-go-text
-golang-github-BurntSushi-toml
-golang-github-Sirupsen-logrus
-golang-github-boltdb-bolt
-golang-github-codegangsta-cli
-golang-github-coreos-go-iptables
-golang-github-coreos-go-systemd
-golang-github-davecgh-go-spew
-golang-github-deckarep-golang-set
-golang-github-docker-distribution
-golang-github-docker-docker
-golang-github-docker-engine-api
-golang-github-docker-go-connections
-golang-github-docker-go-units
-golang-github-docker-libkv
-golang-github-docker-libnetwork
-golang-github-go-yaml-yaml
-golang-github-godbus-dbus
-golang-github-golang-glog
-golang-github-hashicorp-serf
-golang-github-mattn-go-sqlite3
-golang-github-miekg-dns
-golang-github-opencontainers-runc
-golang-github-opencontainers-runtime-spec
-golang-github-rackspace-gophercloud
-golang-github-russross-blackfriday
-golang-github-shurcooL-sanitized_anchor_name
-golang-github-syndtr-gocapability
-golang-github-tylerb-graceful
-golang-github-vishvananda-netlink
-golang-github-vishvananda-netns
+filesystem
