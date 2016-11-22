@@ -104,8 +104,10 @@ libgpg-error-dev
 libibmad-dev
 libibumad-dev
 libibverbs-dev
+libmnl-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
+libnftnl-dev
 libnl-dev
 libstdc++
 libstdc++-dev
@@ -156,6 +158,7 @@ sed
 setuptools
 shadow
 shared-mime-info
+slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace

@@ -1,7 +1,7 @@
 # [TITLE]: os-core-update-dev
 # [DESCRIPTION]: All packages required to build the os-core-update bundle.
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 include(os-core-update)
 include(os-core-dev)
@@ -43,7 +43,6 @@ doxygen
 e2fsprogs
 e2fsprogs-dev
 elfutils-dev
-emacs
 expat-dev
 expect
 filesystem-chroot
@@ -96,8 +95,10 @@ libffi-dev
 libgcrypt-dev
 libgpg-error-dev
 libidn-dev
+libmnl-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
+libnftnl-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -137,6 +138,7 @@ sed
 setuptools
 shadow
 shared-mime-info
+slang-dev
 strace
 swupd-client-dev
 systemd-boot

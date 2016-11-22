@@ -60,6 +60,7 @@ gnu-efi-dev
 gperf
 graphviz
 grep
+groff
 gtk-doc
 gtk-doc-dev
 guile
@@ -82,8 +83,10 @@ libcgroup-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
+libmnl-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
+libnftnl-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -120,6 +123,7 @@ rpm-build
 sed
 setuptools
 shadow
+slang-dev
 strace
 systemd-dev
 systemd-libs

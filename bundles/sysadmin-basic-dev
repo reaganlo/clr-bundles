@@ -6,6 +6,7 @@
 include(sysadmin-basic)
 include(os-core-dev)
 include(os-dev-extras)
+CUnit-dev
 Linux-PAM-dev
 acl-dev
 attr-dev
@@ -18,9 +19,11 @@ binutils
 binutils-dev
 bison
 bison-dev
+boost-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
+ca-certs
 check
 check-dev
 clr-rpm-config
@@ -38,6 +41,7 @@ diffutils
 docbook-xml
 doxygen
 e2fsprogs
+e2fsprogs-dev
 elfutils-dev
 emacs
 expat-dev
@@ -47,6 +51,7 @@ filesystem-chroot
 flex
 flex-dev
 gawk
+gawk-dev
 gcc
 gcc-dev
 gcc-dev32
@@ -79,6 +84,7 @@ inputproto
 inputproto-dev
 intltool
 intltool-dev
+iproute2-dev
 iptables-dev
 kbproto-dev
 kmod-dev
@@ -99,8 +105,11 @@ libevent-dev
 libffi-dev
 libgcrypt-dev
 libgpg-error-dev
+libidn-dev
+libmnl-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
+libnftnl-dev
 libnl-dev
 libpipeline-dev
 libpng-dev
@@ -123,6 +132,7 @@ mpc-dev
 mpfr-dev
 ncurses-dev
 netbase
+nghttp2-dev
 nss-altfiles
 onig-dev
 openssl

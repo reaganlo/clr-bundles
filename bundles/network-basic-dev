@@ -219,6 +219,8 @@ pkg-config-dev
 popt-dev
 procps-ng
 procps-ng-bin
+protobuf-c-dev
+python
 python-dev
 python3
 python3-dev
@@ -231,6 +233,9 @@ sed
 setuptools
 shadow
 shared-mime-info
+six
+six-python
+slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace

@@ -94,8 +94,10 @@ libffi-dev
 libgcrypt-dev
 libgpg-error-dev
 libidn-dev
+libmnl-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
+libnftnl-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -138,6 +140,7 @@ rpm-build
 sed
 setuptools
 shadow
+slang-dev
 strace
 systemd-dev
 systemd-libs

@@ -39,7 +39,6 @@ docbook-xml
 doxygen
 e2fsprogs
 elfutils-dev
-emacs
 expat-dev
 expect
 filesystem-chroot
@@ -67,14 +66,6 @@ gmp-dev
 gnu-efi
 gnu-efi-dev
 go
-golang-github-client9-gospell
-golang-github-client9-plaintext
-golang-github-kisielk-gotool
-golang-github-naoina-go-stringutil
-golang-github-naoina-toml
-golang-github-ryanuber-go-glob
-golang-googlecode-go-net
-golang-googlecode-go-tools
 gperf
 graphviz
 grep
@@ -108,8 +99,10 @@ libffi-dev
 libgcrypt-dev
 libgpg-error-dev
 libidn-dev
+libmnl-dev
 libnetfilter_conntrack-dev
 libnfnetlink-dev
+libnftnl-dev
 libstdc++
 libstdc++-dev
 libtool
@@ -153,6 +146,7 @@ sed
 setuptools
 shadow
 shared-mime-info
+slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
