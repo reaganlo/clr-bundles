@@ -16,6 +16,7 @@ libmlx5-dev
 mdadm
 mstflint
 ndctl
+ntfs-3g
 opensm
 parted
 rdma
