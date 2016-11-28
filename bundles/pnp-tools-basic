@@ -17,6 +17,7 @@ iptraf
 latencytop
 ltp
 ltrace
+msr-tools
 net-snmp
 net-tools
 nicstat
