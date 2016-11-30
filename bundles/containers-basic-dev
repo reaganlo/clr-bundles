@@ -40,6 +40,7 @@ clear-containers-image
 clear-font
 clr-rpm-config
 cmake
+cmake-dev
 containerd-dev
 coreutils
 cppcheck

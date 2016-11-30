@@ -130,6 +130,7 @@ ncurses-dev
 ndctl-dev
 netbase
 nss-altfiles
+ntfs-3g-dev
 opensm-dev
 openssl
 openssl-dev

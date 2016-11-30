@@ -25,6 +25,7 @@ ca-certs
 check-dev
 clr-rpm-config
 cmake
+cmake-dev
 coreutils
 cracklib-dev
 cryptsetup-dev

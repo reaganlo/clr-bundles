@@ -32,6 +32,7 @@ check-dev
 clear-font
 clr-rpm-config
 cmake
+cmake-dev
 connman-dev
 coreutils
 cracklib-dev
