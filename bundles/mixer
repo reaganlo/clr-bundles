@@ -11,6 +11,7 @@ hardlink
 m4
 mixer-tools
 nosync
+python-rpm
 rpm
 swupd-server
 yum
