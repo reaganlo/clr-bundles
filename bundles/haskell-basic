@@ -1,0 +1,6 @@
+# [TITLE]: haskell-basic
+# [DESCRIPTION]: Build and run haskell language programs
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+stack
