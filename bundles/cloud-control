@@ -5,6 +5,7 @@
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
 include(kvm-host)
 include(network-basic)
+include(storage-cluster)
 sqlite-autoconf
 xorriso
 ciao
