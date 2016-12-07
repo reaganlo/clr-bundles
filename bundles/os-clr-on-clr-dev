@@ -436,7 +436,6 @@ rpm-build
 rpm-common
 rpm-dev
 ruby
-ruby-dev
 scons
 sed
 setuptools
@@ -508,7 +507,6 @@ xz
 xz-dev
 yajl-dev
 yajl-lib
-yaml-lib
 yasm
 zlib
 zlib-dev
