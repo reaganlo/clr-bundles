@@ -7,11 +7,17 @@ include(python-basic)
 include(sysadmin-basic)
 bundle-chroot-builder
 createrepo_c
+git
 hardlink
 m4
 mixer-tools
 nosync
+openssl
+pyliblzma
 python-rpm
 rpm
 swupd-server
+urlgrabber
 yum
+yum-metadata-parser
+yum-utils
