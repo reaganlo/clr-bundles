@@ -7,6 +7,7 @@ ca-certs
 clr-power-tweaks
 clr-systemd-config
 coreutils-bin
+dbus-autostart
 dbus-bin
 dist-pam-configs
 e2fsprogs-bin
