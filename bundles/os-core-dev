@@ -5,8 +5,11 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(os-core)
 Linux-PAM-dev
+Linux-PAM-dev32
 acl-dev
+acl-dev32
 attr-dev
+attr-dev32
 autoconf
 autogen
 automake
@@ -24,6 +27,7 @@ cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
+dbus-dev32
 dbus-glib-dev
 dejagnu
 diffutils
@@ -33,6 +37,7 @@ e2fsprogs
 e2fsprogs-dev
 elfutils-dev
 expat-dev
+expat-dev32
 expect
 filesystem-chroot
 flex
@@ -70,23 +75,35 @@ intltool
 intltool-dev
 iproute2-dev
 iptables-dev
+iptables-dev32
 kmod-dev
+kmod-dev32
 ldd
 libICE-dev
+libICE-dev32
 libSM-dev
+libSM-dev32
 libX11-dev
+libX11-dev32
 libc6-dev
 libc6-locale
 libcap-dev
+libcap-dev32
 libcap-ng-dev
+libcap-ng-dev32
 libcgroup-dev
 libffi-dev
 libgcrypt-dev
+libgcrypt-dev32
 libgpg-error-dev
 libmnl-dev
+libmnl-dev32
 libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
 libnfnetlink-dev
+libnfnetlink-dev32
 libnftnl-dev
+libnftnl-dev32
 libstdc++
 libstdc++-dev
 libtool
@@ -126,6 +143,7 @@ shadow
 slang-dev
 strace
 systemd-dev
+systemd-dev32
 systemd-libs
 tar
 tcl
@@ -133,6 +151,7 @@ texinfo
 tzdata
 unzip
 util-linux-dev
+util-linux-dev32
 util-linux-extras
 valgrind
 valgrind-dev
@@ -140,4 +159,6 @@ which
 xmlto
 xz
 xz-dev
+xz-dev32
 zlib-dev
+zlib-dev32
