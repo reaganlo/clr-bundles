@@ -3,4 +3,5 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
+swupd-probe
 telemetrics-client
