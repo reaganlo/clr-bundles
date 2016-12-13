@@ -7,6 +7,7 @@ include(sysadmin-basic)
 include(os-core-dev)
 include(os-dev-extras)
 CUnit-dev
+CUnit-dev32
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -31,7 +32,6 @@ check
 check-dev
 clr-rpm-config
 cmake
-cmake-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -121,11 +121,13 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
+libevent-dev32
 libffi-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libidn-dev
+libidn-dev32
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev
@@ -146,6 +148,7 @@ libusb-dev
 libxcb-dev
 libxcb-dev32
 libxml2-dev
+libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
@@ -158,10 +161,13 @@ mpfr-dev
 ncurses-dev
 netbase
 nghttp2-dev
+nghttp2-dev32
 nss-altfiles
 onig-dev
 openssl
 openssl-dev
+openssl-dev32
+openssl-lib32
 p11-kit
 p11-kit-bin
 patch

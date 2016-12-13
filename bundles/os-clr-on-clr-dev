@@ -39,6 +39,7 @@ include(storage-utils-dev)
 include(sysadmin-basic-dev)
 Babel
 CUnit-dev
+CUnit-dev32
 Cython
 Jinja2
 LVM2
@@ -92,7 +93,6 @@ check-dev
 clear-font
 clr-rpm-config
 cmake
-cmake-dev
 colorama-python
 compositeproto-dev
 compositeproto-dev32
@@ -297,6 +297,7 @@ libdrm-dev
 libdrm-dev32
 libepoxy-dev
 libevent-dev
+libevent-dev32
 libffi-dev
 libgcrypt-dev
 libgcrypt-dev32
@@ -307,6 +308,7 @@ libibmad-dev
 libibumad-dev
 libibverbs-dev
 libidn-dev
+libidn-dev32
 libinput-dev
 libjpeg-turbo-dev
 libksba-dev
@@ -380,6 +382,7 @@ nettle-dev
 nettle-lib
 nfs-utils
 nghttp2-dev
+nghttp2-dev32
 nose
 nose-python
 npth-dev
@@ -395,6 +398,7 @@ openssh
 openssl
 openssl-dev
 openssl-dev32
+openssl-lib32
 p11-kit
 p11-kit-bin
 p11-kit-dev

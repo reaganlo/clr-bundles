@@ -12,6 +12,7 @@ include(storage-utils)
 include(network-basic-dev)
 include(storage-utils-dev)
 CUnit-dev
+CUnit-dev32
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -43,7 +44,6 @@ clear-containers-image
 clear-font
 clr-rpm-config
 cmake
-cmake-dev
 containerd-dev
 coreutils
 cppcheck
@@ -168,6 +168,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
+libevent-dev32
 libffi-dev
 libgcrypt-dev
 libgcrypt-dev32
@@ -177,6 +178,7 @@ libibmad-dev
 libibumad-dev
 libibverbs-dev
 libidn-dev
+libidn-dev32
 libjpeg-turbo-dev
 libksba-dev
 libmnl-dev
@@ -226,12 +228,15 @@ nettle
 nettle-dev
 nettle-lib
 nghttp2-dev
+nghttp2-dev32
 npth-dev
 nss-altfiles
 numactl-dev
 opensm-dev
 openssl
 openssl-dev
+openssl-dev32
+openssl-lib32
 p11-kit
 p11-kit-bin
 p11-kit-dev

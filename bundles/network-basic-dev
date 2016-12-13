@@ -11,6 +11,7 @@ include(perl-basic)
 include(tcl-basic)
 include(perl-basic-dev)
 CUnit-dev
+CUnit-dev32
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -35,7 +36,6 @@ check-dev
 clear-font
 clr-rpm-config
 cmake
-cmake-dev
 connman-dev
 coreutils
 cracklib-dev
@@ -147,6 +147,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
+libevent-dev32
 libffi-dev
 libgcrypt-dev
 libgcrypt-dev32
@@ -156,6 +157,7 @@ libibmad-dev
 libibumad-dev
 libibverbs-dev
 libidn-dev
+libidn-dev32
 libjpeg-turbo-dev
 libmnl-dev
 libmnl-dev32
@@ -202,11 +204,14 @@ nettle
 nettle-dev
 nettle-lib
 nghttp2-dev
+nghttp2-dev32
 nss-altfiles
 openconnect-dev
 opensm-dev
 openssl
 openssl-dev
+openssl-dev32
+openssl-lib32
 openvswitch-dev
 p11-kit
 p11-kit-bin
