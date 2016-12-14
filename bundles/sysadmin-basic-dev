@@ -48,6 +48,7 @@ doxygen
 e2fsprogs
 e2fsprogs-dev
 elfutils-dev
+elfutils-dev32
 emacs
 expat-dev
 expat-dev32
@@ -71,6 +72,7 @@ gettext-dev
 git
 glib-bin
 glib-dev
+glib-dev32
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -123,6 +125,7 @@ libcgroup-dev
 libevent-dev
 libevent-dev32
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -174,6 +177,7 @@ patch
 pbr
 pciutils-dev
 pcre-dev
+pcre-dev32
 perl-XML-Parser
 pigz
 pip

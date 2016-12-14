@@ -17,6 +17,7 @@ Linux-PAM-dev32
 acl-dev
 acl-dev32
 atk-dev
+atk-dev32
 attr-dev
 attr-dev32
 autoconf
@@ -32,6 +33,7 @@ bzip2
 bzip2-dev
 ca-certs
 cairo-dev
+cairo-dev32
 check-dev
 clear-font
 clr-rpm-config
@@ -54,6 +56,7 @@ dpdk-dev
 e2fsprogs
 ebtables-dev
 elfutils-dev
+elfutils-dev32
 emacs
 expat-dev
 expat-dev32
@@ -78,12 +81,14 @@ gdb-dev
 gdbm-dev
 gdk-pixbuf
 gdk-pixbuf-dev
+gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
 git
 glib-bin
 glib-dev
+glib-dev32
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -102,6 +107,7 @@ gtk-doc-dev
 guile
 gzip
 harfbuzz-dev
+harfbuzz-dev32
 hostname
 ibutils-dev
 icu4c-dev
@@ -132,10 +138,13 @@ libXau-dev32
 libXdmcp-dev
 libXdmcp-dev32
 libXext-dev
+libXext-dev32
 libXft-dev
+libXft-dev32
 libXi-dev
 libXi-dev32
 libXinerama-dev
+libXinerama-dev32
 libXrender-dev
 libXrender-dev32
 libc-bin
@@ -149,6 +158,7 @@ libcgroup-dev
 libevent-dev
 libevent-dev32
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -159,6 +169,7 @@ libibverbs-dev
 libidn-dev
 libidn-dev32
 libjpeg-turbo-dev
+libjpeg-turbo-dev32
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev
@@ -177,6 +188,7 @@ libpng-dev32
 librdmacm-dev
 librsvg
 librsvg-dev
+librsvg-dev32
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -217,9 +229,11 @@ p11-kit
 p11-kit-bin
 p11-kit-dev
 pango-dev
+pango-dev32
 patch
 pbr
 pcre-dev
+pcre-dev32
 perl-Class-Singleton
 perl-Crypt-SSLeay
 perl-Encode-Locale
@@ -250,6 +264,7 @@ perl-libwww-perl
 pigz
 pip
 pixman-dev
+pixman-dev32
 pkg-config
 pkg-config-dev
 popt-dev
@@ -304,6 +319,7 @@ xextproto-dev32
 xf86bigfontproto-dev
 xf86bigfontproto-dev32
 xineramaproto-dev
+xineramaproto-dev32
 xmlto
 xproto-dev
 xproto-dev32

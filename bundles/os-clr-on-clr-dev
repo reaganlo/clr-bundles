@@ -61,6 +61,7 @@ asciidoc
 at-spi2-atk-dev
 at-spi2-core-dev
 atk-dev
+atk-dev32
 attr-dev
 attr-dev32
 autoconf
@@ -83,6 +84,7 @@ bzip2
 bzip2-dev
 ca-certs
 cairo-dev
+cairo-dev32
 catkin-dev
 catkin_pkg
 ceph-dev
@@ -135,6 +137,7 @@ ebtables
 ed
 elfutils
 elfutils-dev
+elfutils-dev32
 emacs
 empy
 enum34
@@ -175,6 +178,7 @@ gdb-dev
 gdbm-dev
 gdk-pixbuf
 gdk-pixbuf-dev
+gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
@@ -182,6 +186,7 @@ gfortran
 git
 glib-bin
 glib-dev
+glib-dev32
 glib-networking
 glibc-dev32
 glibc-libc32
@@ -212,6 +217,7 @@ guile-dev
 gzip
 hacking
 harfbuzz-dev
+harfbuzz-dev32
 help2man
 hostname
 hypothesis-python
@@ -265,14 +271,18 @@ libXext-dev32
 libXfixes-dev
 libXfixes-dev32
 libXft-dev
+libXft-dev32
 libXi-dev
 libXi-dev32
 libXinerama-dev
+libXinerama-dev32
 libXrandr-dev
 libXrender-dev
 libXrender-dev32
 libXt-dev
+libXt-dev32
 libXtst-dev
+libXtst-dev32
 libXv-dev
 libXv-dev32
 libXvMC-dev
@@ -293,12 +303,14 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libcroco-dev
+libcroco-dev32
 libdrm-dev
 libdrm-dev32
 libepoxy-dev
 libevent-dev
 libevent-dev32
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
@@ -311,6 +323,7 @@ libidn-dev
 libidn-dev32
 libinput-dev
 libjpeg-turbo-dev
+libjpeg-turbo-dev32
 libksba-dev
 libmnl-dev
 libmnl-dev32
@@ -336,6 +349,7 @@ libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 librsvg-dev
+librsvg-dev32
 libsoup-dev
 libstdc++
 libstdc++-dev
@@ -403,11 +417,13 @@ p11-kit
 p11-kit-bin
 p11-kit-dev
 pango-dev
+pango-dev32
 parted-dev
 patch
 pbr
 pciutils-dev
 pcre-dev
+pcre-dev32
 pep8
 perl
 perl-Capture-Tiny
@@ -448,6 +464,7 @@ pexpect
 pigz
 pip
 pixman-dev
+pixman-dev32
 pkg-config
 pkg-config-dev
 pluggy
@@ -564,6 +581,7 @@ xf86vidmodeproto-dev
 xf86vidmodeproto-dev32
 xfsprogs-dev
 xineramaproto-dev
+xineramaproto-dev32
 xkeyboard-config-dev
 xmlto
 xproto-dev

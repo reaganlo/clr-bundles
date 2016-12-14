@@ -45,6 +45,7 @@ doxygen
 e2fsprogs
 e2fsprogs-dev
 elfutils-dev
+elfutils-dev32
 expat-dev
 expat-dev32
 expect
@@ -66,6 +67,7 @@ gettext-dev
 git
 glib-bin
 glib-dev
+glib-dev32
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -117,6 +119,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -140,6 +143,7 @@ libunwind-dev
 libxcb-dev
 libxcb-dev32
 libxml2-dev
+libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
@@ -164,6 +168,7 @@ parted-dev
 patch
 pbr
 pcre-dev
+pcre-dev32
 perl
 perl-XML-Parser
 pigz
