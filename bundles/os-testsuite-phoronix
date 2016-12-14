@@ -8,6 +8,7 @@ include(php-basic)
 include(web-server-basic)
 include(machine-learning-basic)
 include(os-utils-gui)
+include(go-basic)
 SDL
 SDL-dev
 SDL2_gfx-dev
