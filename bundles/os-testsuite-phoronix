@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(database-basic)
-include(php-basic)
-include(web-server-basic)
+include(go-basic)
 include(machine-learning-basic)
 include(os-utils-gui)
-include(go-basic)
+include(php-basic)
+include(web-server-basic)
 SDL
 SDL-dev
 SDL2_gfx-dev
