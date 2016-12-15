@@ -70,6 +70,7 @@ xf86-input-evdev
 xf86-input-mouse
 xf86-input-synaptics
 xf86-video-fbdev
+xf86-video-intel
 xf86-video-vesa
 xfce4-appfinder
 xfce4-notifyd
