@@ -72,3 +72,11 @@ SDL_net-lib32
 SDL_ttf-lib32
 xz-lib32
 zlib-lib32
+SDL2-lib32
+libxkbcommon-lib32
+SDL2_gfx-lib32
+SDL2_net-lib32
+SDL2_tff-lib32
+systemd-lib32
+openal-soft-lib32
+dbus-glib-lib32
