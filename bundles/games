@@ -76,7 +76,8 @@ SDL2-lib32
 libxkbcommon-lib32
 SDL2_gfx-lib32
 SDL2_net-lib32
-SDL2_tff-lib32
+SDL2_ttf-lib32
+SDL2_image-lib32
 systemd-lib32
 openal-soft-lib32
 dbus-glib-lib32
