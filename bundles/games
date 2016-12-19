@@ -81,3 +81,5 @@ SDL2_image-lib32
 systemd-lib32
 openal-soft-lib32
 dbus-glib-lib32
+ncurses-lib32
+zenity
