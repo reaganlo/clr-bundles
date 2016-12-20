@@ -383,6 +383,7 @@ m4
 make
 man-db
 mesa-dev
+mesa-dev32
 mkfontdir-bin
 mkfontscale-bin
 mpc-dev
