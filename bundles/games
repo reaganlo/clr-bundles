@@ -84,3 +84,6 @@ dbus-glib-lib32
 ncurses-lib32
 zenity
 linux-steam-integration
+libXss-lib32
+cups-lib
+GConf-lib
