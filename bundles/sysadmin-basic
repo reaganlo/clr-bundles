@@ -51,6 +51,7 @@ systemd-doc
 systemd-extras
 tmux
 tree
+tzdata
 unzip
 usbutils
 util-linux
