@@ -24,4 +24,4 @@ libpng-lib
 libxcb-lib
 pango-lib
 pixman-lib
-libXss-lib
+libXScrnSaver-lib
