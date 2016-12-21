@@ -284,6 +284,7 @@ nss-dev
 numactl-dev
 onig-dev
 open-iscsi
+openldap-dev
 opensm-dev
 openssh
 openssl
@@ -301,6 +302,7 @@ pbr
 pciutils-dev
 pcre-dev
 pcre-dev32
+pecan
 perl
 perl-Class-Singleton
 perl-Crypt-SSLeay
@@ -357,6 +359,7 @@ qemu
 readline-dev
 renderproto-dev
 renderproto-dev32
+requests
 rpm-build
 rpm-common
 ruby
