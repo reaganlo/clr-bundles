@@ -281,6 +281,8 @@ readline-dev
 renderproto-dev
 renderproto-dev32
 rpm-build
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow

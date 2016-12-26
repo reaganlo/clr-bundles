@@ -98,6 +98,7 @@ cmake
 colorama-python
 compositeproto-dev
 compositeproto-dev32
+configparser-python
 coreutils
 coverage
 cppunit-dev
@@ -141,6 +142,7 @@ elfutils-dev32
 emacs
 empy
 enum34
+enum34-python
 execnet
 expat-dev
 expat-dev32
@@ -164,7 +166,6 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 funcsigs
-funcsigs-python
 fuse-dev
 gawk
 gc-dev
@@ -408,7 +409,6 @@ numactl-dev
 onig-dev
 open-iscsi
 openjade-dev
-openldap-dev
 opensm-dev
 openssh
 openssl
@@ -514,6 +514,8 @@ rpm-common
 rpm-dev
 ruby
 scons
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow
@@ -568,7 +570,6 @@ videoproto-dev
 videoproto-dev32
 vim
 virtualenv
-virtualenv-python
 wayland-dev
 wayland-protocols-dev
 wheel

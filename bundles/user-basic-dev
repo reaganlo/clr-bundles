@@ -284,7 +284,6 @@ nss-dev
 numactl-dev
 onig-dev
 open-iscsi
-openldap-dev
 opensm-dev
 openssh
 openssl
@@ -363,6 +362,8 @@ requests
 rpm-build
 rpm-common
 ruby
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow
