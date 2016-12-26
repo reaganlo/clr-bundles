@@ -309,6 +309,8 @@ requests-python
 rpm-build
 ruby
 runc-dev
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow
