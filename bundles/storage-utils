@@ -23,6 +23,7 @@ opensm
 parted
 rdma
 rpcbind
+samba
 sshfs
 usermode
 xfsprogs
