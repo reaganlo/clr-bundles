@@ -1,9 +1,6 @@
 # [TITLE]: nfs-utils
 # [DESCRIPTION]: Run an NFS client
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-autofs
-nfs-utils
-rpcbind
-usermode
+include(storage-utils)

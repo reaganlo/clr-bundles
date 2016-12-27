@@ -5,6 +5,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 LVM2
 LVM2-extras
+autofs
 btrfs-progs
 dosfstools
 e2fsprogs
@@ -16,9 +17,12 @@ libmlx5-dev
 mdadm
 mstflint
 ndctl
+nfs-utils
 ntfs-3g
 opensm
 parted
 rdma
+rpcbind
 sshfs
+usermode
 xfsprogs
