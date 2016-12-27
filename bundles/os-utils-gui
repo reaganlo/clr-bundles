@@ -6,6 +6,7 @@
 include(cryptography)
 include(python-basic)
 include(xfce4-desktop)
+FreeRDP
 Thunar
 Vertex-theme
 alsa-plugins-lib
@@ -94,6 +95,6 @@ xrdb
 xscreensaver
 connman-gtk
 openconnect
+xrdp
 xrestop
 xwd
-
