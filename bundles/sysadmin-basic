@@ -57,3 +57,4 @@ usbutils
 util-linux
 which
 nano
+libcap-bin
