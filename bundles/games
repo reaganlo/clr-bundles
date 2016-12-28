@@ -89,3 +89,8 @@ cups-lib
 GConf-lib
 nss-lib32
 nspr-lib32
+libudev0-shim-lib
+libudev0-shim-lib32
+NetworkManager-lib
+NetworkManager-lib32
+libgudev-lib32
