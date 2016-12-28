@@ -87,3 +87,5 @@ linux-steam-integration
 libXScrnSaver-lib32
 cups-lib
 GConf-lib
+nss-lib32
+nspr-lib32
