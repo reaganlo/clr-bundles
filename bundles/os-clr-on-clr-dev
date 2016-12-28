@@ -107,6 +107,7 @@ cryptography
 cryptography_vectors
 cryptography_vectors-python
 cryptsetup-dev
+cups-dev
 curl
 curl-dev
 damageproto-dev
@@ -207,6 +208,7 @@ gobject-introspection-dev
 googletest-dev
 gperf
 gperftools-dev
+gpgme-dev
 graphviz
 grep
 groff
@@ -375,6 +377,7 @@ libxshmfence-dev
 libxshmfence-dev32
 libxslt
 libxslt-bin
+libxslt-dev
 linux-libc-headers
 llvm-dev
 lua-dev
@@ -409,6 +412,7 @@ numactl-dev
 onig-dev
 open-iscsi
 openjade-dev
+openldap-dev
 opensm-dev
 openssh
 openssl

@@ -71,6 +71,7 @@ colorama-python
 coreutils
 cracklib-dev
 cryptsetup-dev
+cups-dev
 curl-dev
 db
 db-dev
@@ -143,6 +144,7 @@ gobject-introspection-dev
 googletest-dev
 gperf
 gperftools-dev
+gpgme-dev
 graphviz
 grep
 groff
@@ -168,6 +170,7 @@ iptables
 iptables-dev
 iptables-dev32
 isa-l-dev
+iso8601
 json-c-dev
 kbproto-dev
 kbproto-dev32
@@ -201,6 +204,7 @@ libXinerama-dev32
 libXrender-dev
 libXrender-dev32
 libaio-dev
+libassuan-dev
 libatomic_ops-dev
 libc-bin
 libc6-dev
@@ -233,6 +237,7 @@ libnetfilter_cttimeout-dev
 libnetfilter_queue-dev
 libnfnetlink-dev
 libnfnetlink-dev32
+libnfsidmap-dev
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
@@ -247,16 +252,19 @@ librsvg-dev32
 libstdc++
 libstdc++-dev
 libtasn1-dev
+libtirpc-dev
 libtool
 libtool-dev
 libunwind-dev
 libusb-dev
+libuser-dev
 libxcb-dev
 libxcb-dev32
 libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
+libxslt-dev
 linux-libc-headers
 llvm-dev
 lua-dev
@@ -284,6 +292,7 @@ nss-dev
 numactl-dev
 onig-dev
 open-iscsi
+openldap-dev
 opensm-dev
 openssh
 openssl
@@ -378,6 +387,8 @@ spice-protocol
 spice-protocol-dev
 sqlite-autoconf
 sqlite-autoconf-dev
+startup-notification
+startup-notification-dev
 strace
 systemd
 systemd-boot
