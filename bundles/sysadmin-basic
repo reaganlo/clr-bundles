@@ -26,6 +26,7 @@ kbd
 kmod
 less
 libc-bin
+libcap-bin
 lsacpi
 lsof
 man-db
@@ -33,6 +34,7 @@ man-pages
 mc
 mosh
 motd-update
+nano
 parallel
 pciutils
 pciutils-data
@@ -56,5 +58,3 @@ unzip
 usbutils
 util-linux
 which
-nano
-libcap-bin
