@@ -10,6 +10,7 @@ minetest_game
 # 32 bit client support for 32 bit games
 
 GConf-lib
+NetworkManager-data
 NetworkManager-lib
 NetworkManager-lib32
 SDL-lib32
@@ -91,6 +92,7 @@ openal-soft-lib32
 openssl-lib32
 pulseaudio-lib32
 systemd-lib32
+xdg-user-dirs
 xz-lib32
 zenity
 zlib-lib32
