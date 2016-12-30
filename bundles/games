@@ -39,6 +39,7 @@ freetype-lib32
 gdk-pixbuf-lib32
 glib-lib32
 glu-lib32
+gnome-themes-standard
 gtk+-lib32
 harfbuzz-lib32
 libICE-lib32
