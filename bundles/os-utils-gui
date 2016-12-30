@@ -34,6 +34,7 @@ glib-networking-lib
 gnome-icon-theme
 gnome-themes-standard
 graphviz
+gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine
 gtk3
