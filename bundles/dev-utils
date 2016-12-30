@@ -18,4 +18,5 @@ patchutils
 quilt
 strace
 ltrace
+unifdef
 valgrind
