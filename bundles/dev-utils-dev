@@ -158,6 +158,7 @@ make
 mpc-dev
 mpfr-dev
 ncurses-dev
+ncurses-dev32
 netbase
 nghttp2-dev
 nghttp2-dev32

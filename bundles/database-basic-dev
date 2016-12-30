@@ -127,6 +127,7 @@ mariadb-test
 mpc-dev
 mpfr-dev
 ncurses-dev
+ncurses-dev32
 netbase
 nss-altfiles
 openjade-dev

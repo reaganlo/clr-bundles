@@ -35,6 +35,7 @@ ca-certs
 cairo-dev
 cairo-dev32
 check-dev
+check-dev32
 clear-font
 clr-rpm-config
 cmake
@@ -210,6 +211,7 @@ mpfr-dev
 mstflint-dev
 nasm-bin
 ncurses-dev
+ncurses-dev32
 net-tools
 netbase
 nettle

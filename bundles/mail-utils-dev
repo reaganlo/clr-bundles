@@ -132,6 +132,7 @@ make
 mpc-dev
 mpfr-dev
 ncurses-dev
+ncurses-dev32
 net-tools
 netbase
 nettle

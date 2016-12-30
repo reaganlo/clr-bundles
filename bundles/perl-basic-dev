@@ -120,6 +120,7 @@ make
 mpc-dev
 mpfr-dev
 ncurses-dev
+ncurses-dev32
 netbase
 nss-altfiles
 openssl-dev

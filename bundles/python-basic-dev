@@ -144,6 +144,7 @@ make
 mpc-dev
 mpfr-dev
 ncurses-dev
+ncurses-dev32
 netbase
 nose-python
 nss-altfiles

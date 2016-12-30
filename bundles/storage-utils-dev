@@ -28,6 +28,7 @@ bzip2
 bzip2-dev
 ca-certs
 check-dev
+check-dev32
 clr-rpm-config
 cmake
 coreutils
@@ -177,6 +178,7 @@ mpc-dev
 mpfr-dev
 mstflint-dev
 ncurses-dev
+ncurses-dev32
 ndctl-dev
 net-tools
 netbase

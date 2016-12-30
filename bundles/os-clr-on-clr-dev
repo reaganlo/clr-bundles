@@ -92,6 +92,7 @@ cffi
 cffi-python
 check
 check-dev
+check-dev32
 clear-font
 clr-rpm-config
 cmake
@@ -394,6 +395,7 @@ mpc-dev
 mpfr-dev
 nasm-bin
 ncurses-dev
+ncurses-dev32
 net-tools
 netbase
 nettle
@@ -582,6 +584,7 @@ wpa_supplicant
 xcb-proto-dev
 xcb-proto-dev32
 xcb-proto-python
+xcb-util-dev
 xextproto-dev
 xextproto-dev32
 xf86bigfontproto-dev
