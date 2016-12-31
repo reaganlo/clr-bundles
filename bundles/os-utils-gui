@@ -65,6 +65,7 @@ tumbler
 vim-data
 virt-viewer
 websockify
+x11vnc
 xauth
 xclip
 xcursor-themes
