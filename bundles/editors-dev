@@ -177,6 +177,7 @@ python-mock-python
 python3
 python3-dev
 readline-dev
+readline-dev32
 rpm-build
 sed
 setuptools

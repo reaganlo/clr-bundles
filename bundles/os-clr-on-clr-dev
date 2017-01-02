@@ -59,7 +59,9 @@ argcomplete
 argparse-python
 asciidoc
 at-spi2-atk-dev
+at-spi2-atk-dev32
 at-spi2-core-dev
+at-spi2-core-dev32
 atk-dev
 atk-dev32
 attr-dev
@@ -111,6 +113,7 @@ cryptsetup-dev
 cups-dev
 curl
 curl-dev
+curl-dev32
 damageproto-dev
 damageproto-dev32
 db
@@ -135,6 +138,7 @@ dri3proto-dev32
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
+e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
 ed
@@ -191,6 +195,7 @@ glib-bin
 glib-dev
 glib-dev32
 glib-networking
+glib-networking-lib32
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -199,6 +204,8 @@ glproto-dev
 glproto-dev32
 glu-dev
 gmp-dev
+gmp-dev32
+gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnupg
@@ -246,6 +253,7 @@ iso8601-python
 itstool
 json-c-dev
 json-glib-dev
+json-glib-dev32
 kbproto-dev
 kbproto-dev32
 keyutils-dev
@@ -254,6 +262,7 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
+krb5-dev32
 ldd
 less
 leveldb-dev
@@ -266,6 +275,7 @@ libX11-dev32
 libXau-dev
 libXau-dev32
 libXcomposite-dev
+libXcomposite-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -281,6 +291,7 @@ libXi-dev32
 libXinerama-dev
 libXinerama-dev32
 libXrandr-dev
+libXrandr-dev32
 libXrender-dev
 libXrender-dev32
 libXt-dev
@@ -311,6 +322,7 @@ libcroco-dev32
 libdrm-dev
 libdrm-dev32
 libepoxy-dev
+libepoxy-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -355,9 +367,11 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libsoup-dev
+libsoup-dev32
 libstdc++
 libstdc++-dev
 libtasn1-dev
+libtasn1-dev32
 libtirpc-dev
 libtool
 libtool-dev
@@ -371,6 +385,7 @@ libwebp-dev
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
+libxkbcommon-dev32
 libxml2-dev
 libxml2-dev32
 libxml2-python
@@ -400,7 +415,9 @@ net-tools
 netbase
 nettle
 nettle-dev
+nettle-dev32
 nettle-lib
+nettle-lib32
 nfs-utils
 nghttp2-dev
 nghttp2-dev32
@@ -424,6 +441,7 @@ openssl-lib32
 p11-kit
 p11-kit-bin
 p11-kit-dev
+p11-kit-dev32
 pango-dev
 pango-dev32
 parted-dev
@@ -509,12 +527,14 @@ qemu
 randrproto-dev
 randrproto-dev32
 readline-dev
+readline-dev32
 recordproto-dev
 recordproto-dev32
 renderproto-dev
 renderproto-dev32
 requests
 rest-dev
+rest-dev32
 rpm-build
 rpm-common
 rpm-dev
@@ -537,6 +557,7 @@ spice-protocol
 spice-protocol-dev
 sqlite-autoconf
 sqlite-autoconf-dev
+sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
 strace
@@ -577,6 +598,7 @@ videoproto-dev32
 vim
 virtualenv
 wayland-dev
+wayland-dev32
 wayland-protocols-dev
 wheel
 which

@@ -164,6 +164,7 @@ procps-ng
 python-dev
 python3-dev
 readline-dev
+readline-dev32
 rpm-build
 sed
 setuptools
