@@ -65,6 +65,7 @@ libXv-lib32
 libXvMC-lib32
 libXxf86dga-lib32
 libXxf86vm-lib32
+libcanberra-lib32
 libcap-lib32
 libdrm-lib32
 libfontenc-lib32
