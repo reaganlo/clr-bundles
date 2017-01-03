@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 clr-python-timestamp
-pep8
+pycodestyle
 python-core
 python-dev
 python3-core
