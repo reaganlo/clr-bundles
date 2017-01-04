@@ -29,6 +29,7 @@ bzip2-dev
 ca-certs
 check-dev
 check-dev32
+cifs-utils-dev
 clr-rpm-config
 cmake
 coreutils
