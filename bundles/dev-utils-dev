@@ -43,6 +43,7 @@ dbus-dev
 dbus-dev32
 dbus-glib-dev
 dejagnu
+desktop-file-utils
 diffutils
 docbook-xml
 doxygen
@@ -50,6 +51,7 @@ e2fsprogs
 ed
 elfutils
 elfutils-dev
+elfutils-dev32
 expat-dev
 expat-dev32
 expect
@@ -126,6 +128,7 @@ libcgroup-dev
 libevent-dev
 libevent-dev32
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -173,6 +176,7 @@ p11-kit-bin
 patch
 pbr
 pcre-dev
+pcre-dev32
 perl
 perl-Error
 perl-XML-Parser
@@ -193,6 +197,7 @@ rpm-common
 sed
 setuptools
 shadow
+shared-mime-info
 slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev
