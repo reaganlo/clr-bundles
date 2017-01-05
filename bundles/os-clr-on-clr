@@ -59,6 +59,7 @@ pyOpenSSL
 pycurl
 pyliblzma
 python-rpm
+python-toml
 rpm
 rpm-common
 scons
