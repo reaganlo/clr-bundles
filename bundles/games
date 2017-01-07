@@ -29,6 +29,8 @@ atk-lib32
 attr-lib32
 bzip2-lib32
 cairo-lib32
+compat-SDL2-soname0-lib
+compat-SDL2-soname0-lib32
 cups-lib
 curl-lib32
 dbus-glib-lib32
