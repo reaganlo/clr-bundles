@@ -101,6 +101,8 @@ openssl-lib32
 p11-kit
 p11-kit-lib32
 pulseaudio-lib32
+s2tc-dev
+s2tc-dev32
 systemd-lib32
 xdg-user-dirs
 xz-lib32
