@@ -306,6 +306,7 @@ libXxf86vm-dev
 libXxf86vm-dev32
 libaio-dev
 libaio-devel
+libarchive-c
 libarchive-dev
 libassuan-dev
 libatomic_ops-dev
@@ -517,6 +518,7 @@ pytest-xdist
 python
 python-core
 python-dev
+python-magic
 python-mock
 python-mock-python
 python-modules
