@@ -49,3 +49,4 @@ snappy-dev
 swig
 tbb-dev
 wheel
+pyparsing
