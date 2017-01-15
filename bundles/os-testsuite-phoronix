@@ -103,6 +103,7 @@ snappy-dev
 sqlite-autoconf-dev
 tcl
 time
+vulkan-sdk
 x11perf
 yasm
 zlib-dev
