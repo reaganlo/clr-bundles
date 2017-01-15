@@ -8,6 +8,7 @@ clr-debug-info
 cppcheck
 gdb
 git
+git-extras
 lcov
 libaio
 libc-bin
