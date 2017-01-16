@@ -34,6 +34,7 @@ bzip2-dev
 ca-certs
 cairo-dev
 cairo-dev32
+check
 check-dev
 check-dev32
 clear-font
@@ -136,6 +137,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdmcp-dev
@@ -209,10 +211,12 @@ linux-libc-headers
 lz4-dev
 m4
 make
+mesa-dev
+mesa-dev32
 mpc-dev
 mpfr-dev
 mstflint-dev
-nasm-bin
+nasm
 ncurses-dev
 ncurses-dev32
 net-tools
@@ -339,6 +343,7 @@ xtrans-dev32
 xz
 xz-dev
 xz-dev32
+yasm
 zlib-dev
 zlib-dev32
 znc-dev

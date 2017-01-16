@@ -16,6 +16,7 @@ acl-dev32
 asciidoc
 attr-dev
 attr-dev32
+audit-dev
 autoconf
 autogen
 automake
@@ -31,6 +32,7 @@ btrfs-progs-dev
 bzip2
 bzip2-dev
 ca-certs
+check
 check-dev
 clr-rpm-config
 cmake
@@ -79,6 +81,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+go
 gperf
 graphviz
 grep
@@ -108,11 +111,13 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdmcp-dev
 libXdmcp-dev32
 libXext-dev
+libXext-dev32
 libXi-dev
 libXi-dev32
 libaio-dev
@@ -165,6 +170,7 @@ nghttp2-dev32
 nss-altfiles
 numactl-dev
 onig-dev
+openldap-dev
 openssl
 openssl-dev
 openssl-dev32
@@ -190,6 +196,8 @@ readline-dev
 readline-dev32
 rpm-build
 rpm-common
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow

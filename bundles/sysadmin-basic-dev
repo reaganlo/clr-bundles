@@ -109,11 +109,13 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdmcp-dev
 libXdmcp-dev32
 libXext-dev
+libXext-dev32
 libXi-dev
 libXi-dev32
 libc6-dev
@@ -195,10 +197,13 @@ python3-dev
 readline-dev
 readline-dev32
 rpm-build
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow
 shared-mime-info
+six
 slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev

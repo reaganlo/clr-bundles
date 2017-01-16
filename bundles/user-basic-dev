@@ -41,6 +41,7 @@ atk-dev
 atk-dev32
 attr-dev
 attr-dev32
+audit-dev
 autoconf
 autogen
 automake
@@ -143,6 +144,7 @@ gnu-efi
 gnu-efi-dev
 gnupg
 gnutls-dev
+go
 gobject-introspection
 gobject-introspection-dev
 googletest-dev
@@ -193,6 +195,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdmcp-dev
@@ -279,9 +282,10 @@ m4
 make
 man-db
 mesa-dev
+mesa-dev32
 mpc-dev
 mpfr-dev
-nasm-bin
+nasm
 ncurses-dev
 ncurses-dev32
 net-tools

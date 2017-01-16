@@ -66,6 +66,7 @@ atk-dev
 atk-dev32
 attr-dev
 attr-dev32
+audit-dev
 autoconf
 autogen
 automake
@@ -155,6 +156,7 @@ expat-dev32
 expect
 extras
 fcgi-dev
+file
 file-dev
 filesystem-chroot
 fixesproto-dev
@@ -272,6 +274,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXcomposite-dev
@@ -409,7 +412,7 @@ mkfontdir-bin
 mkfontscale-bin
 mpc-dev
 mpfr-dev
-nasm-bin
+nasm
 ncurses-dev
 ncurses-dev32
 net-tools
@@ -522,6 +525,7 @@ python-magic
 python-mock
 python-mock-python
 python-modules
+python-rpm
 python3
 python3-dev
 pytz-python
@@ -599,6 +603,8 @@ videoproto-dev
 videoproto-dev32
 vim
 virtualenv
+vulkan-sdk-dev
+vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev

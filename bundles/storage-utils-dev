@@ -27,6 +27,7 @@ btrfs-progs-dev
 bzip2
 bzip2-dev
 ca-certs
+check
 check-dev
 check-dev32
 cifs-utils-dev
@@ -120,11 +121,13 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdmcp-dev
 libXdmcp-dev32
 libXext-dev
+libXext-dev32
 libXi-dev
 libXi-dev32
 libaio-dev
@@ -227,6 +230,8 @@ readline-dev32
 rpm-build
 ruby
 samba-dev
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow
