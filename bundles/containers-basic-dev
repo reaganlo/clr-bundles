@@ -31,7 +31,7 @@ bash-completion-dev
 bats
 bc
 binutils
-binutils-devel
+binutils-dev
 bison
 bison-dev
 boost-dev
@@ -71,10 +71,8 @@ e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
-elfutils
 elfutils-dev
 elfutils-dev32
-elfutils-devel
 emacs
 expat-dev
 expat-dev32
@@ -324,8 +322,6 @@ popt-dev
 procps-ng
 procps-ng-bin
 protobuf-c-dev
-py
-pytest
 python
 python-dev
 python3
