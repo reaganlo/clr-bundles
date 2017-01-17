@@ -6,9 +6,10 @@
 include(os-core)
 btrfs-progs
 bzip2
+clr-boot-manager-bin
+clr-boot-manager-config
 clr-hardware-files
-clr-boot-manager
-findutils
+findutils-bin
 gzip-bin
 pacrunner
 pigz-bin

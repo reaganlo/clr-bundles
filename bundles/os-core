@@ -17,6 +17,8 @@ grep-bin
 hostname-bin
 iproute2-bin
 kmod-bin
+nano-bin
+nano-data
 netbase
 nss-altfiles
 procps-ng-bin
@@ -27,5 +29,3 @@ systemd-bootchart-bin
 systemd-libs
 tzdata-minimal
 util-linux-bin
-nano-bin
-nano-data

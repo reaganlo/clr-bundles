@@ -6,7 +6,9 @@
 # pciutils is not autospeced and so -data and -doc are specified manually
 # This bundle specificly contains all -doc bundles for os-core as well due
 # to size constraints for os-core.
+bash
 bzip2
+clr-boot-manager
 clr-hardware-files
 collectl
 coreutils
@@ -19,6 +21,7 @@ findutils
 gawk
 gawk-extras
 grep
+gzip
 hostname
 htop
 iproute2
@@ -39,11 +42,14 @@ parallel
 pciutils
 pciutils-data
 pciutils-doc
+pigz
 powertop
 procps-ng
 psmisc
 sed
 shadow
+shadow-doc
+shadow-locale
 sharutils
 strace
 sudo
@@ -51,6 +57,7 @@ systemd
 systemd-bootchart
 systemd-doc
 systemd-extras
+systemd-locale
 tmux
 tree
 tzdata
@@ -58,3 +65,4 @@ unzip
 usbutils
 util-linux
 which
+xz
