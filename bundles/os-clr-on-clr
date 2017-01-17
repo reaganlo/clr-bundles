@@ -54,6 +54,7 @@ libdrm-dev
 libva-dev
 libxcb-dev
 libxshmfence-dev
+libzip-dev
 mesa-dev
 ncurses-data-rare
 p7zip
