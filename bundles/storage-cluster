@@ -1,6 +1,6 @@
 # [TITLE]: storage-cluster
 # [DESCRIPTION]: Run a storage server
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(storage-utils)
