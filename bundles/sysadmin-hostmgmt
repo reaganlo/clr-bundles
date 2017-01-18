@@ -1,25 +1,33 @@
 # [TITLE]: sysadmin-hostmgmt
 # [DESCRIPTION]: Utilities and Services for managing large-scale clusters of networked hosts
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(pxe-server)
 include(python-basic)
-pssh
 ansible
 clear-config-management
-ipmitool
 git
+ipmitool
+pssh
 # ansible deps
-backports.ssl_match_hostname
-pyasn1
-PyYAML
-Jinja2
-paramiko-python
+Jinja2-python
+MarkupSafe-python
 MySQL-python
+PyYAML
+backports.ssl_match_hostname
+cffi-python
+cryptography-python
 docker-py-python
+enum34-python
+idna-python
+ipaddress-python
+openssh-bin
+paramiko-python
+pyasn1
+pycparser-python
 requests-python
+setuptools
 six-python
 websocket_client
-openssh-bin
 # End ansible deps
