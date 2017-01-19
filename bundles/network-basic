@@ -10,6 +10,7 @@ include(perl-basic)
 include(tcl-basic)
 bind-utils
 bridge-utils
+connect-proxy
 connman
 conntrack-tools
 curl

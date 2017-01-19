@@ -29,7 +29,6 @@ Mako-python
 catkin
 catkin_pkg
 configobj
-connect-proxy
 cve-check-tool
 damageproto-dev
 diffoscope
