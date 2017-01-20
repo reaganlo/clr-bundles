@@ -56,7 +56,6 @@ sudo
 systemd
 systemd-bootchart
 systemd-doc
-systemd-extras
 systemd-locale
 tmux
 tree
