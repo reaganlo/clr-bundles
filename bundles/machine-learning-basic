@@ -12,6 +12,7 @@ R-deepnet
 R-neuralnet
 R-statmod
 Theano
+appdirs
 bazel
 beignet
 beignet-dev
@@ -45,6 +46,7 @@ protobuf-c-dev
 protobuf-dev
 protobuf-python
 pyparsing
+python-future
 python-mock
 PyYAML
 scikit-image
