@@ -5,13 +5,26 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(python-extras)
+
+#
+# Key ML frameworks and tools
+#
+
 CNTK
+Theano
+neon
+scikit-learn
+
+
+#
+# Dependencies, helpers and libraries for Key frameworks
+#
+
 ConfigArgParse
 Pillow
 R-deepnet
 R-neuralnet
 R-statmod
-Theano
 appdirs
 bazel
 beignet
@@ -31,7 +44,6 @@ leveldb-dev
 libjpeg-turbo-dev
 lmdb-dev
 matplotlib-python
-neon
 nose-parameterized
 numpy
 ocl-icd
@@ -50,7 +62,6 @@ python-future
 python-mock
 PyYAML
 scikit-image
-scikit-learn
 scipy-python
 six
 snappy-dev
