@@ -10,6 +10,7 @@ bash
 bzip2
 clr-boot-manager
 clr-hardware-files
+clr-man-pages
 collectl
 coreutils
 cpuid
