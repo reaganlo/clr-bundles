@@ -8,6 +8,9 @@ autogen
 automake
 automake-dev
 binutils
+binutils-dev
+binutils-doc
+binutils-locale
 bison
 cmake
 cmake-dev
