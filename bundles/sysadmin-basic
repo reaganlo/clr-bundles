@@ -16,6 +16,7 @@ cpuid
 dbus
 dos2unix
 e2fsprogs
+efibootmgr
 file
 findutils
 gawk

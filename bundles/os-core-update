@@ -9,6 +9,7 @@ bzip2
 clr-boot-manager-bin
 clr-boot-manager-config
 clr-hardware-files
+efibootmgr-bin
 findutils-bin
 gzip-bin
 pacrunner
