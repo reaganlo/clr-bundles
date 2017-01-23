@@ -398,6 +398,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linux-firmware
 linux-libc-headers
 llvm-dev
 lua-dev

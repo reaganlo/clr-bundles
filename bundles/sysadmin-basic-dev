@@ -6,8 +6,6 @@
 include(sysadmin-basic)
 include(os-core-dev)
 include(os-dev-extras)
-CUnit-dev
-CUnit-dev32
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -23,11 +21,9 @@ binutils
 binutils-dev
 bison
 bison-dev
-boost-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
-ca-certs
 check
 check-dev
 check-dev32
@@ -126,14 +122,11 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
-libevent-dev32
 libffi-dev
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
-libidn-dev
-libidn-dev32
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev
@@ -167,8 +160,6 @@ mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
-nghttp2-dev
-nghttp2-dev32
 nss-altfiles
 onig-dev
 openssl
