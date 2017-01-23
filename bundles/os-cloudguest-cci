@@ -3,4 +3,4 @@
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(os-cloudguest)
+filesystem
