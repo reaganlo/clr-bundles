@@ -17,10 +17,14 @@ cmake-dev
 flex
 gcc
 gcc-dev
-libstdc++
 glibc-utils
+gmp-dev
+gmp-doc
+gmp-lib
+gmp-libgmpxx4
 libc6-dev
 libc6-locale
+libstdc++
 libtool
 libtool-dev
 linux-libc-headers
