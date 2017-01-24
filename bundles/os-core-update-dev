@@ -47,6 +47,7 @@ docbook-xml
 doxygen
 e2fsprogs
 e2fsprogs-dev
+efivar-dev
 elfutils-dev
 elfutils-dev32
 expat-dev
@@ -157,6 +158,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+popt-dev
 procps-ng
 python-dev
 python3-dev

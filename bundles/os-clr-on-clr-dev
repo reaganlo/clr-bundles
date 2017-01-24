@@ -143,6 +143,7 @@ e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
 ed
+efivar-dev
 elfutils
 elfutils-dev
 elfutils-dev32
