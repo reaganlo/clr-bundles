@@ -21,9 +21,9 @@ glibc-utils
 gmp-dev
 gmp-doc
 gmp-lib
-gmp-libgmpxx4
 libc6-dev
 libc6-locale
+libgmpxx4
 libstdc++
 libtool
 libtool-dev
