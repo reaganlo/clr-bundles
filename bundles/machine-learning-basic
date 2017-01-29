@@ -52,6 +52,7 @@ openblas
 opencv-dev
 opencv-python
 openjdk-dev
+pandas
 Pillow
 posix_ipc
 protobuf-c-dev
