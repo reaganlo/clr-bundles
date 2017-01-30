@@ -1,0 +1,41 @@
+# [TITLE]: machine-learning-web-ui
+# [DESCRIPTION]: Web based, interactive tools for machine learning
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(python-basic)
+include(R-extras)
+matplotlib
+ipykernel
+ipywidgets
+jupyter_core
+jupyter_console
+nbconvert
+qtconsole
+notebook
+Sphinx
+pandas
+Jinja2
+nbformat
+jsonschema
+traitlets
+tornado
+jupyter
+jupyter-nbgallery
+terminado
+R-IRdisplay
+ipython_genutils
+decorator
+MarkupSafe
+pyzmq
+jupyter_client
+pickleshare
+ipython
+prompt_toolkit
+wcwidth
+simplegeneric
+Pygments
+pexpect
+ptyprocess
+enum34
+backports.ssl_match_hostname
