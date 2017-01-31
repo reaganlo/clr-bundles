@@ -3,6 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
+clr-debug-info
 swupd-probe
 telemetrics-client
-clr-debug-info
