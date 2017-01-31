@@ -1,32 +1,8 @@
 # [TITLE]: sysadmin-advanced
 # [DESCRIPTION]: Toolchest that a sysadmin needs to diagnose issues
-# [STATUS]: Active
-# [CAPABILITIES]: 
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(dev-utils)
+include(network-basic)
 include(sysadmin-basic)
-include(pnp-tools-advanced)
-gdb
-strace
-ltrace
-powertop
-mcelog
-clr-debug-info
-linux-tools
-procps-ng
-numactl
-util-linux
-coreutils
-iputils
-iproute2
-net-tools
-dmidecode
-tcpdump
-netcat
-lsacpi
-pciutils
-usbutils
-acpica-unix2
-hdparm
-setserial
-iperf
-socat

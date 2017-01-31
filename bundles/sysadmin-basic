@@ -6,6 +6,7 @@
 # pciutils is not autospeced and so -data and -doc are specified manually
 # This bundle specificly contains all -doc bundles for os-core as well due
 # to size constraints for os-core.
+acpica-unix2
 bash
 bzip2
 clr-boot-manager
@@ -15,6 +16,7 @@ collectl
 coreutils
 cpuid
 dbus
+dmidecode
 dos2unix
 e2fsprogs
 efibootmgr
@@ -24,8 +26,10 @@ gawk
 gawk-extras
 grep
 gzip
+hdparm
 hostname
 htop
+iperf
 iproute2
 kbd
 kmod
@@ -37,9 +41,11 @@ lsof
 man-db
 man-pages
 mc
+mcelog
 mosh
 motd-update
 nano
+numactl
 parallel
 pciutils
 pciutils-data
@@ -49,10 +55,12 @@ powertop
 procps-ng
 psmisc
 sed
+setserial
 shadow
 shadow-doc
 shadow-locale
 sharutils
+socat
 strace
 sudo
 systemd
