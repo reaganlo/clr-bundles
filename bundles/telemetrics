@@ -5,3 +5,4 @@
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
 swupd-probe
 telemetrics-client
+clr-debug-info
