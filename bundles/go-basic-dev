@@ -6,7 +6,6 @@
 include(go-basic)
 include(os-core-dev)
 include(os-dev-extras)
-
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
@@ -107,6 +106,7 @@ libXau-dev32
 libXdmcp-dev
 libXdmcp-dev32
 libXext-dev
+libXext-dev32
 libXi-dev
 libXi-dev32
 libc6-dev
@@ -177,6 +177,8 @@ python3-dev
 readline-dev
 readline-dev32
 rpm-build
+scrnsaverproto-dev
+scrnsaverproto-dev32
 sed
 setuptools
 shadow
