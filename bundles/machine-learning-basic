@@ -69,5 +69,6 @@ snappy-dev
 Sphinx
 swig
 tbb-dev
+tensorflow
 tqdm
 wheel
