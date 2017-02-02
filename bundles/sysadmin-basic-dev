@@ -162,6 +162,7 @@ ncurses-dev
 ncurses-dev32
 netbase
 nss-altfiles
+numactl-dev
 onig-dev
 openssl
 openssl-dev
