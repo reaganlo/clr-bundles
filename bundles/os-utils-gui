@@ -59,6 +59,7 @@ powerline-fonts
 pulseaudio
 pulseaudio-bin
 shared-mime-info
+systemd-extras
 thunar-volman
 thunderbird
 tigervnc
