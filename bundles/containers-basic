@@ -16,6 +16,8 @@ docker-py
 gnupg
 ipaddress
 qemu-lite
+requests
 runc
+six
 util-linux
 websocket_client
