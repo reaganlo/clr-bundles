@@ -29,6 +29,7 @@ appdirs
 bazel
 beignet
 beignet-dev
+bokeh
 boost-dev
 cycler-python
 eigen-dev
