@@ -71,5 +71,6 @@ Sphinx
 swig
 tbb-dev
 tensorflow
+tflearn
 tqdm
 wheel
