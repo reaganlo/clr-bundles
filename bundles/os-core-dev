@@ -123,7 +123,6 @@ ncurses-dev
 ncurses-dev32
 netbase
 nss-altfiles
-openssl-dev
 p11-kit
 p11-kit-bin
 patch
