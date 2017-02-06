@@ -40,6 +40,7 @@ pyzmq
 qtconsole
 simplegeneric
 terminado
+testpath
 tornado
 traitlets
 wcwidth
