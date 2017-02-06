@@ -25,10 +25,12 @@ jupyter_client
 jupyter_console
 jupyter_core
 matplotlib
+mistune
 nbconvert
 nbformat
 notebook
 pandas
+pandocfilters
 pexpect
 pickleshare
 prompt_toolkit
