@@ -88,6 +88,7 @@ ocl-icd-dev
 openblas
 openssl-dev
 p7zip
+patch
 pbzip2
 pcre-dev
 perl
