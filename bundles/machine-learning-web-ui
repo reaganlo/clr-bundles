@@ -22,6 +22,7 @@ ipywidgets
 jsonschema
 jupyter
 jupyter-nbgallery
+jupyter-notebook-gist
 jupyter_client
 jupyter_console
 jupyter_core
