@@ -322,6 +322,8 @@ popt-dev
 procps-ng
 procps-ng-bin
 protobuf-c-dev
+py
+pytest
 python
 python-dev
 python3
