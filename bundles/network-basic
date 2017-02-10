@@ -35,6 +35,7 @@ nftables
 openconnect
 opensm
 openssh
+openssl
 openvswitch
 pacrunner
 quagga
