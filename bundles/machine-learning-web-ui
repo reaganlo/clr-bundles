@@ -39,6 +39,7 @@ prompt_toolkit
 ptyprocess
 pyzmq
 qtconsole
+R-IRkernel
 simplegeneric
 six
 terminado
