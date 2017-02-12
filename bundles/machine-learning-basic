@@ -41,6 +41,7 @@ googletest-dev
 h5py
 hdf5-dev
 hdf5-dev
+Keras
 leveldb-dev
 libjpeg-turbo-dev
 lmdb-dev
