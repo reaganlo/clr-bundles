@@ -35,6 +35,7 @@ cycler-python
 eigen-dev
 fann-dev
 funcsigs
+gensim
 gflags-dev
 glog-dev
 googletest-dev
@@ -67,6 +68,7 @@ PyYAML
 scikit-image
 scipy-python
 six
+smart_open
 snappy-dev
 Sphinx
 swig
