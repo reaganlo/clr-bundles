@@ -232,6 +232,8 @@ libtasn1-dev32
 libtirpc-dev
 libtool
 libtool-dev
+libunistring-dev
+libunistring-dev32
 libunwind-dev
 libusb-compat-dev
 libuser-dev

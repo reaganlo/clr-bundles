@@ -127,6 +127,8 @@ libtasn1-dev
 libtasn1-dev32
 libtool
 libtool-dev
+libunistring-dev
+libunistring-dev32
 libunwind-dev
 libxml2-dev
 libxslt

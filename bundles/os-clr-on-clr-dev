@@ -381,6 +381,7 @@ libtirpc-dev
 libtool
 libtool-dev
 libunistring-dev
+libunistring-dev32
 libunwind-dev
 libusb-compat-dev
 libusb-dev

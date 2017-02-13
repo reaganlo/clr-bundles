@@ -168,6 +168,8 @@ libtasn1-dev32
 libtirpc-dev
 libtool
 libtool-dev
+libunistring-dev
+libunistring-dev32
 libunwind-dev
 libuser-dev
 libxcb-dev
