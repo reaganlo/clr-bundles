@@ -102,7 +102,6 @@ python-dev
 redis-native
 scons
 snappy-dev
-superlu-dev
 sqlite-autoconf-dev
 tcl
 time
