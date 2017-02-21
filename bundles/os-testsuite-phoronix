@@ -64,6 +64,7 @@ libXvMC-dev
 libXxf86dga
 libaio-dev
 libassuan-dev
+libevent-dev
 libgcrypt-dev
 libgfortran-avx
 libgpg-error-dev
