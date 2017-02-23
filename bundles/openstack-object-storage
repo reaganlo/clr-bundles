@@ -1,6 +1,0 @@
-# [TITLE]: openstack-object-storage
-# [DESCRIPTION]: Provides an OpenStack Swift service
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-filesystem

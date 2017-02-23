@@ -1,6 +1,0 @@
-# [TITLE]: openstack-test-suite
-# [DESCRIPTION]: Provides an OpenStack Tempest/test suite
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-filesystem

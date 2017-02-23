@@ -1,6 +1,0 @@
-# [TITLE]: openstack-dashboard
-# [DESCRIPTION]: Provides an OpenStack Horizon server
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-filesystem

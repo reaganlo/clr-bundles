@@ -1,6 +1,0 @@
-# [TITLE]: opencontainers-dev
-# [DESCRIPTION]: Includes required components for developing against the Open Container Specification
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-filesystem

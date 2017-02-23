@@ -1,6 +1,0 @@
-# [TITLE]: openstack-image
-# [DESCRIPTION]: Provides an OpenStack Glance server
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-filesystem

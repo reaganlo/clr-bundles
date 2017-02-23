@@ -1,6 +1,0 @@
-# [TITLE]: openstack-compute
-# [DESCRIPTION]: Provides an OpenStack nova-compute node
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Victor Morales <victor.morales@intel.com>
-filesystem

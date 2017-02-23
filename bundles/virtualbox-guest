@@ -1,6 +1,0 @@
-# [TITLE]: virtualbox-guest
-# [DESCRIPTION]: Include the kernel modules to be used in a VirtualBox instance
-# [STATUS]: Deprecated
-# [CAPABILITIES]: VirtualBox modules are shiped in kernel-lts bundle
-# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-filesystem

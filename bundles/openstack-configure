@@ -1,6 +1,0 @@
-# [TITLE]: openstack-configure
-# [DESCRIPTION]: Provides a suggested default configuration for OpenStack on Clear Linux.
-# [STATUS]: Deprecated
-# [CAPABILITIES]: None at the moment, work very much in progress.
-# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-filesystem
