@@ -93,6 +93,7 @@ catkin_pkg
 ceph-dev
 cffi
 cffi-python
+chardet-python
 check
 check-dev
 check-dev32
@@ -103,6 +104,7 @@ colorama-python
 compositeproto-dev
 compositeproto-dev32
 configparser-python
+contextlib2
 coreutils
 coverage
 cppunit-dev
@@ -130,6 +132,7 @@ dnsmasq
 docbook-utils
 docbook-xml
 docutils
+docutils-python
 doxygen
 dpdk-dev
 dri2proto-dev
@@ -156,6 +159,7 @@ expat-dev
 expat-dev32
 expect
 extras
+extras-python
 fcgi-dev
 file
 file-dev
@@ -163,7 +167,9 @@ filesystem-chroot
 fixesproto-dev
 fixesproto-dev32
 fixtures
+fixtures-python
 flake8
+flake8-python
 flex
 flex-dev
 font-bitstream-type1
@@ -400,6 +406,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linecache2-python
 linux-firmware
 linux-libc-headers
 llvm-dev
@@ -409,6 +416,7 @@ lzo-dev
 m4
 make
 man-db
+mccabe-python
 mesa-dev
 mesa-dev32
 mkfontdir-bin
@@ -445,6 +453,7 @@ openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
+oslosphinx-python
 p11-kit
 p11-kit-bin
 p11-kit-dev
@@ -459,6 +468,7 @@ pcre-dev
 pcre-dev32
 pecan
 pep8
+pep8-python
 perl
 perl-Capture-Tiny
 perl-Class-Singleton
@@ -518,13 +528,18 @@ pyasn1-modules
 pycparser
 pycparser-python
 pycurl
+pyflakes-python
 pyparsing
+pyrsistent-python
 pytest
+pytest-runner
 pytest-xdist
 python
 python-core
 python-dev
 python-magic
+python-mimeparse
+python-mimeparse-python
 python-mock
 python-mock-python
 python-modules
@@ -542,8 +557,10 @@ recordproto-dev32
 renderproto-dev
 renderproto-dev32
 requests
+requests-python
 rest-dev
 rest-dev32
+restructuredtext_lint-python
 rpm-build
 rpm-common
 rpm-dev
@@ -569,6 +586,7 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
+stevedore-python
 strace
 subunit
 subunit-dev
@@ -584,14 +602,17 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 texinfo
 tk
 tk-dev
 tox
 tox-python
 traceback2
+traceback2-python
 tzdata
 unittest2
+unittest2-python
 unzip
 util-linux
 util-linux-bin
