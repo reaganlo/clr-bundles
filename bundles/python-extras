@@ -16,6 +16,7 @@ pypy-dev
 pypy-lib
 python-dateutil
 python-tappy
+python-tcl
 requests
 scikit-image
 scikit-learn
