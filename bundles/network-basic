@@ -8,6 +8,7 @@
 include(openssh-server)
 include(perl-basic)
 include(tcl-basic)
+include(python-basic)
 bind-utils
 bridge-utils
 connect-proxy
