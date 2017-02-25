@@ -7,7 +7,6 @@
 # perl-basic and tcl-basic included to avoid duplication
 include(openssh-server)
 include(perl-basic)
-include(tcl-basic)
 include(python-basic)
 bind-utils
 bridge-utils
@@ -18,7 +17,6 @@ curl
 dpdk
 ebtables
 ethtool
-ibutils
 iproute2
 ipset
 iptables
