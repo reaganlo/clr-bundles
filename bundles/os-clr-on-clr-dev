@@ -416,6 +416,7 @@ lzo-dev
 m4
 make
 man-db
+markupsafe-python
 mccabe-python
 mesa-dev
 mesa-dev32
@@ -530,7 +531,6 @@ pycparser-python
 pycurl
 pyflakes-python
 pyparsing
-pyrsistent-python
 pytest
 pytest-runner
 pytest-xdist

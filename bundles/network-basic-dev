@@ -8,7 +8,7 @@ include(os-core-dev)
 include(os-dev-extras)
 include(openssh-server)
 include(perl-basic)
-include(tcl-basic)
+include(python-basic)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
@@ -113,7 +113,6 @@ gzip
 harfbuzz-dev
 harfbuzz-dev32
 hostname
-ibutils-dev
 icu4c-dev
 icu4c-dev32
 inputproto
