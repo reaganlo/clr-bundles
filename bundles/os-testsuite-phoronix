@@ -70,6 +70,7 @@ libgfortran-avx
 libgpg-error-dev
 libjpeg-turbo-dev
 libksba-dev
+libnl-dev
 libogg-dev
 libpng-dev
 libtool
