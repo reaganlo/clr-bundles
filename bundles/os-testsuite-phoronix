@@ -88,6 +88,7 @@ ocl-icd
 ocl-icd-dev
 openblas
 openssl-dev
+opus-dev
 p7zip
 patch
 pbzip2
