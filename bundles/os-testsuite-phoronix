@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(c-basic)
 include(database-basic)
 include(go-basic)
 include(machine-learning-basic)

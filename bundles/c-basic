@@ -33,4 +33,5 @@ llvm-dev
 m4
 make
 pkg-config
+zlib-dev
 # scons intentionally left out for now
