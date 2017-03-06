@@ -6,6 +6,7 @@
 include(perl-basic)
 include(tcl-basic)
 blktrace
+clr-debug-info
 collectl
 dstat
 ethtool
@@ -15,6 +16,7 @@ iotop
 iproute2
 iptraf
 latencytop
+linux-tools
 ltp
 ltrace
 msr-tools
