@@ -20,6 +20,7 @@ mstflint
 ndctl
 nfs-utils
 ntfs-3g
+nvme-cli
 opensm
 parted
 rdma
