@@ -536,6 +536,7 @@ procps-ng
 procps-ng-bin
 protobuf-c-dev
 protobuf-dev
+ptyprocess
 py
 py-python
 pyasn1
