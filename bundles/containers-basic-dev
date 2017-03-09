@@ -157,7 +157,6 @@ hypothesis-python
 icu4c-dev
 icu4c-dev32
 idna-python
-imagesize-python
 intltool
 intltool-dev
 ipaddress-python
@@ -276,7 +275,7 @@ openssl-dev
 openssl-dev32
 openssl-lib32
 oslosphinx-python
-oslotest-python
+oslotest
 p11-kit
 p11-kit-bin
 p11-kit-dev

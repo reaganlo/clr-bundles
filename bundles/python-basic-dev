@@ -52,7 +52,6 @@ doxygen
 e2fsprogs
 elfutils-dev
 elfutils-dev32
-enum34-python
 execnet
 expat-dev
 expat-dev32
@@ -96,7 +95,6 @@ guile
 gzip
 hacking
 hostname
-imagesize-python
 intltool
 intltool-dev
 iptables-dev
@@ -177,7 +175,6 @@ python-mimeparse-python
 python-mock
 python-mock-python
 python3-dev
-pytz-python
 readline-dev
 readline-dev32
 rpm-build

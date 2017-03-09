@@ -255,7 +255,6 @@ icu4c-dev32
 idna
 idna-python
 imagesize
-imagesize-python
 inputproto
 inputproto-dev
 inputproto-dev32
@@ -468,7 +467,7 @@ openssl-dev32
 openssl-lib32
 oslosphinx
 oslosphinx-python
-oslotest-python
+oslotest
 p11-kit
 p11-kit-bin
 p11-kit-dev

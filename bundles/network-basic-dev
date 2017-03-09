@@ -68,7 +68,6 @@ ebtables-dev
 elfutils-dev
 elfutils-dev32
 emacs
-enum34-python
 execnet
 expat-dev
 expat-dev32
@@ -117,7 +116,6 @@ hacking
 hostname
 icu4c-dev
 icu4c-dev32
-imagesize-python
 intltool
 intltool-dev
 iproute2-dev
@@ -265,7 +263,6 @@ python-mimeparse-python
 python-mock
 python-mock-python
 python3-dev
-pytz-python
 quagga-dev
 readline-dev
 readline-dev32
