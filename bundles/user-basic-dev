@@ -407,7 +407,6 @@ requests
 rpm-build
 rpm-common
 ruby
-scons
 scrnsaverproto-dev
 scrnsaverproto-dev32
 sed
