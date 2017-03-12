@@ -4,8 +4,9 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(kernel-container)
-include(network-basic)
 include(storage-utils)
+include(python-basic)
+
 cc-oci-runtime
 clear-containers-image
 clr-systemd-config-extras
@@ -16,3 +17,18 @@ gnupg
 qemu-lite
 runc
 util-linux
+
+
+#
+# Content inherited from network-basic
+#
+
+bridge-utils
+conntrack-tools
+ebtables
+iproute2
+ipset
+iptables
+iptraf
+iputils
+nftables
