@@ -7,3 +7,4 @@ mariadb
 mariadb-doc
 mariadb-server
 postgresql
+sqlite-autoconf
