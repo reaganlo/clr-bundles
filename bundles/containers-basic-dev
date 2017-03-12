@@ -12,7 +12,6 @@ include(storage-utils)
 include(network-basic-dev)
 include(storage-utils-dev)
 Babel
-Babel-python
 CUnit-dev
 CUnit-dev32
 Jinja2
@@ -20,7 +19,6 @@ LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 MarkupSafe
-Pillow
 Pygments
 Sphinx
 Sphinx-python
@@ -82,7 +80,6 @@ dejagnu
 desktop-file-utils
 diffutils
 discover
-discover-python
 docbook-xml
 docutils
 docutils-python
@@ -108,7 +105,6 @@ filesystem-chroot
 fixtures
 fixtures-python
 flake8
-flake8-python
 flex
 flex-dev
 fontconfig-dev
@@ -162,6 +158,7 @@ gzip
 hacking
 harfbuzz-dev
 hostname
+hypothesis-python
 icu4c-dev
 icu4c-dev32
 idna-python
@@ -258,9 +255,7 @@ lz4-dev
 lzo-dev
 m4
 make
-markupsafe-python
 mccabe-python
-mox3-python
 mpc-dev
 mpfr-dev
 nasm
@@ -287,8 +282,6 @@ openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
-oslosphinx-python
-oslotest
 p11-kit
 p11-kit-bin
 p11-kit-dev
@@ -349,6 +342,7 @@ pycparser-python
 pycrypto-python
 pyflakes-python
 pyjwt-python
+pyparsing
 pyparsing-python
 pytest
 pytest-cov-python
@@ -368,7 +362,6 @@ pytz-python
 qemu-lite
 readline-dev
 readline-dev32
-requests-python
 rpm-build
 ruby
 runc-dev
@@ -392,11 +385,9 @@ tar
 tcl
 tcl-dev
 testrepository
-testrepository-python
 testresources
 testscenarios
 testtools
-testtools-python
 texinfo
 tk-dev
 tox

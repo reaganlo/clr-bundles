@@ -154,6 +154,7 @@ sed
 setuptools
 shadow
 slang-dev
+sqlite-autoconf-dev
 strace
 systemd
 systemd-dev
