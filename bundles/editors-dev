@@ -66,6 +66,7 @@ fixtures-python
 flake8
 flex
 flex-dev
+funcsigs-python
 gawk
 gcc
 gcc-dev

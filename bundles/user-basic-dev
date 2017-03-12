@@ -127,6 +127,7 @@ fontconfig-dev
 fontconfig-dev32
 freetype-dev
 freetype-dev32
+funcsigs-python
 fuse-dev
 gawk
 gcc
@@ -390,7 +391,6 @@ pyparsing
 pytest
 pytest-xdist
 python
-python-core
 python-dev
 python-mimeparse
 python-mimeparse-python
@@ -407,6 +407,7 @@ requests
 rpm-build
 rpm-common
 ruby
+scons
 scrnsaverproto-dev
 scrnsaverproto-dev32
 sed
