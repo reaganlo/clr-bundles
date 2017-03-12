@@ -6,7 +6,6 @@
 include(kernel-container)
 include(network-basic)
 include(storage-utils)
-backports.ssl_match_hostname
 cc-oci-runtime
 clear-containers-image
 clr-systemd-config-extras
@@ -14,10 +13,6 @@ containerd
 docker
 docker-py
 gnupg
-ipaddress
 qemu-lite
-requests
 runc
-six
 util-linux
-websocket_client
