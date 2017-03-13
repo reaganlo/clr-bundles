@@ -1,0 +1,10 @@
+# [TITLE]: big-data-basic
+# [DESCRIPTION]: Tools and frameworks for big data management
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+
+#apache-hadoop
+apache-spark
+jdk-xml-apis
+scala
