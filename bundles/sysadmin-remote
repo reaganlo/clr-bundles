@@ -1,0 +1,11 @@
+# [TITLE]: sysadmin-remote-managed
+# [DESCRIPTION]: Enable the host to be managed remotely by configuration management tools
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+include(openssh-server)
+include(python-basic)
+MySQL-python
+PyMySQL
+python-docker-py
+sudo
