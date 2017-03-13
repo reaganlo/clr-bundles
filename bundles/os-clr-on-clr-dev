@@ -37,7 +37,6 @@ include(perl-basic-dev)
 include(python-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
-Babel
 CUnit-dev
 CUnit-dev32
 Cython
@@ -79,7 +78,6 @@ binutils
 binutils-dev
 bison
 bison-dev
-blinker
 boost
 boost-dev
 bridge-utils
@@ -107,14 +105,11 @@ compositeproto-dev32
 configparser-python
 contextlib2
 coreutils
-coverage
-coverage-python
 cppunit-dev
 cracklib-dev
 cryptography
 cryptography_vectors-python
 cryptsetup-dev
-cssselect
 cups-dev
 curl
 curl-dev
@@ -129,11 +124,9 @@ dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
-discover
 dnsmasq
 docbook-utils
 docbook-xml
-docutils
 docutils-python
 doxygen
 dpdk-dev
@@ -238,7 +231,6 @@ gtk-doc-dev
 guile
 guile-dev
 gzip
-hacking
 harfbuzz-dev
 harfbuzz-dev32
 help2man
@@ -417,7 +409,6 @@ linux-firmware
 linux-libc-headers
 llvm-dev
 lua-dev
-lxml
 lz4-dev
 lzo-dev
 m4
@@ -448,7 +439,6 @@ nspr-dev
 nss-altfiles
 nss-dev
 numactl-dev
-numpy
 onig-dev
 open-iscsi
 openjade-dev
@@ -473,7 +463,6 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pecan
-pep8
 pep8-python
 perl
 perl-Capture-Tiny
@@ -531,18 +520,15 @@ ptyprocess
 py
 py-python
 pyasn1
-pyasn1-python
 pycparser
 pycparser-python
 pycrypto-python
 pycurl
 pydocstyle
 pyflakes-python
-pyjwt-python
 pyparsing
 pyparsing-python
 pytest
-pytest-cov-python
 pytest-python
 pytest-runner
 pytest-runner-python
@@ -603,7 +589,6 @@ sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
 strace
-subunit
 subunit-dev
 systemd
 systemd-boot
@@ -646,7 +631,6 @@ vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
-wheel
 which
 wpa_supplicant
 xcb-proto-dev
@@ -673,7 +657,6 @@ xz-dev
 xz-dev32
 yajl-dev
 yajl-lib
-yaml-dev
 yasm
 zlib
 zlib-dev
