@@ -94,6 +94,7 @@ opus-dev
 p7zip
 patch
 pbzip2
+pciutils
 pcre-dev
 perl
 perl-Digest-MD5
