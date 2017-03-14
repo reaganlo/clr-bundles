@@ -48,6 +48,7 @@ librsvg
 libva
 libva-intel-driver
 libxfce4ui-bin
+linux-firmware-wifi
 mesa
 mkfontdir
 mkfontscale
