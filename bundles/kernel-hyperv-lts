@@ -1,0 +1,8 @@
+# [TITLE]: kernel-hyperv
+# [DESCRIPTION]: Run the hyperv specific LTS kernel
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
+include(bootloader)
+linux-hyperv-lts
+init-rdahead
