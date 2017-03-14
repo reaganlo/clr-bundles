@@ -1,36 +1,6 @@
 # [TITLE]: openstack-common
 # [DESCRIPTION]: Grouping bundle used by all openstack using bundles
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
-include(python-basic)
-Babel
-debtcollector
-funcsigs
-functools32
-futures
-iso8601
-jsonschema
-keystoneauth1
-monotonic
-msgpack-python
-netaddr
-netifaces
-ordereddict
-oslo.config
-oslo.context
-oslo.i18n
-oslo.log
-oslo.serialization
-oslo.utils
-pbr
-positional
-prettytable
-pyinotify
-python-dateutil
-python-keystoneclient
-pytz
-requests
-setuptools
-six
-stevedore
+filesystem

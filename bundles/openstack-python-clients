@@ -1,9 +1,8 @@
 # [TITLE]: openstack-python-clients
 # [DESCRIPTION]: Run openstack utilities
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
-include(openstack-common)
 PyYAML
 appdirs
 cliff
