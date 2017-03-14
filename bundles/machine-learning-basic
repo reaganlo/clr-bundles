@@ -12,7 +12,6 @@ include(python-extras)
 
 CNTK
 Theano
-apache-spark
 neon
 scikit-learn
 
@@ -66,7 +65,6 @@ pyparsing
 python-future
 python-mock
 PyYAML
-scala
 scikit-image
 scipy-python
 six
