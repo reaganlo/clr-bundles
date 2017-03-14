@@ -25,7 +25,10 @@ opensm
 parted
 rdma
 rpcbind
-samba
+samba-bin
+samba-config
+samba-data
+samba-doc
 sshfs
 usermode
 xfsprogs
