@@ -325,6 +325,7 @@ pecan
 perl
 perl-Class-Singleton
 perl-Crypt-SSLeay
+perl-Digest-CRC
 perl-Encode-Locale
 perl-Error
 perl-HTML-Tagset

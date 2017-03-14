@@ -137,7 +137,6 @@ netbase
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
-openssl
 openssl-dev
 openssl-dev32
 p11-kit
@@ -152,7 +151,6 @@ pip
 pkg-config
 pkg-config-dev
 procps-ng
-procps-ng-bin
 python-dev
 python3-dev
 readline-dev
@@ -162,7 +160,6 @@ sed
 setuptools
 shadow
 slang-dev
-sqlite-autoconf
 sqlite-autoconf-dev
 strace
 systemd-dev
@@ -170,10 +167,8 @@ systemd-dev32
 systemd-libs
 tar
 tcl
-tcl-dev
 texinfo
 tk
-tk-dev
 tzdata
 unzip
 util-linux

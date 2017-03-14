@@ -37,6 +37,7 @@ cracklib-dev
 cryptsetup-dev
 cups-dev
 curl-dev
+db
 db-dev
 dbus-dev
 dbus-dev32
@@ -199,6 +200,7 @@ pbr
 pcre-dev
 pcre-dev32
 perl
+perl-Digest-CRC
 perl-XML-Parser
 pigz
 pip
