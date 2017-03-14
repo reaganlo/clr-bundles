@@ -4,19 +4,16 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(kernel-container)
-include(storage-utils)
-include(python-basic)
 
 cc-oci-runtime
 clear-containers-image
 clr-systemd-config-extras
 containerd
 docker
-docker-py
 gnupg
 qemu-lite
 runc
-util-linux
+util-linux-bin
 
 
 #
@@ -25,10 +22,21 @@ util-linux
 
 bridge-utils
 conntrack-tools
-ebtables
+# ebtables
 iproute2
 ipset
 iptables
 iptraf
 iputils
 nftables
+
+
+#
+# Content inherited from storage-utils
+#
+LVM2
+autofs
+mdadm
+mstflint
+opensm
+parted
