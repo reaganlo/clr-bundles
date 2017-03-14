@@ -12,9 +12,6 @@ dosfstools
 e2fsprogs
 e2fsprogs-extras
 gptfdisk
-ibutils
-libmlx4-dev
-libmlx5-dev
 mdadm
 mstflint
 ndctl
