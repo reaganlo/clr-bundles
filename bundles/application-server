@@ -1,0 +1,9 @@
+# [TITLE]: application-server
+# [DESCRIPTION]: Run an application server via HTTP
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(web-server-basic)
+httpd-dev
+mod_wsgi
+uwsgi
