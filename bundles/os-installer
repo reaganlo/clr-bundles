@@ -3,12 +3,11 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-# Should pick out specific utilites instead of including all of network basic
-include(network-basic)
 btrfs-progs
 dosfstools-bin
 e2fsprogs-extras
 gptfdisk-bin
+iproute2
 iputils
 ister
 ister-extras
