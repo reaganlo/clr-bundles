@@ -1,0 +1,6 @@
+# [TITLE]: cloud-dashboard
+# [DESCRIPTION]: Run web-based UI for a cloud scheduler service
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
+filesystem
