@@ -37,7 +37,6 @@ cracklib-dev
 cryptsetup-dev
 cups-dev
 curl-dev
-db
 db-dev
 dbus-dev
 dbus-dev32
@@ -97,7 +96,6 @@ gtk-doc-dev
 guile
 gzip
 hostname
-ibutils-dev
 intltool
 intltool-dev
 iptables-dev

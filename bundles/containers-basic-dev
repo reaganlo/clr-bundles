@@ -7,8 +7,6 @@ include(containers-basic)
 include(os-core-dev)
 include(os-dev-extras)
 include(kernel-container)
-include(storage-utils)
-include(python-basic)
 include(storage-utils-dev)
 include(python-basic-dev)
 CUnit-dev
@@ -67,7 +65,6 @@ e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
-ebtables-dev
 elfutils-dev
 elfutils-dev32
 emacs
@@ -215,6 +212,7 @@ m4
 make
 mpc-dev
 mpfr-dev
+mstflint-dev
 ncurses-dev
 ncurses-dev32
 net-tools
@@ -239,6 +237,7 @@ p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
 packaging-python
+parted-dev
 patch
 pbr
 pcre-dev
