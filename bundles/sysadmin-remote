@@ -7,5 +7,5 @@ include(openssh-server)
 include(python-basic)
 MySQL-python
 PyMySQL
-python-docker-py
+docker-py
 sudo
