@@ -5,7 +5,5 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssh-server)
 include(python-basic)
-MySQL-python
-PyMySQL
 docker-py
 sudo
