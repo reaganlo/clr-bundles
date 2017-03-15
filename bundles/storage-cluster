@@ -3,16 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
-include(storage-utils)
-boost
-btrfs-progs
 ceph
-gflags-lib
-gperftools-lib
-keyutils-lib
-leveldb-lib
 parted
-rocksdb-lib
-setuptools
-snappy-lib
 xfsprogs
