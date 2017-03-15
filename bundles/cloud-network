@@ -11,6 +11,5 @@ ebtables
 iptables
 nftables
 ethtool
-vim
 ciao
 ciao-cnci-agent
