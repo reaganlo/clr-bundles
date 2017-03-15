@@ -36,6 +36,7 @@ kmod
 less
 libc-bin
 libcap-bin
+linux-dev
 lsacpi
 lsof
 man-db

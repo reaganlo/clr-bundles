@@ -3,22 +3,35 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+asciidoc
+attr
+autofdo
+autofdo-tools
+bats
+bc
 cgdb
 clr-debug-info
+cpio
 cppcheck
+cscope
+diffstat
+elfutils
 gdb
 git
-git-extras
 hub
 lcov
-libaio
 libc-bin
-libc6-locale
 linux-tools
+llvm
 ltrace
+man-pages
+openssl
+p7zip
 patch
 patchutils
 quilt
+rsync
+source-highlight
 strace
 tig
 unifdef

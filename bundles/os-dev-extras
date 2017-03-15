@@ -1,48 +1,6 @@
 # [TITLE]: os-dev-extras
 # [DESCRIPTION]: Development utilities and helpful base Linux dev environment tools
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-acl
-asciidoc
-attr
-autofdo
-autofdo-tools
-bats
-bc
-bsdiff-dev
-check-dev
-clr-python-timestamp
-cpio
-cscope
-diffstat
-elfutils
-gawk-bin
-glib-dev
-gnutls-dev
-libc-bin
-libgcc1
-libnl-dev
-libpcap-dev
-libpciaccess-dev
-libtasn1-dev
-libvirt-dev
-linux-dev
-llvm
-llvm-dev
-LVM2-dev
-man-pages
-ncurses
-openssl
-patchutils
-p7zip
-pcre
-perl
-perl-Error
-perl-TAP-Harness-Archive
-perl-YAML-Tiny
-popt
-python-core
-rsync
-source-highlight
-swupd-client-dev
+include(dev-utils)
