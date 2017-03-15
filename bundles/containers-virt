@@ -3,6 +3,13 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-bridge-utils
-docker
-iproute2
+include(containers-basic)
+include(kernel-container)
+LVM2
+cc-oci-runtime
+clear-containers-image
+clr-systemd-config-extras
+containerd
+gnupg
+qemu-lite
+util-linux-bin
