@@ -39,6 +39,7 @@ gensim
 gflags-dev
 glog-dev
 googletest-dev
+graphviz
 h5py
 hdf5-dev
 hdf5-dev
