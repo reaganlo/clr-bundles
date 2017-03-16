@@ -28,7 +28,6 @@ bzip2
 bzip2-dev
 ca-certs
 check-dev
-check-dev32
 cifs-utils-dev
 clr-rpm-config
 cmake
@@ -68,7 +67,6 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
-gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -132,7 +130,6 @@ libgcrypt-dev32
 libgpg-error-dev
 libibmad-dev
 libibumad-dev
-libibverbs-dev
 libidn-dev
 libidn-dev32
 libmnl-dev
@@ -144,7 +141,6 @@ libnfnetlink-dev32
 libnfsidmap-dev
 libnftnl-dev
 libnftnl-dev32
-libnl-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -184,7 +180,6 @@ nss-altfiles
 ntfs-3g-dev
 openldap-dev
 opensm-dev
-openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
@@ -206,7 +201,6 @@ pkg-config
 pkg-config-dev
 popt-dev
 procps-ng
-procps-ng-bin
 python-dev
 python3-dev
 readline-dev
@@ -219,7 +213,6 @@ setuptools
 shadow
 shared-mime-info
 slang-dev
-sqlite-autoconf
 sqlite-autoconf-dev
 startup-notification
 startup-notification-dev
@@ -229,9 +222,7 @@ systemd-dev32
 systemd-libs
 tar
 tcl
-tcl-dev
 texinfo
-tk-dev
 tzdata
 unzip
 util-linux-bin

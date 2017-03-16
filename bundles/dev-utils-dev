@@ -11,6 +11,7 @@ CUnit-dev32
 Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
+Sphinx
 acl-dev
 acl-dev32
 asciidoc
@@ -27,6 +28,7 @@ binutils
 binutils-dev
 bison
 bison-dev
+boost
 boost-dev
 btrfs-progs-dev
 bzip2
@@ -80,6 +82,7 @@ gmp-dev
 gnu-efi
 gnu-efi-dev
 go
+googletest-dev
 gperf
 graphviz
 grep
@@ -90,6 +93,7 @@ guile
 gzip
 help2man
 hostname
+icu4c-dev
 intltool
 intltool-dev
 iptables-dev
@@ -104,7 +108,6 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-libaio-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -115,6 +118,7 @@ libcgroup-dev
 libevent-dev
 libevent-dev32
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -131,6 +135,8 @@ libnftnl-dev32
 libpng-dev
 libstdc++
 libstdc++-dev
+libtasn1-dev
+libtasn1-dev32
 libtool
 libtool-dev
 libunwind-dev
@@ -139,9 +145,11 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+llvm-dev
 lz4-dev
 m4
 make
+man-db
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -168,9 +176,11 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+popt-dev
 processor-trace-dev
 procps-ng
 procps-ng-bin
+python-core
 python-dev
 python3-dev
 readline-dev
@@ -181,6 +191,8 @@ sed
 setuptools
 shadow
 slang-dev
+source-highlight
+source-highlight-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
@@ -208,5 +220,6 @@ xmlto
 xz
 xz-dev
 xz-dev32
+yasm
 zlib-dev
 zlib-dev32

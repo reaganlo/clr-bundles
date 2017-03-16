@@ -17,6 +17,7 @@ autogen
 automake
 automake-dev
 bash-completion-dev
+bc
 binutils
 binutils-dev
 bison
@@ -92,6 +93,7 @@ iperf-dev
 iproute2-dev
 iptables-dev
 iptables-dev32
+kmod
 kmod-dev
 kmod-dev32
 ldd
@@ -136,6 +138,7 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
+linux-firmware
 linux-libc-headers
 lz4-dev
 m4

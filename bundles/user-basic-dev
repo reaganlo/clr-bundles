@@ -31,6 +31,7 @@ LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
+Sphinx
 Sphinx-python
 acl-dev
 acl-dev32
@@ -51,6 +52,7 @@ binutils
 binutils-dev
 bison
 bison-dev
+boost
 boost-dev
 bridge-utils
 bsdiff-dev
@@ -272,6 +274,7 @@ libxml2-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linux-firmware
 linux-libc-headers
 llvm-dev
 lua-dev
@@ -303,7 +306,6 @@ numactl-dev
 onig-dev
 open-iscsi
 openldap-dev
-opensm-dev
 openssh
 openssl
 openssl-dev
@@ -368,6 +370,7 @@ py
 pyparsing
 pytest
 python
+python-core
 python-dev
 python-mock
 python-mock-python
@@ -393,6 +396,7 @@ six
 six-python
 slang-dev
 snappy-dev
+source-highlight
 spice
 spice-dev
 spice-protocol

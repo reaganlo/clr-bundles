@@ -430,7 +430,6 @@ onig-dev
 open-iscsi
 openjade-dev
 openldap-dev
-opensm-dev
 openssh
 openssl
 openssl-dev
@@ -484,7 +483,6 @@ perl-Test-Taint
 perl-Try-Tiny
 perl-URI
 perl-XML-Parser
-perl-YAML-Tiny
 perl-libwww-perl
 pexpect
 pigz
