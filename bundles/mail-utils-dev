@@ -5,7 +5,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(mail-utils)
 include(os-core-dev)
-include(os-dev-extras)
+include(dev-utils)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev

@@ -5,7 +5,7 @@
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 include(os-core-update)
 include(os-core-dev)
-include(os-dev-extras)
+include(dev-utils)
 include(os-core)
 include(os-core-dev)
 CUnit-dev

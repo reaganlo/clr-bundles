@@ -5,7 +5,7 @@
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(containers-basic)
 include(os-core-dev)
-include(os-dev-extras)
+include(dev-utils)
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32

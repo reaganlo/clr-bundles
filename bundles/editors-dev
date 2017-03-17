@@ -5,7 +5,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(editors)
 include(os-core-dev)
-include(os-dev-extras)
+include(dev-utils)
 include(python-basic)
 include(python-basic-dev)
 Linux-PAM-dev

@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(os-clr-on-clr)
-include(os-dev-extras)
 include(c-basic)
 include(dev-utils)
 include(dev-utils-dev)
