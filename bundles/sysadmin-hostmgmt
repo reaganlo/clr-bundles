@@ -11,24 +11,9 @@ git
 ipmitool
 pssh
 # ansible deps
-Jinja2-python
-MarkupSafe-python
 MySQL-python
-PyYAML
 backports.ssl_match_hostname
-cffi-python
-cryptography-python
-docker-py-python
-enum34-python
-idna-python
-ipaddress-python
+docker-py
 netaddr
 openssh-bin
-paramiko-python
-pyasn1
-pycparser-python
-requests-python
-setuptools
-six-python
-websocket_client
 # End ansible deps
