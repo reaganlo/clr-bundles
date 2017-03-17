@@ -22,6 +22,7 @@ docker-py-python
 enum34-python
 idna-python
 ipaddress-python
+netaddr
 openssh-bin
 paramiko-python
 pyasn1
