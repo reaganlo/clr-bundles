@@ -47,7 +47,8 @@ Keras
 leveldb-dev
 libjpeg-turbo-dev
 lmdb-dev
-matplotlib-python
+matplotlib
+mido
 nose-parameterized
 numpy
 ocl-icd
