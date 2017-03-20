@@ -63,6 +63,9 @@ posix_ipc
 protobuf-c-dev
 protobuf-dev
 protobuf-python
+pydot
+pydotplus
+pydot_ng
 pyparsing
 python-future
 python-mock
