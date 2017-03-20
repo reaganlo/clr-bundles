@@ -93,6 +93,7 @@ libxkbcommon-lib32
 libxml2-lib32
 libxshmfence-lib32
 linux-steam-integration
+mesa
 mesa-lib32
 ncurses-lib32
 nspr-lib32

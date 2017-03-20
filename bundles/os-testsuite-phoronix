@@ -47,6 +47,7 @@ flac-dev
 flex
 freeglut-dev
 gflags-dev
+gimp
 git
 glibc-staticdev
 glog-dev
