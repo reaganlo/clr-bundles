@@ -9,6 +9,7 @@ network-basic
 os-clr-on-clr
 os-core
 os-core-update
+os-utils-gui
 perl-basic
 python-basic
 storage-utils
