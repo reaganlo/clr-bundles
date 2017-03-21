@@ -27,6 +27,7 @@ open-lldp
 powertop
 procps-ng
 psstop
+siege
 strace
 sysstat
 sysstat
