@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+include(containers-virt)
 bridge-utils
 docker
 iproute2
