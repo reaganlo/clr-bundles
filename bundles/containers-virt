@@ -3,13 +3,15 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(containers-basic)
 include(kernel-container)
 LVM2
+bridge-utils
 cc-oci-runtime
 clear-containers-image
 clr-systemd-config-extras
 containerd
+docker
 gnupg
+iproute2
 qemu-lite
 util-linux-bin
