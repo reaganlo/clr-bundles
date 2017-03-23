@@ -6,9 +6,7 @@
 include(containers-virt)
 include(os-core-dev)
 include(dev-utils)
-include(containers-basic)
 include(kernel-container)
-include(containers-basic-dev)
 CUnit-dev
 CUnit-dev32
 LVM2-dev
@@ -105,6 +103,7 @@ gzip
 hostname
 intltool
 intltool-dev
+iproute2-dev
 iptables-dev
 iptables-dev32
 json-glib-dev
