@@ -19,6 +19,7 @@ enum34
 ipykernel
 ipython
 ipython_genutils
+ipython-sql
 ipywidgets
 jsonschema
 jupyter
