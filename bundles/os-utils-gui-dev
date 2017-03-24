@@ -12,6 +12,7 @@ include(xfce4-desktop)
 include(python-basic-dev)
 CUnit-dev
 CUnit-dev32
+Cython
 FreeRDP-dev
 LVM2
 LVM2-dev
@@ -145,6 +146,7 @@ geany-dev
 gettext
 gettext-bin
 gettext-dev
+gfortran
 git
 glib-bin
 glib-dev
@@ -409,6 +411,7 @@ numactl-dev
 numpy
 ocl-icd-dev
 open-iscsi
+openblas
 openconnect-dev
 openldap-dev
 openssh
