@@ -68,6 +68,7 @@ pydotplus
 pydot_ng
 pyparsing
 python-future
+python-Levenshtein
 python-mock
 PyYAML
 scikit-image
