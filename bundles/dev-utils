@@ -15,6 +15,7 @@ cpio
 cppcheck
 cscope
 diffstat
+docutils
 elfutils
 gdb
 git
