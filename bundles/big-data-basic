@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 
-#apache-hadoop
+apache-hadoop
 apache-spark
 scala
