@@ -479,7 +479,6 @@ perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-List-SomeUtils
-perl-List-SomeUtils-XS
 perl-MRO-Compat
 perl-Module-Build
 perl-Module-Implementation
