@@ -41,6 +41,7 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 curl-dev
+db
 db-dev
 dbus-dev
 dbus-dev32
