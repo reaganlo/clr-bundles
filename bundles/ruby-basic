@@ -5,3 +5,4 @@
 # [MAINTAINER]: Athenas Jimenez Gonzalez <athenas.jimenez.gonzalez@intel.com>
 ruby
 ruby-dev
+gmp-dev
