@@ -1,0 +1,8 @@
+# [TITLE]: cloud-native-basic
+# [DESCRIPTION]: Contains ClearLinux native software for Cloud
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Obed N Munoz <obed.n.munoz@intel.com>
+include(containers-basic)
+kubernetes
+cni
