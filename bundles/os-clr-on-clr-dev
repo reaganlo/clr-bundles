@@ -459,7 +459,6 @@ perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Singleton
 perl-Crypt-SSLeay
-perl-Data-OptList
 perl-DateTime
 perl-DateTime-Locale
 perl-DateTime-TimeZone
@@ -487,17 +486,14 @@ perl-Mozilla-CA
 perl-Net-HTTP
 perl-Net-SSLeay
 perl-Package-Stash
-perl-Params-Util
 perl-Params-Validate
 perl-Params-ValidationCompiler
 perl-Path-Class
 perl-Role-Tiny
 perl-Specio
-perl-Sub-Exporter
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
 perl-Sub-Info
-perl-Sub-Install
 perl-Test-Fatal
 perl-Test-Needs
 perl-Test-Output
