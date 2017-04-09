@@ -1,0 +1,101 @@
+# [TITLE]: gnome-desktop
+# [DESCRIPTION]: Run the GNOME GUI desktop environment
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+include(libX11client)
+
+# Low level UI requirements
+gobject-introspection
+# gir/typelibs have been split out and we need them.
+gobject-introspection-data
+mutter
+json-glib-data
+pango-data
+atk-data
+gjs
+caribou
+ibus
+libgweather
+tzdata
+geocode-glib
+telepathy-logger
+librsvg
+geoclue
+iso-codes
+colord
+
+
+gtk+
+libnotify-bin
+shared-mime-info
+font-bitstream-type1
+gdk-pixbuf
+gsettings-desktop-schemas
+glib-bin
+
+# a11y
+at-spi2-core
+
+# Extra service level deps
+accountsservice-data
+accountsservice-bin
+dconf
+dconf-bin
+clr-desktop-defaults
+openssl
+which
+alsa-plugins-lib
+alsa-utils
+bash-completion
+polkit
+upower
+
+# Theme portions (main visual styling)
+arc-theme
+adwaita-icon-theme
+clear-font
+clr-wallpapers
+moka-icon-theme
+powerline-fonts
+xcursor-themes
+
+# Theme portions (extra deps)
+gnome-icon-theme
+gnome-themes-standard
+faba-icon-theme
+hicolor-icon-theme
+murrine
+
+# Main session bits
+gdm
+gnome-desktop
+gnome-session
+gnome-shell
+gnome-settings-daemon
+gnome-keyring
+
+# Applications
+gnome-calculator
+gnome-screenshot
+flatpak
+eog
+gnome-terminal
+gnome-control-center
+
+# x.org bits
+mesa
+xf86-input-libinput
+xf86-video-fbdev
+xf86-video-vesa
+xhost
+xinit
+xkbcomp
+xkeyboard-config
+xorg-server
+xrandr
+xrdb
+
+# wayland bits
+wayland
+weston
