@@ -59,6 +59,11 @@ clr-wallpapers
 moka-icon-theme
 powerline-fonts
 xcursor-themes
+gnome-icon-theme
+gnome-menus
+gnome-system-monitor
+gnome-themes-standard
+gnome-backgrounds
 
 # Theme portions (extra deps)
 gnome-icon-theme
@@ -82,6 +87,9 @@ flatpak
 eog
 gnome-terminal
 gnome-control-center
+gnome-font-viewer
+gnome-characters
+gnome-calendar
 
 # x.org bits
 mesa
