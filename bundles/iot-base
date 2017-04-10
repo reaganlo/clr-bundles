@@ -1,8 +1,0 @@
-# [TITLE]: iot-base
-# [DESCRIPTION]: The IoT (Internet of Things) base bundle
-# [STATUS]: WIP
-# [CAPABILITIES]:
-# [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(kernel-iot)
-libmicrohttpd
-soletta-bin

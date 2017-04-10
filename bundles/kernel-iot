@@ -1,8 +1,0 @@
-# [TITLE]: kernel-iot
-# [DESCRIPTION]: Run the iot specific kernel
-# [STATUS]: Active
-# [CAPABILITIES]:
-# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-include(bootloader)
-linux-iot
-linux-firmware
