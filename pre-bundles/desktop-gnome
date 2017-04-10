@@ -91,6 +91,8 @@ gnome-control-center
 gnome-font-viewer
 gnome-characters
 gnome-calendar
+gphoto2
+
 
 # x.org bits
 mesa
