@@ -1,6 +1,0 @@
-# [TITLE]: kernel-iot
-# [DESCRIPTION]: Run the iot specific kernel
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-filesystem

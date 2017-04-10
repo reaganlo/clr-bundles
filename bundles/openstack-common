@@ -1,6 +1,0 @@
-# [TITLE]: openstack-common
-# [DESCRIPTION]: Grouping bundle used by all openstack using bundles
-# [STATUS]: Deprecated
-# [CAPABILITIES]:
-# [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
-filesystem
