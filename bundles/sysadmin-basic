@@ -7,6 +7,8 @@
 # This bundle specificly contains all -doc bundles for os-core as well due
 # to size constraints for os-core.
 acpica-unix2
+aspell
+aspell-en
 bash
 bzip2
 clr-boot-manager
