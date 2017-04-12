@@ -93,6 +93,7 @@ gnome-characters
 gnome-calendar
 gphoto2
 evolution
+evolution-data-server
 gimp
 
 # x.org bits
