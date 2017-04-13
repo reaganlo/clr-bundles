@@ -1,0 +1,9 @@
+# [TITLE]: kernel-hyperv-mini
+# [DESCRIPTION]: Run the hyperv mini-os specific kernel
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas
+include(bootloader)
+clr-boot-manager
+linux-hyperv-mini
+runc
