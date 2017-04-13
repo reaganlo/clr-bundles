@@ -49,6 +49,7 @@ binutils
 binutils-dev
 bison
 bison-dev
+bluez-dev
 boost-dev
 bridge-utils
 bzip2
@@ -476,6 +477,8 @@ rest-dev
 rest-dev32
 rpm-build
 ruby
+sbc-dev
+sbc-dev32
 scons
 scrnsaverproto-dev
 scrnsaverproto-dev32

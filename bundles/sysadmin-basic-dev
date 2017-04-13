@@ -10,6 +10,8 @@ Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
 acl-dev32
+aspell
+aspell-dev
 attr-dev
 attr-dev32
 autoconf
