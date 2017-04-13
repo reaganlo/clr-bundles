@@ -99,6 +99,7 @@ gimp
 gnome-tweak-tool
 gnome-bluetooth
 nautilus
+gvfs
 
 
 # x.org bits
