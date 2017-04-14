@@ -24,6 +24,7 @@ librsvg
 geoclue
 iso-codes
 colord
+pygobject
 
 
 gtk+
