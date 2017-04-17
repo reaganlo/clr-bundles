@@ -25,6 +25,7 @@ geoclue
 iso-codes
 colord
 pygobject
+mesa-dev
 
 
 gtk+
@@ -62,9 +63,17 @@ powerline-fonts
 xcursor-themes
 gnome-icon-theme
 gnome-menus
+gnome-shell-extensions
 gnome-system-monitor
 gnome-themes-standard
 gnome-backgrounds
+
+
+gnome-flashback
+metacity
+gnome-panel
+gnome-applets
+
 
 # Theme portions (extra deps)
 gnome-icon-theme
@@ -75,15 +84,11 @@ murrine
 
 # Main session bits
 gdm
+gnome-desktop
+gnome-session
+gnome-shell
 gnome-settings-daemon
 gnome-keyring
-
-
-# flashback
-gnome-flashback
-metacity
-gnome-panel
-
 
 # Applications
 gnome-calculator
