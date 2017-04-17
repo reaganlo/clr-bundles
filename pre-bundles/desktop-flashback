@@ -25,7 +25,7 @@ geoclue
 iso-codes
 colord
 pygobject
-mesa-dev
+mesa-extras
 
 
 gtk+
