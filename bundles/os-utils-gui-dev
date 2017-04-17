@@ -253,6 +253,7 @@ libXinerama-dev
 libXinerama-dev32
 libXmu-dev
 libXpm-dev
+libXpresent-dev
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev
@@ -356,6 +357,7 @@ libvorbis-dev
 libvorbis-dev32
 libwebp-dev
 libwnck-dev
+libwnck3-dev
 libxcb-dev
 libxcb-dev32
 libxfce4ui-dev

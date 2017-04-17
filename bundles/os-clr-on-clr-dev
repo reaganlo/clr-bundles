@@ -52,6 +52,7 @@ Sphinx
 Sphinx-python
 acl-dev
 acl-dev32
+appdirs
 argcomplete
 argparse-python
 asciidoc
@@ -432,6 +433,7 @@ nss-dev
 numactl-dev
 onig-dev
 open-iscsi
+openconnect-dev
 openjade-dev
 openldap-dev
 openssh
@@ -443,6 +445,7 @@ p11-kit
 p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
+packaging
 packaging-python
 pango-dev
 pango-dev32

@@ -305,6 +305,7 @@ nss-dev
 numactl-dev
 onig-dev
 open-iscsi
+openconnect-dev
 openldap-dev
 openssh
 openssl
