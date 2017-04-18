@@ -1,5 +1,5 @@
-# [TITLE]: containers-basic
-# [DESCRIPTION]: Run container applications from Dockerhub
+# [TITLE]: containers-virt
+# [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
