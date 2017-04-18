@@ -534,7 +534,6 @@ py-python
 pyasn1
 pycparser
 pycparser-python
-pycurl
 pyparsing
 pyparsing-python
 pytest

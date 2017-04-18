@@ -22,6 +22,7 @@ Linux-PAM-dev32
 Mako
 Mako-python
 R-dev
+Sphinx
 Thunar-dev
 acl-dev
 acl-dev32
@@ -92,10 +93,8 @@ dri2proto-dev32
 dri3proto-dev
 dri3proto-dev32
 e2fsprogs
-e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
-e2fsprogs-extras
 ebtables
 elfutils-dev
 elfutils-dev32
@@ -173,6 +172,7 @@ gnutls-dev
 gnutls-dev32
 gobject-introspection
 gobject-introspection-dev
+googletest-dev
 gperf
 gpgme-dev
 graphviz
@@ -264,6 +264,7 @@ libXt-dev32
 libXtst-dev
 libXtst-dev32
 libXv-dev
+libXv-dev32
 libXvMC-dev
 libXvMC-dev32
 libXxf86vm-dev
