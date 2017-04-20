@@ -51,6 +51,7 @@ alsa-plugins-lib
 alsa-utils
 bash-completion
 polkit
+pulseaudio
 upower
 
 # Theme portions (main visual styling)
