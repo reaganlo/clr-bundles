@@ -3,7 +3,9 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(containers-virt)
 bridge-utils
+LVM2
 docker
+containerd
+gnupg
 iproute2
