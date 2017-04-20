@@ -48,6 +48,7 @@ mcelog
 mosh
 motd-update
 nano
+ncurses
 numactl
 parallel
 pciutils
