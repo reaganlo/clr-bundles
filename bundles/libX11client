@@ -20,8 +20,15 @@ libXdmcp-lib
 libXext-lib
 libXft-lib
 libXrender-lib
+libXScrnSaver-lib
+libXcursor-lib
+libXdamage-lib
+libXtst-lib
+libXxf86vm-lib
+libXi-lib
 libpng-lib
 libxcb-lib
+mesa-lib
+llvm-lib
 pango-lib
 pixman-lib
-libXScrnSaver-lib
