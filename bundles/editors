@@ -8,6 +8,7 @@ include(python-basic)
 joe
 emacs
 ctags
-vim
+jedi-vim
 nano
+vim
 vim-go
