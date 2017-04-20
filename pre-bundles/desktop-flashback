@@ -47,6 +47,7 @@ dconf-bin
 clr-desktop-defaults
 openssl
 which
+alsa-lib-data
 alsa-plugins-data
 alsa-plugins-lib
 alsa-utils
