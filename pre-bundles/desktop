@@ -58,14 +58,6 @@ which
 xdg-user-dirs
 xdg-user-dirs-gtk
 
-# Theme portions that are part of gnome (main visual styling)
-adwaita-icon-theme
-gnome-backgrounds
-gnome-icon-theme
-gnome-menus
-gnome-shell-extensions
-gnome-themes-standard
-
 # gnome-flashback for vnc/software rendering support
 gnome-applets
 gnome-flashback
@@ -76,9 +68,11 @@ metacity
 gdm
 gnome-desktop
 gnome-keyring
+gnome-menus
 gnome-session
 gnome-settings-daemon
 gnome-shell
+gnome-shell-extensions
 
 # Applications
 evolution-data-server
