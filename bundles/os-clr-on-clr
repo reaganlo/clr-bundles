@@ -58,6 +58,7 @@ libzip-dev
 mesa-dev
 ncurses-data-rare
 p7zip
+pep8
 presentproto-dev
 pyOpenSSL
 pycurl
