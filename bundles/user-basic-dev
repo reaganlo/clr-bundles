@@ -177,6 +177,7 @@ iptables-dev
 iptables-dev32
 isa-l-dev
 iso8601
+jedi
 json-c-dev
 kbproto-dev
 kbproto-dev32
@@ -376,6 +377,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 popt-dev
 processor-trace-dev
 procps-ng
@@ -383,6 +385,7 @@ procps-ng-bin
 protobuf-c-dev
 protobuf-dev
 py
+py-python
 pyparsing
 pytest
 python

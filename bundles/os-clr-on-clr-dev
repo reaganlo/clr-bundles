@@ -250,6 +250,7 @@ isa-l-dev
 iso8601
 iso8601-python
 itstool
+jedi
 json-c-dev
 json-glib-dev
 json-glib-dev32
