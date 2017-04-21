@@ -4,6 +4,13 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(libX11client)
+include(desktop-apps)
+include(desktop-gnomelibs)
+include(desktop-assets)
+include(desktop-locales)
+
+# the UI should provide a basic sysadmin experience
+include(sysadmin-basic)
 
 # Low level UI requirements
 gobject-introspection
@@ -27,6 +34,7 @@ colord
 pygobject
 gtk3
 
+
 gtk+
 libnotify-bin
 shared-mime-info
@@ -46,13 +54,11 @@ dconf-bin
 clr-desktop-defaults
 openssl
 which
-alsa-lib-data
-alsa-plugins-data
 alsa-plugins-lib
 alsa-utils
+pulseaudio
 bash-completion
 polkit
-pulseaudio
 upower
 
 # Theme portions (main visual styling)
@@ -66,9 +72,15 @@ xcursor-themes
 gnome-icon-theme
 gnome-menus
 gnome-shell-extensions
-gnome-system-monitor
 gnome-themes-standard
 gnome-backgrounds
+
+
+gnome-flashback
+metacity
+gnome-panel
+gnome-applets
+
 
 # Theme portions (extra deps)
 gnome-icon-theme
@@ -86,21 +98,12 @@ gnome-settings-daemon
 gnome-keyring
 
 # Applications
-gnome-calculator
-gnome-screenshot
 flatpak
-eog
-eog-plugins
 gnome-terminal
 gnome-control-center
-gnome-font-viewer
 gnome-characters
 gnome-calendar
-gphoto2
-evolution
-evolution-ews
 evolution-data-server
-gimp
 gnome-tweak-tool
 gnome-bluetooth
 nautilus
