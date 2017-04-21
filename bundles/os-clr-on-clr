@@ -61,6 +61,7 @@ p7zip
 pep8
 presentproto-dev
 pyOpenSSL
+pycodestyle
 pycurl
 pyliblzma
 python-magic
