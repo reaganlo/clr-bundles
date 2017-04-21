@@ -60,6 +60,8 @@ pulseaudio
 bash-completion
 polkit
 upower
+xdg-user-dirs
+xdg-user-dirs-gtk
 
 # Theme portions (main visual styling)
 arc-theme
