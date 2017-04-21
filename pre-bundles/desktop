@@ -8,109 +8,89 @@ include(desktop-apps)
 include(desktop-gnomelibs)
 include(desktop-assets)
 include(desktop-locales)
-
 # the UI should provide a basic sysadmin experience
 include(sysadmin-basic)
 
 # Low level UI requirements
-gobject-introspection
 # gir/typelibs have been split out and we need them.
-gobject-introspection-data
-mutter
-json-glib-data
-pango-data
 atk-data
-gjs
 caribou
-ibus
-libgweather
-tzdata
-geocode-glib
-telepathy-logger
-librsvg
-geoclue
-iso-codes
 colord
-pygobject
-gtk3
-linux-firmware-wifi
-
-gtk+
-libnotify-bin
-shared-mime-info
 font-bitstream-type1
 gdk-pixbuf
-gsettings-desktop-schemas
+geoclue
+geocode-glib
+gjs
 glib-bin
+gobject-introspection
+gsettings-desktop-schemas
+gtk+
+gtk3
+ibus
+iso-codes
+json-glib
+libgweather
+libnotify
+librsvg
+linux-firmware-wifi
+mutter
+pango
+pygobject
+shared-mime-info
+telepathy-logger
+tzdata
 
 # a11y
 at-spi2-core
 
 # Extra service level deps
-accountsservice-data
-accountsservice-bin
-dconf
-dconf-bin
-clr-desktop-defaults
-openssl
-which
-alsa-plugins-lib
+accountsservice
+alsa-plugins
 alsa-utils
-pulseaudio
 bash-completion
+clr-desktop-defaults
+dconf
+openssl
 polkit
+pulseaudio
 upower
+which
 xdg-user-dirs
 xdg-user-dirs-gtk
 
-# Theme portions (main visual styling)
-arc-theme
+# Theme portions that are part of gnome (main visual styling)
 adwaita-icon-theme
-clear-font
-clr-wallpapers
-moka-icon-theme
-powerline-fonts
-xcursor-themes
+gnome-backgrounds
 gnome-icon-theme
 gnome-menus
 gnome-shell-extensions
 gnome-themes-standard
-gnome-backgrounds
 
-
-gnome-flashback
-metacity
-gnome-panel
+# gnome-flashback for vnc/software rendering support
 gnome-applets
-
-
-# Theme portions (extra deps)
-gnome-icon-theme
-gnome-themes-standard
-faba-icon-theme
-hicolor-icon-theme
-murrine
+gnome-flashback
+gnome-panel
+metacity
 
 # Main session bits
 gdm
 gnome-desktop
-gnome-session
-gnome-shell
-gnome-settings-daemon
 gnome-keyring
+gnome-session
+gnome-settings-daemon
+gnome-shell
 
 # Applications
-flatpak
-gnome-terminal
-gnome-control-center
-gnome-characters
-gnome-calendar
 evolution-data-server
-gnome-tweak-tool
+flatpak
 gnome-bluetooth
-nautilus
+gnome-calendar
+gnome-characters
+gnome-control-center
+gnome-terminal
+gnome-tweak-tool
 gvfs
-
+nautilus
 
 # x.org bits
 mesa
