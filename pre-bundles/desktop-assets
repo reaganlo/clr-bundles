@@ -1,3 +1,8 @@
+# [TITLE]: desktop-assets
+# [DESCRIPTION]: Images and Icons for the desktop
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 adwaita-icon-theme
 arc-theme
 clear-font

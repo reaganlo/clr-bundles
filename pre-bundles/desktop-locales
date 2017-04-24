@@ -1,3 +1,9 @@
+# [TITLE]: desktop-locales
+# [DESCRIPTION]: translations and documentation for desktop components
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+
 caribou-locales
 colord-locales
 dconf-doc

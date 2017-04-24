@@ -1,3 +1,9 @@
+# [TITLE]: desktop-apps
+# [DESCRIPTION]: Applications for the desktop
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+
 include(libX11client)
 include(desktop-gnomelibs)
 
