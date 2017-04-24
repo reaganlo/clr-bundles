@@ -6,7 +6,6 @@
 include(containers-basic)
 include(os-core-dev)
 include(dev-utils)
-include(containers-virt)
 include(containers-virt-dev)
 CUnit-dev
 CUnit-dev32
@@ -37,6 +36,7 @@ check-dev
 clear-containers-image
 clr-rpm-config
 cmake
+containerd-dev
 coreutils
 cppcheck
 cracklib-dev
