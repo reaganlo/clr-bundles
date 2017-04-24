@@ -3,12 +3,12 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
-gnupg
-pinentry
-openssl
-gnutls
 ca-certs
+gnupg
+gnutls
 nss-bin
-openssh-bin
+openssh
+openssl
+pinentry
 rng-tools
 rng-tools-autostart
