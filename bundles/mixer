@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
+include(os-installer)
 include(python-basic)
 include(sysadmin-basic)
 bundle-chroot-builder
