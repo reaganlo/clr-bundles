@@ -470,6 +470,7 @@ tcl-dev
 texinfo
 tk
 tk-dev
+tokyocabinet-dev
 tox
 tox-python
 tzdata

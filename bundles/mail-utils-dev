@@ -180,6 +180,7 @@ systemd-libs
 tar
 tcl
 texinfo
+tokyocabinet-dev
 tzdata
 unzip
 util-linux-dev
