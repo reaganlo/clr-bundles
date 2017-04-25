@@ -54,6 +54,7 @@ dconf
 openssl
 polkit
 pulseaudio
+systemd-polkit
 upower
 which
 xdg-user-dirs
