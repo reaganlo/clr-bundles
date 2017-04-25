@@ -49,6 +49,7 @@ motd-update
 nano
 ncurses
 numactl
+p11-kit
 parallel
 pciutils
 pciutils-data
