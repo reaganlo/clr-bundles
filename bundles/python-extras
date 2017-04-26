@@ -6,6 +6,7 @@
 include(python-basic)
 boto
 certifi
+deap
 libgfortran-avx
 lxml
 nose
