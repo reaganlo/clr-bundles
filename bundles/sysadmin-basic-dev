@@ -27,6 +27,7 @@ bison-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
+ca-certs
 check
 check-dev
 check-dev32
@@ -39,7 +40,6 @@ curl-dev
 db-dev
 dbus-dev
 dbus-dev32
-dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -132,6 +132,8 @@ libpipeline-dev
 libpng-dev
 libstdc++
 libstdc++-dev
+libtasn1-dev
+libtasn1-dev32
 libtool
 libtool-dev
 libunwind-dev
@@ -160,6 +162,7 @@ openssl-dev32
 openssl-lib32
 p11-kit
 p11-kit-bin
+p11-kit-dev
 patch
 pbr
 pciutils-dev

@@ -47,6 +47,7 @@ Linux-PAM-dev32
 Mako-python
 MarkupSafe
 Pygments
+R
 R-dev
 Sphinx
 Sphinx-python
@@ -119,7 +120,6 @@ db
 db-dev
 dbus-dev
 dbus-dev32
-dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -402,6 +402,7 @@ linecache2-python
 linux-firmware
 linux-libc-headers
 llvm-dev
+lua
 lua-dev
 lz4-dev
 lzo-dev
@@ -436,6 +437,7 @@ onig-dev
 open-iscsi
 openconnect-dev
 openjade-dev
+openjdk-dev
 openldap-dev
 openssh
 openssl
@@ -514,6 +516,7 @@ perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pexpect
+php-dev
 pigz
 pip
 pixman-dev

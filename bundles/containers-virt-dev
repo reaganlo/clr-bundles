@@ -8,6 +8,7 @@ include(os-core-dev)
 include(dev-utils)
 include(kernel-container)
 include(containers-basic)
+include(containers-basic-dev)
 CUnit-dev
 CUnit-dev32
 LVM2-dev
@@ -45,7 +46,6 @@ curl-dev
 db-dev
 dbus-dev
 dbus-dev32
-dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils

@@ -21,6 +21,7 @@ bison
 bison-dev
 bzip2
 bzip2-dev
+ca-certs
 clr-rpm-config
 cmake
 coreutils
@@ -30,7 +31,6 @@ curl-dev
 db-dev
 dbus-dev
 dbus-dev32
-dbus-glib-dev
 dejagnu
 diffutils
 docbook-xml
@@ -94,6 +94,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -107,6 +108,8 @@ libnftnl-dev
 libnftnl-dev32
 libstdc++
 libstdc++-dev
+libtasn1-dev
+libtasn1-dev32
 libtool
 libtool-dev
 libunwind-dev

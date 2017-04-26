@@ -194,6 +194,7 @@ gtk3-dev
 gtk3-dev32
 gtkmm3-dev
 guile
+gvfs-dev
 gzip
 harfbuzz-dev
 harfbuzz-dev32
@@ -401,7 +402,6 @@ ncurses-dev
 ncurses-dev32
 net-tools
 netbase
-netcat
 nettle
 nettle-dev
 nettle-dev32
@@ -551,8 +551,6 @@ xf86driproto-dev
 xf86vidmodeproto-dev
 xf86vidmodeproto-dev32
 xfce4-panel-dev
-xfce4-sensors-plugin-dev
-xfce4-session-dev
 xfconf-dev
 xineramaproto-dev
 xineramaproto-dev32

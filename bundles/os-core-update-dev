@@ -39,7 +39,6 @@ curl-dev
 db-dev
 dbus-dev
 dbus-dev32
-dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -125,6 +124,8 @@ libnftnl-dev
 libnftnl-dev32
 libstdc++
 libstdc++-dev
+libtasn1-dev
+libtasn1-dev32
 libtool
 libtool-dev
 libunwind-dev
