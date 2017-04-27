@@ -45,6 +45,7 @@ db
 db-dev
 dbus-dev
 dbus-dev32
+dbus-glib-dev
 dejagnu
 diffutils
 docbook-xml

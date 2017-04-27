@@ -27,6 +27,7 @@ CUnit-dev32
 Cython
 LVM2
 LVM2-dev
+LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
@@ -81,6 +82,7 @@ db
 db-dev
 dbus-dev
 dbus-dev32
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -281,6 +283,7 @@ libpthread-stubs-dev32
 librsvg
 librsvg-dev
 librsvg-dev32
+libssh2-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -331,6 +334,7 @@ nghttp2-dev
 nghttp2-dev32
 nss-altfiles
 nss-dev
+numactl
 numactl-dev
 onig-dev
 open-iscsi
