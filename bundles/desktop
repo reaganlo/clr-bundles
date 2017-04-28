@@ -51,7 +51,9 @@ alsa-plugins
 alsa-utils
 bash-completion
 clr-desktop-defaults
+dhcp
 NetworkManager
+network-manager-applet
 dconf
 openssl
 polkit
@@ -59,6 +61,7 @@ pulseaudio
 systemd-polkit
 upower
 which
+wpa_supplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
 
