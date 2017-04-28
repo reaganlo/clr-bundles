@@ -351,6 +351,7 @@ presentproto-dev32
 procps-ng
 pulseaudio-dev
 pulseaudio-dev32
+pygobject
 python-dev
 python3
 python3-dev
