@@ -51,7 +51,7 @@ alsa-plugins
 alsa-utils
 bash-completion
 clr-desktop-defaults
-connman
+NetworkManager
 dconf
 openssl
 polkit
