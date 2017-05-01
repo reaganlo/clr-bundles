@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez Gonzalez <athenas.jimenez.gonzalez@intel.com>
+gmp-dev
+p11-kit
 ruby
 ruby-dev
-gmp-dev

@@ -12,6 +12,7 @@ gmp-dev
 libc6-dev
 make
 ncurses-lib
+p11-kit
 perl
 stack
 xz

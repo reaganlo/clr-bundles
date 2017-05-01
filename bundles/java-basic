@@ -8,4 +8,5 @@ apache-ant
 apache-maven
 openjdk
 openjdk-dev
+p11-kit
 which
