@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(openssh-server)
-clr-cloud-init
+micro-config-drive
 e2fsprogs-bin
 ethtool
 glib-lib
