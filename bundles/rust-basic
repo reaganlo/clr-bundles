@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+cargo
 git
 p11-kit
 rustc
