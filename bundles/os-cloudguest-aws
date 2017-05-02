@@ -1,0 +1,6 @@
+# [TITLE]: os-cloudguest-aws
+# [DESCRIPTION]: Run any initialization processes required of an AWS cloud guest VM
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+micro-config-drive-aws
