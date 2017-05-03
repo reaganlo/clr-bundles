@@ -356,6 +356,7 @@ libusb-compat-dev
 libusb-dev
 libva-dev
 libvirt-dev
+libvirt-glib-dev
 libvorbis-dev
 libvorbis-dev32
 libwebp-dev
@@ -425,6 +426,7 @@ openssh
 openssl
 openssl-dev
 openssl-dev32
+opus-dev
 orc-dev
 orc-dev32
 ostree-dev
