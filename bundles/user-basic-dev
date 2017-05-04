@@ -330,6 +330,7 @@ nettle-lib32
 nfs-utils
 nghttp2-dev
 nghttp2-dev32
+nose
 nss-altfiles
 nss-dev
 numactl

@@ -161,6 +161,7 @@ ncurses-dev32
 netbase
 nghttp2-dev
 nghttp2-dev32
+nose
 nss-altfiles
 numactl-dev
 onig-dev
