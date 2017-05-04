@@ -52,6 +52,7 @@ alsa-utils
 bash-completion
 clr-desktop-defaults
 dhcp
+gnome-online-accounts
 NetworkManager
 network-manager-applet
 NetworkManager-openconnect
