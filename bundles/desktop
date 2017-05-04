@@ -54,10 +54,12 @@ clr-desktop-defaults
 dhcp
 NetworkManager
 network-manager-applet
+NetworkManager-openconnect
 dconf
 openssl
 polkit
 pulseaudio
+openconnect
 systemd-polkit
 upower
 which
