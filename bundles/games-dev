@@ -326,6 +326,8 @@ nss-lib32
 openal-soft-dev
 openssl-dev
 openssl-dev32
+opus-dev
+orc
 orc-dev
 orc-dev32
 p11-kit

@@ -20,6 +20,7 @@ asciidoc
 attr-dev
 attr-dev32
 autoconf
+autoconf-archive-dev
 autogen
 automake
 automake-dev

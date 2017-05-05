@@ -427,6 +427,7 @@ openssl
 openssl-dev
 openssl-dev32
 opus-dev
+orc
 orc-dev
 orc-dev32
 ostree-dev
