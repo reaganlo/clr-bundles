@@ -6,10 +6,11 @@
 include(kvm-host)
 include(network-basic)
 include(storage-cluster)
-sqlite-autoconf
-xorriso
+
 docker
-openssl
-sudo
 openssh
+openssl
 psmisc
+sqlite-autoconf
+sudo
+xorriso
