@@ -5,8 +5,11 @@
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
 include(kvm-host)
 include(network-basic)
+include(python-basic)
 include(storage-cluster)
 
+awscli
+botocore
 docker
 openssh
 openssl
