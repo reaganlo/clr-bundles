@@ -6,6 +6,7 @@
 btrfs-progs
 dosfstools-bin
 e2fsprogs-extras
+expect
 gptfdisk-bin
 iproute2
 iputils
