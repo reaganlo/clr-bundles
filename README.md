@@ -12,6 +12,10 @@ All bundle files must include a filled-out bundle-header.txt at the top
 of the file. These are used to generate documentation, so be descriptive
 and precise.
 
+To automatically create a "-dev" variant of a bundle, such that bundle
+"foo-dev" has what is required to build bundle "foo", simply add the bundle
+name "foo" in to the auto.devbundles file.
+
 For debugging and visualization purposes, a small python program called
 `make-dot.py` is included. If run, the output will be suitable to create
 a dependency graph of the bundles. Run it as so:
