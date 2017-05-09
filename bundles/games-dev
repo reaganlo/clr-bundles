@@ -98,6 +98,7 @@ fontconfig-dev32
 freeglut-dev
 freetype-dev
 freetype-dev32
+fribidi-dev
 gawk
 gcc
 gcc-dev
@@ -227,6 +228,8 @@ libcap-ng-dev32
 libcgroup-dev
 libcroco-dev
 libcroco-dev32
+libdatrie-dev
+libdatrie-dev32
 libdrm-dev
 libdrm-dev32
 libepoxy-dev
@@ -280,6 +283,8 @@ libstdc++
 libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
+libthai-dev
+libthai-dev32
 libtheora-dev
 libtool
 libtool-dev

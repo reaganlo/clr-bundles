@@ -119,6 +119,7 @@ fontconfig-dev
 fontconfig-dev32
 freetype-dev
 freetype-dev32
+fribidi-dev
 funcsigs-python
 fuse-dev
 gawk
@@ -241,6 +242,8 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
+libdatrie-dev
+libdatrie-dev32
 libdrm-dev
 libdrm-dev32
 libevent-dev
@@ -286,6 +289,8 @@ libstdc++
 libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
+libthai-dev
+libthai-dev32
 libtirpc-dev
 libtool
 libtool-dev
