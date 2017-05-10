@@ -259,6 +259,7 @@ iptables-dev32
 iso-codes-dev
 iso8601
 itstool
+jq
 json-glib-dev
 json-glib-dev32
 kbproto-dev
@@ -510,6 +511,7 @@ p11-kit
 p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
+p7zip
 pango-dev
 pango-dev32
 pangomm-dev
