@@ -7,7 +7,7 @@ include(c-basic)
 include(database-basic)
 include(go-basic)
 include(machine-learning-basic)
-include(os-utils-gui)
+include(desktop-autostart)
 include(php-basic)
 include(games)
 SDL
