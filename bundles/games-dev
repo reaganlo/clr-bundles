@@ -74,6 +74,8 @@ docbook-xml
 doxygen
 dri2proto-dev
 dri2proto-dev32
+dri3proto-dev
+dri3proto-dev32
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -352,6 +354,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
+presentproto-dev
 procps-ng
 pulseaudio-dev
 pulseaudio-dev32

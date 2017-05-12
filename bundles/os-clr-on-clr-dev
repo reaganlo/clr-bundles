@@ -135,6 +135,8 @@ doxygen
 dpdk-dev
 dri2proto-dev
 dri2proto-dev32
+dri3proto-dev
+dri3proto-dev32
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -534,6 +536,7 @@ pkg-config
 pkg-config-dev
 pluggy
 popt-dev
+presentproto-dev
 pretend-python
 processor-trace-dev
 procps-ng
