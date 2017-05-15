@@ -295,6 +295,7 @@ libdrm-dev32
 libepoxy-dev
 libepoxy-dev32
 libevdev-dev
+libevdev-dev32
 libevent-dev
 libevent-dev32
 libexif-dev
@@ -405,6 +406,7 @@ mkfontscale-bin
 mpc-dev
 mpfr-dev
 mtdev-dev
+mtdev-dev32
 nasm
 nasm-bin
 ncurses-dev
