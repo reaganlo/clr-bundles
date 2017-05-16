@@ -54,6 +54,7 @@ R
 R-dev
 Sphinx
 Sphinx-python
+Whoosh
 acl-dev
 acl-dev32
 appdirs

@@ -63,7 +63,6 @@ cairomm-dev
 check
 check-dev
 check-dev32
-claws-mail-dev
 clear-font
 clr-rpm-config
 cmake
