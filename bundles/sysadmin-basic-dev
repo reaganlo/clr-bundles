@@ -40,7 +40,6 @@ curl-dev
 db-dev
 dbus-dev
 dbus-dev32
-dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
