@@ -308,7 +308,6 @@ libgpg-error-dev
 libgpg-error-dev32
 libgsystem-dev
 libgudev-dev
-libical-dev
 libidn-dev
 libidn-dev32
 libinput-dev
@@ -429,7 +428,6 @@ ocl-icd-dev
 open-iscsi
 openblas
 openconnect-dev
-openldap-dev
 openssh
 openssl
 openssl-dev

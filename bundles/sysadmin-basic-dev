@@ -153,6 +153,7 @@ mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
+nettle-dev
 nss-altfiles
 numactl-dev
 onig-dev
