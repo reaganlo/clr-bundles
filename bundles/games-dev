@@ -97,7 +97,6 @@ font-bitstream-type1
 fontconfig-data
 fontconfig-dev
 fontconfig-dev32
-freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
