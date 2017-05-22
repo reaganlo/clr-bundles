@@ -26,7 +26,7 @@ procps-ng-bin
 sed-bin
 shadow
 systemd
-systemd-bootchart-bin
+systemd-bootchart-config
 systemd-libs
 tzdata-minimal
 util-linux-bin
