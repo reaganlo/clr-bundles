@@ -151,6 +151,7 @@ fontconfig-data
 fontconfig-dev
 fontconfig-dev32
 fontsproto-dev
+freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
