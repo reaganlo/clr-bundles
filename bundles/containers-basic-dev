@@ -77,9 +77,6 @@ gnu-efi
 gnu-efi-dev
 gnutls-dev
 go
-golang-github-cpuguy83-go-md2man
-golang-github-russross-blackfriday
-golang-github-shurcooL-sanitized_anchor_name
 gperf
 graphviz
 grep
