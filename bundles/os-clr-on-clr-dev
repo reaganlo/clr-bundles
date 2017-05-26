@@ -415,6 +415,7 @@ llvm-dev
 lua
 lua-dev
 lz4-dev
+lzip
 lzo-dev
 m4
 make
