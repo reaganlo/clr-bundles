@@ -19,6 +19,7 @@ collectl
 coreutils
 cpuid
 dbus
+dfc
 dmidecode
 dos2unix
 e2fsprogs
