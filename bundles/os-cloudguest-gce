@@ -3,7 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+compute-image-packages
 e2fsprogs-extras
 micro-config-drive
 sudo
-compute-image-packages
