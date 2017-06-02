@@ -186,6 +186,7 @@ openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
+openvpn-dev
 openvswitch-dev
 p11-kit
 p11-kit-bin
