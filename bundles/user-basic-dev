@@ -184,6 +184,7 @@ inputproto-dev
 inputproto-dev32
 intltool
 intltool-dev
+iproute2
 iptables
 iptables-dev
 iptables-dev32
@@ -412,6 +413,7 @@ pigz
 pip
 pixman-dev
 pixman-dev32
+pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 pluggy

@@ -99,6 +99,7 @@ icu4c-dev
 icu4c-dev32
 intltool
 intltool-dev
+iproute2
 iproute2-dev
 ipset-dev
 iptables-dev
@@ -163,6 +164,7 @@ libxslt
 libxslt-bin
 linux-libc-headers
 lz4-dev
+lzo-dev
 m4
 make
 mpc-dev
@@ -240,6 +242,7 @@ perl-namespace-autoclean
 perl-namespace-clean
 pigz
 pip
+pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 popt-dev
