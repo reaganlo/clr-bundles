@@ -9,4 +9,5 @@ include(python-basic)
 
 apache-hadoop
 apache-spark
+elasticsearch
 scala
