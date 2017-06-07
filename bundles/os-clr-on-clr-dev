@@ -75,6 +75,7 @@ autoconf
 autogen
 automake
 automake-dev
+backports.ssl_match_hostname
 bash
 bash-completion-dev
 bc
@@ -95,6 +96,7 @@ cairo-dev32
 catkin-dev
 catkin_pkg
 ceph-dev
+certifi-python
 cffi
 cffi-python
 check
@@ -111,6 +113,7 @@ coreutils
 cppunit-dev
 cracklib-dev
 cryptography
+cryptography-python
 cryptography_vectors-python
 cryptsetup-dev
 cups-dev
@@ -422,11 +425,13 @@ make
 man-db
 mesa-dev
 mesa-dev32
+mock-python
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
+ndg_httpsclient-python
 net-tools
 netbase
 nettle
@@ -546,7 +551,9 @@ protobuf-c-dev
 protobuf-dev
 py
 py-python
+pyOpenSSL-python
 pyasn1
+pyasn1-python
 pycparser
 pycparser-python
 pycurl
@@ -554,6 +561,7 @@ pyparsing
 pyparsing-python
 pytest
 pytest-python
+pytest-runner
 pytest-xdist
 python
 python-core
@@ -624,6 +632,7 @@ texinfo
 tk
 tk-dev
 tokyocabinet-dev
+tornado-python
 tox
 tox-python
 traceback2
