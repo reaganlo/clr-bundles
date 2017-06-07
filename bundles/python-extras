@@ -24,3 +24,4 @@ scikit-learn
 scipy
 simplejson
 six
+urllib3
