@@ -64,6 +64,7 @@ bzip2-dev
 ca-certs
 cairo-dev
 cairo-dev32
+catkin-dev
 ceph-dev
 check
 check-dev
