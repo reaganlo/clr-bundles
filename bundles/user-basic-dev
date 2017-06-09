@@ -64,7 +64,6 @@ bzip2-dev
 ca-certs
 cairo-dev
 cairo-dev32
-catkin-dev
 ceph-dev
 check
 check-dev
@@ -455,7 +454,6 @@ setuptools
 shadow
 shared-mime-info
 six
-six-python
 slang-dev
 snappy-dev
 source-highlight
