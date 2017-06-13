@@ -70,6 +70,7 @@ cairo-dev
 cairo-dev32
 cairomm-dev
 caribou-dev
+ccache
 check
 check-dev
 check-dev32
@@ -122,6 +123,7 @@ e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
 efivar-dev
+eigen-dev
 elfutils-dev
 elfutils-dev32
 emacs
@@ -177,6 +179,7 @@ geocode-glib-dev
 gettext
 gettext-bin
 gettext-dev
+gimp-dev
 git
 gjs-dev
 glib-bin
@@ -424,6 +427,7 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
+libva-intel-driver
 libvirt-dev
 libvirt-glib-dev
 libvorbis-dev
@@ -493,10 +497,13 @@ nss-dev
 nss-lib32
 numactl
 numactl-dev
+numpy
 ocl-icd-dev
 onig-dev
 open-iscsi
+openblas
 openconnect-dev
+opencv-dev
 openldap-dev
 openssh
 openssl
@@ -593,6 +600,7 @@ systemd-dev
 systemd-dev32
 systemd-libs
 tar
+tbb-dev
 tcl
 tcl-dev
 telepathy-glib-dev
@@ -611,6 +619,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+v4l-utils-dev
 valgrind
 valgrind-dev
 videoproto-dev
