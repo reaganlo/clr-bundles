@@ -10,6 +10,7 @@ include(machine-learning-basic)
 include(desktop-autostart)
 include(php-basic)
 include(games)
+include(R-basic)
 SDL
 SDL-dev
 SDL2_gfx-dev
