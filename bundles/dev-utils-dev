@@ -155,6 +155,7 @@ make
 man-db
 mpc-dev
 mpfr-dev
+mpich-dev
 ncurses-dev
 ncurses-dev32
 netbase

@@ -429,6 +429,7 @@ mesa-dev32
 mock-python
 mpc-dev
 mpfr-dev
+mpich-dev
 nasm
 ncurses-dev
 ncurses-dev32

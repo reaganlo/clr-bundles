@@ -325,6 +325,7 @@ mesa-dev
 mesa-dev32
 mpc-dev
 mpfr-dev
+mpich-dev
 nasm
 ncurses-dev
 ncurses-dev32
