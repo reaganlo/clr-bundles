@@ -50,6 +50,7 @@ automake-dev
 bash
 bash-completion-dev
 bc
+beignet-dev
 binutils
 binutils-dev
 bison
@@ -176,6 +177,7 @@ harfbuzz-dev
 harfbuzz-dev32
 help2man
 hostname
+hwloc-dev
 icu4c-dev
 icu4c-dev32
 idna
@@ -344,6 +346,7 @@ nss-altfiles
 nss-dev
 numactl
 numactl-dev
+ocl-icd-dev
 onig-dev
 open-iscsi
 openconnect-dev
@@ -426,6 +429,7 @@ procps-ng
 procps-ng-bin
 protobuf-c-dev
 protobuf-dev
+psmisc
 py
 py-python
 pyparsing

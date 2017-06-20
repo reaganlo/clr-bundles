@@ -24,6 +24,7 @@ automake
 automake-dev
 bash
 bc
+beignet-dev
 binutils
 binutils-dev
 bison
@@ -94,6 +95,7 @@ guile
 gzip
 help2man
 hostname
+hwloc-dev
 icu4c-dev
 intltool
 intltool-dev
@@ -110,6 +112,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libaio-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -164,6 +167,7 @@ nghttp2-dev32
 nose
 nss-altfiles
 numactl-dev
+ocl-icd-dev
 onig-dev
 openldap-dev
 openssl
@@ -185,6 +189,7 @@ popt-dev
 processor-trace-dev
 procps-ng
 procps-ng-bin
+psmisc
 python-core
 python-dev
 python3-dev
