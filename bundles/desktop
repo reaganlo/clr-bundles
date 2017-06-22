@@ -67,6 +67,11 @@ which
 wpa_supplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
+gst-plugins-ugly
+gst-plugins-bad
+gst-plugins-good
+gst-plugins-base
+gstreamer
 
 # gnome-flashback for vnc/software rendering support
 gnome-applets
