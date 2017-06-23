@@ -195,6 +195,7 @@ glibmm-dev
 glproto-dev
 glproto-dev32
 glu-dev
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-lib32
@@ -471,6 +472,7 @@ mozjs-dev
 mozjs38-dev
 mpc-dev
 mpfr-dev
+mpg123-dev
 mtdev-dev
 mtdev-dev32
 mutter
@@ -502,6 +504,7 @@ numpy
 ocl-icd-dev
 onig-dev
 open-iscsi
+openal-soft-dev
 openblas
 openconnect-dev
 opencv-dev

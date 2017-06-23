@@ -107,6 +107,7 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+cmrt-dev
 colorama-python
 compositeproto-dev
 compositeproto-dev32
@@ -418,6 +419,7 @@ linecache2-python
 linux-firmware
 linux-libc-headers
 llvm-dev
+llvm-lib
 lua
 lua-dev
 lz4-dev
@@ -476,6 +478,7 @@ pango-dev32
 parted-dev
 patch
 pbr
+pciutils
 pciutils-dev
 pcre-dev
 pcre-dev32
