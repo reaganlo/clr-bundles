@@ -75,8 +75,8 @@ gst-plugins-good
 gst-plugins-base
 gstreamer
 libva
-libva-intel
-gstreamer-vapi
+libva-intel-driver
+gstreamer-vaapi
 
 
 # gnome-flashback for vnc/software rendering support
