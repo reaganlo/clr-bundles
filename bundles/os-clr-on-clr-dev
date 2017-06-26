@@ -200,7 +200,6 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
-gfortran
 git
 glib-bin
 glib-dev

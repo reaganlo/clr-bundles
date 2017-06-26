@@ -611,6 +611,7 @@ telepathy-glib-dev
 telepathy-logger-dev
 texinfo
 tk-dev
+totem-pl-parser-dev
 tzdata
 uhttpmock-dev
 unzip
