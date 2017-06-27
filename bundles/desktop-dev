@@ -196,6 +196,7 @@ glproto-dev
 glproto-dev32
 glu-dev
 glu-dev32
+gmime-dev
 gmp-dev
 gmp-dev32
 gmp-lib32
@@ -223,11 +224,13 @@ gpgme-dev
 graphviz
 grep
 grilo-dev
+grilo-plugins
 groff
 gsettings-desktop-schemas-dev
 gst-plugins-bad-dev
 gst-plugins-base
 gst-plugins-base-dev
+gst-plugins-good
 gstreamer-dev
 gstreamer-dev32
 gtk+
