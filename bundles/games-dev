@@ -138,6 +138,7 @@ gnome-doc-utils-python
 gnu-efi
 gnu-efi-dev
 gnutls-dev
+go
 gobject-introspection
 gobject-introspection-dev
 googletest-dev

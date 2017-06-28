@@ -171,6 +171,7 @@ gnu-efi
 gnu-efi-dev
 gnutls-dev
 gnutls-dev32
+go
 gobject-introspection
 gobject-introspection-dev
 googletest-dev
@@ -306,6 +307,7 @@ libgcrypt-dev32
 libgd-dev
 libgpg-error-dev
 libgpg-error-dev32
+libgphoto2-dev
 libgsystem-dev
 libgudev-dev
 libidn-dev
