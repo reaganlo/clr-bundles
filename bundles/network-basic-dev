@@ -86,6 +86,7 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
+go
 gperf
 graphviz
 grep

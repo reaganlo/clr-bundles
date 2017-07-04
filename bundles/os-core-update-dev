@@ -75,6 +75,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+go
 gperf
 graphviz
 grep
