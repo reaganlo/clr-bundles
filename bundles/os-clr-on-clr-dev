@@ -181,6 +181,7 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
+fs-python
 funcsigs
 funcsigs-python
 fuse-dev
@@ -239,6 +240,7 @@ gzip
 harfbuzz-dev
 harfbuzz-dev32
 help2man
+hgtools-python
 hostname
 hwloc-dev
 hypothesis-python
@@ -265,8 +267,10 @@ jedi
 json-c-dev
 json-glib-dev
 json-glib-dev32
+jsonschema-python
 kbproto-dev
 kbproto-dev32
+keyring-python
 keyutils-dev
 kmod
 kmod-bin
@@ -564,16 +568,19 @@ pyasn1
 pyasn1-python
 pycparser
 pycparser-python
+pycrypto-python
 pycurl
 pyparsing
 pyparsing-python
 pytest
 pytest-python
+pytest-runner-python
 pytest-timeout
 pytest-xdist
 python
 python-core
 python-dev
+python-keyczar-python
 python-magic
 python-mimeparse-python
 python-mock
@@ -603,6 +610,7 @@ ruby
 scons
 scrnsaverproto-dev
 scrnsaverproto-dev32
+secretstorage
 sed
 setuptools
 setuptools_scm
