@@ -573,7 +573,6 @@ pycurl
 pyparsing
 pyparsing-python
 pytest
-pytest-python
 pytest-runner-python
 pytest-timeout
 pytest-xdist
