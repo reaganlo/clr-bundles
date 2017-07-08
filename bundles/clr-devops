@@ -11,3 +11,4 @@ include(rust-basic)
 include(koji)
 httpd
 mash
+gitolite
