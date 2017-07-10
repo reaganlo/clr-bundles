@@ -13,3 +13,6 @@ httpd
 mash
 gitolite
 koji-extras
+psycopg2
+python-krbV
+Cheetah
