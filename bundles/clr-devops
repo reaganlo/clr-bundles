@@ -12,3 +12,4 @@ include(koji)
 httpd
 mash
 gitolite
+koji-extras
