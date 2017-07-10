@@ -9,10 +9,12 @@ include(mixer)
 include(java-basic)
 include(rust-basic)
 include(koji)
+
+Cheetah
+gitolite
 httpd
 mash
-gitolite
 koji-extras
 psycopg2
 python-krbV
-Cheetah
+python-multilib
