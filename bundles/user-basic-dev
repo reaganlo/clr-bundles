@@ -140,6 +140,7 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
+gflags-dev
 git
 glib-bin
 glib-dev
