@@ -9,3 +9,4 @@ cc-oci-runtime-extras
 systemd
 filesystem
 iptables
+clear-containers-agent
