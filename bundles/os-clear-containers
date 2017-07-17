@@ -3,10 +3,10 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Jose Carlos Venegas Munoz <jose.carlos.venegas.munoz@intel.com>
+cc-oci-runtime-extras
+clear-containers-agent
+filesystem
 hyperstart
 hyperstart-config
-cc-oci-runtime-extras
-systemd
-filesystem
 iptables
-clear-containers-agent
+systemd
