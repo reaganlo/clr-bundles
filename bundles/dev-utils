@@ -24,6 +24,7 @@ linux-tools
 llvm
 ltrace
 man-pages
+meson
 openssl
 p7zip
 patch
