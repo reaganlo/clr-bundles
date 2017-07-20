@@ -256,6 +256,7 @@ python
 python-dev
 python-mock
 python-mock-python
+python3
 python3-dev
 quagga-dev
 readline-dev

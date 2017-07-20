@@ -180,6 +180,7 @@ procps-ng-bin
 procps-ng-dev
 protobuf-dev
 python-dev
+python3
 python3-dev
 readline-dev
 readline-dev32

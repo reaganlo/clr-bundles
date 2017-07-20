@@ -192,6 +192,7 @@ procps-ng-bin
 psmisc
 python-core
 python-dev
+python3
 python3-dev
 readline-dev
 readline-dev32
