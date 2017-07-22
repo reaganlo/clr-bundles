@@ -10,7 +10,6 @@ gtk3-lib
 gtk+-lib
 alsa-lib
 gnome-shell-lib
-gobject-introspection
 gstreamer-lib
 mesa-lib
 libcanberra-lib
