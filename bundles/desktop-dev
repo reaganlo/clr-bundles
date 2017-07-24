@@ -199,6 +199,8 @@ glu-dev32
 gmime-dev
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnome-autoar-dev
 gnome-bluetooth-dev
@@ -364,6 +366,7 @@ libgd-dev
 libgdata-dev
 libgee-dev
 libgnome-keyring-dev
+libgnomekbd-dev
 libgpg-error-dev
 libgpg-error-dev32
 libgphoto2-dev
@@ -537,6 +540,7 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pcre2-dev
+perl
 perl-XML-Parser
 perl-XML-Simple
 pigz
@@ -639,6 +643,7 @@ vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
+wayland-protocols-dev32
 webkitgtk-dev
 weston-dev
 which

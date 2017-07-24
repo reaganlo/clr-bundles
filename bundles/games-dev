@@ -132,6 +132,8 @@ glproto-dev
 glproto-dev32
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gnome-doc-utils
 gnome-doc-utils-dev
 gnome-doc-utils-python
@@ -347,6 +349,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pip
@@ -414,6 +417,7 @@ vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
+wayland-protocols-dev32
 webkitgtk-dev
 which
 xcb-proto-dev

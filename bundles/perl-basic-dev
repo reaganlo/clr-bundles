@@ -62,6 +62,8 @@ glibc-dev32
 glibc-libc32
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 gperf
@@ -132,6 +134,7 @@ p11-kit-bin
 patch
 pbr
 pcre-dev
+perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable
 perl-Class-Singleton
@@ -145,6 +148,7 @@ perl-HTML-Tagset
 perl-HTTP-Date
 perl-HTTP-Message
 perl-IO-HTML
+perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https

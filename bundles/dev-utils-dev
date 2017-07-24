@@ -6,6 +6,7 @@
 include(dev-utils)
 include(os-core-dev)
 include(dev-utils)
+include(perl-basic)
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
@@ -81,6 +82,8 @@ glibc-libc32
 glibc-staticdev
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go

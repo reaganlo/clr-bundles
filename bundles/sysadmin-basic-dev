@@ -78,6 +78,8 @@ glibc-dev32
 glibc-libc32
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 gperf
@@ -169,6 +171,7 @@ pbr
 pciutils-dev
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pip

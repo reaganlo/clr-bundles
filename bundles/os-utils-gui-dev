@@ -164,6 +164,8 @@ glproto-dev32
 glu-dev
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnome-desktop-dev
 gnome-icon-theme-dev
@@ -454,6 +456,7 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pcre2-dev
+perl
 perl-URI
 perl-XML-Parser
 perl-XML-Simple
@@ -545,6 +548,7 @@ vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
+wayland-protocols-dev32
 which
 xcb-proto-dev
 xcb-proto-dev32

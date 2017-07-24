@@ -83,6 +83,8 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -193,6 +195,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-Error
 perl-XML-Parser
 pigz
