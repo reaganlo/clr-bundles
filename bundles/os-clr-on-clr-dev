@@ -454,6 +454,7 @@ nettle-lib32
 nfs-utils
 nghttp2-dev
 nghttp2-dev32
+ninja
 nose
 nose-python
 npth-dev
@@ -611,6 +612,7 @@ rpm-build
 rpm-common
 rpm-dev
 ruby
+scikit-build
 scons
 scrnsaverproto-dev
 scrnsaverproto-dev32
