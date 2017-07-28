@@ -16,9 +16,11 @@ Linux-PAM-dev32
 MarkupSafe
 Pygments
 Sphinx
+Sphinx-python
 Whoosh
 acl-dev
 acl-dev32
+apipkg
 argcomplete
 argparse
 argparse-python
@@ -54,6 +56,8 @@ cmake
 colorama-python
 contextlib2
 coreutils
+coverage
+coverage-python
 cracklib-dev
 cryptography
 cryptography-python
@@ -195,6 +199,7 @@ lz4-dev
 m4
 make
 man-db
+mccabe-python
 mock-python
 mpc-dev
 mpfr-dev
@@ -222,6 +227,7 @@ packaging-python
 patch
 pbr
 pcre-dev
+pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable
@@ -288,8 +294,10 @@ pyasn1-python
 pycparser
 pycparser-python
 pycrypto-python
+pyflakes-python
 pyparsing-python
 pytest
+pytest-runner
 pytest-runner-python
 pytest-timeout
 pytest-xdist
