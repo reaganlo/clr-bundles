@@ -27,6 +27,7 @@ acl-lib32
 alsa-lib-lib32
 atk-lib32
 attr-lib32
+blender
 bzip2-lib32
 cairo-lib32
 compat-SDL2-soname0-lib
