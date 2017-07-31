@@ -112,6 +112,7 @@ cmrt-dev
 colorama-python
 compositeproto-dev
 compositeproto-dev32
+configparser-python
 contextlib2
 coreutils
 coverage
@@ -205,6 +206,7 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
+gfortran
 git
 glib-bin
 glib-dev
@@ -470,6 +472,7 @@ numactl-dev
 ocl-icd-dev
 onig-dev
 open-iscsi
+openblas
 openconnect-dev
 openjade-dev
 openjdk-dev
@@ -486,6 +489,7 @@ p11-kit-dev32
 packaging-python
 pango-dev
 pango-dev32
+paramiko-python
 parted-dev
 patch
 pbr
@@ -572,13 +576,16 @@ procps-ng-bin
 protobuf-c-dev
 protobuf-dev
 psmisc
+ptyprocess
 py
 py-python
+pyOpenSSL
 pyOpenSSL-python
 pyasn1
 pyasn1-python
 pycparser
 pycparser-python
+pycrypto
 pycrypto-python
 pycurl
 pyflakes-python
@@ -592,13 +599,16 @@ pytest-xdist
 python
 python-core
 python-dev
+python-keyczar
 python-keyczar-python
 python-magic
+python-mimeparse
 python-mimeparse-python
 python-mock
 python-mock-python
 python-modules
 python-rpm
+python-subunit
 python3
 python3-dev
 pytz
@@ -680,6 +690,7 @@ util-macros-dev
 util-macros-dev32
 valgrind
 valgrind-dev
+vcversioner
 videoproto-dev
 videoproto-dev32
 vim
