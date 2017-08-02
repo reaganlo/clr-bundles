@@ -66,6 +66,7 @@ shadow
 shadow-doc
 shadow-locale
 sharutils
+shim
 socat
 strace
 sudo
