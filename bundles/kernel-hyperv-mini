@@ -7,4 +7,3 @@ include(bootloader)
 clr-boot-manager
 linux-hyperv-mini
 runc
-shim
