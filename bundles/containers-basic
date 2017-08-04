@@ -3,10 +3,14 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-bridge-utils
 LVM2
-docker
+bridge-utils
+btrfs-progs
 containerd
+docker
+e2fsprogs
+e2fsprogs-extras
 gnupg
 iproute2
 p11-kit
+xfsprogs
