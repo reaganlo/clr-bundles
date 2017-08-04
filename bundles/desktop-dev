@@ -547,6 +547,7 @@ nose
 nose-python
 nspr-dev
 nss-altfiles
+nss-bin
 nss-dev
 nss-lib32
 numactl
@@ -590,6 +591,7 @@ pep8-python
 perl
 perl-XML-Parser
 perl-XML-Simple
+pesign
 pexpect
 pigz
 pip

@@ -466,6 +466,7 @@ nose-python
 npth-dev
 nspr-dev
 nss-altfiles
+nss-bin
 nss-dev
 numactl
 numactl-dev
@@ -557,6 +558,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+pesign
 pexpect
 php-dev
 pigz

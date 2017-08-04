@@ -147,6 +147,7 @@ netbase
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
+nss-bin
 openssl-dev
 openssl-dev32
 p11-kit
@@ -156,6 +157,7 @@ pbr
 pcre-dev
 pcre-dev32
 perl-XML-Parser
+pesign
 pigz
 pip
 pkg-config

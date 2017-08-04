@@ -388,6 +388,7 @@ ninja
 nose
 nose-python
 nss-altfiles
+nss-bin
 nss-dev
 numactl
 numactl-dev
@@ -463,6 +464,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+pesign
 pexpect
 pigz
 pip

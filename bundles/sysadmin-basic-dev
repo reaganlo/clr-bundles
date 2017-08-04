@@ -157,6 +157,7 @@ ncurses-dev32
 netbase
 nettle-dev
 nss-altfiles
+nss-bin
 numactl-dev
 onig-dev
 openssl
@@ -173,6 +174,7 @@ pcre-dev
 pcre-dev32
 perl
 perl-XML-Parser
+pesign
 pigz
 pip
 pkg-config
