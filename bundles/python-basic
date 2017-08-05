@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 clr-python-timestamp
+glibc-lib-avx2
 p11-kit
 pip
 pycodestyle

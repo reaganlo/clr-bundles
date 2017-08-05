@@ -16,7 +16,7 @@ R-dev
 # Required for performance reasons
 #
 libgfortran-avx
-
+glibc-lib-avx2
 #
 # Not listed because these are part of the R core above
 #

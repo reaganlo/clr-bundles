@@ -38,6 +38,7 @@ funcsigs
 gensim
 gflags-dev
 glog-dev
+glibc-lib-avx2
 googletest-dev
 graphviz
 h5py

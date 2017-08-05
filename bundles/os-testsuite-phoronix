@@ -52,6 +52,7 @@ gflags-dev
 gimp
 git
 glibc-staticdev
+glibc-lib-avx2
 glog-dev
 glu-dev
 gmp-dev
