@@ -334,9 +334,9 @@ libarchive-c
 libarchive-dev
 libassuan-dev
 libatomic_ops-dev
-libc-bin
-libc6-dev
-libc6-locale
+glibc-bin
+glibc-dev
+glibc-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev

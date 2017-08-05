@@ -371,9 +371,9 @@ libaio-dev
 libarchive-dev
 libarchive-devel
 libassuan-dev
-libc-bin
-libc6-dev
-libc6-locale
+glibc-bin
+glibc-dev
+glibc-locale
 libcanberra-dev
 libcap-dev
 libcap-dev32

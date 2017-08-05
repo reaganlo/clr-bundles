@@ -21,7 +21,7 @@ gawk-bin
 gcc
 gcc-dev
 git
-libc6-dev
+glibc-dev
 libgcc1
 linux-libc-headers
 m4

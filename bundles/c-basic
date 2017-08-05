@@ -22,8 +22,8 @@ gmp-dev
 gmp-doc
 gmp-gmpxx
 gmp-lib
-libc6-dev
-libc6-locale
+glibc-dev
+glibc-locale
 libstdc++
 libtool
 libtool-dev

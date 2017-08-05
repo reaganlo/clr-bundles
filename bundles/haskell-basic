@@ -11,7 +11,7 @@ gcc
 gcc-dev
 git
 gmp-dev
-libc6-dev
+glibc-dev
 make
 ncurses-lib
 p11-kit

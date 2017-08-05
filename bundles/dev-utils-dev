@@ -154,8 +154,8 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libaio-dev
-libc6-dev
-libc6-locale
+glibc-dev
+glibc-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev

@@ -20,7 +20,7 @@ gdb
 git
 hub
 lcov
-libc-bin
+glibc-bin
 linux-tools
 llvm
 ltrace

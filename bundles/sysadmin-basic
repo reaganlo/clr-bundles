@@ -38,7 +38,7 @@ iproute2
 kbd
 kmod
 less
-libc-bin
+glibc-bin
 libcap-bin
 linux-dev
 lsacpi
