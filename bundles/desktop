@@ -62,6 +62,7 @@ openssl
 polkit
 pulseaudio
 openconnect
+systemd-hwdb
 systemd-polkit
 upower
 which
