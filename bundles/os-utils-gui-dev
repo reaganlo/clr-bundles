@@ -85,6 +85,7 @@ colorama-python
 colord-dev
 compositeproto-dev
 compositeproto-dev32
+configparser-python
 contextlib2
 coreutils
 coverage
@@ -315,9 +316,9 @@ libXxf86vm-dev32
 libarchive-dev
 libarchive-devel
 libassuan-dev
-glibc-bin
-glibc-dev
-glibc-locale
+libc-bin
+libc6-dev
+libc6-locale
 libcanberra-dev
 libcap-dev
 libcap-dev32

@@ -93,8 +93,8 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libaio-dev
-glibc-dev
-glibc-locale
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev

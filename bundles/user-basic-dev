@@ -86,6 +86,7 @@ clear-font
 clr-rpm-config
 cmake
 colorama-python
+configparser-python
 contextlib2
 coreutils
 coverage
@@ -277,9 +278,9 @@ libXxf86vm-dev32
 libaio-dev
 libassuan-dev
 libatomic_ops-dev
-glibc-bin
-glibc-dev
-glibc-locale
+libc-bin
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -388,7 +389,6 @@ ninja
 nose
 nose-python
 nss-altfiles
-nss-bin
 nss-dev
 numactl
 numactl-dev
@@ -464,7 +464,6 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
-pesign
 pexpect
 pigz
 pip

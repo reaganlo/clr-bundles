@@ -228,9 +228,9 @@ libXvMC-dev
 libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
-glibc-bin
-glibc-dev
-glibc-locale
+libc-bin
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev

@@ -24,6 +24,7 @@ binutils
 bison
 bison-dev
 boost-dev
+btrfs-progs-dev
 btrfs-progs-devel
 bzip2
 bzip2-dev
@@ -43,6 +44,7 @@ diffutils
 docbook-xml
 doxygen
 e2fsprogs
+e2fsprogs-dev
 elfutils-dev
 emacs
 expat-dev
@@ -106,8 +108,8 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libassuan-dev
-glibc-dev
-glibc-locale
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -149,6 +151,7 @@ libxslt
 libxslt-bin
 linux-libc-headers
 lz4-dev
+lzo-dev
 m4
 make
 mpc-dev
@@ -213,6 +216,7 @@ util-linux-extras
 valgrind
 valgrind-dev
 which
+xfsprogs-dev
 xmlto
 xz
 xz-dev

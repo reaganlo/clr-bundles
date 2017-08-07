@@ -74,6 +74,7 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-utils
@@ -108,8 +109,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-glibc-dev
-glibc-locale
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -157,7 +158,6 @@ ncurses-dev32
 netbase
 nettle-dev
 nss-altfiles
-nss-bin
 numactl-dev
 onig-dev
 openssl
@@ -174,7 +174,6 @@ pcre-dev
 pcre-dev32
 perl
 perl-XML-Parser
-pesign
 pigz
 pip
 pkg-config

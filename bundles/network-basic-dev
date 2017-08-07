@@ -51,6 +51,7 @@ check-dev32
 clr-rpm-config
 cmake
 colorama-python
+configparser-python
 connman-dev
 contextlib2
 coreutils
@@ -155,9 +156,9 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-glibc-bin
-glibc-dev
-glibc-locale
+libc-bin
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev

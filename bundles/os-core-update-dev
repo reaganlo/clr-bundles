@@ -99,8 +99,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-glibc-dev
-glibc-locale
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -147,7 +147,6 @@ netbase
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
-nss-bin
 openssl-dev
 openssl-dev32
 p11-kit
@@ -157,7 +156,6 @@ pbr
 pcre-dev
 pcre-dev32
 perl-XML-Parser
-pesign
 pigz
 pip
 pkg-config

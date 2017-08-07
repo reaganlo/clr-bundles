@@ -334,9 +334,9 @@ libarchive-c
 libarchive-dev
 libassuan-dev
 libatomic_ops-dev
-glibc-bin
-glibc-dev
-glibc-locale
+libc-bin
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -466,7 +466,6 @@ nose-python
 npth-dev
 nspr-dev
 nss-altfiles
-nss-bin
 nss-dev
 numactl
 numactl-dev
@@ -558,7 +557,6 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
-pesign
 pexpect
 php-dev
 pigz

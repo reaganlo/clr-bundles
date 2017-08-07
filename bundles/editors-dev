@@ -42,6 +42,7 @@ cffi-python
 clr-rpm-config
 cmake
 colorama-python
+configparser-python
 contextlib2
 coreutils
 coverage
@@ -135,8 +136,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-glibc-dev
-glibc-locale
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev

@@ -102,6 +102,7 @@ colord-dev
 colord-gtk-dev
 compositeproto-dev
 compositeproto-dev32
+configparser-python
 contextlib2
 coreutils
 coverage
@@ -371,9 +372,9 @@ libaio-dev
 libarchive-dev
 libarchive-devel
 libassuan-dev
-glibc-bin
-glibc-dev
-glibc-locale
+libc-bin
+libc6-dev
+libc6-locale
 libcanberra-dev
 libcap-dev
 libcap-dev32
@@ -419,6 +420,7 @@ libidn-dev32
 libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
+libksba-dev
 libmnl-dev
 libmnl-dev32
 libmspack-dev
@@ -471,6 +473,7 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libusb-compat-dev
 libusb-dev
 libva-dev
 libva-intel-driver
@@ -545,9 +548,9 @@ nghttp2-dev
 nghttp2-dev32
 nose
 nose-python
+npth-dev
 nspr-dev
 nss-altfiles
-nss-bin
 nss-dev
 nss-lib32
 numactl
@@ -591,7 +594,6 @@ pep8-python
 perl
 perl-XML-Parser
 perl-XML-Simple
-pesign
 pexpect
 pigz
 pip

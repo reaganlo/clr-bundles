@@ -54,6 +54,7 @@ check-dev
 clr-rpm-config
 cmake
 colorama-python
+configparser-python
 contextlib2
 coreutils
 coverage
@@ -108,6 +109,7 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -154,8 +156,8 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libaio-dev
-glibc-dev
-glibc-locale
+libc6-dev
+libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
