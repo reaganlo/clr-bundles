@@ -24,7 +24,6 @@ binutils
 bison
 bison-dev
 boost-dev
-btrfs-progs-dev
 btrfs-progs-devel
 bzip2
 bzip2-dev
@@ -216,7 +215,6 @@ util-linux-extras
 valgrind
 valgrind-dev
 which
-xfsprogs-dev
 xmlto
 xz
 xz-dev

@@ -397,6 +397,7 @@ sed
 setuptools
 shadow
 shared-mime-info
+shared-mime-info-dev
 slang-dev
 speex-dev
 sqlite-autoconf-dev
