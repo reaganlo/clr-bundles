@@ -12,5 +12,5 @@ nftables
 ebtables
 bndl-kvm-host
 dnsmasq
-clr-ovmf-bin
+edk2
 dmidecode
