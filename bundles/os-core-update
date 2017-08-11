@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides basic suite for running the Clear Linux for iA Updater
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
+# [MAINTAINER]: Matthew Johnson <matthew.johnson@intel.com>
 include(os-core)
 btrfs-progs
 bzip2
