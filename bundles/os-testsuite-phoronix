@@ -112,6 +112,7 @@ scons
 snappy-dev
 sqlite-autoconf-dev
 tcl
+tiff-dev
 time
 unzip
 vulkan-sdk
