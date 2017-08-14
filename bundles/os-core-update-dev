@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the os-core-update bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
+# [MAINTAINER]: Matthew Johnson <matthew.johnson@intel.com>
 include(os-core-update)
 include(os-core-dev)
 include(dev-utils)
@@ -172,6 +172,8 @@ sed
 setuptools
 shadow
 shared-mime-info
+six
+six-python
 slang-dev
 strace
 swupd-client-dev

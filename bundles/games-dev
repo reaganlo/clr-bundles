@@ -10,6 +10,7 @@ include(libX11client)
 CUnit-dev
 CUnit-dev32
 GConf-dev
+LibRaw-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
@@ -96,6 +97,7 @@ fixesproto-dev
 fixesproto-dev32
 flex
 flex-dev
+fltk-dev
 font-bitstream-type1
 fontconfig-data
 fontconfig-dev
@@ -169,6 +171,7 @@ harfbuzz-dev32
 hostname
 icu4c-dev
 icu4c-dev32
+ilmbase-dev
 inputproto
 inputproto-dev
 inputproto-dev32
@@ -187,6 +190,7 @@ kmod-dev
 kmod-dev32
 krb5-dev
 krb5-dev32
+lcms2-dev
 ldd
 libICE-dev
 libICE-dev32
@@ -339,8 +343,10 @@ nss-altfiles
 nss-dev
 nss-lib32
 numpy
+oiio-dev
 openal-soft-dev
 openblas
+openexr-dev
 openssl-dev
 openssl-dev32
 opus-dev
@@ -398,6 +404,8 @@ setuptools
 shadow
 shared-mime-info
 shared-mime-info-dev
+six
+six-python
 slang-dev
 speex-dev
 sqlite-autoconf-dev
@@ -410,6 +418,7 @@ systemd-libs
 tar
 tcl
 texinfo
+tiff-dev
 tzdata
 unzip
 util-linux-bin
