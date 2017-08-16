@@ -109,6 +109,9 @@ gnome-tweak-tool
 gvfs
 nautilus
 
+# nice to have when using desktop
+thermal_daemon
+
 # x.org bits
 mesa
 xf86-input-libinput
