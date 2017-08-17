@@ -1,0 +1,8 @@
+# [TITLE]: qt-basic
+# [DESCRIPTION]: Build and run programs that use the QT runtime
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(c-basic)
+qt-everywhere-opensource-src
+qt-everywhere-opensource-src-dev
