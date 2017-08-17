@@ -233,6 +233,7 @@ gvfs-dev
 gzip
 harfbuzz-dev
 harfbuzz-dev32
+help2man
 hexchat-dev
 hgtools-python
 hostname

@@ -284,6 +284,7 @@ gvfs-dev
 gzip
 harfbuzz-dev
 harfbuzz-dev32
+help2man
 hgtools-python
 hostname
 hunspell-dev

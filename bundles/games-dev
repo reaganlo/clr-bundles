@@ -168,6 +168,7 @@ guile
 gzip
 harfbuzz-dev
 harfbuzz-dev32
+help2man
 hostname
 icu4c-dev
 icu4c-dev32
