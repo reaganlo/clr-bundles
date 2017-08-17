@@ -42,6 +42,7 @@ glibc-bin
 libcap-bin
 linux-dev
 lsacpi
+lshw
 lsof
 man-db
 man-pages
@@ -67,6 +68,7 @@ shadow-doc
 shadow-locale
 sharutils
 socat
+stow
 strace
 sudo
 systemd
