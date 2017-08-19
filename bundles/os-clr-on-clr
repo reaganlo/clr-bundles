@@ -27,8 +27,6 @@ include(sysadmin-basic)
 include(sysadmin-basic-dev)
 Mako-python
 abireport
-catkin
-catkin_pkg
 configobj
 cve-check-tool
 damageproto-dev
