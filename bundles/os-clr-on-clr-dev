@@ -97,7 +97,6 @@ bzip2-dev
 ca-certs
 cairo-dev
 cairo-dev32
-catkin-dev
 catkin_pkg
 ceph-dev
 certifi-python
