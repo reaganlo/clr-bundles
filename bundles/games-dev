@@ -414,7 +414,6 @@ systemd-libs
 tar
 tcl
 texinfo
-tiff-dev
 tzdata
 unzip
 util-linux-bin
