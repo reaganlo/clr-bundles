@@ -30,7 +30,6 @@ bc
 beignet
 beignet-dev
 bison
-blender
 bndl-lamp-basic
 boost-dev
 bzip2-dev
@@ -60,7 +59,6 @@ gnupg
 gnuplot
 gtk+-dev
 hwloc-dev
-imlib2-dev
 jemalloc-dev
 jemalloc-dev
 libXpm
