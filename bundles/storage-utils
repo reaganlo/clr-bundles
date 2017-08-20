@@ -13,7 +13,6 @@ e2fsprogs
 e2fsprogs-extras
 gptfdisk
 mdadm
-mstflint
 ndctl
 nfs-utils
 ntfs-3g
