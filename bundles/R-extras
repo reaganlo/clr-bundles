@@ -31,7 +31,6 @@ R-bitops
 R-sp
 R-lmtest
 R-gtools
-R-randomForest
 R-tree
 R-tau
 R-manipulate
@@ -51,7 +50,6 @@ R-devtools
 R-evaluate
 R-e1071
 R-glmnet
-R-brew
 R-roxygen2
 R-RcppEigen
 R-quantreg
@@ -59,7 +57,6 @@ R-minqa
 R-lme4
 R-Cairo
 R-XML
-R-rjson
 R-timeDate
 R-rversions
 R-BH
