@@ -341,7 +341,6 @@ nss-altfiles
 nss-dev
 nss-lib32
 numpy
-oiio-dev
 openal-soft-dev
 openblas
 openssl-dev
