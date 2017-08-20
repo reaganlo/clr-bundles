@@ -345,7 +345,6 @@ numpy
 oiio-dev
 openal-soft-dev
 openblas
-openexr-dev
 openssl-dev
 openssl-dev32
 opus-dev
