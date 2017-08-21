@@ -50,7 +50,6 @@ R-devtools
 R-evaluate
 R-e1071
 R-glmnet
-R-roxygen2
 R-RcppEigen
 R-quantreg
 R-minqa
