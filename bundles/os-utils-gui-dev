@@ -132,8 +132,6 @@ exo-dev
 expat-dev
 expat-dev32
 expect
-extras
-extras-python
 fftw-dev
 filesystem-chroot
 fixesproto-dev
@@ -158,7 +156,6 @@ freetype-dev
 freetype-dev32
 fribidi-dev
 fs-python
-funcsigs-python
 fuse-dev
 garcon-dev
 gawk
@@ -233,7 +230,6 @@ gvfs-dev
 gzip
 harfbuzz-dev
 harfbuzz-dev32
-help2man
 hexchat-dev
 hgtools-python
 hostname
@@ -401,7 +397,6 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 libunwind-dev
-libusb-compat-dev
 libusb-dev
 libva-dev
 libvirt-dev
@@ -539,12 +534,11 @@ pytest-runner
 pytest-runner-python
 pytest-timeout
 pytest-xdist
+python
 python-cliapp
 python-dev
 python-keyczar-python
-python-mimeparse-python
 python-mock
-python-mock-python
 python-ttystatus
 python3
 python3-dev
@@ -581,6 +575,7 @@ six
 six-python
 slang-dev
 speex-dev
+sphinxcontrib-websupport
 spice-gtk
 spice-gtk-dev
 spice-protocol-dev
@@ -600,16 +595,16 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 texinfo
 tk-dev
 tornado-python
 tox
 traceback2
 traceback2-python
-tumbler-dev
+typing
 tzdata
 unittest2
-unittest2-python
 unzip
 usbutils-dev
 util-linux

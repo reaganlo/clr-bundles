@@ -97,7 +97,6 @@ bzip2-dev
 ca-certs
 cairo-dev
 cairo-dev32
-catkin_pkg
 ceph-dev
 certifi-python
 cffi
@@ -166,7 +165,6 @@ expat-dev
 expat-dev32
 expect
 extras
-extras-python
 fcgi-dev
 file
 file-dev
@@ -187,7 +185,6 @@ freetype-dev32
 fribidi-dev
 fs-python
 funcsigs
-funcsigs-python
 fuse-dev
 gawk
 gc-dev
@@ -408,7 +405,6 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
-libusb-compat-dev
 libusb-dev
 libuser-dev
 libva-dev
@@ -603,9 +599,7 @@ python-keyczar
 python-keyczar-python
 python-magic
 python-mimeparse
-python-mimeparse-python
 python-mock
-python-mock-python
 python-modules
 python-rpm
 python-subunit
@@ -645,6 +639,7 @@ six-python
 slang-dev
 snappy-dev
 source-highlight
+sphinxcontrib-websupport
 spice
 spice-dev
 spice-protocol
@@ -669,6 +664,7 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 texinfo
 tk
 tk-dev
@@ -678,9 +674,10 @@ tox
 tox-python
 traceback2
 traceback2-python
+typing
+typing-python
 tzdata
 unittest2
-unittest2-python
 unzip
 util-linux
 util-linux-bin

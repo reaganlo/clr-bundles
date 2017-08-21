@@ -16,7 +16,6 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 GConf-dev
-ImageMagick
 Jinja2
 LVM2
 LVM2-dev
@@ -162,8 +161,6 @@ exiv2-dev
 expat-dev
 expat-dev32
 expect
-extras
-extras-python
 fftw-dev
 filesystem-chroot
 fixesproto-dev
@@ -188,7 +185,6 @@ freetype-dev
 freetype-dev32
 fribidi-dev
 fs-python
-funcsigs-python
 fuse-dev
 gawk
 gcc
@@ -284,7 +280,6 @@ gvfs-dev
 gzip
 harfbuzz-dev
 harfbuzz-dev32
-help2man
 hgtools-python
 hostname
 hunspell-dev
@@ -474,7 +469,6 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 libunwind-dev
-libusb-compat-dev
 libusb-dev
 libva-dev
 libva-intel-driver
@@ -634,12 +628,11 @@ pytest-runner
 pytest-runner-python
 pytest-timeout
 pytest-xdist
+python
 python-cliapp
 python-dev
 python-keyczar-python
-python-mimeparse-python
 python-mock
-python-mock-python
 python-ttystatus
 python3
 python3-dev
@@ -677,6 +670,7 @@ six
 six-python
 slang-dev
 speex-dev
+sphinxcontrib-websupport
 spice-gtk
 spice-gtk-dev
 spice-protocol-dev
@@ -700,6 +694,7 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 texinfo
 tk-dev
 tornado-python
@@ -707,10 +702,10 @@ totem-pl-parser-dev
 tox
 traceback2
 traceback2-python
+typing
 tzdata
 uhttpmock-dev
 unittest2
-unittest2-python
 unzip
 upower-dev
 usbutils-dev
