@@ -127,7 +127,6 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
-libibmad-dev
 libibumad-dev
 libidn-dev
 libidn-dev32

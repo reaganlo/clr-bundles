@@ -408,7 +408,6 @@ libgphoto2-dev
 libgsystem-dev
 libgtop-dev
 libgudev-dev
-libgudev-dev32
 libgweather-dev
 libical-dev
 libidn-dev

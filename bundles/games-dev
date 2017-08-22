@@ -182,7 +182,6 @@ kmod-dev
 kmod-dev32
 krb5-dev
 krb5-dev32
-lcms2-dev
 ldd
 libICE-dev
 libICE-dev32
@@ -248,8 +247,6 @@ libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
-libgudev-dev
-libgudev-dev32
 libidn-dev
 libidn-dev32
 libinput-dev
@@ -365,7 +362,6 @@ pulseaudio-dev
 pulseaudio-dev32
 pygobject
 python
-python-core
 python-dev
 python3
 python3-dev
