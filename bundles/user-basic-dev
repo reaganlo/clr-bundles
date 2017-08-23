@@ -587,6 +587,7 @@ wayland-dev
 wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
+wheel
 which
 wpa_supplicant
 xcb-proto-dev

@@ -51,7 +51,6 @@ e2fsprogs-dev32
 e2fsprogs-extras
 elfutils-dev
 elfutils-dev32
-emacs
 expat-dev
 expat-dev32
 expect

@@ -121,7 +121,6 @@ e2fsprogs-dev32
 ebtables
 elfutils-dev
 elfutils-dev32
-emacs
 enum34
 enum34-python
 eog-dev
@@ -626,6 +625,7 @@ wayland-dev
 wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
+wheel
 which
 xcb-proto-dev
 xcb-proto-dev32

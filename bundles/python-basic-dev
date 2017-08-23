@@ -263,6 +263,7 @@ util-linux-extras
 valgrind
 valgrind-dev
 virtualenv
+wheel
 which
 xmlto
 xz

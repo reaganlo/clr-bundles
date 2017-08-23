@@ -360,6 +360,7 @@ valgrind
 valgrind-dev
 vim
 virtualenv
+wheel
 which
 xmlto
 xz

@@ -730,6 +730,7 @@ wayland-protocols-dev
 wayland-protocols-dev32
 webkitgtk-dev
 weston-dev
+wheel
 which
 xcb-proto-dev
 xcb-proto-dev32
