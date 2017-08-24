@@ -6,6 +6,8 @@
 include(perl-basic)
 asciidoc
 attr
+autofdo
+autofdo-tools
 bats
 bc
 cgdb
