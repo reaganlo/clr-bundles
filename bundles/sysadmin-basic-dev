@@ -173,6 +173,9 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 perl
+perl-Capture-Tiny
+perl-IO-stringy
+perl-Test-Output
 perl-XML-Parser
 pigz
 pip

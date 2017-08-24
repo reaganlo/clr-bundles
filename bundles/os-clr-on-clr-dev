@@ -518,6 +518,7 @@ perl-HTTP-Message
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
+perl-IO-stringy
 perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https

@@ -586,6 +586,9 @@ pcre-dev32
 pcre2-dev
 pep8-python
 perl
+perl-Capture-Tiny
+perl-IO-stringy
+perl-Test-Output
 perl-XML-Parser
 perl-XML-Simple
 pexpect

@@ -416,6 +416,7 @@ pecan
 pep8-python
 perl
 perl-B-Hooks-EndOfScope
+perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Singleton
 perl-Crypt-SSLeay
@@ -432,6 +433,7 @@ perl-HTTP-Message
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
+perl-IO-stringy
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
