@@ -94,7 +94,6 @@ clutter-dev
 clutter-gst-dev
 clutter-gtk-dev
 cmake
-cmdtest
 cogl-dev
 colorama-python
 colord-dev
@@ -631,11 +630,9 @@ pytest-runner-python
 pytest-timeout
 pytest-xdist
 python
-python-cliapp
 python-dev
 python-keyczar-python
 python-mock
-python-ttystatus
 python3
 python3-dev
 pytz

@@ -80,7 +80,6 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
-cmdtest
 colorama-python
 colord-dev
 compositeproto-dev
@@ -163,6 +162,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcr-dev
 gdb
 gdb-dev
 gdbm-dev
@@ -534,11 +534,9 @@ pytest-runner-python
 pytest-timeout
 pytest-xdist
 python
-python-cliapp
 python-dev
 python-keyczar-python
 python-mock
-python-ttystatus
 python3
 python3-dev
 pytz
