@@ -356,7 +356,6 @@ libgcrypt-dev32
 libgd-dev
 libgpg-error-dev
 libgpg-error-dev32
-libibmad-dev
 libibumad-dev
 libibverbs-dev
 libidn-dev
