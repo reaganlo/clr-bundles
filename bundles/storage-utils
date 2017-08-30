@@ -25,6 +25,7 @@ samba-bin
 samba-config
 samba-data
 samba-doc
+smartmontools
 sshfs
 usermode
 xfsprogs

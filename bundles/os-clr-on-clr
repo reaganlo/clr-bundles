@@ -68,7 +68,6 @@ rpm
 rpm-common
 scons
 six
-smartmontools
 urlgrabber
 xcb-proto-dev
 xf86driproto-dev
