@@ -108,6 +108,7 @@ clear-font
 clr-rpm-config
 cmake
 cmrt-dev
+colorama
 colorama-python
 compositeproto-dev
 compositeproto-dev32
@@ -594,6 +595,7 @@ pytest-timeout
 pytest-xdist
 python
 python-core
+python-dateutil
 python-dev
 python-keyczar
 python-keyczar-python

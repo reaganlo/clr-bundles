@@ -85,6 +85,7 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+colorama
 colorama-python
 configparser-python
 contextlib2
@@ -499,6 +500,7 @@ pytest-timeout
 pytest-xdist
 python
 python-core
+python-dateutil
 python-dev
 python-keyczar-python
 python-mock
