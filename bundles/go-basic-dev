@@ -37,6 +37,7 @@ dbus-dev
 dbus-dev32
 dejagnu
 diffutils
+docbook-utils
 docbook-xml
 doxygen
 e2fsprogs

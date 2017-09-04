@@ -109,6 +109,7 @@ dejagnu
 desktop-file-utils
 diffutils
 dnsmasq
+docbook-utils
 docbook-xml
 docutils-python
 dosfstools
@@ -250,6 +251,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdamage-dev
@@ -429,6 +431,7 @@ perl-Error
 perl-Eval-Closure
 perl-Exception-Class
 perl-HTML-Tagset
+perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
 perl-IO-HTML

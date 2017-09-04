@@ -513,6 +513,7 @@ perl-Error
 perl-Eval-Closure
 perl-Exception-Class
 perl-HTML-Tagset
+perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
 perl-IO-HTML

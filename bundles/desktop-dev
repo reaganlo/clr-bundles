@@ -131,6 +131,7 @@ dhcp
 dhcp-dev
 diffutils
 dnsmasq
+docbook-utils
 docbook-xml
 docutils-python
 doxygen
@@ -326,6 +327,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXcomposite-dev
