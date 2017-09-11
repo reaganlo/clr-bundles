@@ -41,7 +41,6 @@ alsa-lib-dev32
 apipkg
 argcomplete
 argparse
-argparse-python
 asciidoc
 asn1crypto-python
 aspell
@@ -81,7 +80,7 @@ cairo-dev32
 cairomm-dev
 caribou-dev
 ccache
-certifi-python
+certifi
 cffi
 cffi-python
 check
@@ -95,20 +94,18 @@ clutter-gst-dev
 clutter-gtk-dev
 cmake
 cogl-dev
-colorama-python
+colorama
 colord-dev
 colord-gtk-dev
 compositeproto-dev
 compositeproto-dev32
-configparser-python
 contextlib2
 coreutils
 coverage
 coverage-python
 cracklib-dev
 cryptography
-cryptography-python
-cryptography_vectors-python
+cryptography_vectors
 cryptsetup-dev
 cups-dev
 curl-dev
@@ -151,7 +148,6 @@ elfutils-dev32
 emacs
 enchant-dev
 enum34
-enum34-python
 eog-dev
 evolution-data-server-dev
 evolution-dev
@@ -288,12 +284,14 @@ ibus-dev
 icon-naming-utils-dev
 icu4c-dev
 icu4c-dev32
+idna
 idna-python
 inputproto
 inputproto-dev
 inputproto-dev32
 intltool
 intltool-dev
+ipaddress
 ipaddress-python
 iproute2
 iptables
@@ -301,7 +299,6 @@ iptables-dev
 iptables-dev32
 iso-codes-dev
 iso8601
-iso8601-python
 itstool
 jq
 json-glib-dev
@@ -495,7 +492,6 @@ libxslt
 libxslt-bin
 libxslt-dev
 linecache2
-linecache2-python
 linux-firmware
 linux-libc-headers
 llvm
@@ -513,7 +509,7 @@ mesa-dev32
 metacity-dev
 mkfontdir-bin
 mkfontscale-bin
-mock-python
+mock
 mozjs-dev
 mozjs38-dev
 mpc-dev
@@ -529,7 +525,7 @@ nasm-bin
 nautilus-dev
 ncurses-dev
 ncurses-dev32
-ndg_httpsclient-python
+ndg_httpsclient
 net-tools
 netbase
 nettle
@@ -574,7 +570,7 @@ p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
 p7zip
-packaging-python
+packaging
 pango-dev
 pango-dev32
 pangomm-dev
@@ -603,7 +599,7 @@ pluggy
 polkit-dev
 popt-dev
 presentproto-dev
-pretend-python
+pretend
 procps-ng
 procps-ng-bin
 protobuf-dev
@@ -615,9 +611,8 @@ pulseaudio-dev32
 py
 py-python
 py2cairo
-pyOpenSSL-python
+pyOpenSSL
 pyasn1
-pyasn1-python
 pycparser
 pycparser-python
 pycrypto-python
@@ -625,7 +620,7 @@ pyflakes-python
 pygobject
 pygobject-dev
 pygobject-python
-pyparsing-python
+pyparsing
 pytest
 pytest-runner
 pytest-runner-python
@@ -638,7 +633,6 @@ python-mock
 python3
 python3-dev
 pytz
-pytz-python
 qemu
 randrproto-dev
 randrproto-dev32
@@ -698,11 +692,10 @@ testtools
 testtools-python
 texinfo
 tk-dev
-tornado-python
+tornado
 totem-pl-parser-dev
 tox
 traceback2
-traceback2-python
 typing
 tzdata
 uhttpmock-dev
@@ -734,9 +727,9 @@ webkitgtk-dev
 weston-dev
 wheel
 which
+xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
-xcb-proto-python
 xcb-util-dev
 xcb-util-keysyms-dev
 xcmiscproto-dev

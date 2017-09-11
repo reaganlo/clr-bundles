@@ -247,9 +247,9 @@ util-macros-dev32
 valgrind
 valgrind-dev
 which
+xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
-xcb-proto-python
 xextproto-dev
 xextproto-dev32
 xf86bigfontproto-dev

@@ -135,9 +135,6 @@ gmp-dev
 gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
-gnome-doc-utils
-gnome-doc-utils-dev
-gnome-doc-utils-python
 gnu-efi
 gnu-efi-dev
 gnutls-dev
@@ -423,9 +420,9 @@ wayland-protocols-dev
 wayland-protocols-dev32
 webkitgtk-dev
 which
+xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
-xcb-proto-python
 xextproto-dev
 xextproto-dev32
 xf86bigfontproto-dev
