@@ -218,8 +218,6 @@ sed
 setuptools
 shadow
 shared-mime-info
-six
-six-python
 slang-dev
 sqlite-autoconf-dev
 strace

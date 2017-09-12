@@ -245,7 +245,6 @@ setuptools_scm
 shadow
 shared-mime-info
 six
-six-python
 slang-dev
 sphinxcontrib-websupport
 sqlite-autoconf
@@ -280,7 +279,6 @@ util-macros-dev32
 valgrind
 valgrind-dev
 virtualenv
-wheel
 which
 xcb-proto
 xcb-proto-dev

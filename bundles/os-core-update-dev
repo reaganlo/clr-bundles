@@ -174,8 +174,6 @@ sed
 setuptools
 shadow
 shared-mime-info
-six
-six-python
 slang-dev
 strace
 swupd-client-dev

@@ -524,7 +524,6 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
-six-python
 slang-dev
 snappy-dev
 source-highlight
@@ -583,7 +582,6 @@ wayland-dev
 wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
-wheel
 which
 wpa_supplicant
 xcb-proto

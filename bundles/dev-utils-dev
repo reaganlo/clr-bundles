@@ -375,7 +375,6 @@ valgrind
 valgrind-dev
 vim
 virtualenv
-wheel
 which
 xcb-proto
 xcb-proto-dev

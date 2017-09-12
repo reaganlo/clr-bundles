@@ -6,6 +6,7 @@
 include(go-basic)
 include(os-core-dev)
 include(dev-utils)
+include(c-basic)
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
