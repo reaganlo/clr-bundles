@@ -88,6 +88,7 @@ fixtures-python
 flex
 flex-dev
 fs-python
+funcsigs
 fuse-dev
 gawk
 gcc
@@ -373,6 +374,7 @@ util-macros-dev
 util-macros-dev32
 valgrind
 valgrind-dev
+vcversioner
 vim
 virtualenv
 which

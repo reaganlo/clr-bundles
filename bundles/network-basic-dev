@@ -88,6 +88,7 @@ fixtures-python
 flex
 flex-dev
 fs-python
+funcsigs
 gawk
 gcc
 gcc-dev
@@ -383,6 +384,7 @@ util-macros-dev
 util-macros-dev32
 valgrind
 valgrind-dev
+vcversioner
 virtualenv
 which
 wpa_supplicant

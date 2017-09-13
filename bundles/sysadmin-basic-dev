@@ -86,6 +86,7 @@ fixtures-python
 flex
 flex-dev
 fs-python
+funcsigs
 gawk
 gawk-dev
 gcc
@@ -322,6 +323,7 @@ util-macros-dev
 util-macros-dev32
 valgrind
 valgrind-dev
+vcversioner
 virtualenv
 which
 xcb-proto

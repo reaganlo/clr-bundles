@@ -181,6 +181,7 @@ freetype-dev
 freetype-dev32
 fribidi-dev
 fs-python
+funcsigs
 fuse-dev
 gawk
 gcc
@@ -713,6 +714,7 @@ util-macros-dev32
 v4l-utils-dev
 valgrind
 valgrind-dev
+vcversioner
 videoproto-dev
 videoproto-dev32
 virtualenv
