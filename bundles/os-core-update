@@ -6,6 +6,7 @@
 include(os-core)
 btrfs-progs
 bzip2
+clr-boot-manager-autostart
 clr-boot-manager-bin
 clr-boot-manager-config
 clr-hardware-files
