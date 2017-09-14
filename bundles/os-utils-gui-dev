@@ -179,6 +179,7 @@ glib-dev
 glib-dev32
 glib-networking
 glib-networking-lib32
+glibc-bin
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -313,7 +314,6 @@ libXxf86vm-dev32
 libarchive-dev
 libarchive-devel
 libassuan-dev
-libc-bin
 libc6-dev
 libc6-locale
 libcanberra-dev
@@ -439,6 +439,7 @@ make
 mccabe-python
 mesa-dev
 mesa-dev32
+meson
 mkfontdir-bin
 mkfontscale-bin
 mock
@@ -461,6 +462,7 @@ nettle-lib32
 nfs-utils
 nghttp2-dev
 nghttp2-dev32
+ninja
 nose
 nose-python
 npth-dev

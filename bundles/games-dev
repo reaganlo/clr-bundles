@@ -316,6 +316,7 @@ m4
 make
 mesa-dev
 mesa-dev32
+meson
 mpc-dev
 mpfr-dev
 nasm
@@ -326,6 +327,7 @@ nettle-dev
 nettle-dev32
 nghttp2-dev
 nghttp2-dev32
+ninja
 nss-altfiles
 nss-dev
 nss-lib32
