@@ -75,6 +75,7 @@ glib-dev
 glib-dev32
 glibc-dev32
 glibc-libc32
+glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32

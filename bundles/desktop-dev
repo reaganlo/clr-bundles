@@ -25,6 +25,7 @@ Linux-PAM-dev32
 Mako
 Mako-python
 MarkupSafe
+ModemManager-dev
 NetworkManager-dev
 Pygments
 SDL-dev
@@ -303,6 +304,7 @@ iso-codes-dev
 iso8601
 itstool
 jq
+json-c-dev
 json-glib-dev
 json-glib-dev32
 jsonschema-python
