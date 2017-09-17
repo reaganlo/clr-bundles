@@ -81,8 +81,8 @@ libvorbis-dev
 lua-dev
 mesa-demos
 mpfr-dev
-mpich
-mpich-dev
+openmpi
+openmpi-dev
 nasm
 ncurses-dev
 numactl

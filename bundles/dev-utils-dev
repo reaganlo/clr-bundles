@@ -218,7 +218,7 @@ mccabe-python
 mock
 mpc-dev
 mpfr-dev
-mpich-dev
+openmpi-dev
 ncurses-dev
 ncurses-dev32
 ndg_httpsclient

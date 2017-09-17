@@ -365,7 +365,7 @@ mesa-dev32
 mock
 mpc-dev
 mpfr-dev
-mpich-dev
+openmpi-dev
 nasm
 ncurses-dev
 ncurses-dev32
