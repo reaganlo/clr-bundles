@@ -10,7 +10,6 @@ include(python-extras)
 # Key ML frameworks and tools
 #
 
-CNTK
 Theano
 neon
 scikit-learn
