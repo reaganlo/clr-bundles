@@ -98,6 +98,7 @@ cogl-dev
 colorama
 colord-dev
 colord-gtk-dev
+compat-fuse-soname2-dev
 compositeproto-dev
 compositeproto-dev32
 contextlib2
@@ -410,6 +411,7 @@ libgphoto2-dev
 libgsystem-dev
 libgtop-dev
 libgudev-dev
+libgusb-dev
 libgweather-dev
 libical-dev
 libidn-dev

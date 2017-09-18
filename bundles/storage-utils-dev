@@ -31,6 +31,7 @@ check-dev
 cifs-utils-dev
 clr-rpm-config
 cmake
+compat-fuse-soname2-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -162,6 +163,7 @@ lz4-dev
 lzo-dev
 m4
 make
+meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -174,8 +176,10 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
+ninja
 nss-altfiles
 ntfs-3g-dev
+nvml-dev
 openldap-dev
 opensm-dev
 openssl-dev

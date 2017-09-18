@@ -72,6 +72,7 @@ atk-dev
 atk-dev32
 attr-dev
 attr-dev32
+attrs
 audit-dev
 autoconf
 autogen
@@ -81,7 +82,6 @@ backports.ssl_match_hostname
 bash
 bash-completion-dev
 bc
-beignet-dev
 binutils
 binutils-dev
 bison
@@ -108,6 +108,7 @@ clr-rpm-config
 cmake
 cmrt-dev
 colorama
+compat-fuse-soname2-dev
 compositeproto-dev
 compositeproto-dev32
 contextlib2
@@ -436,7 +437,6 @@ meson
 mock
 mpc-dev
 mpfr-dev
-openmpi-dev
 nasm
 ncurses-dev
 ncurses-dev32
@@ -460,6 +460,7 @@ nss-altfiles
 nss-dev
 numactl
 numactl-dev
+nvml-dev
 ocl-icd-dev
 onig-dev
 open-iscsi
@@ -468,6 +469,7 @@ openconnect-dev
 openjade-dev
 openjdk-dev
 openldap-dev
+openmpi-dev
 openssh
 openssl
 openssl-dev
@@ -567,7 +569,6 @@ procps-ng
 procps-ng-bin
 protobuf-c-dev
 protobuf-dev
-psmisc
 ptyprocess
 py
 py-python

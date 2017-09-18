@@ -35,7 +35,6 @@ automake-dev
 backports.ssl_match_hostname
 bash
 bc
-beignet-dev
 binutils
 binutils-dev
 bison
@@ -54,6 +53,7 @@ check-dev
 clr-rpm-config
 cmake
 colorama
+compat-fuse-soname2-dev
 contextlib2
 coreutils
 coverage
@@ -89,7 +89,6 @@ flex
 flex-dev
 fs-python
 funcsigs
-fuse-dev
 gawk
 gcc
 gcc-dev
@@ -167,7 +166,6 @@ libXext-dev
 libXext-dev32
 libXi-dev
 libXi-dev32
-libaio-dev
 libc6-dev
 libc6-locale
 libcap-dev
@@ -192,6 +190,7 @@ libnfnetlink-dev
 libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
+libpciaccess-dev
 libpipeline-dev
 libpng-dev
 libstdc++
@@ -215,10 +214,10 @@ m4
 make
 man-db
 mccabe-python
+meson
 mock
 mpc-dev
 mpfr-dev
-openmpi-dev
 ncurses-dev
 ncurses-dev32
 ndg_httpsclient
@@ -230,9 +229,9 @@ nose
 nose-python
 nss-altfiles
 numactl-dev
-ocl-icd-dev
 onig-dev
 openldap-dev
+openmpi-dev
 openssl
 openssl-dev
 openssl-dev32
@@ -300,7 +299,6 @@ pretend
 processor-trace-dev
 procps-ng
 procps-ng-bin
-psmisc
 py
 py-python
 pyOpenSSL

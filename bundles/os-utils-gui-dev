@@ -81,6 +81,7 @@ clr-rpm-config
 cmake
 colorama
 colord-dev
+compat-fuse-soname2-dev
 compositeproto-dev
 compositeproto-dev32
 contextlib2
@@ -347,6 +348,7 @@ libgpg-error-dev32
 libgphoto2-dev
 libgsystem-dev
 libgudev-dev
+libgusb-dev
 libidn-dev
 libidn-dev32
 libinput-dev
