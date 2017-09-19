@@ -76,6 +76,7 @@ systemd
 systemd-bootchart
 systemd-doc
 systemd-locale
+thunderbolt-software-user-space
 tmux
 tree
 tzdata
