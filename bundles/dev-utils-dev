@@ -214,7 +214,6 @@ m4
 make
 man-db
 mccabe-python
-meson
 mock
 mpc-dev
 mpfr-dev
