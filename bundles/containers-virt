@@ -6,7 +6,9 @@
 include(kernel-container)
 include(containers-basic)
 bridge-utils
-cc-oci-runtime
+clear-containers-runtime
+clear-containers-shim
+clear-containers-proxy
 clear-containers-image
 iproute2
 qemu-lite
