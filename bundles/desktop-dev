@@ -635,6 +635,7 @@ pytest-runner-python
 pytest-timeout
 pytest-xdist
 python
+python-core
 python-dev
 python-keyczar-python
 python-mock

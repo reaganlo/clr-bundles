@@ -124,6 +124,7 @@ gzip
 hgtools-python
 hostname
 hypothesis-python
+icu4c-dev
 idna
 idna-python
 inputproto
@@ -267,6 +268,7 @@ pytest-runner-python
 pytest-timeout
 pytest-xdist
 python
+python-core
 python-dev
 python-keyczar-python
 python-mock

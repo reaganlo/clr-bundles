@@ -106,7 +106,6 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
-cmrt-dev
 colorama
 compat-fuse-soname2-dev
 compositeproto-dev
@@ -421,7 +420,6 @@ linecache2
 linux-firmware
 linux-libc-headers
 llvm-dev
-llvm-lib
 lua
 lua-dev
 lz4-dev
@@ -461,7 +459,6 @@ nss-dev
 numactl
 numactl-dev
 nvml-dev
-ocl-icd-dev
 onig-dev
 open-iscsi
 openblas
@@ -485,7 +482,6 @@ pango-dev32
 parted-dev
 patch
 pbr
-pciutils
 pciutils-dev
 pcre-dev
 pcre-dev32
