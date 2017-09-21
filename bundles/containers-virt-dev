@@ -20,11 +20,9 @@ asciidoc
 attr-dev
 attr-dev32
 autoconf
-autoconf-archive-dev
 autogen
 automake
 automake-dev
-bats
 bc
 binutils
 binutils-dev
@@ -35,12 +33,9 @@ btrfs-progs-devel
 bzip2
 bzip2-dev
 ca-certs
-check-dev
-clear-containers-image
 clr-rpm-config
 cmake
 coreutils
-cppcheck
 cracklib-dev
 cryptsetup-dev
 curl-dev
@@ -91,8 +86,6 @@ gnu-efi
 gnu-efi-dev
 gnutls-dev
 go
-gobject-introspection
-gobject-introspection-dev
 golang-github-cpuguy83-go-md2man
 gperf
 graphviz
@@ -108,11 +101,9 @@ intltool-dev
 iproute2-dev
 iptables-dev
 iptables-dev32
-json-glib-dev
 kmod
 kmod-dev
 kmod-dev32
-lcov
 ldd
 less
 libICE-dev
@@ -164,13 +155,11 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
-linux-container
 linux-libc-headers
 lz4-dev
 lzo-dev
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -184,7 +173,6 @@ nettle-lib
 nettle-lib32
 nghttp2-dev
 nghttp2-dev32
-ninja
 npth-dev
 nss-altfiles
 numactl-dev
@@ -211,7 +199,6 @@ python
 python-dev
 python3
 python3-dev
-qemu-lite
 readline-dev
 readline-dev32
 rpm-build

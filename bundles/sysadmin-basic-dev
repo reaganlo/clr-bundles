@@ -35,6 +35,7 @@ binutils
 binutils-dev
 bison
 bison-dev
+boost-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
