@@ -10,8 +10,10 @@ clr-debug-info
 collectl
 dstat
 ethtool
+glances
 gperf
 htop
+ioping
 iotop
 iproute2
 iptraf
