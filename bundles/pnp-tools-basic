@@ -3,35 +3,4 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(perl-basic)
-include(tcl-basic)
-blktrace
-clr-debug-info
-collectl
-dstat
-ethtool
-glances
-gperf
-htop
-ioping
-iotop
-iproute2
-iptraf
-latencytop
-linux-tools
-ltp
-ltrace
-msr-tools
-net-snmp
-net-tools
-nicstat
-open-lldp
-powertop
-procps-ng
-psstop
-siege
-strace
-sysstat
-tcpdump
-tiptop
-util-linux
+include(performance-tools)
