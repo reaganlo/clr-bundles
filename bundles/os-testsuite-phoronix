@@ -37,7 +37,6 @@ bzip2-dev
 cairo-dev
 clinfo
 cmake
-compat-SDL2-soname0-lib
 curl-dev
 curl-dev
 dialog
