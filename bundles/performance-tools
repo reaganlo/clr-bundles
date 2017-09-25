@@ -1,0 +1,6 @@
+# [TITLE]: performance-tools
+# [DESCRIPTION]: Run performance and power measurements
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(pnp-tools-basic)
