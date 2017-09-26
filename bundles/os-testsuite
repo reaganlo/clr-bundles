@@ -17,6 +17,7 @@ dejagnu
 diffutils
 elfutils
 expect
+file
 gawk-bin
 gcc
 gcc-dev
