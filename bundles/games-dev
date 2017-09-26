@@ -191,8 +191,6 @@ libXau-dev
 libXau-dev32
 libXcomposite-dev
 libXcomposite-dev32
-libXcursor-dev
-libXcursor-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -291,8 +289,6 @@ libtool
 libtool-dev
 libtool-dev32
 libunwind-dev
-libusb-dev
-libusb-dev32
 libva-dev
 libvorbis-dev
 libvorbis-dev32
