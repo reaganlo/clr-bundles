@@ -352,8 +352,6 @@ libgcrypt-dev32
 libgd-dev
 libgpg-error-dev
 libgpg-error-dev32
-libibumad-dev
-libibverbs-dev
 libidn-dev
 libidn-dev32
 libinput-dev
@@ -601,6 +599,7 @@ pytz
 qemu
 randrproto-dev
 randrproto-dev32
+rdma-core-dev
 readline-dev
 readline-dev32
 recordproto-dev

@@ -182,9 +182,6 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
-libibcm-dev
-libibumad-dev
-libibverbs-dev
 libidn-dev
 libidn-dev32
 libmnl-dev
@@ -200,7 +197,6 @@ libnftnl-dev
 libnftnl-dev32
 libnl-dev
 libpcap-dev
-librdmacm-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -339,6 +335,7 @@ python3
 python3-dev
 pytz
 quagga-dev
+rdma-core-dev
 readline-dev
 readline-dev32
 rpm-build
