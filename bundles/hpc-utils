@@ -3,9 +3,10 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: Manage RDMA and IB devices.
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-rdma
-rdma-core
 dapl
+infiniband-diags
 mstflint
 opensm
-infiniband-diags
+perftest
+rdma
+rdma-core
