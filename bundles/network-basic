@@ -23,8 +23,6 @@ iptables
 iptraf
 iputils
 irssi
-libibcm
-librdmacm
 links
 net-tools
 netcat
@@ -38,6 +36,7 @@ openvswitch
 pacrunner
 quagga
 rdma
+rdma-core
 redsocks
 rsync
 tcpdump

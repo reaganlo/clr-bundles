@@ -1,0 +1,10 @@
+# [TITLE]: hpc-utils
+# [DESCRIPTION]: Provide userspace management programs for various HPC related programs.
+# [STATUS]: WIP
+# [CAPABILITIES]: Manage RDMA and IB devices.
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+rdma
+rdma-core
+dapl
+mstflint
+opensm
