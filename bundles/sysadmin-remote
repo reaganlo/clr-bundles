@@ -1,4 +1,4 @@
-# [TITLE]: sysadmin-remote-managed
+# [TITLE]: sysadmin-remote
 # [DESCRIPTION]: Enable the host to be managed remotely by configuration management tools
 # [STATUS]: WIP
 # [CAPABILITIES]:
@@ -6,4 +6,6 @@
 include(openssh-server)
 include(python-basic)
 docker-py
+nagios-plugins
+nrpe
 sudo
