@@ -8,3 +8,4 @@ rdma-core
 dapl
 mstflint
 opensm
+infiniband-diags
