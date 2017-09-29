@@ -6,6 +6,7 @@
 dapl
 infiniband-diags
 mstflint
+opa-psm2
 opensm
 perftest
 rdma
