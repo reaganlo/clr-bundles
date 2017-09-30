@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bash-bin
-ca-certs
+ca-certs-static
 clr-power-tweaks
 clr-systemd-config
 coreutils-bin
