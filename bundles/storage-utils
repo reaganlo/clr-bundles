@@ -19,7 +19,6 @@ ntfs-3g
 nvme-cli
 opensm
 parted
-rdma
 rdma-core
 rpcbind
 samba-bin

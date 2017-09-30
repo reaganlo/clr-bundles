@@ -35,7 +35,6 @@ openvpn
 openvswitch
 pacrunner
 quagga
-rdma
 rdma-core
 redsocks
 rsync
