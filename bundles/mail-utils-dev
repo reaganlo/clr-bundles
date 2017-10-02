@@ -151,10 +151,9 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nss-altfiles
+openssl
 openssl-dev
 openssl-dev32
-p11-kit
-p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
 patch

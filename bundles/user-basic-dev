@@ -40,7 +40,6 @@ Whoosh
 acl-dev
 acl-dev32
 acpica-unix2
-apipkg
 argcomplete
 argparse
 asciidoc
@@ -50,14 +49,15 @@ atk-dev
 atk-dev32
 attr-dev
 attr-dev32
+attrs-python
 audit-dev
 autoconf
 autogen
 automake
 automake-dev
-backports.ssl_match_hostname
 bash
 bash-completion-dev
+bats
 bc
 binutils
 binutils-dev
@@ -74,9 +74,7 @@ ca-certs
 cairo-dev
 cairo-dev32
 ceph-dev
-certifi
 cffi
-cffi-python
 check
 check-dev
 check-dev32
@@ -110,7 +108,6 @@ docbook-xml
 docutils-python
 dosfstools
 doxygen
-dpdk-dev
 dri2proto-dev
 dri2proto-dev32
 dri3proto-dev
@@ -211,7 +208,6 @@ hypothesis-python
 icu4c-dev
 icu4c-dev32
 idna
-idna-python
 imagesize
 inputproto
 inputproto-dev
@@ -219,7 +215,6 @@ inputproto-dev32
 intltool
 intltool-dev
 ipaddress
-ipaddress-python
 iproute2
 iptables
 iptables-dev
@@ -247,7 +242,6 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXdamage-dev
@@ -357,17 +351,14 @@ lzo-dev
 m4
 make
 man-db
-mccabe-python
 mesa-dev
 mesa-dev32
 meson
-mock
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
-ndg_httpsclient
 net-tools
 netbase
 nettle
@@ -380,7 +371,6 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
-nose-python
 nss-altfiles
 nss-dev
 numactl
@@ -397,7 +387,6 @@ openssl-dev
 openssl-dev32
 openssl-lib32
 p11-kit
-p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
 packaging
@@ -411,7 +400,6 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pecan
-pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-Capture-Tiny
@@ -471,6 +459,7 @@ pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 pluggy
+pluggy-python
 popt-dev
 presentproto-dev
 pretend
@@ -481,17 +470,11 @@ protobuf-c-dev
 protobuf-dev
 py
 py-python
-pyOpenSSL
-pyasn1
 pycparser
-pycparser-python
 pycrypto-python
-pyflakes-python
 pyparsing
 pytest
-pytest-runner
 pytest-runner-python
-pytest-timeout
 pytest-xdist
 python
 python-core
@@ -556,7 +539,6 @@ texinfo
 tk
 tk-dev
 tokyocabinet-dev
-tornado
 tox
 tox-python
 traceback2

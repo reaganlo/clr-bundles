@@ -20,6 +20,7 @@ autogen
 automake
 automake-dev
 bash-completion-dev
+bats
 binutils
 bison
 bison-dev
@@ -28,6 +29,7 @@ bzip2
 bzip2-dev
 ca-certs
 check-dev
+check-dev32
 cifs-utils-dev
 clr-rpm-config
 cmake
@@ -67,6 +69,7 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -80,6 +83,8 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -140,6 +145,7 @@ libnfnetlink-dev32
 libnfsidmap-dev
 libnftnl-dev
 libnftnl-dev32
+libnl-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -181,11 +187,11 @@ ntfs-3g-dev
 nvml-dev
 openldap-dev
 opensm-dev
+openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
 p11-kit
-p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
 parted-dev

@@ -20,6 +20,7 @@ autoconf
 autogen
 automake
 automake-dev
+bats
 binutils
 bison
 bison-dev
@@ -63,6 +64,7 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -74,6 +76,8 @@ glibc-dev32
 glibc-libc32
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
@@ -148,14 +152,15 @@ netbase
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
+openssl
 openssl-dev
 openssl-dev32
 p11-kit
-p11-kit-bin
 patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pip

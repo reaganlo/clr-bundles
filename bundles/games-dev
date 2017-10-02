@@ -33,6 +33,7 @@ autogen
 automake
 automake-dev
 bash-completion-dev
+bats
 binutils
 binutils-dev
 bison
@@ -328,6 +329,7 @@ nss-altfiles
 nss-dev
 nss-lib32
 openal-soft-dev
+openssl
 openssl-dev
 openssl-dev32
 opus-dev
@@ -335,7 +337,6 @@ orc
 orc-dev
 orc-dev32
 p11-kit
-p11-kit-bin
 p11-kit-dev
 pango-dev
 pango-dev32

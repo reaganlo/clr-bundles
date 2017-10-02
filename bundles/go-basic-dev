@@ -19,6 +19,7 @@ autoconf
 autogen
 automake
 automake-dev
+bats
 binutils
 bison
 bison-dev
@@ -142,10 +143,10 @@ netbase
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
+openssl
 openssl-dev
 openssl-dev32
 p11-kit
-p11-kit-bin
 p11-kit-dev
 patch
 pbr

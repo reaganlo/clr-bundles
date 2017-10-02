@@ -19,6 +19,7 @@ bison
 bison-dev
 bzip2
 bzip2-dev
+ca-certs
 clr-rpm-config
 cmake
 coreutils
@@ -123,8 +124,7 @@ ncurses-dev
 ncurses-dev32
 netbase
 nss-altfiles
-p11-kit
-p11-kit-bin
+openssl
 patch
 pbr
 pcre-dev

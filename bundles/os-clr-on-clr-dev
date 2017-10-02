@@ -73,14 +73,15 @@ atk-dev32
 attr-dev
 attr-dev32
 attrs
+attrs-python
 audit-dev
 autoconf
 autogen
 automake
 automake-dev
-backports.ssl_match_hostname
 bash
 bash-completion-dev
+bats
 bc
 binutils
 binutils-dev
@@ -97,7 +98,6 @@ ca-certs
 cairo-dev
 cairo-dev32
 ceph-dev
-certifi
 cffi
 cffi-python
 check
@@ -138,7 +138,6 @@ docbook-xml
 docutils-python
 dosfstools
 doxygen
-dpdk-dev
 dri2proto-dev
 dri2proto-dev32
 dri3proto-dev
@@ -426,17 +425,14 @@ lzo-dev
 m4
 make
 man-db
-mccabe-python
 mesa-dev
 mesa-dev32
 meson
-mock
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
-ndg_httpsclient
 net-tools
 netbase
 nettle
@@ -449,7 +445,6 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
-nose-python
 npth-dev
 nspr-dev
 nss-altfiles
@@ -471,7 +466,6 @@ openssl-dev
 openssl-dev32
 openssl-lib32
 p11-kit
-p11-kit-bin
 p11-kit-dev
 p11-kit-dev32
 packaging
@@ -485,7 +479,6 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pecan
-pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-CPAN-Meta-Check
@@ -556,6 +549,7 @@ pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 pluggy
+pluggy-python
 popt-dev
 presentproto-dev
 pretend
@@ -575,7 +569,6 @@ pycparser-python
 pycrypto
 pycrypto-python
 pycurl
-pyflakes-python
 pyparsing
 pytest
 pytest-runner
@@ -660,7 +653,6 @@ texinfo
 tk
 tk-dev
 tokyocabinet-dev
-tornado
 tox
 tox-python
 traceback2
