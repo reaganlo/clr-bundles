@@ -3,9 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-# TODO remove openssh-server include for format change
 # perl-basic and tcl-basic included to avoid duplication
-include(openssh-server)
 include(perl-basic)
 include(python3-basic)
 bind-utils
