@@ -20,5 +20,6 @@ parted-bin
 pycurl-python3
 python-urwid-python3
 python3-core
+qemu-extras
 nano
 xfsprogs-bin
