@@ -58,7 +58,7 @@ NetworkManager
 network-manager-applet
 NetworkManager-openconnect
 dconf
-groupcheck
+#groupcheck
 openssl
 polkit
 pulseaudio
