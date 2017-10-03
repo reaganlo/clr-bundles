@@ -516,7 +516,6 @@ perl-Mozilla-CA
 perl-Net-HTTP
 perl-Net-SSLeay
 perl-Package-Stash
-perl-Params-Validate
 perl-Params-ValidationCompiler
 perl-Path-Class
 perl-Role-Tiny
@@ -561,7 +560,6 @@ protobuf-dev
 ptyprocess
 py
 py-python
-pyOpenSSL
 pyasn1
 pyasn1-python
 pycparser
@@ -571,7 +569,6 @@ pycrypto-python
 pycurl
 pyparsing
 pytest
-pytest-runner
 pytest-runner-python
 pytest-timeout
 pytest-xdist
@@ -660,6 +657,7 @@ typing
 tzdata
 unittest2
 unzip
+urllib3
 util-linux
 util-linux-bin
 util-linux-dev

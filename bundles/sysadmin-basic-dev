@@ -158,12 +158,14 @@ lz4-dev
 m4
 make
 man-db
+meson
 mpc-dev
 mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
 nettle-dev
+ninja
 nss-altfiles
 numactl-dev
 onig-dev

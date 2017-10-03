@@ -136,11 +136,13 @@ linux-libc-headers
 lz4-dev
 m4
 make
+meson
 mpc-dev
 mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
+ninja
 nose
 nss-altfiles
 openssl

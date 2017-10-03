@@ -546,6 +546,7 @@ typing
 tzdata
 unittest2
 unzip
+urllib3
 util-linux
 util-linux-bin
 util-linux-dev

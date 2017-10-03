@@ -144,6 +144,7 @@ lz4-dev
 lzo-dev
 m4
 make
+meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -151,6 +152,7 @@ ncurses-dev32
 netbase
 nghttp2-dev
 nghttp2-dev32
+ninja
 nss-altfiles
 openssl
 openssl-dev
