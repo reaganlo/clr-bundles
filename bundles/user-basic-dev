@@ -55,6 +55,7 @@ autoconf
 autogen
 automake
 automake-dev
+backports.ssl_match_hostname
 bash
 bash-completion-dev
 bats
@@ -74,7 +75,9 @@ ca-certs
 cairo-dev
 cairo-dev32
 ceph-dev
+certifi
 cffi
+cffi-python
 check
 check-dev
 check-dev32
@@ -208,6 +211,7 @@ hypothesis-python
 icu4c-dev
 icu4c-dev32
 idna
+idna-python
 imagesize
 inputproto
 inputproto-dev
@@ -215,6 +219,7 @@ inputproto-dev32
 intltool
 intltool-dev
 ipaddress
+ipaddress-python
 iproute2
 iptables
 iptables-dev
@@ -354,11 +359,13 @@ man-db
 mesa-dev
 mesa-dev32
 meson
+mock
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
+ndg_httpsclient
 net-tools
 netbase
 nettle
@@ -470,7 +477,10 @@ protobuf-c-dev
 protobuf-dev
 py
 py-python
+pyOpenSSL
+pyasn1
 pycparser
+pycparser-python
 pycrypto-python
 pyparsing
 pytest
@@ -539,6 +549,7 @@ texinfo
 tk
 tk-dev
 tokyocabinet-dev
+tornado
 tox
 tox-python
 traceback2
@@ -595,3 +606,4 @@ yasm
 zlib
 zlib-dev
 zlib-dev32
+zstd-dev

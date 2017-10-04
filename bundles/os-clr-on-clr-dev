@@ -79,6 +79,7 @@ autoconf
 autogen
 automake
 automake-dev
+backports.ssl_match_hostname
 bash
 bash-completion-dev
 bats
@@ -98,6 +99,7 @@ ca-certs
 cairo-dev
 cairo-dev32
 ceph-dev
+certifi
 cffi
 cffi-python
 check
@@ -428,11 +430,13 @@ man-db
 mesa-dev
 mesa-dev32
 meson
+mock
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
+ndg_httpsclient
 net-tools
 netbase
 nettle
@@ -560,6 +564,7 @@ protobuf-dev
 ptyprocess
 py
 py-python
+pyOpenSSL
 pyasn1
 pyasn1-python
 pycparser
@@ -650,6 +655,7 @@ texinfo
 tk
 tk-dev
 tokyocabinet-dev
+tornado
 tox
 tox-python
 traceback2
@@ -708,3 +714,4 @@ yasm
 zlib
 zlib-dev
 zlib-dev32
+zstd-dev

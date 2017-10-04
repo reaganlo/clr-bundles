@@ -153,6 +153,7 @@ lz4-dev
 lzo-dev
 m4
 make
+meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -166,6 +167,7 @@ nettle-lib
 nettle-lib32
 nghttp2-dev
 nghttp2-dev32
+ninja
 npth-dev
 nss-altfiles
 openssl
@@ -222,3 +224,4 @@ xz-dev
 xz-dev32
 zlib-dev
 zlib-dev32
+zstd-dev
