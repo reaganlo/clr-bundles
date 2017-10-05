@@ -184,6 +184,7 @@ lz4-dev
 m4
 make
 man-db
+meson
 mpc-dev
 mpfr-dev
 ncurses-dev
