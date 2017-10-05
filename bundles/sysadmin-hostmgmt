@@ -9,6 +9,7 @@ ansible
 clear-config-management
 git
 ipmitool
+freeipmi
 # ansible deps
 MySQL-python
 backports.ssl_match_hostname
