@@ -10,5 +10,6 @@ include(python-basic)
 apache-hadoop
 apache-kafka
 apache-spark
+apache-zookeeper
 elasticsearch
 scala
