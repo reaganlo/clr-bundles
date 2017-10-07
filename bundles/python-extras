@@ -13,9 +13,6 @@ lxml
 nose
 numpy
 pbr
-pypy-core
-pypy-dev
-pypy-lib
 python3-lib-avx2
 python-dateutil
 python-tappy
