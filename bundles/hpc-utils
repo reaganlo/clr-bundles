@@ -3,6 +3,10 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: Manage RDMA and IB devices.
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+# rdma-core-extra pulls in perl
+include(perl-basic)
+
 dapl
 infiniband-diags
 mstflint
@@ -10,3 +14,4 @@ opa-psm2
 opensm
 perftest
 rdma-core
+rdma-core-extras
