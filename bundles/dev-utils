@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(perl-basic)
+include(python-basic)
 asciidoc
 attr
 bats
@@ -19,6 +20,7 @@ elfutils
 gdb
 git
 hub
+icdiff
 lcov
 glibc-bin
 linux-tools
