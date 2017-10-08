@@ -7,7 +7,7 @@
 # perl-basic and tcl-basic included to avoid duplication
 include(openssh-server)
 include(perl-basic)
-include(python-basic)
+include(python3-basic)
 bind-utils
 bridge-utils
 connect-proxy
