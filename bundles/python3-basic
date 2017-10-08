@@ -3,16 +3,12 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(python3-basic)
-
 clr-python-timestamp
 glibc-lib-avx2
 p11-kit
 pip
-pycodestyle
-python-core
-python-dev
+pycodestyle-python3
 python3-core
 python3-dev
-setuptools
-virtualenv
+setuptools-python3
+virtualenv-python3
