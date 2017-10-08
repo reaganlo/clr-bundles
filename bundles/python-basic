@@ -9,6 +9,7 @@ clr-python-timestamp
 glibc-lib-avx2
 p11-kit
 pip
+pip-extras
 pycodestyle
 python-core
 python-dev
