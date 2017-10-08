@@ -24,7 +24,6 @@ geocode-glib
 gjs
 glib-bin
 glib-networking-lib
-gobject-introspection
 gsettings-desktop-schemas
 gtk+
 gtk3
