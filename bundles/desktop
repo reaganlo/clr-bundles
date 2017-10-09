@@ -17,6 +17,7 @@ atk-data
 bluez
 caribou
 colord
+dbus-extras
 font-bitstream-type1
 gdk-pixbuf
 geoclue
