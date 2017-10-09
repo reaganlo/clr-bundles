@@ -25,6 +25,7 @@ R-deepnet
 R-neuralnet
 R-statmod
 appdirs
+backports.functools_lru_cache
 bazel
 beignet
 beignet-dev
