@@ -7,6 +7,7 @@ include(dev-utils)
 include(os-core-dev)
 include(dev-utils)
 include(perl-basic)
+include(python-basic)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32

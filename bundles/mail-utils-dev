@@ -57,7 +57,6 @@ gcc-libgcc32
 gcc-libstdc++32
 gdb
 gdb-dev
-gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -70,8 +69,6 @@ glibc-libc32
 glibc-utils
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -159,7 +156,6 @@ p11-kit-dev32
 patch
 pbr
 pcre-dev
-perl
 perl-XML-Parser
 pigz
 pip

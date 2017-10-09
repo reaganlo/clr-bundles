@@ -8,7 +8,7 @@ include(os-core-dev)
 include(dev-utils)
 include(openssh-server)
 include(perl-basic)
-include(python-basic)
+include(python3-basic)
 include(perl-basic-dev)
 include(python-basic-dev)
 CUnit-dev
@@ -139,6 +139,7 @@ irssi-dev
 iso8601
 kmod-dev
 kmod-dev32
+krb5-dev
 ldd
 libICE-dev
 libICE-dev32
@@ -226,6 +227,7 @@ p11-kit
 p11-kit-dev
 p11-kit-dev32
 packaging
+pacrunner-dev
 patch
 pbr
 pcre-dev
