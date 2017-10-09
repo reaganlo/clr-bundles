@@ -12,7 +12,3 @@ bash-doc
 bash-extras
 bash-locales
 zsh
-zsh-bin
-zsh-data
-zsh-doc
-zsh-lib
