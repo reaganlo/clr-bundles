@@ -4,6 +4,7 @@
 # [CAPABILITIES]: Compile and run basic java applications
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(libX11client)
+include(python-basic)
 apache-ant
 apache-maven
 openjdk

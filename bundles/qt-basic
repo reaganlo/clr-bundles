@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(c-basic)
+include(python-basic)
 qt-everywhere-opensource-src
 qt-everywhere-opensource-src-dev

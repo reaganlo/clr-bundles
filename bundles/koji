@@ -3,12 +3,13 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Gabi Beyer <Gabrielle.n.beyer@intel.com>
-nfs-utils
-koji
-rpm-build
-mock
-createrepo_c-bin
+include(python-basic)
 Cheetah
-usermode
-enum34
 cffi
+createrepo_c-bin
+enum34
+koji
+mock
+nfs-utils
+rpm-build
+usermode
