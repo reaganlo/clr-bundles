@@ -54,6 +54,7 @@ babl-dev
 bash-completion-dev
 bats
 bc
+bdftopcf
 beignet-dev
 bigreqsproto-dev
 binutils
@@ -67,7 +68,6 @@ btrfs-progs-dev
 bzip2
 bzip2-dev
 ca-certs
-ca-certs-static-internal
 cairo-dev
 cairo-dev32
 cairomm-dev
@@ -630,7 +630,6 @@ systemd-libs
 tar
 tbb-dev
 tcl
-tcl-dev
 telepathy-glib-dev
 telepathy-logger-dev
 testrepository
@@ -638,7 +637,6 @@ testresources
 testscenarios
 testtools
 texinfo
-tk-dev
 totem-pl-parser-dev
 tracker-dev
 tzdata

@@ -9,6 +9,7 @@ include(dev-utils)
 include(perl-basic)
 include(python-basic)
 include(perl-basic-dev)
+include(python-basic-dev)
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
@@ -49,6 +50,7 @@ clr-rpm-config
 cmake
 colorama
 compat-fuse-soname2-dev
+contextlib2
 coreutils
 coverage
 coverage-python
@@ -62,6 +64,7 @@ db-dev
 dbus-dev
 dbus-dev32
 dejagnu
+desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
@@ -70,12 +73,15 @@ e2fsprogs
 ed
 elfutils
 elfutils-dev
+elfutils-dev32
 enum34
 execnet
 expat-dev
 expat-dev32
 expect
 filesystem-chroot
+fixtures
+fixtures-python
 flex
 flex-dev
 fs-python
@@ -179,6 +185,7 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
+linecache2
 linux-libc-headers
 llvm-dev
 lz4-dev
@@ -208,6 +215,7 @@ packaging
 patch
 pbr
 pcre-dev
+pcre-dev32
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable
@@ -292,6 +300,7 @@ sed
 setuptools
 setuptools_scm
 shadow
+shared-mime-info
 six
 slang-dev
 source-highlight
@@ -310,10 +319,12 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 texinfo
 tk
 tk-dev
 tox
+traceback2
 tzdata
 unittest2
 unzip

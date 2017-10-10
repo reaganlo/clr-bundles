@@ -10,7 +10,6 @@ include(openssh-server)
 include(perl-basic)
 include(python3-basic)
 include(perl-basic-dev)
-include(python-basic-dev)
 CUnit-dev
 CUnit-dev32
 Jinja2
