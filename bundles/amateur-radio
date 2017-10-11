@@ -1,0 +1,13 @@
+# [TITLE]: amateur-radio
+# [DESCRIPTION]: Applications to support amateur radio operations
+# [STATUS]: WIP
+# [CAPABILITIES]: rig control, satellite tracking, packet radio
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libX11client)
+include(desktop-gnomelibs)
+
+gpredict
+hamlib
+soundmodem
+minimodem
