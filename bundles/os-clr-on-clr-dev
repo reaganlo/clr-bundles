@@ -427,6 +427,7 @@ lzo-dev
 m4
 make
 man-db
+mccabe-python
 mesa-dev
 mesa-dev32
 meson
@@ -449,6 +450,7 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
+nose-python
 npth-dev
 nspr-dev
 nss-altfiles
@@ -484,6 +486,7 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pecan
+pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-CPAN-Meta-Check
@@ -573,8 +576,10 @@ pycparser-python
 pycrypto
 pycrypto-python
 pycurl
+pyflakes-python
 pyparsing
 pytest
+pytest-runner
 pytest-runner-python
 pytest-timeout
 pytest-xdist

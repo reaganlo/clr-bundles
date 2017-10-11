@@ -144,6 +144,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libusb-dev
 libxml2-dev
 libxml2-dev32
 libxslt

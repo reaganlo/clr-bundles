@@ -622,6 +622,7 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 startup-notification-dev
 strace
+swig
 systemd
 systemd-boot
 systemd-dev
