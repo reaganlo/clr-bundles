@@ -43,6 +43,7 @@ acpica-unix2
 argcomplete
 argparse
 asciidoc
+asn1crypto
 asn1crypto-python
 aspell
 atk-dev
@@ -393,6 +394,7 @@ openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
+orc-dev
 p11-kit
 p11-kit-dev
 p11-kit-dev32

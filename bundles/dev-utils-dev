@@ -22,6 +22,7 @@ acl-dev32
 argcomplete
 argparse
 asciidoc
+asn1crypto
 asn1crypto-python
 attr-dev
 attr-dev32
