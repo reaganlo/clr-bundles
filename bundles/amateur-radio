@@ -4,10 +4,11 @@
 # [CAPABILITIES]: rig control, satellite tracking, packet radio
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(libX11client)
 include(desktop-gnomelibs)
+include(libX11client)
 
 gpredict
 hamlib
-soundmodem
 minimodem
+soundmodem
+xastir
