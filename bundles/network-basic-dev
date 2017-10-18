@@ -6,7 +6,6 @@
 include(network-basic)
 include(os-core-dev)
 include(dev-utils)
-include(openssh-server)
 include(perl-basic)
 include(python3-basic)
 include(perl-basic-dev)
