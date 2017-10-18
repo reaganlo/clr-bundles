@@ -24,6 +24,7 @@ gmp-dev
 gmp-doc
 gmp-gmpxx
 gmp-lib
+indent
 libstdc++
 libtool
 libtool-dev
