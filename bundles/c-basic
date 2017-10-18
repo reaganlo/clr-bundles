@@ -17,13 +17,13 @@ cmake-dev
 flex
 gcc
 gcc-dev
+glibc-dev
+glibc-locale
 glibc-utils
 gmp-dev
 gmp-doc
 gmp-gmpxx
 gmp-lib
-glibc-dev
-glibc-locale
 libstdc++
 libtool
 libtool-dev
