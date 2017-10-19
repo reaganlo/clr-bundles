@@ -111,6 +111,7 @@ gvfs
 nautilus
 
 # nice to have when using desktop
+cups
 thermal_daemon
 
 # x.org bits
