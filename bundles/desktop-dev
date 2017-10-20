@@ -577,6 +577,7 @@ py2cairo
 pygobject
 pygobject-dev
 pygobject-python
+pylint
 pytest
 python
 python-core
