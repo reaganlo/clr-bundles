@@ -724,4 +724,5 @@ yasm
 zlib
 zlib-dev
 zlib-dev32
+zopfli-dev
 zstd-dev
