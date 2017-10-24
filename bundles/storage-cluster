@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 ceph
+ceph-deploy
 parted
 xfsprogs
