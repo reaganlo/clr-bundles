@@ -8,6 +8,8 @@ include(desktop-gnomelibs)
 include(libX11client)
 
 fldigi
+flmsg
+flnet
 gpredict
 hamlib
 minimodem
