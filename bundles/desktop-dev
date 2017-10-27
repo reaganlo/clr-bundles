@@ -184,6 +184,7 @@ gettext-bin
 gettext-dev
 gimp-dev
 git
+gjs
 gjs-dev
 glib-bin
 glib-dev
@@ -226,6 +227,7 @@ gobject-introspection-data
 gobject-introspection-dev
 googletest-dev
 gperf
+gpgme
 gpgme-dev
 graphviz
 grep
@@ -542,6 +544,7 @@ pacrunner-dev
 pango-dev
 pango-dev32
 pangomm-dev
+parallel
 parted-dev
 patch
 pbr

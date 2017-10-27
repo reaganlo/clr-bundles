@@ -157,6 +157,8 @@ gettext-bin
 gettext-dev
 gfortran
 git
+gjs
+gjs-dev
 glib-bin
 glib-dev
 glib-dev32
@@ -187,6 +189,7 @@ gobject-introspection
 gobject-introspection-dev
 googletest-dev
 gperf
+gpgme
 gpgme-dev
 graphviz
 graphviz-dev
@@ -462,6 +465,7 @@ pacrunner-dev
 pango-dev
 pango-dev32
 pangomm-dev
+parallel
 parted-dev
 patch
 pbr
