@@ -96,6 +96,7 @@ bsdiff-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
+c-ares-dev
 ca-certs
 cairo-dev
 cairo-dev32
