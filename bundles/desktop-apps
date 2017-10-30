@@ -6,6 +6,7 @@
 
 include(libX11client)
 include(desktop-gnomelibs)
+include(desktop-apps-extras)
 
 darktable
 eog
