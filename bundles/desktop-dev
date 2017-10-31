@@ -219,6 +219,7 @@ gnome-shell
 gnu-efi
 gnu-efi-dev
 gnupg
+gnupg-bin
 gnutls-dev
 gnutls-dev32
 go
@@ -603,6 +604,7 @@ rest-dev
 rest-dev32
 rpm-build
 ruby
+ruby-dev
 samba-dev
 sbc-dev
 sbc-dev32
