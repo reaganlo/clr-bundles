@@ -40,7 +40,6 @@ glproto-dev
 gtk+-dev
 gtk3-dev
 fribidi-dev
-kvmtool
 libarchive
 libarchive-dev
 libarchive-c
