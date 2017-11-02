@@ -93,6 +93,7 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 cups-dev
+cups-filters-dev
 curl-dev
 curl-dev32
 damageproto-dev
