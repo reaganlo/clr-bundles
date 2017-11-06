@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed N Munoz <obed.n.munoz@intel.com>
 include(containers-basic)
+cri-o
 ebtables
 ethtool
 kubernetes
