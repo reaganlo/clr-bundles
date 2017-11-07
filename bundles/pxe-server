@@ -9,3 +9,4 @@ grub
 ipxe
 nginx
 uwsgi
+wol
