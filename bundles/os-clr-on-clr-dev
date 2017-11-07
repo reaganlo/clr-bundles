@@ -326,7 +326,6 @@ libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
 libaio-dev
-libaio-devel
 libarchive-c
 libarchive-dev
 libassuan-dev
