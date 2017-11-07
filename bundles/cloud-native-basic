@@ -3,10 +3,12 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed N Munoz <obed.n.munoz@intel.com>
-include(containers-basic)
+include(containers-virt)
+cni
+cni-plugins
 cri-o
+cri-tools
 ebtables
 ethtool
 kubernetes
-cni
 socat
