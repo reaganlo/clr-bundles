@@ -22,7 +22,7 @@ dbus
 dfc
 dmidecode
 dos2unix
-dracut
+#dracut
 e2fsprogs
 efibootmgr
 file
