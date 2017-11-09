@@ -22,12 +22,14 @@ dbus
 dfc
 dmidecode
 dos2unix
+dracut
 e2fsprogs
 efibootmgr
 file
 findutils
 gawk
 gawk-extras
+glibc-bin
 grep
 gzip
 hdparm
@@ -39,7 +41,6 @@ kbd
 #khal
 kmod
 less
-glibc-bin
 libcap-bin
 linux-dev
 lsacpi
@@ -52,8 +53,8 @@ mosh
 motd-update
 nano
 ncurses
-ncurses-compat-lib-narrow
 ncurses-compat-lib
+ncurses-compat-lib-narrow
 numactl
 p11-kit
 parallel
