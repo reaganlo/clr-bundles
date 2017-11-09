@@ -11,5 +11,6 @@ curl
 diffutils
 expect
 file
+git
 perl
 perl-YAML-Tiny
