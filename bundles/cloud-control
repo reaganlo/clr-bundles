@@ -6,7 +6,11 @@
 include(kvm-host)
 include(network-basic)
 include(python-basic)
-include(storage-cluster)
+#
+# Storage-cluster is huge, and while it contains ceph,
+# you don't need ceph to control remote machines
+#
+#include(storage-cluster)
 
 awscli
 botocore
