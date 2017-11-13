@@ -27,5 +27,6 @@ samba-data
 samba-doc
 smartmontools
 sshfs
+thin-provisioning-tools
 usermode
 xfsprogs
