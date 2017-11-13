@@ -220,6 +220,7 @@ systemd-libs
 tar
 tcl
 texinfo
+thin-provisioning-tools
 tk
 tzdata
 unzip

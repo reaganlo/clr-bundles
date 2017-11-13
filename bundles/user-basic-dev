@@ -550,6 +550,7 @@ testscenarios
 testtools
 testtools-python
 texinfo
+thin-provisioning-tools
 tk
 tk-dev
 tokyocabinet-dev

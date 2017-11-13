@@ -59,6 +59,8 @@ acl-dev
 acl-dev32
 acpica-unix2
 apipkg
+apr-dev
+apr-util-dev
 argcomplete
 argparse
 asciidoc
@@ -247,6 +249,9 @@ harfbuzz-dev32
 help2man
 hgtools-python
 hostname
+httpd-data
+httpd-dev
+httpd-extras
 hwloc-dev
 hypothesis-python
 icu4c-dev
@@ -488,6 +493,7 @@ parted-dev
 patch
 pbr
 pciutils-dev
+pcre
 pcre-dev
 pcre-dev32
 pecan
@@ -517,6 +523,7 @@ perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-IO-stringy
+perl-IPC-Run
 perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
@@ -563,6 +570,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 popt-dev
+postgresql-dev
 presentproto-dev
 pretend
 processor-trace-dev
@@ -662,6 +670,7 @@ testscenarios
 testtools
 testtools-python
 texinfo
+thin-provisioning-tools
 tk
 tk-dev
 tokyocabinet-dev
