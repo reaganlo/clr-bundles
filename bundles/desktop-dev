@@ -450,6 +450,7 @@ libvirt-dev
 libvirt-glib-dev
 libvorbis-dev
 libvorbis-dev32
+libvpx-dev
 libwacom-dev
 libwebp-dev
 libwnck3-dev

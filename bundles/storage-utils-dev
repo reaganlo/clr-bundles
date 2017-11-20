@@ -140,7 +140,6 @@ libnetfilter_conntrack-dev
 libnetfilter_conntrack-dev32
 libnfnetlink-dev
 libnfnetlink-dev32
-libnfsidmap-dev
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
@@ -179,6 +178,7 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
+nfs-utils-dev
 ninja
 nss-altfiles
 ntfs-3g-dev

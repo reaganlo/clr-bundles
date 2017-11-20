@@ -375,7 +375,6 @@ libnetfilter_cttimeout-dev
 libnetfilter_queue-dev
 libnfnetlink-dev
 libnfnetlink-dev32
-libnfsidmap-dev
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
@@ -455,6 +454,7 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nfs-utils
+nfs-utils-dev
 nghttp2-dev
 nghttp2-dev32
 ninja
@@ -543,6 +543,7 @@ perl-Specio
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
 perl-Sub-Info
+perl-Sub-Quote
 perl-Test-Fatal
 perl-Test-Needs
 perl-Test-Output
