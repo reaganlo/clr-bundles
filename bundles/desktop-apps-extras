@@ -5,5 +5,18 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 
+darktable
+FreeRDP
+geany
+gimp
+gmic
+gphoto2
+hexchat
+pidgin
 rxvt-unicode
+spice-gtk
+thunderbird
+tigervnc
+vinagre
+virt-viewer
 vlc

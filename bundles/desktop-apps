@@ -6,9 +6,7 @@
 
 include(libX11client)
 include(desktop-gnomelibs)
-include(desktop-apps-extras)
 
-darktable
 eog
 eog-plugins
 evince
@@ -17,24 +15,12 @@ evolution-ews
 file-roller
 firefox
 flatpak
-FreeRDP
-geany
-gimp
-gmic
 gnome-calculator
 gnome-characters
 gnome-font-viewer
 gnome-screenshot
-gphoto2
 gvim
-hexchat
 libva-utils
 pavucontrol
-pidgin
-spice-gtk
-thunderbird
-tigervnc
 totem
-vinagre
-virt-viewer
 xemacs
