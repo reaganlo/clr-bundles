@@ -11,6 +11,7 @@ include(desktop-apps-extras)
 darktable
 eog
 eog-plugins
+evince
 evolution
 evolution-ews
 firefox
