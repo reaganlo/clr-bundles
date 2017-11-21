@@ -40,6 +40,7 @@ cracklib-dev
 cryptsetup-dev
 cups-dev
 curl-dev
+db
 db-dev
 dbus-dev
 dbus-dev32
@@ -70,6 +71,7 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -132,6 +134,7 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
+libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libmnl-dev
@@ -143,6 +146,7 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
+libpwquality-dev
 libstdc++
 libstdc++-dev
 libtasn1-dev
@@ -181,6 +185,7 @@ nettle-lib32
 nfs-utils-dev
 ninja
 nss-altfiles
+nss-dev
 ntfs-3g-dev
 nvml-dev
 openldap-dev
@@ -206,8 +211,12 @@ pkg-config
 pkg-config-dev
 popt-dev
 procps-ng
+procps-ng-bin
+py
+pytest
 python
 python-dev
+python-mock
 python3
 python3-dev
 rdma-core-dev
@@ -221,6 +230,7 @@ setuptools
 shadow
 shared-mime-info
 slang-dev
+sqlite-autoconf
 sqlite-autoconf-dev
 startup-notification
 startup-notification-dev
@@ -231,6 +241,10 @@ systemd-dev32
 systemd-libs
 tar
 tcl
+testrepository
+testresources
+testscenarios
+testtools
 texinfo
 thin-provisioning-tools
 tzdata
