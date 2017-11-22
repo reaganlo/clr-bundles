@@ -394,6 +394,7 @@ libksba-dev
 libmnl-dev
 libmnl-dev32
 libmspack-dev
+libmtp-dev
 libndp-dev
 libndp-dev32
 libnetfilter_conntrack-dev

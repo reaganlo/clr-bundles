@@ -543,6 +543,7 @@ systemd-boot
 systemd-dev
 systemd-dev32
 systemd-libs
+talloc-dev
 tar
 tcl
 tcl-dev
