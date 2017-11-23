@@ -19,6 +19,7 @@ caribou
 colord
 dbus-extras
 font-bitstream-type1
+fontconfig
 gdk-pixbuf
 geoclue
 geocode-glib
