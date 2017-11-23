@@ -25,6 +25,7 @@ geoclue
 geocode-glib
 gjs
 glib-bin
+glib-config
 glib-networking-lib
 gsettings-desktop-schemas
 gtk+
