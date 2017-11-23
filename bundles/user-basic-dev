@@ -179,6 +179,8 @@ glibc-utils
 glproto-dev
 glproto-dev32
 glu-dev
+gmime
+gmime-dev
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -194,6 +196,7 @@ gobject-introspection-dev
 googletest-dev
 gperf
 gperftools-dev
+gpgme
 gpgme-dev
 graphviz
 grep
@@ -543,6 +546,7 @@ systemd-boot
 systemd-dev
 systemd-dev32
 systemd-libs
+talloc
 talloc-dev
 tar
 tcl
@@ -588,6 +592,7 @@ wayland-protocols-dev
 wayland-protocols-dev32
 which
 wpa_supplicant
+xapian-core-dev
 xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
