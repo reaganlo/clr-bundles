@@ -239,7 +239,6 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
-krb5-dev32
 lcms2-dev
 ldd
 lensfun-dev

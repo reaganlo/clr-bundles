@@ -45,6 +45,7 @@ LVM2-dev
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
+Mako
 Mako-python
 Markdown
 MarkupSafe
@@ -290,7 +291,6 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
-krb5-dev32
 ldd
 less
 leveldb-dev

@@ -180,7 +180,6 @@ kbproto-dev32
 kmod-dev
 kmod-dev32
 krb5-dev
-krb5-dev32
 ldd
 libICE-dev
 libICE-dev32
