@@ -176,6 +176,7 @@ ninja
 nose
 notmuch-dev
 nss-altfiles
+openldap-dev
 openssl
 openssl-dev
 openssl-dev32

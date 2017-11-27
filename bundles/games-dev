@@ -328,6 +328,7 @@ nss-altfiles
 nss-dev
 nss-lib32
 openal-soft-dev
+openldap-dev
 openssl
 openssl-dev
 openssl-dev32
