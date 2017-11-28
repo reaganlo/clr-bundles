@@ -16,6 +16,7 @@ argcomplete
 argparse
 attr-dev
 attr-dev32
+attrs
 autoconf
 autogen
 automake
@@ -193,9 +194,11 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+pluggy
 procps-ng
 procps-ng-bin
 py
+py-python
 pytest
 pytest-xdist
 python
@@ -234,6 +237,7 @@ testtools-python
 texinfo
 tk-dev
 tokyocabinet-dev
+tox
 traceback2
 tzdata
 unittest2

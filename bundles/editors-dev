@@ -16,6 +16,7 @@ argcomplete
 argparse
 attr-dev
 attr-dev32
+attrs
 autoconf
 autogen
 automake
