@@ -11,4 +11,5 @@ bash-completion-dev
 bash-doc
 bash-extras
 bash-locales
+fish
 zsh
