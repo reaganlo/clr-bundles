@@ -24,6 +24,7 @@ Pillow
 R-deepnet
 R-neuralnet
 R-statmod
+aeon
 appdirs
 backports.functools_lru_cache
 bazel
