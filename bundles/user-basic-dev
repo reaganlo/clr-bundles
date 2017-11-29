@@ -50,7 +50,6 @@ atk-dev
 atk-dev32
 attr-dev
 attr-dev32
-attrs
 attrs-python
 audit-dev
 autoconf
