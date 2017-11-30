@@ -411,6 +411,7 @@ libsndfile-dev
 libsndfile-dev32
 libsoup-dev
 libsoup-dev32
+libspectre-dev
 libssh2-dev
 libstdc++
 libstdc++-dev
