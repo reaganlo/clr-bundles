@@ -277,6 +277,7 @@ libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
 libaio-dev
+libarchive-dev
 libassuan-dev
 libatomic_ops-dev
 libc-bin

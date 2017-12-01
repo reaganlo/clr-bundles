@@ -173,6 +173,7 @@ geocode-glib-dev
 gettext
 gettext-bin
 gettext-dev
+ghostscript-dev
 git
 gjs
 gjs-dev
@@ -226,6 +227,7 @@ grilo-dev
 grilo-plugins
 groff
 gsettings-desktop-schemas-dev
+gspell-dev
 gst-plugins-bad-dev
 gst-plugins-base-dev
 gst-plugins-good
