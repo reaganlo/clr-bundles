@@ -29,6 +29,7 @@ acl-dev
 acl-dev32
 alsa-lib-dev
 alsa-lib-dev32
+appstream-glib-dev
 argcomplete
 argparse
 asciidoc
@@ -138,6 +139,7 @@ fribidi-dev
 fuse-dev
 garcon-dev
 gawk
+gcab-dev
 gcc
 gcc-dev
 gcc-dev32

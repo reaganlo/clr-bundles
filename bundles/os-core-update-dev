@@ -76,6 +76,8 @@ glibc-libc32
 glibc-staticdev
 glibc-utils
 gmp-dev
+gmp-dev32
+gmp-lib32
 gnu-efi
 gnu-efi-dev
 go
@@ -88,6 +90,8 @@ gtk-doc-dev
 guile
 gzip
 hostname
+icu4c-dev
+icu4c-dev32
 intltool
 intltool-dev
 iptables-dev
@@ -149,6 +153,8 @@ mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
+nettle-dev
+nettle-lib
 nghttp2-dev
 nghttp2-dev32
 ninja
