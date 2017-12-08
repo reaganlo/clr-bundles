@@ -613,7 +613,6 @@ systemd-libs
 tar
 tbb-dev
 tcl
-tcl-dev
 telepathy-glib-dev
 telepathy-logger-dev
 testrepository
@@ -621,7 +620,6 @@ testresources
 testscenarios
 testtools
 texinfo
-tk-dev
 totem-pl-parser-dev
 tracker-dev
 tzdata

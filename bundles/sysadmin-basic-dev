@@ -222,13 +222,11 @@ systemd-dev32
 systemd-libs
 tar
 tcl
-tcl-dev
 testrepository
 testresources
 testscenarios
 testtools
 texinfo
-tk-dev
 tzdata
 unzip
 usbutils-dev
