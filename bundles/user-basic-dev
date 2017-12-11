@@ -356,6 +356,7 @@ libxslt-dev
 linecache2
 linux-firmware
 linux-libc-headers
+llvm
 llvm-dev
 lua-dev
 lz4-dev

@@ -306,6 +306,7 @@ libxslt
 libxslt-bin
 libxslt-dev
 linux-libc-headers
+llvm
 llvm-dev
 lz4-dev
 m4
