@@ -43,6 +43,7 @@ kmod
 less
 libcap-bin
 linux-dev
+LS_COLORS
 lsacpi
 lshw
 lsof
