@@ -530,6 +530,7 @@ six
 six-python
 slang-dev
 speex-dev
+speexdsp-dev
 spice-gtk
 spice-gtk-dev
 spice-protocol-dev

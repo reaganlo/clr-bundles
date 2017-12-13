@@ -390,6 +390,7 @@ six
 six-python
 slang-dev
 speex-dev
+speexdsp-dev
 sqlite-autoconf-dev
 sqlite-autoconf-dev32
 strace
