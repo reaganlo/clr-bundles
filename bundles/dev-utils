@@ -21,6 +21,7 @@ gdb
 git
 hub
 icdiff
+inotify-tools
 lcov
 glibc-bin
 linux-tools
