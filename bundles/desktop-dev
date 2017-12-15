@@ -625,6 +625,7 @@ texinfo
 totem-pl-parser-dev
 tracker-dev
 tzdata
+udisks2-dev
 uhttpmock-dev
 unzip
 upower-dev

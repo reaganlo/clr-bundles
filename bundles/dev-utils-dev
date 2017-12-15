@@ -129,6 +129,7 @@ hwloc-dev
 hypothesis-python
 icu4c-dev
 idna
+inotify-tools-dev
 intltool
 intltool-dev
 ipaddress

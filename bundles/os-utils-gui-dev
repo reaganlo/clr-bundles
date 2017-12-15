@@ -184,6 +184,7 @@ gnome-desktop-dev
 gnome-icon-theme-dev
 gnu-efi
 gnu-efi-dev
+gnupg
 gnutls-dev
 gnutls-dev32
 go

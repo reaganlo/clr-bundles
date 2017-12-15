@@ -88,6 +88,7 @@ gmp-dev32
 gmp-lib32
 gnu-efi
 gnu-efi-dev
+gnupg
 gnutls-dev
 gperf
 gpgme-dev
