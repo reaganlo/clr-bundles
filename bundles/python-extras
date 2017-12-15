@@ -11,6 +11,7 @@ glibc-lib-avx2
 libgfortran-avx
 lxml
 MonkeyType
+mypy
 nose
 numpy
 pbr
