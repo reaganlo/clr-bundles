@@ -10,6 +10,7 @@ deap
 glibc-lib-avx2
 libgfortran-avx
 lxml
+MonkeyType
 nose
 numpy
 pbr
