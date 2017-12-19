@@ -74,6 +74,7 @@ check
 check-dev
 check-dev32
 cheese-dev
+chrpath
 clear-font
 clr-rpm-config
 clutter-dev
@@ -202,6 +203,7 @@ gmp-lib-hsw
 gmp-lib32
 gnome-autoar-dev
 gnome-bluetooth-dev
+gnome-common-dev
 gnome-control-center-dev
 gnome-desktop-dev
 gnome-menus-dev
@@ -330,6 +332,9 @@ libaio-dev
 libarchive-dev
 libarchive-devel
 libassuan-dev
+libatasmart-dev
+libblockdev-dev
+libbytesize-dev
 libc-bin
 libc6-dev
 libc6-locale
@@ -339,6 +344,7 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
+libconfig-dev
 libcroco-dev
 libcroco-dev32
 libcryptui-dev
@@ -374,6 +380,7 @@ libical-dev
 libidn-dev
 libidn-dev32
 libinput-dev
+libiscsi-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
@@ -419,6 +426,7 @@ libspectre-dev
 libssh2-dev
 libstdc++
 libstdc++-dev
+libstoragemgmt-dev
 libtasn1-dev
 libtasn1-dev32
 libthai-dev
@@ -527,6 +535,7 @@ pango-dev
 pango-dev32
 pangomm-dev
 parallel
+parted-dev
 patch
 pbr
 pciutils-dev
@@ -535,6 +544,7 @@ pcre-dev32
 pcre2-dev
 perl
 perl-Capture-Tiny
+perl-Digest-CRC
 perl-IO-stringy
 perl-Test-Output
 perl-XML-Parser
@@ -545,6 +555,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+ply
 polkit-dev
 poppler-dev
 popt-dev
@@ -558,6 +569,7 @@ pulseaudio-dev
 pulseaudio-dev32
 py
 py2cairo
+pyaml
 pygobject
 pygobject-dev
 pygobject-python
@@ -567,8 +579,12 @@ python
 python-core
 python-dev
 python-mock
+python-pocketlint
+python-polib
 python3
 python3-dev
+pyudev
+pywbem
 qemu
 qpdf-dev
 randrproto-dev
@@ -615,6 +631,7 @@ systemd-libs
 tar
 tbb-dev
 tcl
+tcl-dev
 telepathy-glib-dev
 telepathy-logger-dev
 testrepository
@@ -622,6 +639,7 @@ testresources
 testscenarios
 testtools
 texinfo
+tk-dev
 totem-pl-parser-dev
 tracker-dev
 tzdata
@@ -641,6 +659,7 @@ valgrind
 valgrind-dev
 videoproto-dev
 videoproto-dev32
+volume_key-dev
 vte-dev
 vulkan-sdk-dev
 vulkan-sdk-dev32
@@ -682,6 +701,7 @@ xtrans-dev32
 xz
 xz-dev
 xz-dev32
+yajl-dev
 yasm
 zenity
 zlib

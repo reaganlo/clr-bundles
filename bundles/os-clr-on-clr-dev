@@ -197,6 +197,7 @@ gcc-libgcc32
 gcc-libstdc++32
 gdb
 gdb-dev
+gdbm
 gdbm-dev
 gdk-pixbuf
 gdk-pixbuf-dev
@@ -205,7 +206,6 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
-gfortran
 git
 glib-bin
 glib-dev
@@ -475,7 +475,6 @@ numactl-dev
 nvml-dev
 onig-dev
 open-iscsi
-openblas
 openconnect-dev
 openjade-dev
 openjdk-dev

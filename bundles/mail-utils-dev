@@ -70,6 +70,7 @@ gcc-libgcc32
 gcc-libstdc++32
 gdb
 gdb-dev
+gdbm
 gdbm-dev
 gettext
 gettext-bin
