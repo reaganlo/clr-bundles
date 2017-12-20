@@ -42,6 +42,7 @@ atk-dev32
 atkmm-dev
 attr-dev
 attr-dev32
+attrs
 autoconf
 autogen
 automake
@@ -486,6 +487,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 polkit-dev
 presentproto-dev
 procps-ng
@@ -494,6 +496,7 @@ pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
 py
+py-python
 pytest
 pytest-xdist
 python
@@ -555,6 +558,7 @@ testtools
 testtools-python
 texinfo
 tk-dev
+tox
 traceback2
 tzdata
 unittest2
