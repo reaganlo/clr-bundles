@@ -186,7 +186,6 @@ nettle-lib32
 nfs-utils-dev
 ninja
 nss-altfiles
-nss-dev
 ntfs-3g-dev
 nvml-dev
 openldap-dev

@@ -515,7 +515,6 @@ openal-soft-dev
 openblas
 openconnect-dev
 opencv-dev
-openjpeg-dev
 openldap-dev
 openssl
 openssl-dev
@@ -587,6 +586,7 @@ pyudev
 pywbem
 qemu
 qpdf-dev
+qt-everywhere-opensource-src-dev
 randrproto-dev
 randrproto-dev32
 readline-dev
