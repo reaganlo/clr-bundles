@@ -557,6 +557,7 @@ testscenarios
 testtools
 testtools-python
 texinfo
+tiff-dev
 tk-dev
 tox
 traceback2
