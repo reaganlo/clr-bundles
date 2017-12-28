@@ -5,6 +5,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 
+chrome-gnome-shell
 darktable
 FreeRDP
 geany
