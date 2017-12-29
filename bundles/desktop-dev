@@ -53,7 +53,6 @@ bash-completion-dev
 bats
 bc
 bdftopcf
-beignet-dev
 bigreqsproto-dev
 binutils
 binutils-dev
@@ -69,7 +68,6 @@ cairo-dev
 cairo-dev32
 cairomm-dev
 caribou-dev
-ccache
 check
 check-dev
 check-dev32
@@ -123,7 +121,6 @@ e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
-eigen-dev
 elfutils-dev
 elfutils-dev32
 emacs
@@ -440,7 +437,6 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
-libva-intel-driver
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -508,11 +504,8 @@ nspr-dev
 nss-altfiles
 nss-dev
 nss-lib32
-numpy
-ocl-icd-dev
 onig-dev
 openal-soft-dev
-openblas
 openconnect-dev
 opencv-dev
 openldap-dev
@@ -629,7 +622,6 @@ systemd-dev
 systemd-dev32
 systemd-libs
 tar
-tbb-dev
 tcl
 tcl-dev
 telepathy-glib-dev
@@ -654,7 +646,6 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
-v4l-utils-dev
 valgrind
 valgrind-dev
 videoproto-dev
