@@ -466,8 +466,6 @@ nose
 nose-python
 npth-dev
 nspr-dev
-nspr-dev32
-nspr-lib32
 nss-altfiles
 nss-dev
 numactl

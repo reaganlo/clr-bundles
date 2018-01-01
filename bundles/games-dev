@@ -317,6 +317,7 @@ meson
 mpc-dev
 mpfr-dev
 nasm
+nasm-bin
 ncurses-dev
 ncurses-dev32
 netbase
