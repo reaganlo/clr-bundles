@@ -9,4 +9,6 @@ cockpit
 docker-py
 nagios-plugins
 nrpe
+sos
 sudo
+udisks2
