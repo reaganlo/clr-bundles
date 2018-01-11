@@ -57,6 +57,7 @@ mesa-dev
 ncurses-data-rare
 p7zip
 pep8
+pesign
 presentproto-dev
 pycodestyle
 pycurl
@@ -67,6 +68,7 @@ python-rpm
 python-toml
 rpm
 rpm-common
+sbsigntools
 scons
 six
 urlgrabber
