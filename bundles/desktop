@@ -18,6 +18,7 @@ bluez
 caribou
 colord
 dbus-extras
+desktop-file-utils
 font-bitstream-type1
 fontconfig
 gdk-pixbuf
