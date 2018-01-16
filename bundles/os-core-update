@@ -10,6 +10,7 @@ clr-boot-manager-autostart
 clr-boot-manager-bin
 clr-boot-manager-config
 clr-hardware-files
+clr-service-restart-bin
 clr-update-triggers
 efibootmgr-bin
 findutils-bin
