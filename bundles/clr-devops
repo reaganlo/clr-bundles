@@ -11,10 +11,11 @@ include(rust-basic)
 include(koji)
 
 Cheetah
+cgit
 gitolite
 httpd
-mash
 koji-extras
+mash
 psycopg2
 python-krbV
 python-multilib
