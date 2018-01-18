@@ -19,7 +19,7 @@ libgfortran-avx
 glibc-lib-avx2
 
 # runtime deps (plotting, help navigation, etc)
-clear-fonts
+clear-font
 less
 #
 # Not listed because these are part of the R core above
