@@ -3,8 +3,10 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+gdal
 mariadb
 mariadb-doc
 mariadb-server
 postgresql
 sqlite-autoconf
+vsqlite
