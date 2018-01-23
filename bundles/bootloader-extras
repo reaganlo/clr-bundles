@@ -1,0 +1,7 @@
+# [TITLE]: bootloader-extras
+# [DESCRIPTION]: Extra packages to decrypt root partition
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Hernandez Gutierrez, Josue David <josue.d.hernandez.gutierrez@intel.com>
+clr-init
+linux-clr-init
