@@ -30,6 +30,7 @@ fontconfig
 garcon
 gdk-pixbuf
 geany
+geany-plugins
 glib-networking-lib
 gnome-icon-theme
 gnome-themes-standard
