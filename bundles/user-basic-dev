@@ -233,7 +233,6 @@ iptables-dev
 iptables-dev32
 isa-l-dev
 iso8601
-jedi
 json-c-dev
 jsonschema-python
 kbproto-dev
@@ -354,7 +353,6 @@ libxshmfence-dev
 libxshmfence-dev32
 libxslt
 libxslt-bin
-libxslt-dev
 linecache2
 linux-firmware
 linux-libc-headers
@@ -412,7 +410,6 @@ packaging
 pacrunner-dev
 pango-dev
 pango-dev32
-parso
 parted-dev
 patch
 pbr
@@ -575,6 +572,7 @@ tzdata
 unittest2
 unzip
 urllib3
+usbredir-dev
 util-linux
 util-linux-bin
 util-linux-dev

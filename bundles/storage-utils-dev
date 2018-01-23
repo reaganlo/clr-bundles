@@ -163,7 +163,6 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
-libxslt-dev
 linux-libc-headers
 llvm-dev
 lz4-dev

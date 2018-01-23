@@ -67,6 +67,7 @@ ca-certs
 cairo-dev
 cairo-dev32
 cairomm-dev
+cargo
 caribou-dev
 check
 check-dev
@@ -594,6 +595,7 @@ rest-dev
 rest-dev32
 rpm-build
 ruby
+rust-std32
 samba-dev
 sbc-dev
 sbc-dev32

@@ -90,8 +90,6 @@ gtk-doc-dev
 guile
 gzip
 hostname
-icu4c-dev
-icu4c-dev32
 intltool
 intltool-dev
 iptables-dev

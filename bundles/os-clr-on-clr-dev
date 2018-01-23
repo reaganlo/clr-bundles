@@ -103,6 +103,7 @@ c-ares-dev
 ca-certs
 cairo-dev
 cairo-dev32
+cargo
 ceph-dev
 certifi
 cffi
@@ -277,7 +278,6 @@ iptables-dev32
 isa-l-dev
 iso8601
 itstool
-jedi
 json-c-dev
 json-glib-dev
 json-glib-dev32
@@ -425,7 +425,6 @@ libxshmfence-dev
 libxshmfence-dev32
 libxslt
 libxslt-bin
-libxslt-dev
 linecache2
 linux-firmware
 linux-libc-headers
@@ -491,7 +490,6 @@ packaging
 pacrunner-dev
 pango-dev
 pango-dev32
-parso
 parted-dev
 patch
 pbr
@@ -632,6 +630,7 @@ rpm-build
 rpm-common
 rpm-dev
 ruby
+rust-std32
 scikit-build
 scons
 scrnsaverproto-dev
@@ -690,6 +689,7 @@ tzdata
 unittest2
 unzip
 urllib3
+usbredir-dev
 util-linux
 util-linux-bin
 util-linux-dev

@@ -16,6 +16,7 @@ autoconf
 autogen
 automake
 automake-dev
+bash-completion-dev
 bats
 binutils
 bison
@@ -52,6 +53,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdal-dev
 gdb-dev
 gdbm-dev
 gettext
@@ -77,6 +79,7 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+hdf5-dev
 hostname
 icu4c-dev
 icu4c-dev32
@@ -107,6 +110,7 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
+libjpeg-turbo-dev
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev
@@ -133,6 +137,7 @@ mariadb-dev
 mariadb-test
 mpc-dev
 mpfr-dev
+nasm
 ncurses-dev
 ncurses-dev32
 netbase
@@ -181,10 +186,12 @@ util-linux-dev32
 util-linux-extras
 valgrind
 valgrind-dev
+vsqlite-dev
 which
 xmlto
 xz
 xz-dev
 xz-dev32
+yasm
 zlib-dev
 zlib-dev32

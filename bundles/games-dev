@@ -45,6 +45,7 @@ bzip2-dev
 ca-certs
 cairo-dev
 cairo-dev32
+cargo
 check
 check-dev
 check-dev32
@@ -377,6 +378,7 @@ rest-dev
 rest-dev32
 rpm-build
 ruby
+rust-std32
 sbc-dev
 sbc-dev32
 scons
