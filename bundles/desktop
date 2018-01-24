@@ -39,6 +39,7 @@ libgnomekbd
 libgweather
 libnotify
 librsvg
+linux-firmware-extras
 linux-firmware-wifi
 mutter
 pango

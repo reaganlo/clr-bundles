@@ -6,6 +6,5 @@
 include(bootloader)
 linux
 linux-firmware
-linux-firmware-extras
 mcelog
 irqbalance

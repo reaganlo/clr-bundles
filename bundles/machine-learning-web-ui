@@ -43,7 +43,10 @@ pyzmq
 qtconsole
 R-IRkernel
 simplegeneric
+sip
 six
+spyder
+spyder-notebook
 terminado
 testpath
 tornado
