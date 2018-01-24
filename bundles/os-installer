@@ -15,6 +15,8 @@ ister
 ister-extras
 kbd
 less
+linux-firmware-extras
+linux-firmware-wifi
 nano
 netifaces-python3
 parted-bin
