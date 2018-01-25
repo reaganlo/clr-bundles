@@ -8,6 +8,7 @@ include(web-server-basic)
 Cheetah
 cffi
 createrepo_c-bin
+dnf
 enum34
 koji
 koji-extras
