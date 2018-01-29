@@ -18,6 +18,7 @@ ndctl
 nfs-utils
 ntfs-3g
 nvme-cli
+open-iscsi
 opensm
 parted
 rdma-core
