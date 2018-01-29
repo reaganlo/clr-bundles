@@ -1,0 +1,6 @@
+# [TITLE]: hardware-bluetooth
+# [DESCRIPTION]: Software to enable use of bluetooth hardware
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+bluez
