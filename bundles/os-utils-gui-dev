@@ -33,6 +33,7 @@ appstream-glib-dev
 argcomplete
 argparse
 asciidoc
+aspell-dev
 at-spi2-atk-dev
 at-spi2-atk-dev32
 at-spi2-core-dev
@@ -107,6 +108,7 @@ e2fsprogs-dev32
 ebtables
 elfutils-dev
 elfutils-dev32
+enchant-dev
 eog-dev
 execnet
 exempi-dev
@@ -156,6 +158,7 @@ gdk-pixbuf
 gdk-pixbuf-dev
 gdk-pixbuf-dev32
 geany-dev
+geany-plugins-dev
 gettext
 gettext-bin
 gettext-dev
@@ -221,6 +224,7 @@ harfbuzz-dev
 harfbuzz-dev32
 hexchat-dev
 hostname
+hunspell-dev
 iceauth-bin
 icon-naming-utils-dev
 icu4c-dev
@@ -325,6 +329,7 @@ libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
+libgit2-dev
 libgpg-error-dev
 libgpg-error-dev32
 libgphoto2-dev
@@ -536,7 +541,6 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
-six-python
 slang-dev
 speex-dev
 speexdsp-dev

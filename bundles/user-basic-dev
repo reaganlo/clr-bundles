@@ -394,6 +394,7 @@ numactl-dev
 nvml-dev
 onig-dev
 open-iscsi
+open-isns-dev
 openconnect-dev
 openldap-dev
 openmpi-dev
@@ -573,6 +574,7 @@ unittest2
 unzip
 urllib3
 usbredir-dev
+userspace-rcu-dev
 util-linux
 util-linux-bin
 util-linux-dev

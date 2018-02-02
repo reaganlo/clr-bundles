@@ -172,6 +172,7 @@ make
 meson
 mpc-dev
 mpfr-dev
+multipath-tools-dev
 ncurses-dev
 ncurses-dev32
 ndctl-dev
@@ -187,6 +188,7 @@ ninja
 nss-altfiles
 ntfs-3g-dev
 nvml-dev
+open-isns-dev
 openldap-dev
 opensm-dev
 openssl
@@ -249,6 +251,7 @@ texinfo
 thin-provisioning-tools
 tzdata
 unzip
+userspace-rcu-dev
 util-linux-bin
 util-linux-dev
 util-linux-dev32
