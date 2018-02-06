@@ -561,7 +561,6 @@ psutil
 pulseaudio-dev
 pulseaudio-dev32
 py
-py2cairo
 pyaml
 pygobject
 pygobject-dev
