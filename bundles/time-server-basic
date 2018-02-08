@@ -1,0 +1,6 @@
+# [TITLE]: time-server-basic
+# [DESCRIPTION]: Run an NTP server
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+chrony
