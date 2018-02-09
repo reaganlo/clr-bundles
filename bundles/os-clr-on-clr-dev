@@ -83,6 +83,7 @@ autoconf
 autogen
 automake
 automake-dev
+babeltrace-dev
 backports.ssl_match_hostname
 bash
 bash-completion-dev
@@ -577,6 +578,7 @@ popt-dev
 postgresql-dev
 presentproto-dev
 pretend
+prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
@@ -615,6 +617,7 @@ python3
 python3-dev
 pytz
 qemu
+qt-everywhere-opensource-src-dev
 randrproto-dev
 randrproto-dev32
 rdma-core-dev

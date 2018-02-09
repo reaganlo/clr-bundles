@@ -54,6 +54,7 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdal-dev
+gdb
 gdb-dev
 gdbm-dev
 gettext

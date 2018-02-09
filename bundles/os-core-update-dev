@@ -63,6 +63,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gettext
 gettext-bin

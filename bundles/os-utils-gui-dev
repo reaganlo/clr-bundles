@@ -368,6 +368,7 @@ librsvg-dev
 librsvg-dev32
 libsamplerate-dev
 libseccomp-dev
+libsecret-dev
 libsigc++-dev
 libsndfile-dev
 libsndfile-dev32

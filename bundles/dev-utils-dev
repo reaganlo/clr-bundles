@@ -94,6 +94,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -294,6 +295,7 @@ python-mock
 python3
 python3-dev
 pytz
+qt-everywhere-opensource-src-dev
 readline-dev
 readline-dev32
 rpm-build

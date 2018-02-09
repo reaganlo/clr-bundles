@@ -54,6 +54,7 @@ autoconf
 autogen
 automake
 automake-dev
+babeltrace-dev
 bash
 bash-completion-dev
 bats
@@ -471,6 +472,7 @@ polkit-dev
 popt-dev
 presentproto-dev
 pretend
+prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
@@ -493,6 +495,7 @@ python3
 python3-dev
 pytz
 qemu
+qt-everywhere-opensource-src-dev
 rdma-core-dev
 readline-dev
 readline-dev32

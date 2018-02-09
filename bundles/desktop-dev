@@ -561,8 +561,8 @@ psutil
 pulseaudio-dev
 pulseaudio-dev32
 py
-py2cairo
 pyaml
+pycairo-dev
 pygobject
 pygobject-dev
 pygobject-python
@@ -608,7 +608,6 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
-six-python
 slang-dev
 speex-dev
 speexdsp-dev
