@@ -3,4 +3,6 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+include(python3-basic)
+
 certbot

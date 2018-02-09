@@ -3,6 +3,8 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+include(python3-basic)
+
 ceph
 ceph-deploy
 glusterfs

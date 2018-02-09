@@ -6,6 +6,7 @@
 
 include(libX11client)
 include(desktop-gnomelibs)
+include(python3-basic)
 
 eog
 eog-plugins

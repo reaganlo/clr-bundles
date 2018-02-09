@@ -5,6 +5,8 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(python-basic)
 include(R-extras)
+include(python3-basic)
+
 Jinja2
 MarkupSafe
 Pygments
