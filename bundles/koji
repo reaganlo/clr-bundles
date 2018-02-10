@@ -7,9 +7,11 @@ include(python-basic)
 include(web-server-basic)
 Cheetah
 cffi
+cgit
 createrepo_c-bin
 dnf
 enum34
+gitolite
 koji
 koji-extras
 mock
