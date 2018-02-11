@@ -19,6 +19,7 @@ iotop
 iproute2
 iptraf
 latencytop
+linux-extras
 linux-tools
 ltp
 ltrace
