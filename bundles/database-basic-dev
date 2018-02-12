@@ -31,6 +31,7 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 curl-dev
+db
 db-dev
 dbus-dev
 dbus-dev32
@@ -159,6 +160,7 @@ pkg-config
 pkg-config-dev
 postgresql-dev
 procps-ng
+procps-ng-bin
 python
 python-dev
 python3
@@ -170,6 +172,7 @@ sed
 setuptools
 shadow
 slang-dev
+sqlite-autoconf
 sqlite-autoconf-dev
 strace
 systemd

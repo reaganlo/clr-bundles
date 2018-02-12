@@ -244,12 +244,14 @@ systemd-libs
 talloc-dev
 tar
 tcl
+tcl-dev
 testrepository
 testresources
 testscenarios
 testtools
 texinfo
 thin-provisioning-tools
+tk-dev
 tzdata
 unzip
 userspace-rcu-dev
