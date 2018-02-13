@@ -17,6 +17,7 @@ cmake-dev
 flex
 gcc
 gcc-dev
+gcc-libs-math
 glibc-dev
 glibc-locale
 glibc-utils
