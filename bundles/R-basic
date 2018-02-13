@@ -17,6 +17,7 @@ R-dev
 #
 libgfortran-avx
 glibc-lib-avx2
+gcc-libs-math
 
 # runtime deps (plotting, help navigation, etc)
 clear-font
