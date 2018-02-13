@@ -35,6 +35,7 @@ diffoscope
 dnf
 dri2proto-dev
 dri3proto-dev
+efitools
 fribidi-dev
 gdk-pixbuf-dev
 global
