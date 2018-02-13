@@ -187,7 +187,7 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
-fs-python
+fs
 funcsigs
 fuse-dev
 gawk
@@ -253,7 +253,7 @@ gzip
 harfbuzz-dev
 harfbuzz-dev32
 help2man
-hgtools-python
+hgtools
 hostname
 httpd-data
 httpd-dev
@@ -572,7 +572,6 @@ pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 pluggy
-pluggy-python
 polkit-dev
 popt-dev
 postgresql-dev
@@ -593,20 +592,17 @@ pyasn1-python
 pycparser
 pycparser-python
 pycrypto
-pycrypto-python
 pycurl
 pyflakes-python
 pyparsing
 pytest
 pytest-runner
-pytest-runner-python
 pytest-timeout
 pytest-xdist
 python
 python-core
 python-dev
 python-keyczar
-python-keyczar-python
 python-magic
 python-mimeparse
 python-mock

@@ -86,7 +86,7 @@ fixtures
 fixtures-python
 flex
 flex-dev
-fs-python
+fs
 funcsigs
 gawk
 gcc
@@ -125,7 +125,7 @@ gtk-doc-dev
 guile
 gzip
 help2man
-hgtools-python
+hgtools
 hostname
 hwloc-dev
 hypothesis-python
@@ -273,7 +273,6 @@ pip
 pkg-config
 pkg-config-dev
 pluggy
-pluggy-python
 popt-dev
 pretend
 processor-trace-dev
@@ -282,15 +281,15 @@ procps-ng-bin
 py
 py-python
 pycparser
-pycrypto-python
+pycrypto
 pyparsing
 pytest
-pytest-runner-python
+pytest-runner
 pytest-xdist
 python
 python-core
 python-dev
-python-keyczar-python
+python-keyczar
 python-mock
 python3
 python3-dev
