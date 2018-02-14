@@ -1,0 +1,15 @@
+# [TITLE]: service-os
+# [DESCRIPTION]: Provides the needed software for Service OS
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+ 
+# Boot Software
+include(bootloader)
+linux-firmware
+linux-pk414-sos
+mcelog
+irqbalance
+
+# User Software
+
