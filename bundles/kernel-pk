@@ -1,0 +1,10 @@
+# [TITLE]: kernel-pk
+# [DESCRIPTION]: Run the standard production kernel
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(bootloader)
+linux-firmware
+linux-pk414-standard
+mcelog
+irqbalance
