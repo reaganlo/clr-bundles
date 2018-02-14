@@ -59,6 +59,8 @@ Whoosh
 acl-dev
 acl-dev32
 acpica-unix2
+alsa-lib-dev
+alsa-lib-dev32
 apipkg
 apr-dev
 apr-util-dev
@@ -93,6 +95,7 @@ binutils
 binutils-dev
 bison
 bison-dev
+bluez-dev
 boost
 boost-dev
 bridge-utils
@@ -142,10 +145,12 @@ dejagnu
 desktop-file-utils
 diffutils
 dnsmasq
+dnspython
 docbook-utils
 docbook-xml
 docutils-python
 dosfstools
+double-conversion-dev
 doxygen
 dri2proto-dev
 dri2proto-dev32
@@ -170,6 +175,7 @@ expat-dev32
 expect
 extras
 fcgi-dev
+fftw-dev
 file
 file-dev
 filesystem-chroot
@@ -177,6 +183,8 @@ fixesproto-dev
 fixesproto-dev32
 fixtures
 fixtures-python
+flac-dev
+flac-dev32
 flex
 flex-dev
 font-bitstream-type1
@@ -201,6 +209,7 @@ gdb
 gdb-dev
 gdbm
 gdbm-dev
+gdbm-dev32
 gdk-pixbuf
 gdk-pixbuf-dev
 gdk-pixbuf-dev32
@@ -244,9 +253,13 @@ gpgme-dev
 graphviz
 grep
 groff
+gst-plugins-base-dev
+gstreamer-dev
 gtk+-dev
 gtk-doc
 gtk-doc-dev
+gtk3-dev
+gtk3-dev32
 guile
 guile-dev
 gzip
@@ -355,6 +368,8 @@ libdrm-dev
 libdrm-dev32
 libepoxy-dev
 libepoxy-dev32
+libevdev-dev
+libevdev-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -364,6 +379,7 @@ libgcrypt-dev32
 libgd-dev
 libgpg-error-dev
 libgpg-error-dev32
+libical-dev
 libidn-dev
 libidn-dev32
 libinput-dev
@@ -382,6 +398,8 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
+libogg-dev
+libogg-dev32
 libpcap-dev
 libpciaccess-dev
 libpciaccess-dev32
@@ -395,6 +413,9 @@ librepo-dev
 librsvg
 librsvg-dev
 librsvg-dev32
+libsamplerate-dev
+libsndfile-dev
+libsndfile-dev32
 libsolv-dev
 libsoup-dev
 libsoup-dev32
@@ -405,20 +426,26 @@ libtasn1-dev
 libtasn1-dev32
 libthai-dev
 libthai-dev32
+libtheora-dev
 libtirpc-dev
 libtool
 libtool-dev
+libtool-dev32
 libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
 libuser-dev
 libva-dev
+libvorbis-dev
+libvorbis-dev32
+libvpx-dev
 libwebp-dev
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
 libxkbcommon-dev32
+libxkbfile-dev
 libxml2-dev
 libxml2-dev32
 libxml2-python
@@ -439,6 +466,7 @@ lzo-dev
 m4
 make
 man-db
+mariadb-dev
 mccabe-python
 mesa-dev
 mesa-dev32
@@ -446,7 +474,10 @@ meson
 mock
 mpc-dev
 mpfr-dev
+mtdev-dev
+mtdev-dev32
 nasm
+nasm-bin
 ncurses-dev
 ncurses-dev32
 ndg_httpsclient
@@ -484,7 +515,10 @@ openssl
 openssl-dev
 openssl-dev32
 openssl-lib32
+opus-dev
+orc
 orc-dev
+orc-dev32
 p11-kit
 p11-kit-dev
 p11-kit-dev32
@@ -499,6 +533,7 @@ pciutils-dev
 pcre
 pcre-dev
 pcre-dev32
+pcre2-dev
 pecan
 pep8-python
 perl
@@ -581,9 +616,11 @@ prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
+protobuf
 protobuf-c-dev
 protobuf-dev
 ptyprocess
+pulseaudio-dev
 py
 py-python
 pyOpenSSL
@@ -631,6 +668,8 @@ rpm-common
 rpm-dev
 ruby
 rust-std32
+sbc-dev
+sbc-dev32
 scikit-build
 scons
 scrnsaverproto-dev
@@ -647,6 +686,8 @@ six
 slang-dev
 snappy-dev
 source-highlight
+speex-dev
+speexdsp-dev
 sphinxcontrib-websupport
 spice
 spice-dev
@@ -717,6 +758,7 @@ xapian-core-dev
 xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
+xcb-util
 xcb-util-dev
 xextproto-dev
 xextproto-dev32
@@ -729,6 +771,7 @@ xineramaproto-dev
 xineramaproto-dev32
 xkeyboard-config-dev
 xmlto
+xorg-server-dev
 xproto-dev
 xproto-dev32
 xtrans-dev

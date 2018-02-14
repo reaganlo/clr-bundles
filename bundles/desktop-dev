@@ -33,6 +33,8 @@ adwaita-icon-theme-dev
 alsa-lib-dev
 alsa-lib-dev32
 appstream-glib-dev
+argcomplete
+argparse
 asciidoc
 aspell
 aspell-dev
@@ -45,6 +47,7 @@ atk-dev32
 atkmm-dev
 attr-dev
 attr-dev32
+attrs
 autoconf
 autogen
 automake
@@ -81,11 +84,13 @@ clutter-gst-dev
 clutter-gtk-dev
 cmake
 cogl-dev
+colorama
 colord-dev
 colord-gtk-dev
 compat-fuse-soname2-dev
 compositeproto-dev
 compositeproto-dev32
+contextlib2
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -129,6 +134,7 @@ enchant-dev
 eog-dev
 evolution-data-server-dev
 evolution-dev
+execnet
 exempi-dev
 expat-dev
 expat-dev32
@@ -137,6 +143,8 @@ fftw-dev
 filesystem-chroot
 fixesproto-dev
 fixesproto-dev32
+fixtures
+fixtures-python
 flac-dev
 flac-dev32
 flatpak-dev
@@ -458,6 +466,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linecache2
 linux-firmware
 linux-libc-headers
 llvm
@@ -500,6 +509,7 @@ network-manager-applet-dev
 nghttp2-dev
 nghttp2-dev32
 ninja
+nose
 npth-dev
 nspr-dev
 nss-altfiles
@@ -542,12 +552,14 @@ perl-IO-stringy
 perl-Test-Output
 perl-XML-Parser
 perl-XML-Simple
+pexpect
 pigz
 pip
 pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 ply
 polkit-dev
 poppler-dev
@@ -561,6 +573,7 @@ psutil
 pulseaudio-dev
 pulseaudio-dev32
 py
+py-python
 pyaml
 pycairo-dev
 pygobject
@@ -568,6 +581,7 @@ pygobject-dev
 pygobject-python
 pylint
 pytest
+pytest-xdist
 python
 python-core
 python-dev
@@ -604,6 +618,7 @@ scrnsaverproto-dev
 scrnsaverproto-dev32
 sed
 setuptools
+setuptools_scm
 shadow
 shared-mime-info
 shared-mime-info-dev
@@ -631,13 +646,17 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 texinfo
 tk-dev
 totem-pl-parser-dev
+tox
+traceback2
 tracker-dev
 tzdata
 udisks2-dev
 uhttpmock-dev
+unittest2
 unzip
 upower-dev
 util-linux
@@ -651,6 +670,7 @@ valgrind
 valgrind-dev
 videoproto-dev
 videoproto-dev32
+virtualenv
 volume_key-dev
 vte-dev
 vulkan-sdk-dev
