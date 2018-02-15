@@ -1,0 +1,11 @@
+# [TITLE]: java9-basic
+# [DESCRIPTION]: Build and run java9 language programs
+# [STATUS]: Active
+# [CAPABILITIES]: Compile and run basic java9 applications
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+include(libX11client)
+include(python-basic)
+openjdk9
+openjdk9-dev
+p11-kit
+which
