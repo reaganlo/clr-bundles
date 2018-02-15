@@ -217,6 +217,7 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
+gfortran
 git
 glib-bin
 glib-dev
@@ -446,6 +447,7 @@ libxcb-dev32
 libxkbcommon-dev
 libxkbcommon-dev32
 libxkbfile-dev
+libxml2
 libxml2-dev
 libxml2-dev32
 libxml2-python
@@ -505,6 +507,7 @@ nvml-dev
 onig-dev
 open-iscsi
 open-isns-dev
+openblas
 openconnect-dev
 openjade-dev
 openjdk-dev
@@ -553,6 +556,7 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
+perl-File-Slurp
 perl-HTML-Tagset
 perl-HTTP-Daemon
 perl-HTTP-Date
@@ -670,6 +674,7 @@ ruby
 rust-std32
 sbc-dev
 sbc-dev32
+sbsigntools
 scikit-build
 scons
 scrnsaverproto-dev
