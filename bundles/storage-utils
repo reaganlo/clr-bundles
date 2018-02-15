@@ -13,6 +13,7 @@ dosfstools
 e2fsprogs
 e2fsprogs-extras
 gptfdisk
+ixpdimm_sw
 mdadm
 multipath-tools
 ndctl
