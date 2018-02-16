@@ -1,0 +1,6 @@
+# [TITLE]: openssl
+# [DESCRIPTION]: Provide the openssl commandline utility
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+openssl
