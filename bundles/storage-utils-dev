@@ -107,6 +107,7 @@ intltool-dev
 iptables-dev
 iptables-dev32
 iso8601
+ixpdimm_sw-dev
 json-c-dev
 keyutils-dev
 kmod

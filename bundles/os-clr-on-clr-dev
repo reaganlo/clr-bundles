@@ -145,12 +145,10 @@ dejagnu
 desktop-file-utils
 diffutils
 dnsmasq
-dnspython
 docbook-utils
 docbook-xml
 docutils-python
 dosfstools
-double-conversion-dev
 doxygen
 dri2proto-dev
 dri2proto-dev32
@@ -254,7 +252,6 @@ gpgme-dev
 graphviz
 grep
 groff
-gst-plugins-base-dev
 gstreamer-dev
 gtk+-dev
 gtk-doc
@@ -440,13 +437,11 @@ libuser-dev
 libva-dev
 libvorbis-dev
 libvorbis-dev32
-libvpx-dev
 libwebp-dev
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
 libxkbcommon-dev32
-libxkbfile-dev
 libxml2
 libxml2-dev
 libxml2-dev32
@@ -468,7 +463,6 @@ lzo-dev
 m4
 make
 man-db
-mariadb-dev
 mccabe-python
 mesa-dev
 mesa-dev32
@@ -536,7 +530,6 @@ pciutils-dev
 pcre
 pcre-dev
 pcre-dev32
-pcre2-dev
 pecan
 pep8-python
 perl
@@ -620,11 +613,9 @@ prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
-protobuf
 protobuf-c-dev
 protobuf-dev
 ptyprocess
-pulseaudio-dev
 py
 py-python
 pyOpenSSL
@@ -654,7 +645,6 @@ python3
 python3-dev
 pytz
 qemu
-qt-everywhere-opensource-src-dev
 randrproto-dev
 randrproto-dev32
 rdma-core-dev
@@ -763,7 +753,6 @@ xapian-core-dev
 xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
-xcb-util
 xcb-util-dev
 xextproto-dev
 xextproto-dev32
@@ -776,7 +765,6 @@ xineramaproto-dev
 xineramaproto-dev32
 xkeyboard-config-dev
 xmlto
-xorg-server-dev
 xproto-dev
 xproto-dev32
 xtrans-dev

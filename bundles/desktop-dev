@@ -594,7 +594,7 @@ pyudev
 pywbem
 qemu
 qpdf-dev
-qt-everywhere-opensource-src-dev
+qtbase-dev
 randrproto-dev
 randrproto-dev32
 readline-dev
