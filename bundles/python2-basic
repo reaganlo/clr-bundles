@@ -1,11 +1,8 @@
-# [TITLE]: python-basic
-# [DESCRIPTION]: Run python language programs
+# [TITLE]: pytho2n-basic
+# [DESCRIPTION]: Run legacy python language programs
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(python2-basic)
-include(python3-basic)
-
 clr-python-timestamp
 glibc-lib-avx2
 p11-kit
@@ -13,9 +10,10 @@ pip
 pip-extras
 pip-legacypython
 pycodestyle
+pycodestyle-legacypython
 python-core
 python-dev
-python3-core
-python3-dev
 setuptools
+setuptools-legacypython
 virtualenv
+virtualenv-legacypython
