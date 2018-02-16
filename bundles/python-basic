@@ -10,6 +10,7 @@ glibc-lib-avx2
 p11-kit
 pip
 pip-extras
+pip-legacypython
 pycodestyle
 python-core
 python-dev
