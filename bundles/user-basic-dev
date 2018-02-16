@@ -25,15 +25,18 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2
 LVM2
 LVM2-dev
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
+MarkupSafe
 Pygments
 Sphinx
 Sphinx-python
+Whoosh
 acl-dev
 acl-dev32
 acpica-unix2
@@ -55,6 +58,7 @@ autogen
 automake
 automake-dev
 babeltrace-dev
+backports.ssl_match_hostname
 bash
 bash-completion-dev
 bats
@@ -75,7 +79,9 @@ ca-certs
 cairo-dev
 cairo-dev32
 ceph-dev
+certifi
 cffi
+cffi-python
 check
 check-dev
 check-dev32
@@ -106,6 +112,7 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
+docutils-python
 dosfstools
 doxygen
 dri2proto-dev
@@ -164,6 +171,7 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
+gfortran
 git
 glib-bin
 glib-dev
@@ -212,6 +220,7 @@ hypothesis-python
 icu4c-dev
 icu4c-dev32
 idna
+idna-python
 imagesize
 inputproto
 inputproto-dev
@@ -219,6 +228,7 @@ inputproto-dev32
 intltool
 intltool-dev
 ipaddress
+ipaddress-python
 iproute2
 iptables
 iptables-dev
@@ -359,11 +369,14 @@ man-db
 mesa-dev
 mesa-dev32
 meson
+mock
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
+ndctl-dev
+ndg_httpsclient
 net-tools
 netbase
 nettle
@@ -385,6 +398,7 @@ nvml-dev
 onig-dev
 open-iscsi
 open-isns-dev
+openblas
 openconnect-dev
 openldap-dev
 openmpi-dev
@@ -479,7 +493,10 @@ protobuf-c-dev
 protobuf-dev
 py
 py-python
+pyOpenSSL
+pyasn1
 pycparser
+pycparser-python
 pycrypto
 pyparsing
 pytest
@@ -520,6 +537,7 @@ six
 slang-dev
 snappy-dev
 source-highlight
+sphinxcontrib-websupport
 spice
 spice-dev
 spice-protocol
@@ -550,12 +568,15 @@ thin-provisioning-tools
 tk
 tk-dev
 tokyocabinet-dev
+tornado
 tox
 tox-python
 traceback2
+typing
 tzdata
 unittest2
 unzip
+urllib3
 usbredir-dev
 userspace-rcu-dev
 util-linux

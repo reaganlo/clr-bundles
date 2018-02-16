@@ -189,6 +189,7 @@ nfs-utils-dev
 ninja
 nss-altfiles
 ntfs-3g-dev
+numactl-dev
 nvml-dev
 open-isns-dev
 openldap-dev
@@ -256,6 +257,7 @@ tk-dev
 tzdata
 unzip
 userspace-rcu-dev
+util-linux
 util-linux-bin
 util-linux-dev
 util-linux-dev32

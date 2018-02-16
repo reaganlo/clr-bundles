@@ -12,11 +12,15 @@ include(perl-basic-dev)
 include(python-basic-dev)
 CUnit-dev
 CUnit-dev32
+Cython
+Jinja2
 Linux-PAM-dev
 Linux-PAM-dev32
+MarkupSafe
 Pygments
 Sphinx
 Sphinx-python
+Whoosh
 acl-dev
 acl-dev32
 argcomplete
@@ -33,6 +37,7 @@ autoconf
 autogen
 automake
 automake-dev
+backports.ssl_match_hostname
 bash
 bats
 bc
@@ -46,7 +51,9 @@ btrfs-progs-dev
 bzip2
 bzip2-dev
 ca-certs
+certifi
 cffi
+cffi-python
 check-dev
 clr-rpm-config
 cmake
@@ -70,6 +77,7 @@ desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
+docutils-python
 doxygen
 e2fsprogs
 ed
@@ -100,6 +108,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
+gfortran
 git
 glib-bin
 glib-dev
@@ -131,10 +140,12 @@ hwloc-dev
 hypothesis-python
 icu4c-dev
 idna
+idna-python
 inotify-tools-dev
 intltool
 intltool-dev
 ipaddress
+ipaddress-python
 iptables-dev
 iptables-dev32
 iso8601
@@ -198,10 +209,12 @@ m4
 make
 man-db
 meson
+mock
 mpc-dev
 mpfr-dev
 ncurses-dev
 ncurses-dev32
+ndg_httpsclient
 netbase
 nghttp2-dev
 nghttp2-dev32
@@ -210,6 +223,7 @@ nose
 nss-altfiles
 numactl-dev
 onig-dev
+openblas
 openldap-dev
 openmpi-dev
 openssl
@@ -280,7 +294,10 @@ procps-ng
 procps-ng-bin
 py
 py-python
+pyOpenSSL
+pyasn1
 pycparser
+pycparser-python
 pycrypto
 pyparsing
 pytest
@@ -309,6 +326,7 @@ six
 slang-dev
 source-highlight
 source-highlight-dev
+sphinxcontrib-websupport
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
@@ -327,11 +345,14 @@ testtools-python
 texinfo
 tk
 tk-dev
+tornado
 tox
 traceback2
+typing
 tzdata
 unittest2
 unzip
+urllib3
 util-linux
 util-linux-bin
 util-linux-dev
