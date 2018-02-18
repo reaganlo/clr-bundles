@@ -1,0 +1,8 @@
+# [TITLE]: emacs
+# [DESCRIPTION]: The popular emacs terminal text editor
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# Run time requirement as vim is compiled to use libpython
+emacs
+ctags

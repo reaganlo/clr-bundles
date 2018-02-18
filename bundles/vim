@@ -1,0 +1,9 @@
+# [TITLE]: vim
+# [DESCRIPTION]: The popular vim text editor
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# Run time requirement as vim is compiled to use libpython
+ctags
+vim
+vim-go
