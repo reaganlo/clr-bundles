@@ -4,9 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # Run time requirement as vim is compiled to use libpython
+include(vim)
+include(emacs)
 joe
-emacs
 ctags
 nano
-vim
-vim-go
