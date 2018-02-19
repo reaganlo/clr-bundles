@@ -473,6 +473,7 @@ nss-altfiles
 nss-dev
 numactl
 numactl-dev
+numpy
 nvml-dev
 onig-dev
 open-iscsi

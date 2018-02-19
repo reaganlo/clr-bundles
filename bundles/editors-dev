@@ -6,6 +6,8 @@
 include(editors)
 include(os-core-dev)
 include(dev-utils)
+include(vim)
+include(emacs)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
