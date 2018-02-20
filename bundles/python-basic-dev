@@ -14,6 +14,7 @@ acl-dev
 acl-dev32
 attr-dev
 attr-dev32
+attrs-python
 autoconf
 autogen
 automake
@@ -150,13 +151,17 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+pluggy-python
 procps-ng
 procps-ng-bin
 py
+py-python
 pytest
+pytest-python
 python
 python-dev
 python-mock
+python-mock-python
 python3
 python3-dev
 readline-dev
@@ -166,6 +171,8 @@ sed
 setuptools
 shadow
 shared-mime-info
+six
+six-python
 slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev

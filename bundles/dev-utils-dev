@@ -10,6 +10,8 @@ include(perl-basic)
 include(python-basic)
 include(perl-basic-dev)
 include(python-basic-dev)
+Babel
+Babel-legacypython
 CUnit-dev
 CUnit-dev32
 Cython
@@ -201,6 +203,8 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linecache2
+linecache2-legacypython
+linecache2-python
 linux-libc-headers
 llvm
 llvm-dev
@@ -287,6 +291,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy
+pluggy-python
 popt-dev
 pretend
 processor-trace-dev
@@ -301,6 +306,7 @@ pycparser-python
 pycrypto
 pyparsing
 pytest
+pytest-python
 pytest-runner
 pytest-xdist
 python
@@ -308,6 +314,7 @@ python-core
 python-dev
 python-keyczar
 python-mock
+python-mock-python
 python3
 python3-dev
 pytz
@@ -323,6 +330,7 @@ setuptools_scm
 shadow
 shared-mime-info
 six
+six-python
 slang-dev
 source-highlight
 source-highlight-dev
@@ -348,9 +356,12 @@ tk-dev
 tornado
 tox
 traceback2
+traceback2-legacypython
+traceback2-python
 typing
 tzdata
 unittest2
+unittest2-legacypython
 unzip
 urllib3
 util-linux

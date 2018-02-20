@@ -41,6 +41,7 @@ atk-dev32
 atkmm-dev
 attr-dev
 attr-dev32
+attrs-python
 autoconf
 autogen
 automake
@@ -486,6 +487,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy-python
 polkit-dev
 presentproto-dev
 procps-ng
@@ -494,10 +496,13 @@ pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
 py
+py-python
 pytest
+pytest-python
 python
 python-dev
 python-mock
+python-mock-python
 python3
 python3-dev
 qemu
@@ -527,6 +532,7 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
+six-python
 slang-dev
 speex-dev
 speexdsp-dev
