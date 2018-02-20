@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(pxe-server)
-include(python-basic)
+include(python3-basic)
 ansible
 clear-config-management
 git
