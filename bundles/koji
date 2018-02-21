@@ -20,5 +20,6 @@ nfs-utils
 postgresql
 psycopg2
 python-multilib
+pycurl-legacypython
 rpm-build
 usermode
