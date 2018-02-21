@@ -63,6 +63,7 @@ pesign
 presentproto-dev
 pycodestyle
 pycurl
+pycurl-legacypython
 pyliblzma
 pyOpenSSL
 python-magic
