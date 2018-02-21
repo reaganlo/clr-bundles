@@ -42,6 +42,7 @@ Whoosh
 acl-dev
 acl-dev32
 acpica-unix2
+alabaster
 argcomplete
 argparse
 asciidoc
@@ -114,6 +115,7 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
+docutils
 docutils-python
 dosfstools
 doxygen
@@ -370,6 +372,7 @@ lzo-dev
 m4
 make
 man-db
+mccabe-python
 mesa-dev
 mesa-dev32
 meson
@@ -394,6 +397,7 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
+nose-python
 nss-altfiles
 nss-dev
 numactl
@@ -426,6 +430,7 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pecan
+pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-Capture-Tiny
@@ -496,6 +501,7 @@ procps-ng
 procps-ng-bin
 protobuf-c-dev
 protobuf-dev
+psutil
 py
 py-python
 pyOpenSSL
@@ -503,6 +509,7 @@ pyasn1
 pycparser
 pycparser-python
 pycrypto
+pyflakes-python
 pyparsing
 pytest
 pytest-python
@@ -541,9 +548,11 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
+six-legacypython
 six-python
 slang-dev
 snappy-dev
+snowballstemmer
 source-highlight
 sphinxcontrib-websupport
 spice
@@ -582,6 +591,7 @@ tox-python
 traceback2
 traceback2-legacypython
 traceback2-python
+typed-ast
 typing
 tzdata
 unittest2
@@ -639,5 +649,7 @@ yasm
 zlib
 zlib-dev
 zlib-dev32
+zope.interface
+zope.testrunner-python
 zopfli-dev
 zstd-dev

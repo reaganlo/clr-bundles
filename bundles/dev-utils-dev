@@ -25,6 +25,7 @@ Sphinx-python
 Whoosh
 acl-dev
 acl-dev32
+alabaster
 argcomplete
 argparse
 asciidoc
@@ -79,6 +80,7 @@ desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
+docutils
 docutils-python
 doxygen
 e2fsprogs
@@ -143,6 +145,7 @@ hypothesis-python
 icu4c-dev
 idna
 idna-python
+imagesize
 inotify-tools-dev
 intltool
 intltool-dev
@@ -212,6 +215,7 @@ lz4-dev
 m4
 make
 man-db
+mccabe-python
 meson
 mock
 mpc-dev
@@ -224,6 +228,7 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
+nose-python
 nss-altfiles
 numactl-dev
 onig-dev
@@ -239,6 +244,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable
@@ -297,6 +303,7 @@ pretend
 processor-trace-dev
 procps-ng
 procps-ng-bin
+psutil
 py
 py-python
 pyOpenSSL
@@ -304,6 +311,7 @@ pyasn1
 pycparser
 pycparser-python
 pycrypto
+pyflakes-python
 pyparsing
 pytest
 pytest-python
@@ -320,6 +328,7 @@ python3-dev
 pytz
 readline-dev
 readline-dev32
+requests
 rpm-build
 rpm-common
 scikit-build
@@ -332,6 +341,7 @@ shared-mime-info
 six
 six-python
 slang-dev
+snowballstemmer
 source-highlight
 source-highlight-dev
 sphinxcontrib-websupport
@@ -358,6 +368,7 @@ tox
 traceback2
 traceback2-legacypython
 traceback2-python
+typed-ast
 typing
 tzdata
 unittest2
@@ -384,3 +395,5 @@ xz-dev32
 yasm
 zlib-dev
 zlib-dev32
+zope.interface
+zope.testrunner-python
