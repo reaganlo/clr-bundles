@@ -5,6 +5,7 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 clr-python-timestamp
 glibc-lib-avx2
+numpy-legacypython
 p11-kit
 pip
 pip-extras
