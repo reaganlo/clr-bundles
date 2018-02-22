@@ -69,6 +69,7 @@ pyOpenSSL
 python-magic
 python-rpm
 python-toml
+python-zeep
 rpm
 rpm-common
 sbsigntools
