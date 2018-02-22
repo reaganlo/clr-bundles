@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Josue David Hernandez <josue.d.hernandez.gutierrez@intel.com>
 include(mail-utils)
-include(python-basic)
+include(python3-basic)
 irssi
 khal
 taskwarrior
