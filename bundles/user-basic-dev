@@ -550,6 +550,7 @@ shared-mime-info-dev
 six
 six-legacypython
 six-python
+six-python3
 slang-dev
 snappy-dev
 snowballstemmer
