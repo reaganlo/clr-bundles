@@ -66,6 +66,7 @@ pycurl
 pycurl-legacypython
 pyliblzma
 pyOpenSSL
+pyOpenSSL-legacypython
 python-magic
 python-rpm
 python-toml
