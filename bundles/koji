@@ -3,23 +3,17 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Gabi Beyer <Gabrielle.n.beyer@intel.com>
+include(package-utils)
 include(python-basic)
 include(web-server-basic)
 Cheetah
 cffi
-cgit
-createrepo_c-bin
-dnf
 enum34
-gitolite
 koji
 koji-extras
-mock
 mod_wsgi
 nfs-utils
 postgresql
 psycopg2
 python-multilib
 pycurl-legacypython
-rpm-build
-usermode
