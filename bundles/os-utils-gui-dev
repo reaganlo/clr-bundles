@@ -633,8 +633,10 @@ typing
 tzdata
 unittest2
 unittest2-legacypython
+unittest2-python
 unzip
 urllib3
+usbredir-dev
 usbutils-dev
 util-linux
 util-linux-bin

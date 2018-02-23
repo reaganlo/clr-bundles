@@ -325,6 +325,7 @@ pytest-xdist
 python
 python-dev
 python-mock
+python-mock-python
 python3
 python3-dev
 pytz
@@ -371,6 +372,7 @@ typing
 tzdata
 unittest2
 unittest2-legacypython
+unittest2-python
 unzip
 urllib3
 util-linux-bin

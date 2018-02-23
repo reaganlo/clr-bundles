@@ -711,6 +711,7 @@ typing
 tzdata
 unittest2
 unittest2-legacypython
+unittest2-python
 unzip
 urllib3
 usbredir-dev
@@ -768,5 +769,4 @@ zlib-dev
 zlib-dev32
 zope.interface
 zope.testrunner-python
-zopfli-dev
 zstd-dev
