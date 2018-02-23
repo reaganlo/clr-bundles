@@ -3,7 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(python-basic)
+include(python3-basic)
 qt3d
 qtbase
 qtcanvas3d
