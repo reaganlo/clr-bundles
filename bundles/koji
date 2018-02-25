@@ -6,14 +6,8 @@
 include(package-utils)
 include(python-basic)
 include(web-server-basic)
-Cheetah
-cffi
-enum34
 koji
 koji-extras
 mod_wsgi
 nfs-utils
 postgresql
-psycopg2
-python-multilib
-pycurl-legacypython
