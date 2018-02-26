@@ -211,4 +211,5 @@ xz-dev
 xz-dev32
 zlib-dev
 zlib-dev32
+zopfli-dev
 zstd-dev

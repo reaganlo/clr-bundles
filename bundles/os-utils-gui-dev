@@ -29,12 +29,10 @@ MarkupSafe
 Pygments
 R-dev
 Sphinx
-Sphinx-python
 Thunar-dev
 Whoosh
 acl-dev
 acl-dev32
-alabaster
 alsa-lib-dev
 alsa-lib-dev32
 appstream-glib-dev
@@ -42,6 +40,7 @@ argcomplete
 argparse
 asciidoc
 asn1crypto
+asn1crypto-legacypython
 asn1crypto-python
 aspell-dev
 at-spi2-atk-dev
@@ -54,6 +53,7 @@ atkmm-dev
 attr-dev
 attr-dev32
 attrs
+attrs-legacypython
 attrs-python
 autoconf
 autogen
@@ -81,6 +81,7 @@ cairomm-dev
 cargo
 certifi
 cffi
+cffi-legacypython
 cffi-python
 check
 check-dev
@@ -95,10 +96,9 @@ compositeproto-dev
 compositeproto-dev32
 contextlib2
 coreutils
-coverage
-coverage-python
 cracklib-dev
 cryptography
+cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
 curl-dev
@@ -116,7 +116,6 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
-docutils
 docutils-python
 doxygen
 dri2proto-dev
@@ -131,6 +130,7 @@ elfutils-dev
 elfutils-dev32
 enchant-dev
 enum34
+enum34-legacypython
 eog-dev
 execnet
 exempi-dev
@@ -247,6 +247,7 @@ harfbuzz-dev32
 hexchat-dev
 hostname
 hunspell-dev
+hypothesis-legacypython
 hypothesis-python
 iceauth-bin
 icon-naming-utils-dev
@@ -254,13 +255,13 @@ icu4c-dev
 icu4c-dev32
 idna
 idna-python
-imagesize
 inputproto
 inputproto-dev
 inputproto-dev32
 intltool
 intltool-dev
 ipaddress
+ipaddress-legacypython
 ipaddress-python
 iptables
 iptables-dev
@@ -458,7 +459,6 @@ lz4-dev
 lzo-dev
 m4
 make
-mccabe-python
 mesa-dev
 mesa-dev32
 meson
@@ -486,7 +486,6 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
-nose-python
 npth-dev
 nss-altfiles
 numactl
@@ -522,7 +521,6 @@ pciutils-dev
 pcre-dev
 pcre-dev32
 pcre2-dev
-pep8-python
 perl
 perl-URI
 perl-XML-Parser
@@ -541,7 +539,6 @@ presentproto-dev
 pretend
 procps-ng
 procps-ng-bin
-psutil
 pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
@@ -549,13 +546,13 @@ py
 py-python
 pyOpenSSL
 pyasn1
+pyasn1-legacypython
 pycparser
+pycparser-legacypython
 pycparser-python
-pyflakes-python
 pyparsing
 pytest
 pytest-python
-pytest-runner
 pytest-xdist
 python
 python-dev
@@ -573,7 +570,6 @@ recordproto-dev
 recordproto-dev32
 renderproto-dev
 renderproto-dev32
-requests
 resourceproto-dev
 resourceproto-dev32
 rest-dev
@@ -588,6 +584,7 @@ scrnsaverproto-dev
 scrnsaverproto-dev32
 sed
 setuptools
+setuptools-legacypython
 setuptools_scm
 shadow
 shared-mime-info
@@ -595,7 +592,6 @@ shared-mime-info-dev
 six
 six-python
 slang-dev
-snowballstemmer
 speex-dev
 speexdsp-dev
 sphinxcontrib-websupport
@@ -628,7 +624,6 @@ tox
 traceback2
 traceback2-legacypython
 traceback2-python
-typed-ast
 typing
 tzdata
 unittest2
