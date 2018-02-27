@@ -61,7 +61,6 @@ Whoosh
 acl-dev
 acl-dev32
 acpica-unix2
-apipkg
 appdirs
 apr-dev
 apr-util-dev
@@ -434,7 +433,6 @@ libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
 libxkbcommon-dev32
-libxml2
 libxml2-dev
 libxml2-dev32
 libxml2-python
@@ -459,7 +457,6 @@ lzo-dev
 m4
 make
 man-db
-mccabe-python
 mesa-dev
 mesa-dev32
 meson
@@ -484,7 +481,6 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
-nose-python
 npth-dev
 nspr-dev
 nss-altfiles
@@ -523,7 +519,6 @@ pcre
 pcre-dev
 pcre-dev32
 pecan
-pep8-python
 perl
 perl-B-Hooks-EndOfScope
 perl-CPAN-Meta-Check
@@ -608,7 +603,6 @@ procps-ng
 procps-ng-bin
 protobuf-c-dev
 protobuf-dev
-ptyprocess
 py
 py-python
 pyOpenSSL
@@ -620,7 +614,6 @@ pycparser-legacypython
 pycparser-python
 pycrypto
 pycurl
-pyflakes-python
 pyparsing
 pytest
 pytest-python
