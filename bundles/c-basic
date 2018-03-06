@@ -12,6 +12,8 @@ binutils-dev
 binutils-doc
 binutils-locale
 bison
+check
+check-dev
 cmake
 cmake-dev
 flex
