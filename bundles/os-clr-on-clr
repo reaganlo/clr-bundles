@@ -79,6 +79,7 @@ six
 urlgrabber
 xcb-proto-dev
 xf86driproto-dev
+xmlstarlet
 xorriso
 yum
 yum-metadata-parser
