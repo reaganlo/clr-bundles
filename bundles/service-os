@@ -3,7 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
- 
+
 # Boot Software
 include(bootloader)
 linux-firmware
@@ -12,4 +12,5 @@ mcelog
 irqbalance
 
 # User Software
-
+acrn-devicemodel
+acrn-hypervisor
