@@ -505,6 +505,7 @@ scrnsaverproto-dev32
 secretstorage
 sed
 setuptools
+setuptools-legacypython
 setuptools_scm
 shadow
 shared-mime-info

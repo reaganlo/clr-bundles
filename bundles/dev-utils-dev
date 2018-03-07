@@ -292,6 +292,7 @@ scikit-build
 secretstorage
 sed
 setuptools
+setuptools-legacypython
 setuptools_scm
 shadow
 shared-mime-info
