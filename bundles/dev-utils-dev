@@ -309,12 +309,14 @@ systemd-dev32
 systemd-libs
 tar
 tcl
+tcl-dev
 testrepository
 testresources
 testscenarios
 testtools
 texinfo
 tk
+tk-dev
 tox
 tzdata
 unzip

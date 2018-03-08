@@ -7,6 +7,7 @@ include(mail-utils)
 include(os-core-dev)
 include(dev-utils)
 include(python3-basic)
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -29,6 +30,7 @@ cmake
 coreutils
 cracklib-dev
 cryptsetup-dev
+cups-dev
 curl-dev
 db
 db-dev
@@ -101,6 +103,7 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+iso8601
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -149,6 +152,7 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+llvm-dev
 lz4-dev
 m4
 make
@@ -183,6 +187,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+popt-dev
 procps-ng
 procps-ng-bin
 py
