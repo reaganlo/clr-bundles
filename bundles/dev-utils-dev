@@ -66,6 +66,10 @@ docbook-utils
 docbook-xml
 doxygen
 e2fsprogs
+e2fsprogs-data
+e2fsprogs-dev
+e2fsprogs-dev32
+e2fsprogs-extras
 ed
 elfutils
 elfutils-dev
@@ -135,6 +139,7 @@ keyring-python
 kmod
 kmod-dev
 kmod-dev32
+krb5-dev
 ldd
 less
 libICE-dev
@@ -143,6 +148,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libc6
 libc6-dev
 libc6-locale
 libcap-dev

@@ -123,8 +123,10 @@ dri2proto-dev32
 dri3proto-dev
 dri3proto-dev32
 e2fsprogs
+e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
+e2fsprogs-extras
 ebtables
 elfutils-dev
 elfutils-dev32
@@ -194,6 +196,7 @@ glib-dev32
 glib-networking
 glib-networking-lib32
 glibc-bin
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -330,6 +333,7 @@ libarchive-dev
 libarchive-devel
 libassuan-dev
 libburn-dev
+libc6
 libc6-dev
 libc6-locale
 libcanberra-dev
@@ -495,6 +499,7 @@ ocl-icd-dev
 open-iscsi
 openblas
 openconnect-dev
+openldap-dev
 openssh
 openssl
 openssl-dev

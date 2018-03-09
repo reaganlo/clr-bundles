@@ -46,7 +46,10 @@ docbook-utils
 docbook-xml
 doxygen
 e2fsprogs
+e2fsprogs-data
 e2fsprogs-dev
+e2fsprogs-dev32
+e2fsprogs-extras
 elfutils-dev
 expat-dev
 expat-dev32
@@ -70,6 +73,7 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -101,6 +105,7 @@ iptables-dev32
 kmod
 kmod-dev
 kmod-dev32
+krb5-dev
 ldd
 less
 libICE-dev
@@ -110,6 +115,7 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libassuan-dev
+libc6
 libc6-dev
 libc6-locale
 libcap-dev
@@ -173,6 +179,7 @@ nghttp2-dev32
 ninja
 npth-dev
 nss-altfiles
+openldap-dev
 openssl
 openssl-dev
 openssl-dev32
@@ -226,6 +233,7 @@ xmlto
 xz
 xz-dev
 xz-dev32
+yasm
 zlib-dev
 zlib-dev32
 zstd-dev

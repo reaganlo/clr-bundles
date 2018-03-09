@@ -127,6 +127,7 @@ glib-dev
 glib-dev32
 glib-networking
 glib-networking-lib32
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -221,6 +222,7 @@ libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
 libc-bin
+libc6
 libc6-dev
 libc6-locale
 libcap-dev

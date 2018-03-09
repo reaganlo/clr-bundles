@@ -104,6 +104,7 @@ gzip
 hostname
 intltool
 intltool-dev
+invm-frameworks-dev
 iptables-dev
 iptables-dev32
 iso8601

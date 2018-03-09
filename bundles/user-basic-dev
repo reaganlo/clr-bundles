@@ -161,6 +161,7 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-staticdev
@@ -212,6 +213,7 @@ inputproto-dev
 inputproto-dev32
 intltool
 intltool-dev
+invm-frameworks-dev
 ipaddress
 iproute2
 iptables
@@ -268,6 +270,7 @@ libarchive-dev
 libassuan-dev
 libatomic_ops-dev
 libc-bin
+libc6
 libc6-dev
 libc6-locale
 libcap-dev
