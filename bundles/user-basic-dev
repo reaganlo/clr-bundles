@@ -25,6 +25,7 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2
 LVM2
 LVM2-dev
 LVM2-extras
@@ -157,6 +158,7 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
+gfortran
 git
 glib-bin
 glib-dev
@@ -382,6 +384,7 @@ nvml-dev
 onig-dev
 open-iscsi
 open-isns-dev
+openblas
 openconnect-dev
 openldap-dev
 openmpi-dev
@@ -463,6 +466,7 @@ pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 pluggy
+pluggy-python
 polkit-dev
 popt-dev
 presentproto-dev
@@ -480,12 +484,14 @@ pycparser-legacypython
 pycrypto
 pyparsing
 pytest
+pytest-python
 pytest-runner
 python
 python-core
 python-dev
 python-keyczar
 python-mock
+python-mock-python
 python3
 python3-dev
 pytz
@@ -515,7 +521,7 @@ shared-mime-info
 shared-mime-info-dev
 six
 six-legacypython
-six-python3
+six-python
 slang-dev
 snappy-dev
 source-highlight
@@ -603,5 +609,4 @@ yasm
 zlib
 zlib-dev
 zlib-dev32
-zopfli-dev
 zstd-dev
