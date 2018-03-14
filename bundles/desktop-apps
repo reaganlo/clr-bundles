@@ -8,6 +8,7 @@ include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
 
+baobab
 eog
 eog-plugins
 evince
@@ -19,10 +20,18 @@ flatpak
 gedit
 gnome-calculator
 gnome-characters
+gnome-color-manager
 gnome-font-viewer
+gnome-logs
+gnome-music
+gnome-photos
 gnome-screenshot
+gnome-system-monitor
+gnome-todo
+gnome-weather
 gvim
 libva-utils
 pavucontrol
+seahorse
 totem
 xemacs

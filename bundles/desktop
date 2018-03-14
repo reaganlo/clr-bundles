@@ -84,6 +84,7 @@ gst-plugins-ugly
 gst-plugins-bad
 gst-plugins-good
 gst-plugins-base
+gsound
 gstreamer
 gstreamer-vaapi
 libva
@@ -115,8 +116,11 @@ gnome-characters
 gnome-control-center
 gnome-terminal
 gnome-tweak-tool
+gnome-user-docs
+gnome-video-effects
 gvfs
 nautilus
+yelp
 
 # nice to have when using desktop
 cups
