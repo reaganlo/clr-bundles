@@ -101,6 +101,7 @@ cryptography
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
+cups-dev
 curl-dev
 curl-dev32
 damageproto-dev

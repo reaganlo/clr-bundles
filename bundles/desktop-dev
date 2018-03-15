@@ -211,6 +211,7 @@ gnome-online-accounts-dev
 gnome-panel-dev
 gnome-settings-daemon-dev
 gnome-shell
+gnome-video-effects-dev
 gnu-efi
 gnu-efi-dev
 gnupg
@@ -231,6 +232,7 @@ grilo-dev
 grilo-plugins
 groff
 gsettings-desktop-schemas-dev
+gsound-dev
 gspell-dev
 gst-plugins-bad-dev
 gst-plugins-base-dev
@@ -707,6 +709,7 @@ xz-dev
 xz-dev32
 yajl-dev
 yasm
+yelp-dev
 zenity
 zlib
 zlib-dev
