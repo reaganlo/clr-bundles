@@ -3,10 +3,15 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-bridge-utils
 LVM2
-docker
+bridge-utils
+cni
+cni-plugins
 containerd
+cri-containerd
+cri-o
+cri-tools
+docker
 gnupg
 iproute2
 p11-kit
