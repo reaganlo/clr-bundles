@@ -302,6 +302,7 @@ util-linux-extras
 valgrind
 valgrind-dev
 virtualenv
+weechat-dev
 which
 wpa_supplicant
 xmlto

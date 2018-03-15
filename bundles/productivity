@@ -8,3 +8,4 @@ include(python3-basic)
 irssi
 khal
 taskwarrior
+weechat

@@ -39,6 +39,7 @@ redsocks
 rsync
 tcpdump
 traceroute
+weechat
 wget
 wpa_supplicant
 znc
