@@ -5,11 +5,9 @@
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(kernel-container)
 include(containers-basic)
-bridge-utils
 clear-containers-runtime
 clear-containers-shim
 clear-containers-proxy
 clear-containers-image
-iproute2
 qemu-lite
 util-linux-bin
