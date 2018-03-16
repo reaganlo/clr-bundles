@@ -17,6 +17,7 @@ CUnit-dev
 CUnit-dev32
 GConf-dev
 LVM2-dev
+LibRaw-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako
@@ -49,6 +50,7 @@ autoconf
 autogen
 automake
 automake-dev
+babl-dev
 bash-completion-dev
 bats
 bc
@@ -131,6 +133,7 @@ eog-dev
 evolution-data-server-dev
 evolution-dev
 exempi-dev
+exiv2-dev
 expat-dev
 expat-dev32
 expect
@@ -170,11 +173,14 @@ gdk-pixbuf
 gdk-pixbuf-dev
 gdk-pixbuf-dev32
 gdm-dev
+gegl-dev
 geoclue-dev
 geocode-glib-dev
 gettext
 gettext-bin
 gettext-dev
+gexiv2-dev
+gfbgraph-dev
 ghostscript-dev
 git
 gjs
@@ -286,6 +292,7 @@ kmod-dev32
 krb5-dev
 lcms2-dev
 ldd
+lensfun-dev
 less
 libICE-dev
 libICE-dev32
@@ -388,6 +395,7 @@ libiscsi-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
+libmediaart-dev
 libmnl-dev
 libmnl-dev32
 libmspack-dev
@@ -606,6 +614,7 @@ rest-dev
 rest-dev32
 rpm-build
 ruby
+ruby-dev
 rust-std32
 samba-dev
 sbc-dev
@@ -643,6 +652,7 @@ testresources
 testscenarios
 testtools
 texinfo
+tiff-dev
 tk-dev
 totem-pl-parser-dev
 tracker-dev
@@ -658,6 +668,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+v4l-utils-dev
 valgrind
 valgrind-dev
 videoproto-dev
@@ -710,6 +721,7 @@ xz-dev32
 yajl-dev
 yasm
 yelp-dev
+yelp-xsl-dev
 zenity
 zlib
 zlib-dev

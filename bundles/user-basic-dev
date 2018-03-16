@@ -22,7 +22,6 @@ include(network-basic-dev)
 include(os-core-update-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
-
 CUnit-dev
 CUnit-dev32
 Cython
