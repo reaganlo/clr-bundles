@@ -121,6 +121,7 @@ elfutils
 elfutils-dev
 elfutils-dev32
 emacs
+enchant-dev
 enum34
 expat-dev
 expat-dev32
@@ -458,6 +459,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+php-dev
 pigz
 pip
 pixman-dev

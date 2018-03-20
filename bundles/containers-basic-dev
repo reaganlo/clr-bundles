@@ -35,12 +35,14 @@ cmake
 containerd-dev
 coreutils
 cracklib-dev
+cri-containerd-dev
 cryptsetup-dev
 curl-dev
 db-dev
 dbus-dev
 dbus-dev32
 dejagnu
+desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
@@ -51,6 +53,7 @@ e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
 elfutils-dev
+elfutils-dev32
 expat-dev
 expat-dev32
 expect
@@ -85,10 +88,12 @@ gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
+gnupg
 gnutls-dev
 go
 golang-github-cpuguy83-go-md2man
 gperf
+gpgme-dev
 graphviz
 grep
 groff
@@ -189,6 +194,7 @@ p11-kit-dev32
 patch
 pbr
 pcre-dev
+pcre-dev32
 perl
 perl-Error
 perl-XML-Parser
@@ -208,9 +214,11 @@ ruby
 sed
 setuptools
 shadow
+shared-mime-info
 slang-dev
 sqlite-autoconf-dev
 strace
+swig
 systemd-dev
 systemd-dev32
 systemd-libs

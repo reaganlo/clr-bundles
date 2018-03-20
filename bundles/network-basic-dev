@@ -59,6 +59,7 @@ e2fsprogs-extras
 ebtables-dev
 elfutils-dev
 elfutils-dev32
+enchant-dev
 expat-dev
 expat-dev32
 expect
@@ -140,6 +141,7 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
+libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libmnl-dev
@@ -252,6 +254,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+php-dev
 pigz
 pip
 pkcs11-helper-dev
@@ -273,6 +276,7 @@ rdma-core-dev
 readline-dev
 readline-dev32
 rpm-build
+ruby
 sed
 setuptools
 shadow

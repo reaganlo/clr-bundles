@@ -172,6 +172,7 @@ elfutils
 elfutils-dev
 elfutils-dev32
 emacs
+enchant-dev
 enum34
 enum34-legacypython
 execnet

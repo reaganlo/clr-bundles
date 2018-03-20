@@ -91,10 +91,12 @@ gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
+gnupg
 gnutls-dev
 go
 golang-github-cpuguy83-go-md2man
 gperf
+gpgme-dev
 graphviz
 grep
 groff
@@ -105,7 +107,6 @@ gzip
 hostname
 intltool
 intltool-dev
-iproute2-dev
 iptables-dev
 iptables-dev32
 kmod
@@ -223,6 +224,7 @@ shared-mime-info
 slang-dev
 sqlite-autoconf-dev
 strace
+swig
 systemd-dev
 systemd-dev32
 systemd-libs
