@@ -9,6 +9,7 @@ fontconfig-lib
 freetype-lib
 glib-data
 glib-lib
+glib-lib
 gtk+-data
 gtk+-lib
 harfbuzz-lib
