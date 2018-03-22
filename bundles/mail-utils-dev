@@ -9,7 +9,6 @@ include(dev-utils)
 include(python2-basic)
 Cython
 Jinja2
-LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Sphinx
@@ -34,7 +33,6 @@ cmake
 coreutils
 cracklib-dev
 cryptsetup-dev
-cups-dev
 curl-dev
 db
 db-dev
@@ -108,7 +106,6 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
-iso8601
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -157,7 +154,6 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
-llvm-dev
 lz4-dev
 m4
 make
@@ -194,7 +190,6 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
-popt-dev
 procps-ng
 procps-ng-bin
 py

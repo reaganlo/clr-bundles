@@ -58,6 +58,7 @@ R-dev
 Sphinx
 Sphinx-python
 Whoosh
+Z3-dev
 acl-dev
 acl-dev32
 acpica-unix2
@@ -71,6 +72,7 @@ asn1crypto
 asn1crypto-legacypython
 asn1crypto-python
 aspell
+aspell-dev
 at-spi2-atk-dev
 at-spi2-atk-dev32
 at-spi2-core-dev
@@ -146,6 +148,7 @@ db
 db-dev
 dbus-dev
 dbus-dev32
+dbus-glib-dev
 defusedxml
 dejagnu
 desktop-file-utils
@@ -198,7 +201,6 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
-fs
 funcsigs
 fuse-dev
 gawk
@@ -266,11 +268,11 @@ gzip
 harfbuzz-dev
 harfbuzz-dev32
 help2man
-hgtools
 hostname
 httpd-data
 httpd-dev
 httpd-extras
+hunspell-dev
 hwloc-dev
 hypothesis-legacypython
 hypothesis-python
@@ -437,6 +439,7 @@ libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
 libxkbcommon-dev32
+libxml2
 libxml2-dev
 libxml2-dev32
 libxml2-python
@@ -445,6 +448,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+libzip-dev
 linecache2
 linecache2-legacypython
 linecache2-python
@@ -621,7 +625,6 @@ pycurl
 pyparsing
 pytest
 pytest-python
-pytest-runner
 pytest-timeout
 pytest-xdist
 python
@@ -639,9 +642,11 @@ python3
 python3-dev
 pytz
 qemu
+qtbase-dev
 randrproto-dev
 randrproto-dev32
 rdma-core-dev
+re2c
 readline-dev
 readline-dev32
 recordproto-dev
@@ -661,7 +666,6 @@ scikit-build
 scons
 scrnsaverproto-dev
 scrnsaverproto-dev32
-secretstorage
 sed
 setuptools
 setuptools-legacypython

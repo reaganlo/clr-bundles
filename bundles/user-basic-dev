@@ -35,6 +35,7 @@ Mako-python
 Pygments
 Sphinx
 Sphinx-python
+Z3-dev
 acl-dev
 acl-dev32
 acpica-unix2
@@ -139,7 +140,6 @@ fontconfig-dev32
 freetype-dev
 freetype-dev32
 fribidi-dev
-fs
 funcsigs
 fuse-dev
 gawk
@@ -202,7 +202,6 @@ gzip
 harfbuzz-dev
 harfbuzz-dev32
 help2man
-hgtools
 hostname
 hwloc-dev
 hypothesis-legacypython
@@ -483,15 +482,12 @@ py
 py-python
 pycparser
 pycparser-legacypython
-pycrypto
 pyparsing
 pytest
 pytest-python
-pytest-runner
 python
 python-core
 python-dev
-python-keyczar
 python-mock
 python-mock-python
 python3
@@ -514,10 +510,10 @@ scikit-build
 scons
 scrnsaverproto-dev
 scrnsaverproto-dev32
-secretstorage
 sed
 setuptools
 setuptools-legacypython
+setuptools-python
 setuptools_scm
 shadow
 shared-mime-info

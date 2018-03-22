@@ -27,6 +27,7 @@ NetworkManager-dev
 SDL-dev
 SDL2-dev
 Sphinx
+Z3-dev
 accountsservice-dev
 acl-dev
 acl-dev32

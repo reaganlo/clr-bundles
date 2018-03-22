@@ -15,6 +15,7 @@ Linux-PAM-dev32
 Mako-python
 NetworkManager-dev
 Sphinx
+Z3-dev
 acl-dev
 acl-dev32
 alsa-lib-dev
