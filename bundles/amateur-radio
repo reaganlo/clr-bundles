@@ -13,6 +13,7 @@ flnet
 gpredict
 grig
 hamlib
+librtlsdr
 minimodem
 multimon-ng
 soundmodem
