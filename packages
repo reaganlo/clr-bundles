@@ -3,6 +3,7 @@
 # of the same name containing only that package.
 bc
 cpio
+curl
 diffoscope
 file
 findutils
