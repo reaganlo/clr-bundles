@@ -10,8 +10,6 @@ include(python3-basic)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
-Sphinx
-Z3-dev
 acl-dev
 acl-dev32
 alsa-lib-dev
@@ -125,7 +123,6 @@ gnu-efi-dev
 go
 gobject-introspection
 gobject-introspection-dev
-googletest-dev
 gperf
 graphviz
 grep
@@ -257,7 +254,6 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
-llvm
 llvm-dev
 lz4-dev
 m4
@@ -340,6 +336,7 @@ qtsvg-dev
 qttools-bin
 qttools-dev
 qtvirtualkeyboard-dev
+qtwayland-dev
 qtwebchannel-dev
 qtwebsockets-dev
 qtx11extras-dev

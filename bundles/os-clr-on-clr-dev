@@ -158,6 +158,7 @@ docbook-utils
 docbook-xml
 docutils-python
 dosfstools
+double-conversion-dev
 doxygen
 dri2proto-dev
 dri2proto-dev32
@@ -262,6 +263,8 @@ groff
 gtk+-dev
 gtk-doc
 gtk-doc-dev
+gtk3-dev
+gtk3-dev32
 guile
 guile-dev
 gzip
@@ -298,6 +301,7 @@ isa-l-dev
 iso8601
 isodate
 itstool
+jemalloc-dev
 json-c-dev
 json-glib-dev
 json-glib-dev32
@@ -375,6 +379,8 @@ libdrm-dev
 libdrm-dev32
 libepoxy-dev
 libepoxy-dev32
+libevdev-dev
+libevdev-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -465,12 +471,16 @@ lzo-dev
 m4
 make
 man-db
+mariadb-dev
+mariadb-test
 mesa-dev
 mesa-dev32
 meson
 mock
 mpc-dev
 mpfr-dev
+mtdev-dev
+mtdev-dev32
 nasm
 ncurses-dev
 ncurses-dev32
@@ -526,6 +536,7 @@ pciutils-dev
 pcre
 pcre-dev
 pcre-dev32
+pcre2-dev
 pecan
 perl
 perl-B-Hooks-EndOfScope
@@ -616,11 +627,9 @@ py-python
 pyOpenSSL
 pyasn1
 pyasn1-legacypython
-pyasn1-python
 pycparser
 pycparser-legacypython
 pycparser-python
-pycrypto
 pycurl
 pyparsing
 pytest
@@ -630,7 +639,6 @@ pytest-xdist
 python
 python-core
 python-dev
-python-keyczar
 python-magic
 python-mimeparse
 python-mock
@@ -671,7 +679,6 @@ setuptools
 setuptools-legacypython
 setuptools-python
 setuptools_scm
-setuptools_scm-python
 shadow
 shared-mime-info
 shared-mime-info-dev
@@ -757,6 +764,9 @@ xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
 xcb-util-dev
+xcb-util-image-dev
+xcb-util-keysyms-dev
+xcb-util-wm-dev
 xextproto-dev
 xextproto-dev32
 xf86bigfontproto-dev
