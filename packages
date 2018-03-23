@@ -15,6 +15,7 @@ inotify-tools
 irssi
 jq
 linux-tools
+mkosi
 openssl
 parallel
 patch
