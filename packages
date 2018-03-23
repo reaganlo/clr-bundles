@@ -1,1 +1,24 @@
+# This list defines package-scope bundles
+# Each line contains a single package name which will be generated as a bundle
+# of the same name containing only that package.
+bc
+cpio
+diffoscope
+file
+findutils
+fio
+gzip
+htop
+icdiff
+inotify-tools
+irssi
 jq
+linux-tools
+parallel
+patch
+powertop
+strace
+unzip
+valgrind
+weechat
+xz
