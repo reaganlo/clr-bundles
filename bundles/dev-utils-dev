@@ -125,6 +125,7 @@ hwloc-dev
 hypothesis-legacypython
 hypothesis-python
 icu4c-dev
+icu4c-dev32
 idna
 inotify-tools-dev
 intltool
@@ -267,14 +268,12 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-pluggy
 popt-dev
 pretend
 processor-trace-dev
 procps-ng
 procps-ng-bin
 py
-py-python
 pycparser
 pycparser-legacypython
 pyparsing
@@ -320,7 +319,6 @@ testtools
 texinfo
 tk
 tk-dev
-tox
 tzdata
 unzip
 util-linux

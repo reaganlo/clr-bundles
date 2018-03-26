@@ -154,6 +154,7 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+lua-dev
 lz4-dev
 m4
 make

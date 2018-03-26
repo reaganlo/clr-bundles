@@ -43,6 +43,8 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+compositeproto-dev
+compositeproto-dev32
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -163,6 +165,7 @@ libX11-dev
 libX11-dev32
 libXau-dev
 libXau-dev32
+libXcomposite-dev
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev

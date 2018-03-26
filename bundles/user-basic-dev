@@ -466,7 +466,6 @@ pixman-dev32
 pkcs11-helper-dev
 pkg-config
 pkg-config-dev
-pluggy
 pluggy-python
 polkit-dev
 popt-dev
