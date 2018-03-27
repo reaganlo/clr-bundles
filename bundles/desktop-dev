@@ -158,6 +158,7 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
+fribidi-dev32
 gawk
 gcab-dev
 gcc
@@ -626,6 +627,8 @@ scrnsaverproto-dev
 scrnsaverproto-dev32
 sed
 setuptools
+setuptools-legacypython
+setuptools-python
 shadow
 shared-mime-info
 shared-mime-info-dev

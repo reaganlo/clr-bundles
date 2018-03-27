@@ -93,6 +93,7 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
+fribidi-dev32
 gawk
 gcc
 gcc-dev
@@ -356,6 +357,8 @@ sbc-dev32
 scons
 sed
 setuptools
+setuptools-legacypython
+setuptools-python
 shadow
 shared-mime-info
 slang-dev

@@ -105,6 +105,7 @@ freeglut-dev
 freetype-dev
 freetype-dev32
 fribidi-dev
+fribidi-dev32
 gawk
 gcc
 gcc-dev

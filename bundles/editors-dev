@@ -212,6 +212,8 @@ readline-dev32
 rpm-build
 sed
 setuptools
+setuptools-legacypython
+setuptools-python
 shadow
 shared-mime-info
 slang-dev
