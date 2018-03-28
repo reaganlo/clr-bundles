@@ -23,6 +23,7 @@ parallel
 patch
 powertop
 strace
+tmux
 unzip
 valgrind
 weechat
