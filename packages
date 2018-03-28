@@ -10,12 +10,14 @@ findutils
 fio
 gzip
 htop
+httpd
 icdiff
 inotify-tools
 irssi
 jq
 linux-tools
 mkosi
+nginx
 openssl
 parallel
 patch
