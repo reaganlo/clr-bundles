@@ -1,0 +1,21 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+1	:	1522234805.112	     0.028	0	0	7	0	../bundle-tools/devbundle.sh containers-basic
+2	:	1522234805.114	     0.026	0	0	7	0	../bundle-tools/devbundle.sh containers-virt
+3	:	1522234805.115	     0.026	0	0	7	0	../bundle-tools/devbundle.sh database-basic
+4	:	1522234805.116	     0.025	0	0	7	0	../bundle-tools/devbundle.sh desktop
+5	:	1522234805.117	     0.024	0	0	7	0	../bundle-tools/devbundle.sh dev-utils
+6	:	1522234805.119	     0.023	0	0	7	0	../bundle-tools/devbundle.sh editors
+10	:	1522234805.125	     1.028	0	0	7	0	../bundle-tools/devbundle.sh network-basic
+11	:	1522234805.127	     3.073	0	0	7	0	../bundle-tools/devbundle.sh os-clr-on-clr
+15	:	1522234805.133	     3.068	0	0	7	0	../bundle-tools/devbundle.sh perl-basic
+13	:	1522234805.130	     7.101	0	0	7	0	../bundle-tools/devbundle.sh os-core-update
+12	:	1522234805.128	     7.105	0	0	7	0	../bundle-tools/devbundle.sh os-core
+14	:	1522234805.131	     7.101	0	0	7	0	../bundle-tools/devbundle.sh os-utils-gui
+18	:	1522234805.137	     7.095	0	0	7	0	../bundle-tools/devbundle.sh storage-utils
+9	:	1522234805.123	    15.621	0	0	7	0	../bundle-tools/devbundle.sh mail-utils
+7	:	1522234805.120	    15.625	0	0	7	0	../bundle-tools/devbundle.sh games
+8	:	1522234805.122	    15.622	0	0	7	0	../bundle-tools/devbundle.sh go-basic
+16	:	1522234805.134	    15.610	0	0	7	0	../bundle-tools/devbundle.sh python-basic
+19	:	1522234805.139	    15.605	0	0	7	0	../bundle-tools/devbundle.sh sysadmin-basic
+20	:	1522234805.140	    15.604	0	0	7	0	../bundle-tools/devbundle.sh user-basic
+17	:	1522234805.136	    31.992	0	0	7	0	../bundle-tools/devbundle.sh qt-basic
