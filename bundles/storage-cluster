@@ -5,8 +5,12 @@
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
 include(python3-basic)
 
+# unfortunately, ceph is still too much legacy
+include(python2-basic)
+
 ceph
 ceph-deploy
+pip-legacypython
 glusterfs
 parted
 xfsprogs
