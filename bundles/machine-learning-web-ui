@@ -25,6 +25,8 @@ ipython-sql
 ipywidgets
 jsonschema
 jupyter
+jupyterlab
+jupyterlab_launcher
 jupyter-nbgallery
 jupyter-notebook-gist
 jupyter_client
