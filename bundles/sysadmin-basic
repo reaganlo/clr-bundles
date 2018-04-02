@@ -55,8 +55,6 @@ mosh
 motd-update
 nano
 ncurses
-ncurses-compat-lib
-ncurses-compat-lib-narrow
 numactl
 p11-kit
 parallel
