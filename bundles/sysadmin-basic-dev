@@ -6,6 +6,8 @@
 include(dev-utils)
 include(os-core-dev)
 include(sysadmin-basic)
+CUnit-dev
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -107,6 +109,7 @@ iperf-dev
 iproute2-dev
 iptables-dev
 iptables-dev32
+kmod
 kmod-dev
 kmod-dev32
 less
@@ -128,6 +131,7 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
+libgpg-error-dev32
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev
@@ -139,6 +143,7 @@ libnftnl-dev32
 libnl-dev
 libpipeline-dev
 libpng-dev
+libpwquality-dev
 libssh2-dev
 libstdc++
 libtasn1-dev
@@ -204,6 +209,7 @@ python3-dev
 readline-dev
 readline-dev32
 rpm-build
+ruby
 sed
 setuptools
 shadow
@@ -227,6 +233,7 @@ testresources
 testscenarios
 testtools
 texinfo
+thin-provisioning-tools
 tzdata
 unzip
 usbutils-dev
