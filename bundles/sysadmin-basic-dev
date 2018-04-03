@@ -3,13 +3,14 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(sysadmin-basic)
-include(os-core-dev)
 include(dev-utils)
+include(os-core-dev)
+include(sysadmin-basic)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
 acl-dev32
+asciidoc
 aspell
 aspell-dev
 attr-dev
@@ -20,7 +21,6 @@ automake
 automake-dev
 bash-completion-dev
 bats
-bc
 binutils
 binutils-dev
 bison
@@ -29,7 +29,6 @@ boost-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
-ca-certs
 check
 check-dev
 check-dev32
@@ -49,6 +48,7 @@ diffutils
 docbook-utils
 docbook-xml
 doxygen
+dracut-dev
 e2fsprogs
 e2fsprogs-dev
 efivar-dev
@@ -79,9 +79,11 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-utils
 gmp-dev
 gmp-gmpxx
@@ -105,10 +107,8 @@ iperf-dev
 iproute2-dev
 iptables-dev
 iptables-dev32
-kmod
 kmod-dev
 kmod-dev32
-ldd
 less
 libICE-dev
 libICE-dev32
@@ -117,7 +117,6 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libc6-dev
-libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -142,7 +141,6 @@ libpipeline-dev
 libpng-dev
 libssh2-dev
 libstdc++
-libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
 libtool
@@ -153,7 +151,6 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
-linux-firmware
 linux-libc-headers
 lz4-dev
 m4
@@ -202,6 +199,7 @@ python-core
 python-dev
 python-mock
 python3
+python3-core
 python3-dev
 readline-dev
 readline-dev32
@@ -220,6 +218,7 @@ systemd
 systemd-boot
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 tar
 tcl

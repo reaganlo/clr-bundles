@@ -3,12 +3,9 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
-include(os-utils-gui)
-include(os-core-dev)
 include(dev-utils)
-include(cryptography)
-include(python-basic)
-include(xfce4-desktop)
+include(os-core-dev)
+include(os-utils-gui)
 include(python-basic-dev)
 Babel
 Babel-legacypython
@@ -28,6 +25,7 @@ Mako-python
 MarkupSafe
 Pygments
 R-dev
+SDL-dev
 Sphinx
 Thunar-dev
 Whoosh
@@ -89,6 +87,7 @@ check-dev
 check-dev32
 clear-font
 clr-rpm-config
+clutter-dev
 cmake
 colorama
 colord-dev
@@ -189,7 +188,6 @@ geany-plugins-dev
 gettext
 gettext-bin
 gettext-dev
-gfortran
 git
 gjs
 gjs-dev
@@ -202,6 +200,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-staticdev
 glibc-utils
 glibmm-dev
@@ -280,12 +279,12 @@ json-glib-dev
 json-glib-dev32
 kbproto-dev
 kbproto-dev32
+kmod
 kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
 lcms2-dev
-ldd
 lensfun-dev
 libICE-dev
 libICE-dev32
@@ -333,12 +332,10 @@ libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
 libarchive-dev
-libarchive-devel
 libassuan-dev
 libburn-dev
 libc6
 libc6-dev
-libc6-locale
 libcanberra-dev
 libcap-dev
 libcap-dev32
@@ -366,6 +363,8 @@ libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
+libgfortran-avx
+libgfortran-compat-soname3
 libgit2-dev
 libgpg-error-dev
 libgpg-error-dev32
@@ -380,14 +379,6 @@ libisofs-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
-libmnl-dev
-libmnl-dev32
-libnetfilter_conntrack-dev
-libnetfilter_conntrack-dev32
-libnfnetlink-dev
-libnfnetlink-dev32
-libnftnl-dev
-libnftnl-dev32
 libnl-dev
 libnotify-dev
 libogg-dev
@@ -413,7 +404,6 @@ libsoup-dev
 libsoup-dev32
 libssh2-dev
 libstdc++
-libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
 libthai-dev
@@ -563,10 +553,12 @@ pytest
 pytest-python
 pytest-xdist
 python
+python-core
 python-dev
 python-mock
 python-mock-python
 python3
+python3-core
 python3-dev
 pytz
 qemu
@@ -601,7 +593,6 @@ shared-mime-info
 shared-mime-info-dev
 six
 six-python
-slang-dev
 speex-dev
 speexdsp-dev
 sphinxcontrib-websupport
@@ -617,6 +608,7 @@ swig
 systemd
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 tar
 tcl
@@ -627,6 +619,7 @@ testscenarios
 testtools
 testtools-python
 texinfo
+thin-provisioning-tools
 tiff-dev
 tk-dev
 tornado

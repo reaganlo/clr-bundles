@@ -3,9 +3,9 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(dev-utils)
 include(go-basic)
 include(os-core-dev)
-include(dev-utils)
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
@@ -41,7 +41,6 @@ diffutils
 docbook-utils
 docbook-xml
 doxygen
-e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
@@ -59,7 +58,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -69,9 +67,11 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -96,7 +96,6 @@ iptables-dev32
 kmod-dev
 kmod-dev32
 krb5-dev
-ldd
 libICE-dev
 libICE-dev32
 libSM-dev
@@ -105,11 +104,8 @@ libX11-dev
 libX11-dev32
 libc6
 libc6-dev
-libc6-locale
 libcap-dev
 libcap-dev32
-libcap-ng-dev
-libcap-ng-dev32
 libcgroup-dev
 libevent-dev
 libevent-dev32
@@ -120,16 +116,7 @@ libgcrypt-dev32
 libgpg-error-dev
 libidn-dev
 libidn-dev32
-libmnl-dev
-libmnl-dev32
-libnetfilter_conntrack-dev
-libnetfilter_conntrack-dev32
-libnfnetlink-dev
-libnfnetlink-dev32
-libnftnl-dev
-libnftnl-dev32
 libstdc++
-libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
 libtool
@@ -146,7 +133,6 @@ make
 mpc-dev
 mpfr-dev
 ncurses-dev
-ncurses-dev32
 netbase
 nghttp2-dev
 nghttp2-dev32
@@ -169,8 +155,10 @@ pkg-config
 pkg-config-dev
 procps-ng
 python
+python-core
 python-dev
 python3
+python3-core
 python3-dev
 readline-dev
 readline-dev32
@@ -178,11 +166,12 @@ rpm-build
 sed
 setuptools
 shadow
-slang-dev
 sqlite-autoconf-dev
 strace
+systemd
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 tar
 tcl

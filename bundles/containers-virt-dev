@@ -3,12 +3,10 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
-include(containers-virt)
-include(os-core-dev)
-include(dev-utils)
-include(kernel-container)
-include(containers-basic)
 include(containers-basic-dev)
+include(containers-virt)
+include(dev-utils)
+include(os-core-dev)
 CUnit-dev
 CUnit-dev32
 LVM2-dev
@@ -23,6 +21,7 @@ autoconf
 autogen
 automake
 automake-dev
+bash
 bats
 bc
 binutils
@@ -31,7 +30,6 @@ bison
 bison-dev
 boost-dev
 btrfs-progs-dev
-btrfs-progs-devel
 bzip2
 bzip2-dev
 ca-certs
@@ -69,7 +67,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -79,9 +76,11 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -113,7 +112,6 @@ kmod
 kmod-dev
 kmod-dev32
 krb5-dev
-ldd
 less
 libICE-dev
 libICE-dev32
@@ -124,7 +122,6 @@ libX11-dev32
 libassuan-dev
 libc6
 libc6-dev
-libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -153,7 +150,6 @@ libpng-dev
 libpng-dev32
 libseccomp-dev
 libstdc++
-libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
 libtool
@@ -210,8 +206,10 @@ pkg-config
 pkg-config-dev
 procps-ng
 python
+python-core
 python-dev
 python3
+python3-core
 python3-dev
 readline-dev
 readline-dev32
@@ -221,12 +219,13 @@ sed
 setuptools
 shadow
 shared-mime-info
-slang-dev
 sqlite-autoconf-dev
 strace
 swig
+systemd
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 tar
 tcl

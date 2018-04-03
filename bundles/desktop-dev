@@ -4,14 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(desktop)
-include(os-core-dev)
 include(dev-utils)
-include(libX11client)
-include(desktop-apps)
-include(desktop-gnomelibs)
-include(desktop-assets)
-include(desktop-locales)
-include(sysadmin-basic)
+include(os-core-dev)
 include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
@@ -47,15 +41,18 @@ atk-dev32
 atkmm-dev
 attr-dev
 attr-dev32
+attrs-python
 autoconf
+autoconf213
 autogen
 automake
 automake-dev
 babl-dev
 bash-completion-dev
 bats
-bc
 bdftopcf
+beautifulsoup4
+beignet-dev
 bigreqsproto-dev
 binutils
 binutils-dev
@@ -63,6 +60,7 @@ bison
 bison-dev
 bluez-dev
 boost-dev
+brotli-dev
 btrfs-progs-dev
 bzip2
 bzip2-dev
@@ -72,6 +70,7 @@ cairo-dev32
 cairomm-dev
 cargo
 caribou-dev
+ccache
 check
 check-dev
 check-dev32
@@ -84,6 +83,7 @@ clutter-gst-dev
 clutter-gtk-dev
 cmake
 cogl-dev
+colord
 colord-dev
 colord-gtk-dev
 compat-fuse-soname2-dev
@@ -126,6 +126,7 @@ e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
+eigen-dev
 elfutils-dev
 elfutils-dev32
 emacs
@@ -196,6 +197,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-staticdev
 glibc-utils
 glibmm-dev
@@ -238,6 +240,7 @@ grep
 grilo-dev
 grilo-plugins
 groff
+gsettings-desktop-schemas
 gsettings-desktop-schemas-dev
 gsound-dev
 gspell-dev
@@ -280,6 +283,7 @@ iptables-dev32
 iso-codes-dev
 iso8601
 itstool
+jansson-dev
 jemalloc-dev
 jq
 json-c-dev
@@ -292,7 +296,6 @@ kmod-dev
 kmod-dev32
 krb5-dev
 lcms2-dev
-ldd
 lensfun-dev
 less
 libICE-dev
@@ -341,15 +344,12 @@ libXxf86vm-dev
 libXxf86vm-dev32
 libaio-dev
 libarchive-dev
-libarchive-devel
 libassuan-dev
 libatasmart-dev
 libblockdev-dev
 libbytesize-dev
-libc-bin
 libc6
 libc6-dev
-libc6-locale
 libcanberra-dev
 libcap-dev
 libcap-dev32
@@ -409,6 +409,7 @@ libnfnetlink-dev
 libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
+libnice-dev
 libnl-dev
 libnl-dev32
 libnotify-dev
@@ -428,6 +429,7 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libsamplerate-dev
+libsass-dev
 libseccomp-dev
 libsecret-dev
 libsigc++-dev
@@ -439,7 +441,6 @@ libspectre-dev
 libsrtp-dev
 libssh2-dev
 libstdc++
-libstdc++-dev
 libstoragemgmt-dev
 libtasn1-dev
 libtasn1-dev32
@@ -454,6 +455,7 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
+libva-intel-driver
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -474,7 +476,6 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
-linux-firmware
 linux-libc-headers
 llvm
 llvm-dev
@@ -493,7 +494,9 @@ metacity-dev
 mkfontdir-bin
 mkfontscale-bin
 mozjs-dev
-mozjs38-dev
+mozjs52
+mozjs52-dev
+mozjs52-lib
 mpc-dev
 mpfr-dev
 mpg123-dev
@@ -523,12 +526,16 @@ nspr-dev
 nss-altfiles
 nss-dev
 nss-lib32
+numpy
+ocl-icd-dev
 onig-dev
 openal-soft-dev
+openblas
 openconnect-dev
 opencv-dev
 openjade-dev
 openldap-dev
+openssh
 openssl
 openssl-dev
 openssl-dev32
@@ -568,6 +575,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy-python
 ply
 polkit-dev
 poppler-dev
@@ -582,6 +590,7 @@ psutil
 pulseaudio-dev
 pulseaudio-dev32
 py
+py-python
 pyaml
 pycairo-dev
 pygobject
@@ -589,19 +598,25 @@ pygobject-dev
 pygobject-python
 pylint
 pytest
+pytest-python
 python
 python-core
 python-dev
 python-mock
+python-mock-python
 python-pocketlint
 python-polib
 python3
+python3-core
 python3-dev
 pyudev
 pywbem
 qemu
 qpdf-dev
 qtbase-dev
+qtdeclarative-dev
+qtsvg-dev
+qtxmlpatterns-dev
 randrproto-dev
 randrproto-dev32
 readline-dev
@@ -619,6 +634,7 @@ ruby
 ruby-dev
 rust-std32
 samba-dev
+sassc
 sbc-dev
 sbc-dev32
 scons
@@ -632,6 +648,7 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
+six-python
 slang-dev
 speex-dev
 speexdsp-dev
@@ -645,8 +662,10 @@ systemd
 systemd-boot
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 tar
+tbb-dev
 tcl
 tcl-dev
 telepathy-glib-dev
@@ -656,6 +675,7 @@ testresources
 testscenarios
 testtools
 texinfo
+thin-provisioning-tools
 tiff-dev
 tk-dev
 totem-pl-parser-dev
@@ -689,6 +709,7 @@ wayland-protocols-dev32
 webkitgtk-dev
 weston-dev
 which
+woff2-dev
 xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
@@ -701,6 +722,7 @@ xcursorgen
 xdg-user-dirs
 xextproto-dev
 xextproto-dev32
+xf86-input-libinput-dev
 xf86-input-wacom-dev
 xf86bigfontproto-dev
 xf86bigfontproto-dev32

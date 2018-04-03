@@ -3,34 +3,13 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(os-clr-on-clr)
-include(c-basic)
 include(dev-utils)
-include(dev-utils-dev)
-include(editors)
-include(go-basic)
-include(koji)
-include(kvm-host)
-include(mail-utils)
-include(mail-utils-dev)
-include(mixer)
-include(network-basic)
-include(network-basic-dev)
-include(openssh-server)
-include(os-core)
-include(os-core-dev)
-include(os-core-update-dev)
-include(perl-basic)
-include(python-basic)
-include(storage-utils)
-include(storage-utils-dev)
-include(sysadmin-basic)
-include(sysadmin-basic-dev)
 include(dev-utils-dev)
 include(editors-dev)
 include(go-basic-dev)
 include(mail-utils-dev)
 include(network-basic-dev)
+include(os-clr-on-clr)
 include(os-core-dev)
 include(perl-basic-dev)
 include(python-basic-dev)
@@ -223,7 +202,6 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
-gfortran
 git
 glib-bin
 glib-dev
@@ -234,6 +212,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-staticdev
 glibc-utils
 glproto-dev
@@ -316,7 +295,6 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
-ldd
 less
 leveldb-dev
 libICE-dev
@@ -363,10 +341,8 @@ libarchive-c
 libarchive-dev
 libassuan-dev
 libatomic_ops-dev
-libc-bin
 libc6
 libc6-dev
-libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -389,6 +365,8 @@ libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
+libgfortran-avx
+libgfortran-compat-soname3
 libgpg-error-dev
 libgpg-error-dev32
 libidn-dev
@@ -427,7 +405,6 @@ libsoup-dev
 libsoup-dev32
 libssh2-dev
 libstdc++
-libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
 libthai-dev
@@ -447,6 +424,7 @@ libxcb-dev32
 libxkbcommon-dev
 libxkbcommon-dev32
 libxml2
+libxml2-bin
 libxml2-dev
 libxml2-dev32
 libxml2-python
@@ -459,7 +437,6 @@ libzip-dev
 linecache2
 linecache2-legacypython
 linecache2-python
-linux-firmware
 linux-libc-headers
 llvm
 llvm-dev
@@ -556,11 +533,15 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
+perl-File-Listing
 perl-File-Slurp
+perl-HTML-Parser
 perl-HTML-Tagset
+perl-HTTP-Cookies
 perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
+perl-HTTP-Negotiate
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
@@ -597,6 +578,7 @@ perl-Test2-Suite
 perl-Try-Tiny
 perl-URI
 perl-Variable-Magic
+perl-WWW-RobotRules
 perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
@@ -635,7 +617,6 @@ pycurl
 pyparsing
 pytest
 pytest-python
-pytest-timeout
 pytest-xdist
 python
 python-core
@@ -644,10 +625,10 @@ python-magic
 python-mimeparse
 python-mock
 python-mock-python
-python-modules
 python-rpm
 python-subunit
 python3
+python3-core
 python3-dev
 pytz
 qemu
@@ -706,6 +687,7 @@ systemd
 systemd-boot
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 talloc
 talloc-dev

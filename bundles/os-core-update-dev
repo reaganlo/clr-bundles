@@ -3,11 +3,9 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Matthew Johnson <matthew.johnson@intel.com>
-include(os-core-update)
-include(os-core-dev)
 include(dev-utils)
-include(os-core)
 include(os-core-dev)
+include(os-core-update)
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
@@ -75,9 +73,11 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
+glibc-locale
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -102,7 +102,6 @@ iptables-dev32
 kmod-dev
 kmod-dev32
 krb5-dev
-ldd
 less
 libICE-dev
 libICE-dev32
@@ -113,7 +112,6 @@ libX11-dev32
 libarchive-dev
 libc6
 libc6-dev
-libc6-locale
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -137,7 +135,6 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libstdc++
-libstdc++-dev
 libtasn1-dev
 libtasn1-dev32
 libtool
@@ -182,8 +179,10 @@ pkg-config-dev
 popt-dev
 procps-ng
 python
+python-core
 python-dev
 python3
+python3-core
 python3-dev
 readline-dev
 readline-dev32
@@ -195,9 +194,11 @@ shared-mime-info
 slang-dev
 strace
 swupd-client-dev
+systemd
 systemd-boot
 systemd-dev
 systemd-dev32
+systemd-extras
 systemd-libs
 tar
 tcl
