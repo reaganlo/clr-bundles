@@ -1,7 +1,9 @@
 # This list defines package-scope bundles
 # Each line contains a single package name which will be generated as a bundle
 # of the same name containing only that package.
+ansible
 bc
+cockpit
 cpio
 curl
 darktable
