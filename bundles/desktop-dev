@@ -685,6 +685,7 @@ udisks2-dev
 uhttpmock-dev
 unzip
 upower-dev
+usrbinpython
 util-linux
 util-linux-bin
 util-linux-dev

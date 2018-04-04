@@ -360,7 +360,6 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nfs-utils
-nfs-utils-dev
 nghttp2-dev
 nghttp2-dev32
 ninja
