@@ -13,4 +13,3 @@ koji-extras
 mod_wsgi
 nfs-utils
 postgresql
-yum
