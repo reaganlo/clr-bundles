@@ -6,8 +6,6 @@
 include(package-utils)
 include(python-basic)
 include(web-server-basic)
-# Added to satisfy the cryptography package's python2 dependency
-cffi-legacypython
 koji
 koji-extras
 mod_wsgi
