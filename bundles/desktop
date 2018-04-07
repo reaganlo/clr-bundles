@@ -16,6 +16,7 @@ include(sysadmin-basic)
 atk-data
 bluez
 caribou
+clutter
 colord
 dbus-extras
 desktop-file-utils
