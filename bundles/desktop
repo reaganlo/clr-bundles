@@ -43,6 +43,7 @@ librsvg
 linux-firmware-extras
 linux-firmware-wifi
 mutter
+orca
 pango
 pygobject
 shared-mime-info
