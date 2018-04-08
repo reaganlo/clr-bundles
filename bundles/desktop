@@ -38,6 +38,7 @@ json-glib
 libcanberra
 libgnomekbd
 libgweather
+libinput
 libnotify
 librsvg
 linux-firmware-extras
