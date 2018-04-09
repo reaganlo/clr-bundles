@@ -156,6 +156,7 @@ elfutils-dev
 elfutils-dev32
 emacs
 enchant-dev
+entrypoints
 enum34
 enum34-legacypython
 execnet

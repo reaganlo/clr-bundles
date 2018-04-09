@@ -720,6 +720,8 @@ xcb-util-keysyms-dev
 xcb-util-wm-dev
 xcmiscproto-dev
 xcursorgen
+xdg-desktop-portal
+xdg-desktop-portal-dev
 xdg-user-dirs
 xextproto-dev
 xextproto-dev32
@@ -737,6 +739,7 @@ xkbcomp-bin
 xkbcomp-dev
 xkeyboard-config-dev
 xmlto
+xorg-server
 xorg-server-dev
 xproto-dev
 xproto-dev32

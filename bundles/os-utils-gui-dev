@@ -108,6 +108,7 @@ damageproto-dev
 damageproto-dev32
 db
 db-dev
+dbus
 dbus-dev
 dbus-dev32
 dbus-glib-dev
@@ -663,6 +664,8 @@ xcb-util-dev
 xcb-util-keysyms-dev
 xcmiscproto-dev
 xcursorgen
+xdg-desktop-portal
+xdg-desktop-portal-dev
 xextproto-dev
 xextproto-dev32
 xf86-input-evdev-dev
