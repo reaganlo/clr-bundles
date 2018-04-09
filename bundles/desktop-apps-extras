@@ -6,15 +6,17 @@
 include(desktop-gnomelibs)
 include(python3-basic)
 
+FreeRDP
+Remmina
 chrome-gnome-shell
 darktable
-FreeRDP
 geany
 geany-plugins
 gimp
 gmic
 gphoto2
 hexchat
+libssh
 pidgin
 pidgin-sipe
 rxvt-unicode
