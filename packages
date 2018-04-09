@@ -17,6 +17,7 @@ git
 gzip
 htop
 httpd
+hugo
 icdiff
 inotify-tools
 irssi
