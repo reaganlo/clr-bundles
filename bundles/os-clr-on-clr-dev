@@ -116,7 +116,9 @@ cryptography
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
+cscope
 cssselect
+ctags
 cups-dev
 curl
 curl-dev
@@ -135,6 +137,7 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
+docutils
 docutils-python
 dosfstools
 double-conversion-dev
@@ -156,7 +159,6 @@ elfutils-dev
 elfutils-dev32
 emacs
 enchant-dev
-entrypoints
 enum34
 enum34-legacypython
 execnet
@@ -449,6 +451,7 @@ lzip
 lzo-dev
 m4
 make
+makedepend
 man-db
 mariadb-dev
 mariadb-test

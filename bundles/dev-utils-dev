@@ -72,7 +72,6 @@ ed
 elfutils
 elfutils-dev
 elfutils-dev32
-entrypoints
 enum34
 expat-dev
 expat-dev32
