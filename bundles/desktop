@@ -39,6 +39,7 @@ libcanberra
 libgnomekbd
 libgweather
 libinput
+libmtp
 libnotify
 librsvg
 linux-firmware-extras
