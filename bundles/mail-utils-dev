@@ -177,6 +177,7 @@ setuptools-python
 shadow
 shared-mime-info
 six
+six-legacypython
 six-python
 sqlite-autoconf
 sqlite-autoconf-dev

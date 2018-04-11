@@ -87,6 +87,7 @@ colord
 colord-dev
 colord-gtk-dev
 compat-fuse-soname2-dev
+compat-gtksourceview-soname3-dev
 compositeproto-dev
 compositeproto-dev32
 coreutils
@@ -258,7 +259,6 @@ gtk3-bin
 gtk3-dev
 gtk3-dev32
 gtkmm3-dev
-gtksourceview-dev
 gtkspell3-dev
 guile
 gvfs-dev
@@ -362,6 +362,7 @@ libcroco-dev32
 libcryptui-dev
 libdatrie-dev
 libdatrie-dev32
+libdazzle-dev
 libdmx-dev
 libdrm-dev
 libdrm-dev32
@@ -694,6 +695,8 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 v4l-utils-dev
+vala
+vala-bin
 valgrind
 valgrind-dev
 videoproto-dev

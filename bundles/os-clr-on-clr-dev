@@ -41,6 +41,7 @@ Z3-dev
 acl-dev
 acl-dev32
 acpica-unix2
+alabaster
 appdirs
 apr-dev
 apr-util-dev
@@ -325,6 +326,7 @@ libXi-dev
 libXi-dev32
 libXinerama-dev
 libXinerama-dev32
+libXpm-dev
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev
@@ -672,6 +674,7 @@ six-legacypython
 six-python
 slang-dev
 snappy-dev
+snowballstemmer
 source-highlight
 sphinxcontrib-websupport
 spice
@@ -714,6 +717,7 @@ tox-python
 traceback2
 traceback2-legacypython
 traceback2-python
+typed-ast
 typing
 tzdata
 unittest2
