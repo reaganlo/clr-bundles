@@ -7,7 +7,9 @@ cockpit
 cpio
 curl
 darktable
+dfu-util
 diffoscope
+dtc
 file
 findutils
 firefox
