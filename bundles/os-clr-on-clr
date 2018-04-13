@@ -76,6 +76,7 @@ rpm-common
 sbsigntools
 scons
 six
+unbundle
 urlgrabber
 xcb-proto-dev
 xf86driproto-dev
