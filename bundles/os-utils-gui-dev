@@ -20,6 +20,7 @@ LibVNCServer-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako
+Mako-legacypython
 Mako-python
 MarkupSafe
 Pygments
@@ -628,6 +629,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala-dev
 valgrind
 valgrind-dev
 videoproto-dev

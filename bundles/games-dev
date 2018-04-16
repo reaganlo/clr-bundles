@@ -11,6 +11,7 @@ CUnit-dev32
 GConf-dev
 Linux-PAM-dev
 Linux-PAM-dev32
+Mako-legacypython
 Mako-python
 NetworkManager-dev
 SDL-dev

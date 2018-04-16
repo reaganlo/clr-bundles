@@ -8,6 +8,7 @@ include(os-core-dev)
 include(qt-basic)
 Linux-PAM-dev
 Linux-PAM-dev32
+Mako-legacypython
 Mako-python
 SDL-dev
 Sphinx
@@ -381,14 +382,12 @@ systemd-extras
 systemd-libs
 tar
 tcl
-tcl-dev
 testrepository
 testresources
 testscenarios
 testtools
 texinfo
 tiff-dev
-tk-dev
 tzdata
 unzip
 util-linux-bin

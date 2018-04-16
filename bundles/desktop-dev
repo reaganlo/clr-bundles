@@ -15,6 +15,7 @@ LibRaw-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako
+Mako-legacypython
 Mako-python
 ModemManager-dev
 NetworkManager-dev
@@ -697,6 +698,7 @@ util-macros-dev32
 v4l-utils-dev
 vala
 vala-bin
+vala-dev
 valgrind
 valgrind-dev
 videoproto-dev

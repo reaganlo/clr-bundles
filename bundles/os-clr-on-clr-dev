@@ -27,6 +27,7 @@ LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako
+Mako-legacypython
 Mako-python
 Markdown
 MarkupSafe

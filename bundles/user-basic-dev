@@ -22,6 +22,7 @@ LVM2-dev
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
+Mako-legacypython
 Mako-python
 Pygments
 Sphinx
