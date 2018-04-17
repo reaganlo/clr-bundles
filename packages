@@ -31,6 +31,7 @@ nginx
 openssl
 parallel
 patch
+pmdk
 postgresql
 powertop
 strace
