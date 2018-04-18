@@ -490,7 +490,6 @@ nss-dev
 numactl
 numactl-dev
 numpy
-nvml-dev
 onig-dev
 open-iscsi
 open-isns-dev

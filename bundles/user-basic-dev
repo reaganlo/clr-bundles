@@ -369,7 +369,6 @@ nss-altfiles
 nss-dev
 numactl
 numactl-dev
-nvml-dev
 onig-dev
 open-iscsi
 open-isns-dev
