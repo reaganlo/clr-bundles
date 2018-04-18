@@ -461,6 +461,7 @@ pkcs11-helper-dev
 pkg-config
 pkg-config-dev
 pluggy-python
+pmdk-dev
 polkit-dev
 popt-dev
 presentproto-dev

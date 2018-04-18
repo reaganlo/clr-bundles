@@ -600,6 +600,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
+pmdk-dev
 polkit-dev
 popt-dev
 postgresql-dev
