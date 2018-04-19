@@ -508,7 +508,6 @@ parallel
 parted-dev
 patch
 pbr
-pciutils-dev
 pcre-dev
 pcre-dev32
 pcre2-dev
