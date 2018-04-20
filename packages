@@ -37,6 +37,7 @@ postgresql
 powertop
 strace
 subversion
+systemd-cryptsetup
 thunderbird
 tmux
 unzip
