@@ -3,6 +3,7 @@
 # of the same name containing only that package.
 ansible
 bc
+bmap-tools
 cockpit
 cpio
 curl
