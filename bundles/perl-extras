@@ -7,6 +7,7 @@ include(perl-basic)
 perl-DateTime
 perl-DateTime-Locale
 perl-Dist-CheckConflicts
+perl-File-MMagic
 perl-Text-Autoformat
 perl-Text-CSV_XS
 perl-Text-Reform
