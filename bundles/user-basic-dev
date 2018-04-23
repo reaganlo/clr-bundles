@@ -335,6 +335,7 @@ libxshmfence-dev
 libxshmfence-dev32
 libxslt
 libxslt-bin
+linux-firmware
 linux-libc-headers
 llvm
 llvm-dev

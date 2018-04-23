@@ -443,6 +443,7 @@ libzip-dev
 linecache2
 linecache2-legacypython
 linecache2-python
+linux-firmware
 linux-libc-headers
 llvm
 llvm-dev

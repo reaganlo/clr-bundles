@@ -95,7 +95,6 @@ iptables-dev
 iptables-dev32
 kmod-dev
 kmod-dev32
-krb5-dev
 libICE-dev
 libICE-dev32
 libSM-dev

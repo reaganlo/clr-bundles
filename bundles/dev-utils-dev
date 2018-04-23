@@ -136,7 +136,6 @@ keyring-python
 kmod
 kmod-dev
 kmod-dev32
-krb5-dev
 less
 libICE-dev
 libICE-dev32

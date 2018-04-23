@@ -49,8 +49,10 @@ autogen
 automake
 automake-dev
 babl-dev
+bash
 bash-completion-dev
 bats
+bc
 bdftopcf
 beautifulsoup4
 beignet-dev
@@ -478,6 +480,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linux-firmware
 linux-libc-headers
 llvm
 llvm-dev
