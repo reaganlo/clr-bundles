@@ -4,6 +4,7 @@
 ansible
 bc
 bmap-tools
+clamav
 cockpit
 cpio
 curl
@@ -37,6 +38,7 @@ postgresql
 powertop
 strace
 subversion
+suricata
 systemd-cryptsetup
 thunderbird
 tmux
