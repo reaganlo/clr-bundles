@@ -39,11 +39,10 @@ htop
 iperf
 iproute2
 kbd
-#khal
+kernel-install
 kmod
 less
 libcap-bin
-linux-dev
 LS_COLORS
 lsacpi
 lshw
