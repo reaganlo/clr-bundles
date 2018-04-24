@@ -198,6 +198,7 @@ perl-XML-Parser
 pigz
 pip
 pixman-dev
+pixman-dev32
 pkg-config
 pkg-config-dev
 procps-ng
