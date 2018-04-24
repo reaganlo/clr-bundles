@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Helper bundle with common libraries used by desktopy things
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
 
 accountsservice-lib

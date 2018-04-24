@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Bundle to cause the UI to automatically start at boot
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
 include(desktop)
 

@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run the GNOME GUI desktop environment
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
 include(desktop-apps)
 include(desktop-gnomelibs)

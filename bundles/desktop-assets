@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Images and Icons for the desktop
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 
 adwaita-icon-theme
