@@ -51,10 +51,8 @@ docbook-xml
 doxygen
 dpdk-dev
 e2fsprogs
-e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
-e2fsprogs-extras
 ebtables-dev
 elfutils-dev
 elfutils-dev32
@@ -188,7 +186,6 @@ nghttp2-dev32
 ninja
 nss-altfiles
 openconnect-dev
-openldap-dev
 opensm-dev
 openssl
 openssl-dev
@@ -324,7 +321,6 @@ xmlto
 xz
 xz-dev
 xz-dev32
-yasm
 zlib-dev
 zlib-dev32
 znc-dev

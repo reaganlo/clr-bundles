@@ -33,7 +33,6 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 curl-dev
-db-dev
 dbus-dev
 dbus-dev32
 dejagnu
@@ -41,10 +40,8 @@ diffutils
 docbook-utils
 docbook-xml
 doxygen
-e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
-e2fsprogs-extras
 elfutils-dev
 expat-dev
 expat-dev32
@@ -136,20 +133,17 @@ netbase
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
-openldap-dev
 openssl
 openssl-dev
 openssl-dev32
 p11-kit
 p11-kit-dev
 patch
-pbr
 pcre-dev
 perl
 perl-Error
 perl-XML-Parser
 pigz
-pip
 pkg-config
 pkg-config-dev
 procps-ng
@@ -163,7 +157,6 @@ readline-dev
 readline-dev32
 rpm-build
 sed
-setuptools
 shadow
 sqlite-autoconf-dev
 strace
@@ -190,6 +183,5 @@ xmlto
 xz
 xz-dev
 xz-dev32
-yasm
 zlib-dev
 zlib-dev32

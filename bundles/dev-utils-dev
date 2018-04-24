@@ -64,10 +64,8 @@ docbook-utils
 docbook-xml
 doxygen
 e2fsprogs
-e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
-e2fsprogs-extras
 ed
 elfutils
 elfutils-dev
