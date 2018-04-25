@@ -21,10 +21,8 @@ autoconf
 autogen
 automake
 automake-dev
-bash
 bash-completion-dev
 bats
-bc
 binutils
 binutils-dev
 bison
@@ -158,7 +156,6 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
-linux-firmware
 linux-libc-headers
 lz4-dev
 m4
