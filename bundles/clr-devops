@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run all Clear Linux devops workloads
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Gabi Beyer <Gabrielle.n.beyer@intel.com>
+# [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(os-installer)
 include(os-core-update)
 include(mixer)

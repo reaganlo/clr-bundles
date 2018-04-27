@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run a source code management server
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [MAINTAINER]: George Kramer <george.t.kramer@intel.com>
+# [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 cgit
 git
 gitolite
