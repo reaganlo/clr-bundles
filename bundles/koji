@@ -8,6 +8,7 @@ include(python-basic)
 include(web-server-basic)
 koji
 koji-extras
+mash
 mod_wsgi
 nfs-utils
 postgresql

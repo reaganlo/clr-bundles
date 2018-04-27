@@ -9,13 +9,6 @@ include(mixer)
 include(java-basic)
 include(rust-basic)
 include(koji)
+include(scm-server)
+include(web-server-basic)
 
-Cheetah
-cgit
-gitolite
-httpd
-koji-extras
-mash
-psycopg2
-python-krbV
-python-multilib
