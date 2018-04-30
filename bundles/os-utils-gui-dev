@@ -226,8 +226,11 @@ graphviz-dev
 grep
 groff
 gsettings-desktop-schemas-dev
+gst-plugins-bad
 gst-plugins-base
 gst-plugins-base-dev
+gst-plugins-good
+gst-plugins-ugly
 gstreamer-dev
 gstreamer-dev32
 gtk+
@@ -540,6 +543,7 @@ pycparser
 pycparser-legacypython
 pycparser-python
 pyparsing
+pyparsing-legacypython
 pytest
 pytest-python
 python
