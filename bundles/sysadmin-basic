@@ -31,6 +31,7 @@ findutils
 gawk
 gawk-extras
 glibc-bin
+glibc-locale
 grep
 gzip
 hdparm
