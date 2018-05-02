@@ -1,0 +1,9 @@
+# [TITLE]: desktop-i3
+# [DESCRIPTION]: Run the i3 desktop environment
+# [STATUS]: WIP
+# [CAPABILITIES]: Run i3 as gdm session or xinit WM
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+dmenu
+i3
+i3lock
+i3status
