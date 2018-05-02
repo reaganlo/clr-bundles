@@ -458,6 +458,8 @@ meson
 mkfontdir-bin
 mkfontscale-bin
 mock
+mozjs-dev
+mozjs52-dev
 mpc-dev
 mpfr-dev
 mtdev-dev

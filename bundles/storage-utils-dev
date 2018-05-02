@@ -179,6 +179,7 @@ ninja
 nss-altfiles
 ntfs-3g-dev
 numactl-dev
+open-iscsi-dev
 open-isns-dev
 openldap-dev
 opensm-dev
