@@ -1,0 +1,20 @@
+# [TITLE]: software-defined-cockpit
+# [DESCRIPTION]: Run the automotive software defined cockpit which has graphic, media, sound and connectivity
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Gan Yau Wai <yau.wai.gan@intel.com>
+alsa-plugins
+alsa-utils
+fontconfig
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gstreamer
+gstreamer-vaapi
+libva
+libva-intel-driver
+pulseaudio
+wayland
+wayland-protocols
+weston
+wpa_supplicant
