@@ -14,6 +14,7 @@ ethtool
 glances
 gperf
 htop
+intel-gpu-tools
 ioping
 iproute2
 iptraf
