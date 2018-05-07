@@ -333,6 +333,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev

@@ -202,7 +202,6 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-pmdk-dev
 popt-dev
 procps-ng
 procps-ng-bin

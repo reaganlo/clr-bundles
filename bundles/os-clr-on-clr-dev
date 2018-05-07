@@ -443,6 +443,7 @@ libzip-dev
 linecache2
 linecache2-legacypython
 linecache2-python
+linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
@@ -599,7 +600,6 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-pmdk-dev
 polkit-dev
 popt-dev
 postgresql-dev

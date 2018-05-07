@@ -478,6 +478,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
+linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
@@ -580,7 +581,6 @@ pkg-config
 pkg-config-dev
 pluggy-python
 ply
-pmdk-dev
 polkit-dev
 poppler-dev
 popt-dev

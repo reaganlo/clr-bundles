@@ -164,6 +164,7 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
+linux-firmware-wifi
 linux-libc-headers
 lz4-dev
 lzo-dev
