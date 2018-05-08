@@ -29,6 +29,7 @@ samba-bin
 samba-config
 samba-data
 samba-doc
+simg-tools
 smartmontools
 sshfs
 thin-provisioning-tools
