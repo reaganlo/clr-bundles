@@ -94,6 +94,7 @@ gstreamer-vaapi
 libva
 libva-intel-driver
 intel-hybrid-driver
+libyami
 
 
 # gnome-flashback for vnc/software rendering support
