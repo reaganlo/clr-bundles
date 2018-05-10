@@ -373,6 +373,7 @@ libgcrypt-dev32
 libgd-dev
 libgfortran-avx
 libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libidn-dev

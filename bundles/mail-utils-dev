@@ -100,6 +100,7 @@ libffi-dev
 libffi-dev32
 libgfortran-avx
 libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgpg-error-dev
 libidn-dev
 libidn-dev32

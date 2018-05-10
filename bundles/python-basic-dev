@@ -78,6 +78,7 @@ libffi-dev
 libffi-dev32
 libgfortran-avx
 libgfortran-compat-soname3
+libgfortran-compat-soname4
 libstdc++
 libtasn1-dev
 libtasn1-dev32

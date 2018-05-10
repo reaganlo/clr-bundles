@@ -15,6 +15,7 @@ binutils
 bison
 bzip2
 clr-rpm-config
+cmake
 coreutils
 dejagnu
 diffutils
