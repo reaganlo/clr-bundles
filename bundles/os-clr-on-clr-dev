@@ -32,6 +32,7 @@ Mako-python
 Markdown
 MarkupSafe
 PyYAML
+PyYAML-legacypython
 Pygments
 R
 R-dev
@@ -485,6 +486,7 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
+nose-legacypython
 npth-dev
 nspr-dev
 nss-altfiles
@@ -785,5 +787,4 @@ zlib-dev
 zlib-dev32
 zope.interface
 zope.testrunner-python
-zopfli-dev
 zstd-dev
