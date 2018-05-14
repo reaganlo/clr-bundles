@@ -8,6 +8,7 @@ include(python3-basic)
 
 boto
 certifi
+cxxfilt
 deap
 glibc-lib-avx2
 libgfortran-avx
