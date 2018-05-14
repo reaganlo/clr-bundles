@@ -406,7 +406,7 @@ systemd-dev
 systemd-dev32
 systemd-extras
 systemd-lib32
-systemd-libs
+systemd-lib
 tar
 tcl
 texinfo

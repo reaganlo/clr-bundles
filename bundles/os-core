@@ -26,8 +26,8 @@ nss-altfiles
 procps-ng-bin
 sed-bin
 shadow
-systemd
 systemd-bootchart-config
-systemd-libs
+systemd
+systemd-lib
 tzdata-minimal
 util-linux-bin

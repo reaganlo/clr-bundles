@@ -79,7 +79,7 @@ sudo
 systemd
 systemd-bootchart
 systemd-doc
-systemd-locale
+systemd-locales
 thunderbolt-software-user-space
 tmux
 tree

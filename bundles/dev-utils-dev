@@ -305,7 +305,7 @@ systemd
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tcl
 tcl-dev

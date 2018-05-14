@@ -222,11 +222,10 @@ sqlite-autoconf-dev
 strace
 sudo-dev
 systemd
-systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tcl
 testrepository
