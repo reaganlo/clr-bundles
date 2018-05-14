@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(openssh-server)
-micro-config-drive
+micro-config-drive-oci
 open-iscsi
 sudo
