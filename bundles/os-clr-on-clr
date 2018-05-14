@@ -30,16 +30,12 @@ abireport
 cabextract
 configobj
 cve-check-tool
-damageproto-dev
 diffoscope
 dnf
-dri2proto-dev
-dri3proto-dev
 efitools
 fribidi-dev
 gdk-pixbuf-dev
 global
-glproto-dev
 gtk3-dev
 gtk+-dev
 libarchive
@@ -60,7 +56,6 @@ ncurses-data-rare
 p7zip
 pep8
 pesign
-presentproto-dev
 pycodestyle
 pycurl
 pycurl-legacypython
@@ -79,7 +74,7 @@ six
 unbundle
 urlgrabber
 xcb-proto-dev
-xf86driproto-dev
+xorgproto-dev
 xmlstarlet
 xorriso
 yum
