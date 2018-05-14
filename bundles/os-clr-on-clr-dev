@@ -17,6 +17,7 @@ include(storage-utils-dev)
 include(sysadmin-basic-dev)
 Babel
 Babel-legacypython
+CUnit
 CUnit-dev
 CUnit-dev32
 Cython
@@ -107,8 +108,6 @@ clr-rpm-config
 cmake
 colorama
 compat-fuse-soname2-dev
-compositeproto-dev
-compositeproto-dev32
 contextlib2
 coreutils
 coverage
@@ -126,8 +125,6 @@ cups-dev
 curl
 curl-dev
 curl-dev32
-damageproto-dev
-damageproto-dev32
 db
 db-dev
 dbus-dev
@@ -145,10 +142,6 @@ docutils-python
 dosfstools
 double-conversion-dev
 doxygen
-dri2proto-dev
-dri2proto-dev32
-dri3proto-dev
-dri3proto-dev32
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -173,8 +166,6 @@ fcgi-dev
 file
 file-dev
 filesystem-chroot
-fixesproto-dev
-fixesproto-dev32
 fixtures
 fixtures-python
 flex
@@ -221,8 +212,6 @@ glibc-libc32
 glibc-locale
 glibc-staticdev
 glibc-utils
-glproto-dev
-glproto-dev32
 glu-dev
 gmime
 gmime-dev
@@ -270,9 +259,6 @@ icu4c-dev32
 idna
 idna-python
 imagesize
-inputproto
-inputproto-dev
-inputproto-dev32
 intltool
 intltool-dev
 invm-frameworks-dev
@@ -292,8 +278,6 @@ json-c-dev
 json-glib-dev
 json-glib-dev32
 jsonschema-python
-kbproto-dev
-kbproto-dev32
 keyring-python
 keyutils-dev
 kmod
@@ -494,6 +478,7 @@ nss-dev
 numactl
 numactl-dev
 numpy
+oath-toolkit-dev
 onig-dev
 open-iscsi
 open-isns-dev
@@ -606,7 +591,6 @@ pluggy-python
 polkit-dev
 popt-dev
 postgresql-dev
-presentproto-dev
 pretend
 prettytable
 processor-trace-dev
@@ -642,16 +626,10 @@ python3-dev
 pytz
 qemu
 qtbase-dev
-randrproto-dev
-randrproto-dev32
 rdma-core-dev
 re2c
 readline-dev
 readline-dev32
-recordproto-dev
-recordproto-dev32
-renderproto-dev
-renderproto-dev32
 requests
 rest-dev
 rest-dev32
@@ -663,8 +641,6 @@ rust-std32
 sbsigntools
 scikit-build
 scons
-scrnsaverproto-dev
-scrnsaverproto-dev32
 sed
 setuptools
 setuptools-legacypython
@@ -741,8 +717,6 @@ util-macros-dev32
 valgrind
 valgrind-dev
 vcversioner
-videoproto-dev
-videoproto-dev32
 vim
 virtualenv
 vulkan-sdk-dev
@@ -761,19 +735,12 @@ xcb-util-dev
 xcb-util-image-dev
 xcb-util-keysyms-dev
 xcb-util-wm-dev
-xextproto-dev
-xextproto-dev32
-xf86bigfontproto-dev
-xf86bigfontproto-dev32
-xf86vidmodeproto-dev
-xf86vidmodeproto-dev32
 xfsprogs-dev
-xineramaproto-dev
-xineramaproto-dev32
 xkeyboard-config-dev
+xmlsec1-dev
 xmlto
-xproto-dev
-xproto-dev32
+xorgproto-dev
+xorgproto-dev32
 xtrans-dev
 xtrans-dev32
 xz
