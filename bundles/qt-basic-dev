@@ -326,8 +326,8 @@ qtsensors-dev
 qtserialbus-dev
 qtserialport-dev
 qtsvg-dev
-qttools-bin
 qttools-dev
+qttools-extras
 qtvirtualkeyboard-dev
 qtwayland-dev
 qtwebchannel-dev
