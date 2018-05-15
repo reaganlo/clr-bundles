@@ -51,6 +51,7 @@ libjpeg-turbo-dev
 lmdb-dev
 matplotlib
 mido
+mpi4py
 nose-parameterized
 numpy
 ocl-icd
