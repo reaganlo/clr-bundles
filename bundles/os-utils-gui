@@ -54,6 +54,7 @@ mesa
 mkfontdir
 mkfontscale
 moka-icon-theme
+openconnect
 openssl
 pavucontrol
 powerline-fonts
@@ -66,13 +67,14 @@ thunderbird
 tigervnc
 vim-data
 virt-viewer
+wpa_supplicant
 websockify
 x11vnc
 xauth
 xclip
 xcursor-themes
-xdg-utils
 xdg-user-dirs
+xdg-utils
 xemacs
 xf86-input-evdev
 xf86-input-synaptics
@@ -87,9 +89,7 @@ xkeyboard-config
 xorg-server
 xrandr
 xrdb
-xscreensaver
-connman-gtk
-openconnect
 xrdp
 xrestop
+xscreensaver
 xwd

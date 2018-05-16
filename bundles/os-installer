@@ -5,7 +5,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bind-utils
 btrfs-progs
-connman
 curl
 dosfstools-bin
 e2fsprogs-extras
@@ -25,4 +24,5 @@ pycurl
 python-urwid-python3
 python3-core
 qemu-extras
+wpa_supplicant
 xfsprogs-bin

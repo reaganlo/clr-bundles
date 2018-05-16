@@ -9,7 +9,6 @@ include(python3-basic)
 bind-utils
 bridge-utils
 connect-proxy
-connman
 conntrack-tools
 curl
 dpdk
