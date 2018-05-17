@@ -504,6 +504,7 @@ pango-dev32
 parted-dev
 patch
 pbr
+pbr-legacypython
 pciutils-dev
 pcre
 pcre-dev
@@ -624,6 +625,7 @@ python3
 python3-core
 python3-dev
 pytz
+pytz-legacypython
 qemu
 qtbase-dev
 rdma-core-dev

@@ -34,7 +34,6 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
-connman-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -164,7 +163,6 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
-linux-firmware-wifi
 linux-libc-headers
 lz4-dev
 lzo-dev
@@ -317,7 +315,6 @@ valgrind-dev
 virtualenv
 weechat-dev
 which
-wpa_supplicant
 xmlto
 xz
 xz-dev
