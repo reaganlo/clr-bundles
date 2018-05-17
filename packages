@@ -11,6 +11,7 @@ curl
 darktable
 dfu-util
 diffoscope
+docutils
 dtc
 file
 findutils
