@@ -429,7 +429,6 @@ libzip-dev
 linecache2
 linecache2-legacypython
 linecache2-python
-linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
@@ -483,7 +482,6 @@ onig-dev
 open-iscsi
 open-isns-dev
 openblas
-openconnect-dev
 openjade-dev
 openjdk-dev
 openldap-dev
@@ -728,7 +726,6 @@ wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
 which
-wpa_supplicant
 xapian-core-dev
 xcb-proto
 xcb-proto-dev
