@@ -12,5 +12,4 @@ mcelog
 irqbalance
 
 # User Software
-acrn-devicemodel
 acrn-hypervisor
