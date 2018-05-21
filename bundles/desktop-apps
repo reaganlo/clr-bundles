@@ -7,6 +7,11 @@ include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
 
+# apps low level deps
+glib-bin
+glib-config
+
+# apps
 baobab
 eog
 eog-plugins
