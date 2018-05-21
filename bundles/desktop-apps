@@ -13,6 +13,7 @@ glib-config
 
 # apps
 baobab
+dconf-editor
 eog
 eog-plugins
 evince
@@ -38,5 +39,6 @@ libva-utils
 libyami-utils
 pavucontrol
 seahorse
+simple-scan
 totem
 xemacs
