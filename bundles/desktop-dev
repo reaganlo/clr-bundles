@@ -638,10 +638,11 @@ startup-notification-dev
 strace
 swig
 systemd
+systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 tar
 tbb-dev
 tcl

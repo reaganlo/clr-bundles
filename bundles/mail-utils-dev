@@ -187,7 +187,7 @@ swig
 systemd
 systemd-dev
 systemd-extras
-systemd-lib
+systemd-libs
 talloc
 talloc-dev
 tar

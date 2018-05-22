@@ -626,6 +626,7 @@ pytz
 pytz-legacypython
 qemu
 qtbase-dev
+qtbase-extras
 rdma-core-dev
 re2c
 readline-dev
@@ -670,10 +671,11 @@ strace
 subunit-dev
 swig
 systemd
+systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 talloc
 talloc-dev
 tar

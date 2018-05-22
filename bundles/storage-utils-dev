@@ -235,7 +235,7 @@ systemd
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 talloc-dev
 tar
 tcl

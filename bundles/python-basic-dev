@@ -146,7 +146,7 @@ strace
 systemd
 systemd-dev
 systemd-extras
-systemd-lib
+systemd-libs
 tar
 tcl
 tcl-dev

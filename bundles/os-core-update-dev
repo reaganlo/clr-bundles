@@ -195,10 +195,11 @@ shared-mime-info
 slang-dev
 strace
 systemd
+systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 tar
 tcl
 texinfo

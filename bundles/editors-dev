@@ -206,6 +206,7 @@ python-mock-python
 python3
 python3-core
 python3-dev
+qtbase-extras
 readline-dev
 readline-dev32
 rpm-build
@@ -225,7 +226,7 @@ systemd
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 tar
 tcl
 testrepository
