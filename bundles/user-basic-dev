@@ -474,7 +474,6 @@ python3-dev
 pytz
 qemu
 qtbase-dev
-qtbase-extras
 rdma-core-dev
 readline-dev
 readline-dev32
@@ -509,11 +508,10 @@ startup-notification-dev
 strace
 swig
 systemd
-systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 talloc
 talloc-dev
 tar

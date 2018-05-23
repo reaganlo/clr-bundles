@@ -541,7 +541,6 @@ python3-dev
 pytz
 qemu
 qtbase-dev
-qtbase-extras
 readline-dev
 readline-dev32
 requests
@@ -579,7 +578,7 @@ systemd
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tcl
 tcl-dev
