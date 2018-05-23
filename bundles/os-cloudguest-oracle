@@ -6,4 +6,5 @@
 include(openssh-server)
 micro-config-drive-oci
 open-iscsi
+open-iscsi-autostart
 sudo
