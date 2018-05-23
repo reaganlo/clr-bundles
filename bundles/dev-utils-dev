@@ -74,7 +74,6 @@ enum34
 expat-dev
 expat-dev32
 expect
-filesystem-chroot
 flex
 flex-dev
 gawk
@@ -173,7 +172,6 @@ libxslt-bin
 linux-libc-headers
 llvm
 llvm-dev
-lz4-dev
 m4
 make
 man-db
@@ -301,7 +299,8 @@ sqlite-autoconf
 sqlite-autoconf-dev
 strace
 swig
-systemd
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras

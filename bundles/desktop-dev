@@ -21,6 +21,7 @@ ModemManager-dev
 NetworkManager-dev
 SDL-dev
 SDL2-dev
+SDL2_image-dev
 Sphinx
 Z3-dev
 accountsservice-dev
@@ -31,6 +32,9 @@ alsa-lib-dev
 alsa-lib-dev32
 appstream-glib-dev
 asciidoc
+asn1crypto
+asn1crypto-legacypython
+asn1crypto-python
 aspell
 aspell-dev
 at-spi2-atk-dev
@@ -42,6 +46,7 @@ atk-dev32
 atkmm-dev
 attr-dev
 attr-dev32
+attrs-legacypython
 attrs-python
 autoconf
 autoconf213
@@ -71,6 +76,8 @@ cairomm-dev
 cargo
 caribou-dev
 ccache
+cffi
+cffi-legacypython
 check
 check-dev
 check-dev32
@@ -91,6 +98,8 @@ compat-fuse-soname2-dev
 compat-gtksourceview-soname3-dev
 coreutils
 cracklib-dev
+cryptography
+cryptography_vectors
 cryptsetup-dev
 cups-dev
 cups-filters-dev
@@ -125,6 +134,7 @@ elfutils-dev
 elfutils-dev32
 emacs
 enchant-dev
+enum34
 eog-dev
 evolution-data-server-dev
 evolution-dev
@@ -134,7 +144,6 @@ expat-dev
 expat-dev32
 expect
 fftw-dev
-filesystem-chroot
 flac-dev
 flac-dev32
 flatpak-dev
@@ -175,6 +184,7 @@ gettext-bin
 gettext-dev
 gexiv2-dev
 gfbgraph-dev
+ghostscript
 ghostscript-dev
 git
 gjs
@@ -255,12 +265,16 @@ harfbuzz-dev
 harfbuzz-dev32
 hostname
 hunspell-dev
+hypothesis-legacypython
+hypothesis-python
 ibus-dev
 icon-naming-utils-dev
 icu4c-dev
 icu4c-dev32
+idna
 intltool
 intltool-dev
+ipaddress
 iproute2
 iptables
 iptables-dev
@@ -274,6 +288,8 @@ jq
 json-c-dev
 json-glib-dev
 json-glib-dev32
+jsonschema-python
+keyring-python
 kmod
 kmod-dev
 kmod-dev32
@@ -538,6 +554,7 @@ p11-kit
 p11-kit-dev
 p11-kit-dev32
 p7zip
+packaging
 pacrunner-dev
 pango-dev
 pango-dev32
@@ -564,12 +581,14 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 ply
 polkit-dev
 poppler-dev
 popt-dev
 postgresql-dev
+pretend
 procps-ng
 procps-ng-bin
 protobuf-dev
@@ -581,10 +600,13 @@ py
 py-python
 pyaml
 pycairo-dev
+pycparser
+pycparser-legacypython
 pygobject
 pygobject-dev
 pygobject-python
 pylint
+pyparsing
 pytest
 pytest-python
 python
@@ -597,6 +619,7 @@ python-polib
 python3
 python3-core
 python3-dev
+pytz
 pyudev
 pywbem
 qemu
@@ -615,14 +638,17 @@ ruby
 ruby-dev
 rust-std32
 samba-dev
+sane-backends-dev
 sassc
 sbc-dev
 sbc-dev32
+scikit-build
 scons
 sed
 setuptools
 setuptools-legacypython
 setuptools-python
+setuptools_scm
 shadow
 shared-mime-info
 shared-mime-info-dev
@@ -638,6 +664,8 @@ startup-notification-dev
 strace
 swig
 systemd
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
@@ -657,6 +685,7 @@ thin-provisioning-tools
 tiff-dev
 tk-dev
 totem-pl-parser-dev
+tox
 tracker-dev
 tzdata
 udisks2-dev

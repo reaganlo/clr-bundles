@@ -44,7 +44,6 @@ elfutils-dev32
 expat-dev
 expat-dev32
 expect
-filesystem-chroot
 flex
 flex-dev
 gawk
@@ -118,7 +117,6 @@ libxslt
 libxslt-bin
 linux-libc-headers
 lua-dev
-lz4-dev
 m4
 make
 meson
@@ -206,6 +204,7 @@ python-mock-python
 python3
 python3-core
 python3-dev
+qtbase-extras
 readline-dev
 readline-dev32
 rpm-build
@@ -221,7 +220,8 @@ slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
-systemd
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras

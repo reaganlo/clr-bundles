@@ -143,7 +143,8 @@ six-python
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
-systemd
+systemd-bin
+systemd-data
 systemd-dev
 systemd-extras
 systemd-lib

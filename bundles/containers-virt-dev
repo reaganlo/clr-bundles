@@ -56,7 +56,6 @@ elfutils-dev32
 expat-dev
 expat-dev32
 expect
-filesystem-chroot
 flex
 flex-dev
 gawk
@@ -219,7 +218,8 @@ shared-mime-info
 sqlite-autoconf-dev
 strace
 swig
-systemd
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
