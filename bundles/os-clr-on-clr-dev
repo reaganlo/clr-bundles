@@ -165,6 +165,7 @@ extras
 fcgi-dev
 file
 file-dev
+filesystem-chroot
 fixtures
 fixtures-python
 flex
@@ -625,7 +626,6 @@ pytz
 pytz-legacypython
 qemu
 qtbase-dev
-qtbase-extras
 rdma-core-dev
 re2c
 readline-dev
@@ -670,12 +670,11 @@ strace
 subunit-dev
 swig
 systemd
-systemd-bin
-systemd-data
+systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 talloc
 talloc-dev
 tar

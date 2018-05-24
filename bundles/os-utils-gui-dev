@@ -132,6 +132,7 @@ expat-dev
 expat-dev32
 expect
 fftw-dev
+filesystem-chroot
 flac-dev
 flac-dev32
 flatpak-dev
@@ -257,7 +258,6 @@ iso-codes-dev
 iso8601
 itstool
 jq
-json-c-dev
 json-glib-dev
 json-glib-dev32
 kmod
@@ -361,14 +361,6 @@ libisofs-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
-libmnl-dev
-libmnl-dev32
-libnetfilter_conntrack-dev
-libnetfilter_conntrack-dev32
-libnfnetlink-dev
-libnfnetlink-dev32
-libnftnl-dev
-libnftnl-dev32
 libnl-dev
 libnotify-dev
 libogg-dev
@@ -381,7 +373,6 @@ libpng-dev
 libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
-libpwquality-dev
 librsvg
 librsvg-dev
 librsvg-dev32
@@ -521,7 +512,6 @@ pkg-config-dev
 pluggy
 pluggy-python
 polkit-dev
-popt-dev
 pretend
 procps-ng
 procps-ng-bin
@@ -551,7 +541,6 @@ python3-dev
 pytz
 qemu
 qtbase-dev
-qtbase-extras
 readline-dev
 readline-dev32
 requests
@@ -586,12 +575,10 @@ startup-notification-dev
 strace
 swig
 systemd
-systemd-bin
-systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 tar
 tcl
 tcl-dev

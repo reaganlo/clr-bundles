@@ -184,11 +184,10 @@ sqlite-autoconf
 sqlite-autoconf-dev
 strace
 swig
-systemd-bin
-systemd-data
+systemd
 systemd-dev
 systemd-extras
-systemd-lib
+systemd-libs
 talloc
 talloc-dev
 tar

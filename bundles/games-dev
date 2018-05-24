@@ -99,6 +99,7 @@ expat-dev
 expat-dev32
 expect
 fftw-dev
+filesystem-chroot
 flac-dev
 flac-dev32
 flex
@@ -319,6 +320,7 @@ linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
+lz4-dev
 m4
 make
 mesa-dev
@@ -399,13 +401,12 @@ speexdsp-dev
 sqlite-autoconf-dev
 sqlite-autoconf-dev32
 strace
-systemd-bin
-systemd-data
+systemd
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
 systemd-lib32
+systemd-libs
 tar
 tcl
 texinfo

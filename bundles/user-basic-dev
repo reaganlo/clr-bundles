@@ -115,6 +115,7 @@ expat-dev
 expat-dev32
 expect
 fcgi-dev
+filesystem-chroot
 flex
 flex-dev
 font-bitstream-type1
@@ -445,7 +446,6 @@ pixman-dev32
 pkcs11-helper-dev
 pkg-config
 pkg-config-dev
-pluggy
 pluggy-python
 polkit-dev
 popt-dev
@@ -474,7 +474,6 @@ python3-dev
 pytz
 qemu
 qtbase-dev
-qtbase-extras
 rdma-core-dev
 readline-dev
 readline-dev32
@@ -509,12 +508,11 @@ startup-notification-dev
 strace
 swig
 systemd
-systemd-bin
-systemd-data
+systemd-boot
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 talloc
 talloc-dev
 tar

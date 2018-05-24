@@ -74,6 +74,7 @@ expat-dev
 expat-dev32
 expect
 fftw-dev
+filesystem-chroot
 flac-dev
 flac-dev32
 flex
@@ -241,6 +242,7 @@ libxslt-bin
 linux-libc-headers
 llvm
 llvm-dev
+lz4-dev
 m4
 make
 mariadb-dev
@@ -313,7 +315,6 @@ qtbase-extras
 qtcharts-dev
 qtconnectivity-dev
 qtdeclarative-dev
-qtdeclarative-extras
 qtimageformats-dev
 qtlocation-dev
 qtmultimedia-dev
@@ -354,12 +355,10 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 strace
 systemd
-systemd-bin
-systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 tar
 tcl
 testrepository

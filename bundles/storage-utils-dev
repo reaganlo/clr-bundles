@@ -59,6 +59,7 @@ elfutils-dev32
 expat-dev
 expat-dev32
 expect
+filesystem-chroot
 flex
 flex-dev
 fuse-dev
@@ -230,12 +231,11 @@ startup-notification
 startup-notification-dev
 strace
 swig
-systemd-bin
-systemd-data
+systemd
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-lib
+systemd-libs
 talloc-dev
 tar
 tcl
