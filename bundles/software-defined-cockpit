@@ -18,3 +18,4 @@ wayland
 wayland-protocols
 weston
 wpa_supplicant
+xkeyboard-config
