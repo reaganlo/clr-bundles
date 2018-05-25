@@ -315,6 +315,7 @@ qtbase-extras
 qtcharts-dev
 qtconnectivity-dev
 qtdeclarative-dev
+qtdeclarative-extras
 qtimageformats-dev
 qtlocation-dev
 qtmultimedia-dev
