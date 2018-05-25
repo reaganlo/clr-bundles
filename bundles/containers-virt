@@ -10,4 +10,10 @@ clear-containers-shim
 clear-containers-proxy
 clear-containers-image
 qemu-lite
+kata-runtime
+kata-shim
+kata-proxy
+kata-image
+linux-kata
+kata-qemu-lite
 util-linux-bin
