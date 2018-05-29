@@ -124,10 +124,10 @@ rpm-build
 sed
 shadow
 strace
-systemd
-systemd-dev
+systemd-bin
+systemd-data
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tcl
 unzip

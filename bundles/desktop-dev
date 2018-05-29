@@ -134,7 +134,6 @@ expat-dev
 expat-dev32
 expect
 fftw-dev
-filesystem-chroot
 flac-dev
 flac-dev32
 flatpak-dev
@@ -638,11 +637,12 @@ startup-notification-dev
 strace
 swig
 systemd
-systemd-boot
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tbb-dev
 tcl

@@ -61,7 +61,6 @@ expat-dev
 expat-dev32
 expect
 file-dev
-filesystem-chroot
 flex
 flex-dev
 gawk
@@ -157,7 +156,6 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
-lz4-dev
 m4
 make
 man-db
@@ -222,11 +220,12 @@ sqlite-autoconf-dev
 strace
 sudo-dev
 systemd
-systemd-boot
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tcl
 testrepository

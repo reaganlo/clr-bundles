@@ -54,7 +54,6 @@ elfutils-dev32
 expat-dev
 expat-dev32
 expect
-filesystem-chroot
 flex
 flex-dev
 gawk
@@ -194,12 +193,12 @@ shadow
 shared-mime-info
 slang-dev
 strace
-systemd
-systemd-boot
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 tar
 tcl
 texinfo

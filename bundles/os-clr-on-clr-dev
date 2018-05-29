@@ -165,7 +165,6 @@ extras
 fcgi-dev
 file
 file-dev
-filesystem-chroot
 fixtures
 fixtures-python
 flex
@@ -670,11 +669,12 @@ strace
 subunit-dev
 swig
 systemd
-systemd-boot
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 talloc
 talloc-dev
 tar

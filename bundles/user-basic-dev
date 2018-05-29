@@ -115,7 +115,6 @@ expat-dev
 expat-dev32
 expect
 fcgi-dev
-filesystem-chroot
 flex
 flex-dev
 font-bitstream-type1
@@ -508,11 +507,12 @@ startup-notification-dev
 strace
 swig
 systemd
-systemd-boot
+systemd-bin
+systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
-systemd-libs
+systemd-lib
 talloc
 talloc-dev
 tar
