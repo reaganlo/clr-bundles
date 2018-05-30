@@ -94,6 +94,7 @@ cracklib-dev
 cryptography
 cryptography-legacypython
 cryptography_vectors
+cryptsetup-dev
 cups-dev
 curl-dev
 curl-dev32
@@ -194,6 +195,8 @@ gmp-lib-hsw
 gmp-lib32
 gnome-desktop-dev
 gnome-icon-theme-dev
+gnu-efi
+gnu-efi-dev
 gnupg
 gnutls-dev
 gnutls-dev32
@@ -248,14 +251,19 @@ ipaddress
 ipaddress-legacypython
 ipaddress-python
 iptables
+iptables-dev
+iptables-dev32
 iso-codes-dev
 iso8601
 itstool
 jq
+json-c-dev
 json-glib-dev
 json-glib-dev32
 kmod
 kmod-bin
+kmod-dev
+kmod-dev32
 krb5-dev
 lcms2-dev
 lensfun-dev
@@ -311,9 +319,11 @@ libc6
 libc6-dev
 libcanberra-dev
 libcap-dev
+libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcdio-dev
+libcgroup-dev
 libcroco-dev
 libcroco-dev32
 libdatrie-dev
@@ -332,6 +342,7 @@ libffi-dev
 libffi-dev32
 libfontenc-dev
 libgcrypt-dev
+libgcrypt-dev32
 libgd-dev
 libgfortran-avx
 libgfortran-compat-soname3
@@ -350,6 +361,14 @@ libisofs-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libnl-dev
 libnotify-dev
 libogg-dev
@@ -362,6 +381,7 @@ libpng-dev
 libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libpwquality-dev
 librsvg
 librsvg-dev
 librsvg-dev32
@@ -501,6 +521,7 @@ pkg-config-dev
 pluggy
 pluggy-python
 polkit-dev
+popt-dev
 pretend
 procps-ng
 procps-ng-bin

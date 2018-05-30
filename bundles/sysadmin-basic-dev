@@ -108,6 +108,7 @@ iperf-dev
 iproute2-dev
 iptables-dev
 iptables-dev32
+json-c-dev
 kmod
 kmod-dev
 kmod-dev32

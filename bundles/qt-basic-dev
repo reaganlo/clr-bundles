@@ -49,6 +49,7 @@ clutter-dev
 cmake
 coreutils
 cracklib-dev
+cryptsetup-dev
 cups-dev
 curl-dev
 db
@@ -102,6 +103,7 @@ gettext
 gettext-bin
 gettext-dev
 git
+glib-bin
 glib-dev
 glib-dev32
 glibc-bin
@@ -114,6 +116,8 @@ gmp-dev
 gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
+gnu-efi
+gnu-efi-dev
 go
 gobject-introspection
 gobject-introspection-dev
@@ -137,8 +141,12 @@ icu4c-dev
 icu4c-dev32
 intltool
 intltool-dev
+iptables-dev
+iptables-dev32
 jemalloc-dev
 json-c-dev
+kmod-dev
+kmod-dev32
 krb5-dev
 libICE-dev
 libICE-dev32
@@ -174,8 +182,10 @@ libXxf86vm-dev32
 libaio-dev
 libc6-dev
 libcap-dev
+libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
+libcgroup-dev
 libdatrie-dev
 libdatrie-dev32
 libdrm-dev
@@ -185,6 +195,8 @@ libevdev-dev32
 libffi-dev
 libffi-dev32
 libgcrypt-dev
+libgcrypt-dev32
+libgpg-error-dev
 libgudev-dev
 libical-dev
 libinput-dev

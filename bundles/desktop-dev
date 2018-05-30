@@ -21,6 +21,7 @@ ModemManager-dev
 NetworkManager-dev
 SDL-dev
 SDL2-dev
+SDL2_image-dev
 Sphinx
 Z3-dev
 accountsservice-dev
@@ -174,6 +175,7 @@ gettext-bin
 gettext-dev
 gexiv2-dev
 gfbgraph-dev
+ghostscript
 ghostscript-dev
 git
 gjs
@@ -614,6 +616,7 @@ ruby
 ruby-dev
 rust-std32
 samba-dev
+sane-backends-dev
 sassc
 sbc-dev
 sbc-dev32

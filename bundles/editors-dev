@@ -9,6 +9,7 @@ include(os-core-dev)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
+acl-dev32
 attr-dev
 attr-dev32
 attrs-python
@@ -26,6 +27,8 @@ clr-rpm-config
 cmake
 coreutils
 cracklib-dev
+cryptsetup-dev
+curl-dev
 db
 dbus-dev
 dbus-dev32
@@ -55,6 +58,7 @@ gettext
 gettext-bin
 gettext-dev
 git
+glib-bin
 glib-dev
 glib-dev32
 glibc-bin
@@ -67,7 +71,10 @@ gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
+gnu-efi
+gnu-efi-dev
 gnutls-dev
+gperf
 graphviz
 grep
 groff
@@ -78,6 +85,12 @@ gzip
 hostname
 icu4c-dev
 icu4c-dev32
+intltool
+intltool-dev
+iptables-dev
+iptables-dev32
+kmod-dev
+kmod-dev32
 libICE-dev
 libICE-dev32
 libSM-dev
@@ -86,10 +99,15 @@ libX11-dev
 libX11-dev32
 libc6-dev
 libcap-dev
+libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
+libcgroup-dev
 libffi-dev
 libffi-dev32
+libgcrypt-dev
+libgcrypt-dev32
+libgpg-error-dev
 libidn-dev
 libidn-dev32
 libstdc++

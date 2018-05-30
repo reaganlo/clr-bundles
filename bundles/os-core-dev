@@ -32,6 +32,7 @@ db-dev
 dbus-dev
 dbus-dev32
 dejagnu
+desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
@@ -39,6 +40,7 @@ doxygen
 e2fsprogs
 e2fsprogs-dev
 elfutils-dev
+elfutils-dev32
 expat-dev
 expat-dev32
 expect
@@ -83,6 +85,7 @@ intltool-dev
 iproute2-dev
 iptables-dev
 iptables-dev32
+json-c-dev
 kmod
 kmod-dev
 kmod-dev32
@@ -99,6 +102,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libffi-dev
+libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -117,6 +121,7 @@ libtool
 libtool-dev
 libunwind-dev
 libxml2-dev
+libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
@@ -135,6 +140,7 @@ openssl-dev
 patch
 pbr
 pcre-dev
+pcre-dev32
 perl-XML-Parser
 pigz
 pip
@@ -154,6 +160,7 @@ ruby
 sed
 setuptools
 shadow
+shared-mime-info
 slang-dev
 strace
 systemd-bin
@@ -166,6 +173,7 @@ tar
 tcl
 texinfo
 thin-provisioning-tools
+tzdata
 unzip
 util-linux-dev
 util-linux-dev32
