@@ -6,6 +6,7 @@
 include(cryptography)
 include(python-basic)
 include(xfce4-desktop)
+include(xemacs)
 FreeRDP
 Thunar
 Vertex-theme
