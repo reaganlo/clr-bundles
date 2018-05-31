@@ -81,7 +81,3 @@ xorriso
 yum
 yum-metadata-parser
 yum-utils
-memkind
-memkind-dev
-pmdk-dev
-
