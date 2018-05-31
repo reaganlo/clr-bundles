@@ -23,6 +23,7 @@ nvme-cli
 open-iscsi
 opensm
 parted
+pmdk
 rdma-core
 rpcbind
 samba-bin
