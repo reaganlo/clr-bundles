@@ -12,6 +12,7 @@ include(desktop-apps-extras)
 include(php-basic)
 include(games)
 include(R-basic)
+include(python3-basic)
 SDL
 SDL-dev
 SDL2_gfx-dev
@@ -80,11 +81,13 @@ libtool
 libvorbis-dev
 lua-dev
 mesa-demos
+meson
 mpfr-dev
 openmpi
 openmpi-dev
 nasm
 ncurses-dev
+ninja
 numactl
 numactl-dev
 numpy
