@@ -50,12 +50,15 @@ libxshmfence-dev
 libXvMC-dev
 libXxf86vm-dev
 libzip-dev
+memkind
+memkind-dev
 mesa-dev
 mkosi
 ncurses-data-rare
 p7zip
 pep8
 pesign
+pmdk-dev
 pycodestyle
 pycurl
 pycurl-legacypython
