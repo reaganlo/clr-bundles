@@ -40,6 +40,7 @@ patch
 pmdk
 postgresql
 powertop
+redis-native
 strace
 subversion
 suricata
