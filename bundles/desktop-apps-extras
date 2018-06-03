@@ -6,10 +6,23 @@
 include(desktop-gnomelibs)
 include(python3-basic)
 
+
+#
+# Apps that are also pundles
+#
+include(darktable)
+include(gimp)
+include(thunderbird)
+include(vlc)
+
+
+#
+# Non-pundle apps
+#
+
 FreeRDP
 Remmina
 chrome-gnome-shell
-darktable
 geany
 geany-plugins
 gimp
@@ -24,9 +37,7 @@ pidgin
 pidgin-sipe
 rxvt-unicode
 spice-gtk
-thunderbird
 tigervnc
 vinagre
 virt-manager
 virt-viewer
-vlc
