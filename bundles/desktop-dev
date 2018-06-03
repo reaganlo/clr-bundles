@@ -383,6 +383,7 @@ libiscsi-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
+libmbim-dev
 libmediaart-dev
 libmnl-dev
 libmnl-dev32
@@ -412,6 +413,7 @@ libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libpwquality-dev
+libqmi-dev
 librsvg
 librsvg-dev
 librsvg-dev32

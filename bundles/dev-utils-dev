@@ -188,7 +188,6 @@ nose
 nss-altfiles
 numactl-dev
 onig-dev
-openldap-dev
 openmpi-dev
 openssl
 openssl-dev
@@ -298,7 +297,6 @@ source-highlight-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
-swig
 systemd-bin
 systemd-data
 systemd-dev

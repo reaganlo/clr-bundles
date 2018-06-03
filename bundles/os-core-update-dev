@@ -79,8 +79,6 @@ glibc-locale
 glibc-staticdev
 glibc-utils
 gmp-dev
-gmp-dev32
-gmp-lib32
 gnu-efi
 gnu-efi-dev
 go
@@ -156,8 +154,6 @@ mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
-nettle-dev
-nettle-lib
 nghttp2-dev
 nghttp2-dev32
 ninja

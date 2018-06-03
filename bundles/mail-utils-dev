@@ -187,6 +187,7 @@ swig
 systemd-bin
 systemd-data
 systemd-dev
+systemd-dev32
 systemd-extras
 systemd-lib
 talloc

@@ -473,6 +473,7 @@ python3-dev
 pytz
 qemu
 qtbase-dev
+qtbase-extras
 rdma-core-dev
 readline-dev
 readline-dev32

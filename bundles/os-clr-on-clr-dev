@@ -444,6 +444,7 @@ makedepend
 man-db
 mariadb-dev
 mariadb-test
+memkind-dev
 mesa-dev
 mesa-dev32
 meson
@@ -626,6 +627,7 @@ pytz
 pytz-legacypython
 qemu
 qtbase-dev
+qtbase-extras
 rdma-core-dev
 re2c
 readline-dev

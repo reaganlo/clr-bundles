@@ -551,6 +551,7 @@ python3-dev
 pytz
 qemu
 qtbase-dev
+qtbase-extras
 readline-dev
 readline-dev32
 requests
