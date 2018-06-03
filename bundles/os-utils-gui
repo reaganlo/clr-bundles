@@ -7,6 +7,9 @@ include(cryptography)
 include(python-basic)
 include(xfce4-desktop)
 include(xemacs)
+include(darktable)
+include(thunderbird)
+
 FreeRDP
 Thunar
 Vertex-theme
