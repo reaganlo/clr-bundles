@@ -27,6 +27,7 @@ msr-tools
 net-snmp
 net-tools
 nicstat
+numatop
 open-lldp
 powertop
 procps-ng
