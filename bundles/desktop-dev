@@ -260,6 +260,7 @@ ibus-dev
 icon-naming-utils-dev
 icu4c-dev
 icu4c-dev32
+intel-gpu-tools-dev
 intltool
 intltool-dev
 iproute2

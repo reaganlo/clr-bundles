@@ -245,6 +245,7 @@ icu4c-dev32
 idna
 idna-python
 imagesize
+intel-gpu-tools-dev
 intltool
 intltool-dev
 ipaddress
