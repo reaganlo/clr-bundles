@@ -21,7 +21,6 @@ pbr
 python3-lib-avx2
 python-dateutil
 python-tappy
-python-tcl
 requests
 scikit-image
 scikit-learn
