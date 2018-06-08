@@ -1,0 +1,9 @@
+# [TITLE]: git
+# [DESCRIPTION]: git SCM tool
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(openssl)
+include(p11-kit)
+include(perl-basic)
+git
