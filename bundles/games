@@ -4,6 +4,7 @@
 # [CAPABILITIES]: Makes you forget about work, for a little bit
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
+include(p11-kit)
 minetest
 minetest_game
 
@@ -98,7 +99,6 @@ nspr-lib32
 nss-lib32
 nss-altfiles-lib32
 openssl-lib32
-p11-kit
 p11-kit-lib32
 pulseaudio-lib32
 s2tc-dev

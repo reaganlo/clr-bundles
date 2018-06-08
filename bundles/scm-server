@@ -3,9 +3,9 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
+include(git)
 include(python3-basic)
 cgit
-git
 gitolite
 nginx
 Pygments

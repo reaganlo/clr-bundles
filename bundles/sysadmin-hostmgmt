@@ -3,11 +3,11 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+include(git)
 include(pxe-server)
 include(python3-basic)
 ansible
 clear-config-management
-git
 ipmitool
 freeipmi
 # ansible deps

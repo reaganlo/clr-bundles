@@ -3,6 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(git)
+include(p11-kit)
 go
-git
-p11-kit

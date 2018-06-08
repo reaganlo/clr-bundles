@@ -5,10 +5,10 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssh-server)
 include(python-basic)
+include(sudo)
 cockpit
 docker-py
 nagios-plugins
 nrpe
 sos
-sudo
 udisks2

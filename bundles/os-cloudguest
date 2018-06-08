@@ -3,13 +3,13 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+include(ethtool)
 include(openssh-server)
+include(sudo)
 micro-config-drive
 e2fsprogs-bin
-ethtool
 glib-lib
 json-glib-lib
 parted-lib
-sudo
 util-linux-lib
 yaml-lib

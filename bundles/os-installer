@@ -3,14 +3,15 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(iproute2)
 include(python3-basic)
+include(wpa_supplicant)
 bind-utils
 btrfs-progs
 curl
 dosfstools-bin
 e2fsprogs-extras
 gptfdisk-bin
-iproute2
 iputils
 ister
 ister-extras
@@ -25,5 +26,4 @@ pycurl
 python-urwid-python3
 python3-core
 qemu-extras
-wpa_supplicant
 xfsprogs-bin

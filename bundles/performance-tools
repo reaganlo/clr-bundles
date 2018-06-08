@@ -3,6 +3,8 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(ethtool)
+include(iproute2)
 include(perl-basic)
 include(python3-basic)
 include(tcl-basic)
@@ -10,13 +12,11 @@ blktrace
 clr-debug-info
 collectl
 dstat
-ethtool
 glances
 gperf
 htop
 intel-gpu-tools
 ioping
-iproute2
 iptraf
 latencytop
 linux-extra

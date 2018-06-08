@@ -3,6 +3,8 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+include(iproute2)
+include(p11-kit)
 LVM2
 bridge-utils
 cni
@@ -13,5 +15,3 @@ cri-o
 cri-tools
 docker
 gnupg
-iproute2
-p11-kit

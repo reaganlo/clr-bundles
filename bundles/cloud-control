@@ -5,19 +5,19 @@
 # [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
 include(kvm-host)
 include(network-basic)
+include(openssl)
 include(python3-basic)
 #
 # Storage-cluster is huge, and while it contains ceph,
 # you don't need ceph to control remote machines
 #
 #include(storage-cluster)
+include(sudo)
 
 awscli
 botocore
 docker
 openssh
-openssl
 psmisc
 sqlite-autoconf
-sudo
 xorriso

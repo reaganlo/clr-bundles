@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(libX11client)
+include(which)
 Thunar
 Vertex-theme
 arc-theme
@@ -28,7 +29,6 @@ moka-icon-theme
 powerline-fonts
 shared-mime-info
 thunar-volman
-which
 xcursor-themes
 xfburn
 xfce4-appfinder

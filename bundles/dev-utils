@@ -3,6 +3,8 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(git)
+include(openssl)
 include(perl-basic)
 include(python3-basic)
 asciidoc
@@ -19,7 +21,6 @@ diffutils
 docutils
 elfutils
 gdb
-git
 hub
 icdiff
 inotify-tools
@@ -30,7 +31,6 @@ llvm
 ltrace
 man-pages
 meson
-openssl
 p7zip
 patch
 patchutils

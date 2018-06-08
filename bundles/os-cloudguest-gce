@@ -3,9 +3,9 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(sudo)
+include(which)
 compute-image-packages
 e2fsprogs-extras
 gsutil
 micro-config-drive
-sudo
-which

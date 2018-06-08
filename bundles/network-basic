@@ -4,8 +4,12 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # perl-basic and tcl-basic included to avoid duplication
+include(ethtool)
+include(iproute2)
+include(openssl)
 include(perl-basic)
 include(python3-basic)
+include(wpa_supplicant)
 bind-utils
 bridge-utils
 connect-proxy
@@ -13,8 +17,6 @@ conntrack-tools
 curl
 dpdk
 ebtables
-ethtool
-iproute2
 ipset
 iptables
 iptraf
@@ -28,7 +30,6 @@ nftables
 openconnect
 opensm
 openssh
-openssl
 openvpn
 openvswitch
 pacrunner
@@ -40,5 +41,4 @@ tcpdump
 traceroute
 weechat
 wget
-wpa_supplicant
 znc

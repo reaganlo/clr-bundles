@@ -3,19 +3,19 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(ethtool)
 include(openssh-server)
+include(openssl)
 include(python-basic)
+include(sudo)
 WALinuxAgent
 at
 azure-configs
 dyskctl
 e2fsprogs-bin
 e2fsprogs-extras
-ethtool
 kexec-tools
 linux-tools-hyperv
 net-tools
-openssl
 parted
-sudo
 swupd-client-extras

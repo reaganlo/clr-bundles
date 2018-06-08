@@ -13,6 +13,7 @@ dfu-util
 diffoscope
 docutils
 dtc
+ethtool
 file
 findutils
 firefox
@@ -27,6 +28,7 @@ hugo
 iasimage
 icdiff
 inotify-tools
+iproute2
 irssi
 joe
 jq
@@ -35,6 +37,7 @@ linux-tools
 mkosi
 nginx
 openssl
+p11-kit
 parallel
 patch
 pmdk
@@ -43,6 +46,7 @@ powertop
 redis-native
 strace
 subversion
+sudo
 suricata
 texlive
 thunderbird
@@ -52,7 +56,9 @@ unzip
 valgrind
 vlc
 weechat
+which
 wireshark
+wpa_supplicant
 xemacs
 xz
 zsh

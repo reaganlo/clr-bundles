@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Obed N Munoz <obed.n.munoz@intel.com>
 include(containers-virt)
+include(ethtool)
 ebtables
-ethtool
 kubernetes
 socat

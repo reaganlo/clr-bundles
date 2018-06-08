@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(git)
 include(openssh-server)
 acl
 attr
@@ -12,7 +13,6 @@ curl
 diffutils
 expect
 file
-git
 perl
 perl-YAML-Tiny
 rsync

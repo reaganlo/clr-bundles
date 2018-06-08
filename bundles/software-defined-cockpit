@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: 
 # [MAINTAINER]: Gan Yau Wai <yau.wai.gan@intel.com>
+include(wpa_supplicant)
 alsa-plugins
 alsa-utils
 fontconfig
@@ -17,5 +18,4 @@ pulseaudio
 wayland
 wayland-protocols
 weston
-wpa_supplicant
 xkeyboard-config

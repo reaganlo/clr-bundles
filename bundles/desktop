@@ -9,7 +9,10 @@ include(desktop-gnomelibs)
 include(desktop-assets)
 include(desktop-locales)
 # the UI should provide a basic sysadmin experience
+include(openssl)
 include(sysadmin-basic)
+include(which)
+include(wpa_supplicant)
 
 # Low level UI requirements
 # gir/typelibs have been split out and we need them.
@@ -70,15 +73,12 @@ network-manager-applet
 NetworkManager-openconnect
 dconf
 #groupcheck
-openssl
 polkit
 pulseaudio
 openconnect
 systemd-extras
 udisks2
 upower
-which
-wpa_supplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
 

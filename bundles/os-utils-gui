@@ -4,7 +4,9 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(cryptography)
+include(openssl)
 include(python-basic)
+include(wpa_supplicant)
 include(xfce4-desktop)
 include(xemacs)
 include(darktable)
@@ -59,7 +61,6 @@ mkfontdir
 mkfontscale
 moka-icon-theme
 openconnect
-openssl
 pavucontrol
 powerline-fonts
 pulseaudio
@@ -71,7 +72,6 @@ thunderbird
 tigervnc
 vim-data
 virt-viewer
-wpa_supplicant
 websockify
 x11vnc
 xauth

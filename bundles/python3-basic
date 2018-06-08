@@ -3,9 +3,9 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(p11-kit)
 clr-python-timestamp
 glibc-lib-avx2
-p11-kit
 pip
 pycodestyle-python3
 python3-core

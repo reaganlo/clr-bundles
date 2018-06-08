@@ -5,6 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(database-basic)
+include(git)
 include(go-basic)
 include(machine-learning-basic)
 include(desktop-autostart)
@@ -50,7 +51,6 @@ flex
 freeglut-dev
 gflags-dev
 gimp
-git
 glibc-staticdev
 glibc-lib-avx2
 glog-dev
