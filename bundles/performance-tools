@@ -34,6 +34,7 @@ procps-ng
 psstop
 siege
 strace
+stress-ng
 sysdig
 sysstat
 tcpdump
