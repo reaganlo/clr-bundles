@@ -12,6 +12,7 @@ include(python-extras)
 
 Theano
 neon
+neon-doc
 scikit-learn
 
 
