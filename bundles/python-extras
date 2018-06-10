@@ -18,6 +18,7 @@ mypy
 nose
 numpy
 pbr
+pytest
 python3-lib-avx2
 python-dateutil
 python-tappy
