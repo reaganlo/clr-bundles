@@ -3,13 +3,16 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(python3-basic)
 LVM2
 LVM2-extras
 autofs
 btrfs-progs
 cifs-utils
-cryptsetup
+cryptsetup-bin
+cryptsetup-config
+cryptsetup-lib
+cryptsetup-locales
+cryptsetup-man
 dosfstools
 e2fsprogs
 e2fsprogs-extras
