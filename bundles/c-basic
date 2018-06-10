@@ -3,6 +3,10 @@
 # [STATUS]: Active
 # [CAPABILITIES]: Build and run C language programs
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+# perl for autoconf and friends
+include(perl-basic)
+
 autoconf
 autogen
 automake
