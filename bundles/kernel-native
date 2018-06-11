@@ -4,8 +4,9 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
+console-autostart
+irqbalance
 linux
 linux-firmware
 linux-firmware-extras
 mcelog
-irqbalance

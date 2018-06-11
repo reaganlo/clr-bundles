@@ -4,5 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
-linux-hyperv-lts
+console-autostart
 init-rdahead
+linux-hyperv-lts
+

@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
-linux-hyperv
+console-autostart
 init-rdahead
+linux-hyperv

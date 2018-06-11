@@ -4,7 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
+console-autostart
+irqbalance
 linux-firmware
 linux-pk414-standard
 mcelog
-irqbalance

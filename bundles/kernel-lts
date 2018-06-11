@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
-linux-lts
+console-autostart
 linux-firmware
+linux-lts
 mcelog
