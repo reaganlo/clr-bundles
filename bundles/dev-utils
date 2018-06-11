@@ -37,8 +37,10 @@ patch
 patchutils
 quilt
 rsync
+rt-tests
 source-highlight
 strace
+stress-ng
 tig
 unifdef
 valgrind
