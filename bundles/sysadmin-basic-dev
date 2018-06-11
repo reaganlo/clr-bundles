@@ -104,7 +104,6 @@ icu4c-dev
 intltool
 intltool-dev
 iperf-dev
-iproute2-dev
 iptables-dev
 iptables-dev32
 json-c-dev
@@ -175,7 +174,6 @@ openssl-dev
 openssl-dev32
 openssl-lib32
 p11-kit
-p11-kit-dev
 patch
 pbr
 pciutils-dev
@@ -212,7 +210,6 @@ shared-mime-info
 six
 slang-dev
 strace
-sudo-dev
 systemd
 systemd-bin
 systemd-data

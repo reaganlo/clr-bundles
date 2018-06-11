@@ -101,7 +101,6 @@ gzip
 hostname
 intltool
 intltool-dev
-iproute2-dev
 iptables-dev
 iptables-dev32
 kmod

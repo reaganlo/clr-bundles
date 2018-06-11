@@ -32,6 +32,7 @@ Mako-legacypython
 Mako-python
 Markdown
 MarkupSafe
+MarkupSafe-legacypython
 PyYAML
 PyYAML-legacypython
 Pygments
@@ -94,7 +95,6 @@ ca-certs
 cached-property
 cairo-dev
 cairo-dev32
-cargo
 ceph-dev
 certifi
 cffi
@@ -111,7 +111,6 @@ compat-fuse-soname2-dev
 contextlib2
 coreutils
 coverage
-coverage-python
 cppunit-dev
 cracklib-dev
 cryptography
@@ -312,7 +311,6 @@ libXi-dev
 libXi-dev32
 libXinerama-dev
 libXinerama-dev32
-libXpm-dev
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev
@@ -340,7 +338,6 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libcroco-dev
-libcroco-dev32
 libdatrie-dev
 libdatrie-dev32
 libdrm-dev
@@ -639,7 +636,6 @@ rpm-build
 rpm-common
 rpm-dev
 ruby
-rust-std32
 sbsigntools
 scikit-build
 scons

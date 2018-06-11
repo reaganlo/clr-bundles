@@ -143,7 +143,6 @@ openssl
 openssl-dev
 openssl-dev32
 p11-kit
-p11-kit-dev
 patch
 pcre-dev
 pcre-dev32

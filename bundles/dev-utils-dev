@@ -305,14 +305,12 @@ systemd-extras
 systemd-lib
 tar
 tcl
-tcl-dev
 testrepository
 testresources
 testscenarios
 testtools
 texinfo
 tk
-tk-dev
 tzdata
 unzip
 util-linux
