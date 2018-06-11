@@ -16,7 +16,6 @@ bash_kernel
 bokeh
 decorator
 entrypoints
-enum34
 ipykernel
 ipython
 ipython_genutils
