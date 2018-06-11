@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(python3-basic)
+# sad
+include(python2-basic) 
 createrepo_c
 dnf
 mock
