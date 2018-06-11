@@ -109,8 +109,10 @@ popt-dev
 pth-dev
 python-dev
 redis-native
+rt-tests
 scons
 snappy-dev
+stress-ng
 SuiteSparse
 SuiteSparse-dev
 sqlite-autoconf-dev
