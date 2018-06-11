@@ -5,7 +5,7 @@
 # [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
 include(cryptography)
 include(openssl)
-include(python-basic)
+include(python3-basic)
 include(wpa_supplicant)
 include(xfce4-desktop)
 include(xemacs)

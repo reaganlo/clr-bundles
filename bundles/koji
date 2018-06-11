@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(package-utils)
+include(python2-basic)
 include(python-basic)
 include(web-server-basic)
 koji

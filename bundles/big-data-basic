@@ -5,7 +5,7 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(R-basic)
 include(java-basic)
-include(python-basic)
+include(python3-basic)
 
 apache-hadoop
 apache-kafka

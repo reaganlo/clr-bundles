@@ -6,7 +6,7 @@
 include(ethtool)
 include(openssh-server)
 include(openssl)
-include(python-basic)
+include(python3-basic)
 include(sudo)
 WALinuxAgent
 at

@@ -9,7 +9,6 @@ include(bootloader)
 linux-firmware
 linux-pk414-sos
 mcelog
-irqbalance
 
 # User Software
 acrn-hypervisor

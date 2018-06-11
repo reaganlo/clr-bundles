@@ -3,7 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(python-basic)
 include(R-extras)
 include(python3-basic)
 

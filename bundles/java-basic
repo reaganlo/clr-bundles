@@ -5,7 +5,7 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(libX11client)
 include(p11-kit)
-include(python-basic)
+include(python3-basic)
 include(which)
 apache-ant
 apache-maven

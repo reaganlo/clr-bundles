@@ -6,7 +6,7 @@
 include(git)
 include(openssl)
 include(os-installer)
-include(python-basic)
+include(python3-basic)
 include(sysadmin-basic)
 # bundle-chroot-builder still necessary for the
 # builder.conf laid on the system.

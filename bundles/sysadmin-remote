@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssh-server)
-include(python-basic)
+include(python3-basic)
 include(sudo)
 cockpit
 docker-py
