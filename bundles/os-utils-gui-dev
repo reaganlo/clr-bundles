@@ -6,7 +6,6 @@
 include(dev-utils)
 include(os-core-dev)
 include(os-utils-gui)
-include(python-basic-dev)
 Babel
 CUnit-dev
 CUnit-dev32
@@ -604,7 +603,6 @@ testtools
 texinfo
 thin-provisioning-tools
 tiff-dev
-tk-dev
 tornado
 tox
 typed-ast

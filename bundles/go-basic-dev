@@ -58,7 +58,6 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
-gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -74,8 +73,6 @@ glibc-locale
 glibc-staticdev
 glibc-utils
 gmp-dev
-gmp-gmpxx
-gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
@@ -146,7 +143,6 @@ p11-kit
 patch
 pcre-dev
 pcre-dev32
-perl
 perl-Error
 perl-XML-Parser
 pigz

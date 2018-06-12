@@ -12,7 +12,6 @@ include(network-basic-dev)
 include(os-clr-on-clr)
 include(os-core-dev)
 include(perl-basic-dev)
-include(python-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 Babel
@@ -63,6 +62,7 @@ at-spi2-core-dev
 at-spi2-core-dev32
 atk-dev
 atk-dev32
+atomicwrites
 attr-dev
 attr-dev32
 attrs
@@ -446,6 +446,7 @@ mesa-dev
 mesa-dev32
 meson
 mock
+more-itertools
 mpc-dev
 mpfr-dev
 mtdev-dev
