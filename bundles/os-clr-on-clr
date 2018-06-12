@@ -67,6 +67,7 @@ pyOpenSSL
 pyOpenSSL-legacypython
 python-magic
 python-rpm
+python-rpm-legacypython
 python-toml
 python-zeep
 rpm

@@ -10,6 +10,7 @@ createrepo_c
 dnf
 mock
 python-rpm
+python-rpm-legacypython
 rpm
 rpm-build
 rpm-common
