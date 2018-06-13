@@ -3,7 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-include(python-basic)
 include(python3-basic)
 
 boto

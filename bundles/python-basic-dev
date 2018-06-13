@@ -5,7 +5,8 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(dev-utils)
 include(os-core-dev)
-include(python-basic)
+include(python2-basic)
+include(python3-basic)
 Cython
 Jinja2
 Linux-PAM-dev
