@@ -177,6 +177,7 @@ m4
 make
 man-db
 meson
+metrics-discovery-dev
 mpc-dev
 mpfr-dev
 ncurses-dev
