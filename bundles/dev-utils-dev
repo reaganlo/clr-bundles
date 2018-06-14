@@ -41,6 +41,7 @@ btrfs-progs-dev
 bzip2
 bzip2-dev
 ca-certs
+cairo-dev
 cffi
 cffi-legacypython
 check-dev
@@ -158,8 +159,11 @@ libgpg-error-dev
 libidn-dev
 libidn-dev32
 libpciaccess-dev
+libpciaccess-dev32
 libpipeline-dev
 libpng-dev
+libpthread-stubs-dev
+libpthread-stubs-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -176,6 +180,7 @@ llvm-dev
 m4
 make
 man-db
+mesa-dev
 meson
 metrics-discovery-dev
 mpc-dev
