@@ -9,6 +9,7 @@ glibc-lib-avx2
 # nose is needed for numpy
 nose-legacypython
 numpy-legacypython
+enum34-legacypython
 pip
 pip-extras
 pip-legacypython
