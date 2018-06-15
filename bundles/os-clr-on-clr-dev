@@ -704,7 +704,6 @@ unittest2
 unittest2-legacypython
 unittest2-python
 unzip
-urllib3
 usbredir-dev
 userspace-rcu-dev
 util-linux
@@ -752,5 +751,4 @@ zlib
 zlib-dev
 zlib-dev32
 zope.interface
-zope.testrunner-python
 zstd-dev

@@ -609,7 +609,6 @@ typed-ast
 typing
 tzdata
 unzip
-urllib3
 usbredir-dev
 usbutils-dev
 util-linux
