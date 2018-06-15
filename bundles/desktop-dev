@@ -19,6 +19,7 @@ Mako-legacypython
 Mako-python
 ModemManager-dev
 NetworkManager-dev
+R-dev
 SDL-dev
 SDL2-dev
 SDL2_image-dev
