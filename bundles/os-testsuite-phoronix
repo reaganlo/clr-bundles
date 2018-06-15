@@ -107,7 +107,7 @@ phoronix-test-suite
 php
 popt-dev
 pth-dev
-python-dev
+python3-dev
 redis-native
 scons
 snappy-dev
