@@ -272,7 +272,6 @@ pycparser
 pycparser-legacypython
 pyparsing
 pytest
-python
 python-core
 python-dev
 python3

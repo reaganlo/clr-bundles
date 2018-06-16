@@ -155,7 +155,6 @@ procps-ng
 procps-ng-bin
 py
 pytest
-python
 python-core
 python-dev
 python3

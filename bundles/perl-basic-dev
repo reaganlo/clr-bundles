@@ -115,8 +115,6 @@ perl-namespace-clean
 pigz
 pkg-config
 pkg-config-dev
-python
-python-core
 python3-core
 readline-dev
 readline-dev32

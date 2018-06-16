@@ -55,7 +55,6 @@ gettext-bin
 git
 glib-dev
 glibc-bin
-glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-locale
@@ -117,7 +116,6 @@ procps-ng
 procps-ng-bin
 py
 pytest
-python
 python-core
 python-dev
 python3

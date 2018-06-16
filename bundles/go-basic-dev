@@ -149,8 +149,6 @@ pigz
 pkg-config
 pkg-config-dev
 procps-ng
-python
-python-core
 python-dev
 python3
 python3-core

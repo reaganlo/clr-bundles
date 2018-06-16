@@ -272,7 +272,6 @@ rpm-build
 ruby
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info
