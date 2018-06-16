@@ -206,6 +206,7 @@ pkg-config-dev
 pluggy-python
 procps-ng
 procps-ng-bin
+python-dev
 python3
 python3-core
 python3-dev
