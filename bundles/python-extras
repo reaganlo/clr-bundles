@@ -5,6 +5,12 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(python3-basic)
 
+#
+# For the test suite
+#
+glibc-bin
+
+#
 boto
 certifi
 cxxfilt
