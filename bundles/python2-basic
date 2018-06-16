@@ -20,5 +20,3 @@ python-dev
 setuptools
 setuptools-legacypython
 six-legacypython
-virtualenv
-virtualenv-legacypython
