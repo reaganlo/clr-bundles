@@ -456,7 +456,6 @@ procps-ng-bin
 protobuf-c-dev
 protobuf-dev
 py
-py-python
 pycparser
 pycparser-legacypython
 pyparsing
@@ -493,7 +492,6 @@ shared-mime-info
 shared-mime-info-dev
 six
 six-legacypython
-six-python
 slang-dev
 snappy-dev
 source-highlight

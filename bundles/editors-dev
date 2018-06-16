@@ -12,7 +12,6 @@ acl-dev
 acl-dev32
 attr-dev
 attr-dev32
-attrs-python
 autoconf
 autogen
 automake
@@ -208,7 +207,6 @@ pluggy-python
 procps-ng
 procps-ng-bin
 py
-py-python
 pytest
 pytest-python
 python
@@ -229,8 +227,6 @@ setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info
-six
-six-python
 slang-dev
 sqlite-autoconf
 sqlite-autoconf-dev

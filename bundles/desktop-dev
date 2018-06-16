@@ -44,7 +44,6 @@ atk-dev32
 atkmm-dev
 attr-dev
 attr-dev32
-attrs-python
 autoconf
 autoconf213
 autogen
@@ -583,7 +582,6 @@ psutil
 pulseaudio-dev
 pulseaudio-dev32
 py
-py-python
 pyaml
 pycairo-dev
 pygobject
@@ -633,7 +631,6 @@ shadow
 shared-mime-info
 shared-mime-info-dev
 six
-six-python
 slang-dev
 speex-dev
 speexdsp-dev
