@@ -117,7 +117,7 @@ pkg-config
 pkg-config-dev
 python
 python-core
-python-dev
+python3-core
 readline-dev
 readline-dev32
 rpm-build
