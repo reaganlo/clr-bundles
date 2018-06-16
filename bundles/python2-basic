@@ -10,13 +10,10 @@ glibc-lib-avx2
 nose-legacypython
 numpy-legacypython
 enum34-legacypython
-pip
-pip-extras
+pip-legacy
 pip-legacypython
-pycodestyle
-pycodestyle-legacypython
 python-core
 python-dev
-setuptools
+setuptools-legacy
 setuptools-legacypython
 six-legacypython
