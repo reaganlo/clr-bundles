@@ -7,15 +7,3 @@ include(p11-kit)
 include(python2-basic)
 include(python3-basic)
 
-clr-python-timestamp
-glibc-lib-avx2
-pip
-pip-extras
-pip-legacypython
-pycodestyle
-python-core
-python-dev
-python3-core
-python3-dev
-setuptools
-virtualenv
