@@ -259,14 +259,9 @@ popt-dev
 procps-ng
 procps-ng-bin
 protobuf-c-dev
-py
-pytest
-pytest-python
 python
 python-core
 python-dev
-python-mock
-python-mock-python
 python3
 python3-core
 python3-dev
@@ -295,10 +290,6 @@ systemd-extras
 systemd-lib
 tar
 tcl
-testrepository
-testresources
-testscenarios
-testtools
 texinfo
 tzdata
 unzip
@@ -308,7 +299,6 @@ util-linux-dev32
 util-linux-extras
 valgrind
 valgrind-dev
-virtualenv
 weechat-dev
 which
 xmlto

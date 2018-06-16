@@ -156,12 +156,9 @@ procps-ng
 procps-ng-bin
 py
 pytest
-pytest-python
 python
 python-core
 python-dev
-python-mock
-python-mock-python
 python3
 python3-core
 python3-dev
@@ -192,10 +189,6 @@ talloc-dev
 tar
 tcl
 tcl-dev
-testrepository
-testresources
-testscenarios
-testtools
 texinfo
 tk-dev
 tokyocabinet-dev
@@ -207,7 +200,6 @@ util-linux-dev32
 util-linux-extras
 valgrind
 valgrind-dev
-virtualenv
 which
 xapian-core-dev
 xz

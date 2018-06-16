@@ -460,12 +460,9 @@ pycparser
 pycparser-legacypython
 pyparsing
 pytest
-pytest-python
 python
 python-core
 python-dev
-python-mock
-python-mock-python
 python3
 python3-core
 python3-dev
@@ -517,10 +514,6 @@ talloc-dev
 tar
 tcl
 tcl-dev
-testrepository
-testresources
-testscenarios
-testtools
 texinfo
 thin-provisioning-tools
 tk
