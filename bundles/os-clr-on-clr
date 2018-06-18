@@ -61,13 +61,10 @@ pesign
 pmdk-dev
 pycodestyle
 pycurl
-pycurl-legacypython
 pyliblzma
 pyOpenSSL
-pyOpenSSL-legacypython
 python-magic
 python-rpm
-python-rpm-legacypython
 python-toml
 python-zeep
 rpm
