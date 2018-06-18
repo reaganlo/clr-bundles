@@ -82,6 +82,3 @@ xcb-proto-dev
 xorgproto-dev
 xmlstarlet
 xorriso
-yum
-yum-metadata-parser
-yum-utils
