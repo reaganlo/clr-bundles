@@ -12,3 +12,6 @@ mash
 mod_wsgi
 nfs-utils
 postgresql
+yum
+yum-metadata-parser
+yum-utils
