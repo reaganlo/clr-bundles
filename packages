@@ -33,6 +33,7 @@ iproute2
 irssi
 joe
 jq
+libva-utils
 linux-dev
 linux-tools
 meld
@@ -58,6 +59,7 @@ unzip
 valgrind
 vlc
 weechat
+weston-extras
 which
 wireshark
 wpa_supplicant
