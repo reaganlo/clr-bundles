@@ -36,6 +36,7 @@ samba-data
 samba-doc
 simg-tools
 smartmontools
+squashfs-tools
 sshfs
 thin-provisioning-tools
 usermode
