@@ -5,8 +5,12 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssh-server)
 include(python3-basic)
+
+#pundles
+include(cockpit)
 include(sudo)
-cockpit
+
+# normal packags
 docker-py
 nagios-plugins
 nrpe
