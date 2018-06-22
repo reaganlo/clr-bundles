@@ -189,6 +189,7 @@ perl-Test-Fatal
 perl-Test-Needs
 perl-Test-Output
 perl-Test-Requires
+perl-Test-RequiresInternet
 perl-Test-Simple
 perl-Test-Taint
 perl-Try-Tiny
