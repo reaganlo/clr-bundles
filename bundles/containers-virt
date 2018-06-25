@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+# [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(kernel-container)
 include(containers-basic)
 clear-containers-runtime

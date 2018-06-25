@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Grouping only bundle for use in X using bundles
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 cairo-lib
 fontconfig-data
 fontconfig-lib

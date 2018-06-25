@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the os-utils-gui bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Michael Ikey Doherty <michael.i.doherty@intel.com>
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(dev-utils)
 include(os-core-dev)
 include(os-utils-gui)

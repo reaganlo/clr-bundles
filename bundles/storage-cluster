@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run a storage server
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+# [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 include(python3-basic)
 
 # unfortunately, ceph is still too much legacy

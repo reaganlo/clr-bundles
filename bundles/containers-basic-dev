@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the containers-basic bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Julio Montes <julio.montes@intel.com>
+# [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
 include(dev-utils)
 include(os-core-dev)

@@ -2,5 +2,5 @@
 # [DESCRIPTION]: Run the container specific kernel
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Carlos Venegas <jose.carlos.venegas.munoz@intel.com>
+# [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
 linux-container

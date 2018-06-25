@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Control Clear Containers guest setup and workloads
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Jose Carlos Venegas Munoz <jose.carlos.venegas.munoz@intel.com>
+# [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
 clear-containers-agent
 filesystem
 iptables

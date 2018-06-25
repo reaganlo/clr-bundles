@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run a cloud orchestration server
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
+# [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 include(kvm-host)
 include(network-basic)
 include(openssl)
