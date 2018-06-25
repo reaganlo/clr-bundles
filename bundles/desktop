@@ -128,6 +128,7 @@ nautilus
 yelp
 
 # nice to have when using desktop
+ModemManager
 cups
 thermal_daemon
 
