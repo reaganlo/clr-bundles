@@ -183,6 +183,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+pcre2-dev
 perl-Error
 perl-XML-Parser
 pigz

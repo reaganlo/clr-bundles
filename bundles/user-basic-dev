@@ -384,6 +384,7 @@ pbr
 pciutils-dev
 pcre-dev
 pcre-dev32
+pcre2-dev
 pecan
 perl
 perl-B-Hooks-EndOfScope
