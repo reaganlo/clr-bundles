@@ -13,6 +13,7 @@ curl
 diffutils
 expect
 file
+make
 perl
 perl-YAML-Tiny
 rsync
