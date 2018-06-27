@@ -124,7 +124,7 @@ sed
 shadow
 strace
 systemd-bin
-systemd-data
+systemd-dev
 systemd-extras
 systemd-lib
 tar

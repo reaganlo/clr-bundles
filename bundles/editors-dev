@@ -225,7 +225,6 @@ sqlite-autoconf
 sqlite-autoconf-dev
 strace
 systemd-bin
-systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras

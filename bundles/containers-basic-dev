@@ -206,7 +206,6 @@ sqlite-autoconf-dev
 strace
 swig
 systemd-bin
-systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras

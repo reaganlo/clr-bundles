@@ -338,7 +338,6 @@ sqlite-autoconf-dev32
 strace
 systemd
 systemd-bin
-systemd-data
 systemd-dev
 systemd-dev32
 systemd-extras
