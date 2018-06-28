@@ -36,7 +36,6 @@ curl-dev
 dbus-dev
 dbus-dev32
 dejagnu
-desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
@@ -45,7 +44,6 @@ e2fsprogs
 e2fsprogs-dev
 e2fsprogs-dev32
 elfutils-dev
-elfutils-dev32
 expat-dev
 expat-dev32
 expect
@@ -142,7 +140,6 @@ openssl-dev32
 p11-kit
 patch
 pcre-dev
-pcre-dev32
 pcre2-dev
 perl-Error
 perl-XML-Parser
@@ -158,7 +155,6 @@ readline-dev32
 rpm-build
 sed
 shadow
-shared-mime-info
 sqlite-autoconf-dev
 strace
 systemd-bin
@@ -170,7 +166,6 @@ tar
 tcl
 texinfo
 tk
-tzdata
 unzip
 util-linux
 util-linux-bin

@@ -18,6 +18,7 @@ Mako
 Mako-legacypython
 Mako-python
 ModemManager-dev
+ModemManager-dev32
 NetworkManager-dev
 R-dev
 SDL-dev
@@ -374,6 +375,7 @@ libgphoto2-dev
 libgsystem-dev
 libgtop-dev
 libgudev-dev
+libgudev-dev32
 libgusb-dev
 libgweather-dev
 libical-dev
@@ -485,6 +487,7 @@ meson
 metacity-dev
 mkfontdir-bin
 mkfontscale-bin
+mobile-broadband-provider-info
 mozjs-dev
 mozjs52
 mozjs52-dev
