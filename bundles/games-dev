@@ -187,6 +187,7 @@ iptables-dev32
 irrlicht-dev
 itstool
 jansson-dev
+json-c-dev
 json-glib-dev
 json-glib-dev32
 kmod-dev
@@ -261,11 +262,14 @@ libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
 libgudev-dev
+libgudev-dev32
+libical-dev
 libidn-dev
 libidn-dev32
 libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
+libmbim-dev
 libndp-dev
 libndp-dev32
 libnl-dev
@@ -279,6 +283,7 @@ libpng-dev
 libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libqmi-dev
 librsvg
 librsvg-dev
 librsvg-dev32
@@ -326,6 +331,7 @@ make
 mesa-dev
 mesa-dev32
 meson
+mobile-broadband-provider-info
 mpc-dev
 mpfr-dev
 nasm
@@ -335,6 +341,7 @@ ncurses-dev32
 netbase
 nettle-dev
 nettle-dev32
+newt-dev
 nghttp2-dev
 nghttp2-dev32
 ninja

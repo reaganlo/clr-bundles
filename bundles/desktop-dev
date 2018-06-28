@@ -514,6 +514,7 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 network-manager-applet-dev
+newt-dev
 nghttp2-dev
 nghttp2-dev32
 ninja
