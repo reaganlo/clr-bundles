@@ -96,6 +96,7 @@ gtk-doc-dev
 guile
 gzip
 hostname
+icu4c-dev
 intltool
 intltool-dev
 iptables-dev
