@@ -28,7 +28,6 @@ R-statmod
 aeon
 appdirs
 astroid
-backports.functools_lru_cache
 bazel
 beignet
 beignet-dev
