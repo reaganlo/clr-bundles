@@ -68,6 +68,7 @@ cups-filters
 cups-pk-helper
 dhcp
 gnome-online-accounts
+ModemManager
 NetworkManager
 network-manager-applet
 NetworkManager-openconnect
