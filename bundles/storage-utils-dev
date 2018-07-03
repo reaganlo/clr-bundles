@@ -34,6 +34,7 @@ cifs-utils-dev
 clr-rpm-config
 cmake
 compat-fuse-soname2-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -72,6 +73,8 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
+ghostscript
+ghostscript-dev
 git
 glib-bin
 glib-dev
@@ -148,6 +151,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libusb-dev
 libuser-dev
 libxml2-dev
 libxml2-dev32
@@ -251,6 +255,7 @@ util-linux-extras
 valgrind
 valgrind-dev
 which
+xdg-utils
 xfsprogs-dev
 xmlto
 xz

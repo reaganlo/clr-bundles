@@ -90,11 +90,15 @@ colord
 colord-dev
 colord-gtk-dev
 compat-fuse-soname2-dev
+compat-gegl-dev
 compat-gtksourceview-soname3-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
+cups
 cups-dev
+cups-filters
 cups-filters-dev
 curl-dev
 curl-dev32
@@ -111,6 +115,7 @@ dejagnu
 desktop-file-utils
 dhcp
 dhcp-dev
+dialog
 diffutils
 docbook-utils
 docbook-xml
@@ -178,6 +183,7 @@ gexiv2-dev
 gfbgraph-dev
 ghostscript
 ghostscript-dev
+gimp-dev
 git
 gjs
 gjs-dev
@@ -251,6 +257,7 @@ gtk3-dev32
 gtkmm3-dev
 gtkspell3-dev
 guile
+gutenprint-dev
 gvfs-dev
 gzip
 harfbuzz-dev
@@ -392,6 +399,7 @@ libmnl-dev
 libmnl-dev32
 libmspack-dev
 libmtp-dev
+libmypaint-dev
 libndp-dev
 libndp-dev32
 libnetfilter_conntrack-dev
@@ -500,6 +508,8 @@ mtdev-dev32
 mutter
 mutter-data
 mutter-dev
+mypaint-brushes
+mypaint-brushes-dev
 nasm
 nasm-bin
 nautilus-dev
@@ -575,6 +585,8 @@ pkg-config-dev
 pluggy-python
 ply
 polkit-dev
+poppler
+poppler-data-dev
 poppler-dev
 popt-dev
 postgresql-dev
@@ -624,6 +636,7 @@ sbc-dev32
 scons
 sed
 setuptools
+setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info
@@ -698,6 +711,7 @@ xcursorgen
 xdg-desktop-portal
 xdg-desktop-portal-dev
 xdg-user-dirs
+xdg-utils
 xf86-input-libinput-dev
 xf86-input-wacom-dev
 xkbcomp-bin

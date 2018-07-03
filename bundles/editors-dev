@@ -24,6 +24,7 @@ bzip2
 bzip2-dev
 clr-rpm-config
 cmake
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -207,6 +208,7 @@ pkg-config-dev
 pluggy-python
 procps-ng
 procps-ng-bin
+python-core
 python-dev
 python3
 python3-core
@@ -217,6 +219,7 @@ readline-dev32
 rpm-build
 sed
 setuptools
+setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info

@@ -89,6 +89,7 @@ cmake
 cmrt-dev
 colord-dev
 compat-fuse-soname2-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptography
@@ -171,6 +172,8 @@ geany-plugins-dev
 gettext
 gettext-bin
 gettext-dev
+ghostscript
+ghostscript-dev
 git
 gjs
 gjs-dev
@@ -540,11 +543,9 @@ pycparser-python
 pyparsing
 pyparsing-legacypython
 pytest
-pytest-python
 python
 python-core
 python-dev
-python-mock-python
 python3
 python3-core
 python3-dev
@@ -567,11 +568,11 @@ sed
 setuptools
 setuptools-legacypython
 setuptools-python
+setuptools_scm
 shadow
 shared-mime-info
 shared-mime-info-dev
 six
-six-python
 snowballstemmer
 speex-dev
 speexdsp-dev
@@ -632,6 +633,7 @@ xcb-util-keysyms-dev
 xcursorgen
 xdg-desktop-portal
 xdg-desktop-portal-dev
+xdg-utils
 xf86-input-evdev-dev
 xf86-input-synaptics-dev
 xfce4-panel-dev

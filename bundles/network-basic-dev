@@ -33,6 +33,7 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -274,6 +275,7 @@ rpm-build
 ruby
 sed
 setuptools
+setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info

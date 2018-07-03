@@ -31,6 +31,7 @@ bzip2-dev
 ca-certs
 clr-rpm-config
 cmake
+compat-python36-core
 containerd-dev
 coreutils
 cracklib-dev
@@ -192,6 +193,7 @@ pip
 pkg-config
 pkg-config-dev
 procps-ng
+python-dev
 python3
 python3-core
 python3-dev

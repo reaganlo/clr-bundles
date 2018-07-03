@@ -108,6 +108,7 @@ clr-rpm-config
 cmake
 colorama
 compat-fuse-soname2-dev
+compat-python36-core
 contextlib2
 coreutils
 coverage
@@ -165,7 +166,6 @@ fcgi-dev
 file
 file-dev
 fixtures
-fixtures-python
 flex
 flex-dev
 font-bitstream-type1
@@ -197,6 +197,8 @@ gettext
 gettext-bin
 gettext-dev
 gflags-dev
+ghostscript
+ghostscript-dev
 git
 glib-bin
 glib-dev
@@ -545,7 +547,6 @@ perl-LWP-Protocol-https
 perl-MRO-Compat
 perl-Module-Build
 perl-Module-Implementation
-perl-Module-Install
 perl-Module-Runtime
 perl-Mozilla-CA
 perl-Net-HTTP
@@ -608,14 +609,12 @@ pycparser-python
 pycurl
 pyparsing
 pytest
-pytest-python
 pytest-xdist
 python
 python-core
 python-dev
 python-magic
 python-mock
-python-mock-python
 python-rpm
 python3
 python3-core
@@ -649,7 +648,6 @@ shared-mime-info
 shared-mime-info-dev
 six
 six-legacypython
-six-python
 slang-dev
 snappy-dev
 snowballstemmer
@@ -682,7 +680,6 @@ testrepository
 testresources
 testscenarios
 testtools
-testtools-python
 texinfo
 thin-provisioning-tools
 tk
@@ -700,7 +697,6 @@ typing
 tzdata
 unittest2
 unittest2-legacypython
-unittest2-python
 unzip
 usbredir-dev
 userspace-rcu-dev
@@ -731,6 +727,7 @@ xcb-util-dev
 xcb-util-image-dev
 xcb-util-keysyms-dev
 xcb-util-wm-dev
+xdg-utils
 xfsprogs-dev
 xkeyboard-config-dev
 xmlsec1-dev
