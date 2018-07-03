@@ -64,9 +64,12 @@ alsa-plugins
 alsa-utils
 bash-completion
 clr-desktop-defaults
+cups
 cups-filters
 cups-pk-helper
 dhcp
+ghostscript
+gutenprint
 gnome-online-accounts
 ModemManager
 NetworkManager
