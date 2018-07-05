@@ -17,6 +17,7 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-legacypython
 Jinja2
 LVM2
 LVM2-dev

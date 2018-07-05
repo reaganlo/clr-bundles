@@ -32,6 +32,7 @@ acl-dev32
 adwaita-icon-theme-dev
 alsa-lib-dev
 alsa-lib-dev32
+appstream-glib
 appstream-glib-dev
 asciidoc
 aspell
@@ -728,6 +729,7 @@ xz
 xz-dev
 xz-dev32
 yajl-dev
+yaml-dev
 yasm
 yelp-dev
 yelp-xsl-dev
