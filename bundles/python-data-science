@@ -9,16 +9,18 @@ include(python-extras)
 
 # Key pydata.org components
 bokeh
+dask
 ipython
 matplotlib
 nose
 numba
 numpy
 scipy
+sympy
 pandas
 scikit-image
 scikit-learn
-
+statsmodels
 
 # misc tools to support the above
 asv
