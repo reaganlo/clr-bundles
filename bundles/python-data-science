@@ -1,0 +1,25 @@
+# [TITLE]: python-data-science
+# [DESCRIPTION]: The python data-science stack; the best of http://pydata.org
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(c-basic)
+include(python-extras)
+
+
+# Key pydata.org components
+bokeh
+ipython
+matplotlib
+nose
+numba
+numpy
+scipy
+pandas
+scikit-image
+scikit-learn
+
+
+# misc tools to support the above
+asv
+llvmlite
