@@ -9,6 +9,7 @@ include(perl-basic)
 include(python3-basic)
 asciidoc
 attr
+bash-completion
 bats
 bc
 cgdb
