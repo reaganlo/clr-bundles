@@ -39,6 +39,7 @@ iasimage
 icdiff
 inotify-tools
 iproute2
+ipvsadm
 irssi
 joe
 jq
