@@ -37,5 +37,6 @@ strace
 sysdig
 sysstat
 tcpdump
+time
 tiptop
 util-linux
