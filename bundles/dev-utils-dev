@@ -29,6 +29,7 @@ autogen
 automake
 automake-dev
 bash
+bash-completion-dev
 bats
 bc
 binutils
