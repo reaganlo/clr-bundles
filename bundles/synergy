@@ -1,0 +1,8 @@
+# [TITLE]: synergy
+# [DESCRIPTION]: Keyboard and mouse sharing across networks
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(qt-basic)
+include(postgresql)
+synergy
