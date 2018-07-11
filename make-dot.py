@@ -28,6 +28,12 @@ def build_bundle_dictionary():
                             bundleincludes = includepattern.findall(bundledef)
                             bundlepackages = packagepattern.findall(bundledef)
                             bundledict[bundlename] = Bundle(bundlename, bundlestatus, bundleincludes, bundlepackages)
+        with open('packages', 'r') as package_file:
+                for line in package_file:
+                        if line[0] == "#":
+                                continue
+                        line = line.strip()
+                        bundledict[line] = Bundle(line, 'Active', [], line)
         return bundledict
 
 def build_statusbundle_dictionary(bundledict):
