@@ -109,6 +109,7 @@ clr-rpm-config
 cmake
 colorama
 compat-fuse-soname2-dev
+compat-python36-core
 contextlib2
 coreutils
 coverage

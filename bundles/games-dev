@@ -69,6 +69,7 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

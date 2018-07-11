@@ -33,6 +33,7 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
