@@ -70,6 +70,7 @@ clr-rpm-config
 clutter-dev
 cmake
 colord-dev
+compat-libpng-soname12-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
