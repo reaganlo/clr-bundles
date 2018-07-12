@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
-clr-python-timestamp
+
 glibc-lib-avx2
 pip
 pycodestyle
