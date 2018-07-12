@@ -38,7 +38,6 @@ p7zip
 patch
 patchutils
 quilt
-rr
 rsync
 rt-tests
 source-highlight
