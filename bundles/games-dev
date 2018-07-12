@@ -69,6 +69,7 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+colord-dev
 coreutils
 cracklib-dev
 cryptsetup-dev

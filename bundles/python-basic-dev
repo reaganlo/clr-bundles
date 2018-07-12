@@ -62,11 +62,8 @@ glibc-libc32
 glibc-locale
 glibc-utils
 gmp-dev
-gmp-gmpxx
-gmp-lib-hsw
 graphviz
 grep
-groff
 gtk-doc
 gtk-doc-dev
 guile
@@ -123,7 +120,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pip
