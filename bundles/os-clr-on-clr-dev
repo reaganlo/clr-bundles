@@ -287,6 +287,7 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
+lcms2-dev
 less
 leveldb-dev
 libICE-dev
@@ -361,6 +362,8 @@ libgfortran-compat-soname3
 libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
+libgudev-dev
+libgusb-dev
 libidn-dev
 libidn-dev32
 libinput-dev
@@ -712,6 +715,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala-dev
 valgrind
 valgrind-dev
 vcversioner
