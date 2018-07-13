@@ -372,6 +372,7 @@ libjpeg-turbo-dev32
 libksba-dev
 libmnl-dev
 libmnl-dev32
+libmodulemd-dev
 libnetfilter_conntrack-dev
 libnetfilter_conntrack-dev32
 libnetfilter_cthelper-dev
@@ -609,12 +610,14 @@ py-python
 pyOpenSSL
 pyasn1
 pyasn1-legacypython
+pycairo-dev
 pycparser
 pycparser-legacypython
 pycparser-python
 pycurl
 pyparsing
 pytest
+pytest-runner
 pytest-xdist
 python
 python-core
@@ -750,6 +753,7 @@ xz-dev
 xz-dev32
 yajl-dev
 yajl-lib
+yaml-dev
 yasm
 zlib
 zlib-dev
