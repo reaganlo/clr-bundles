@@ -541,6 +541,8 @@ openblas
 openconnect-dev
 opencv-dev
 openjade-dev
+openjdk
+openjdk-dev
 openldap-dev
 openssh
 openssl
