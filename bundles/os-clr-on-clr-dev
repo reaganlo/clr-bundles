@@ -89,6 +89,8 @@ boost-dev
 bridge-utils
 bsdiff-dev
 btrfs-progs-dev
+buildreq-distutils3
+buildreq-qmake
 bzip2
 bzip2-dev
 c-ares-dev

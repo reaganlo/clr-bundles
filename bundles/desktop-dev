@@ -65,6 +65,10 @@ bluez-dev
 boost-dev
 brotli-dev
 btrfs-progs-dev
+buildreq-cmake
+buildreq-gnome
+buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 ca-certs
@@ -221,7 +225,6 @@ gnome-video-effects-dev
 gnu-efi
 gnu-efi-dev
 gnupg
-gnupg-bin
 gnutls-dev
 gnutls-dev32
 go
@@ -374,7 +377,6 @@ libgcrypt-dev32
 libgd-dev
 libgdata-dev
 libgee-dev
-libgnome-keyring-dev
 libgnomekbd-dev
 libgpg-error-dev
 libgpg-error-dev32

@@ -68,6 +68,8 @@ bison-dev
 bluez-dev
 boost-dev
 bridge-utils
+buildreq-distutils3
+buildreq-qmake
 bzip2
 bzip2-dev
 ca-certs

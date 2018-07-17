@@ -20,6 +20,7 @@ bats
 binutils
 bison
 bison-dev
+buildreq-qmake
 bzip2
 bzip2-dev
 clr-rpm-config
@@ -212,7 +213,6 @@ python-dev
 python3
 python3-core
 python3-dev
-qtbase-extras
 readline-dev
 readline-dev32
 rpm-build
