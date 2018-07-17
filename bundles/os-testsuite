@@ -18,3 +18,4 @@ perl
 perl-YAML-Tiny
 rsync
 socat
+sudo
