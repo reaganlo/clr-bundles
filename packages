@@ -10,6 +10,7 @@
 # Do not remove things from this list without very careful coordination
 # with devops
 #
+# This file should remain sorted
 ansible
 bc
 bmap-tools
@@ -26,10 +27,10 @@ dtc
 ethtool
 file
 findutils
-firefox
 fio
-gimp
+firefox
 gftp
+gimp
 glmark2
 gzip
 htop
