@@ -54,6 +54,7 @@ lsof
 man-db
 man-pages
 mc
+minicom
 mosh
 motd-update
 nano
