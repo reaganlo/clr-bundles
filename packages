@@ -29,6 +29,7 @@ file
 findutils
 fio
 firefox
+gdb
 gftp
 gimp
 glmark2
