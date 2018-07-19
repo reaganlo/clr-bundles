@@ -59,6 +59,7 @@ patch
 pmdk
 postgresql
 powertop
+pwgen
 redis-native
 strace
 subversion
