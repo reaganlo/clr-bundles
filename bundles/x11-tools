@@ -1,0 +1,29 @@
+# [TITLE]: x11-tools
+# [DESCRIPTION]: Tools useful when running under X11
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+include(libX11client)
+
+setxkbmap
+x11vnc
+xauth
+xclip
+xdpyinfo
+xhost
+xinput
+xkbcomp
+xinput
+xkbcomp
+xkeyboard-config
+xmodmap
+xprop
+xrandr
+xrdb
+xrdp
+xrestop
+xscreensaver
+xset
+xwd
+xwininfo
+
