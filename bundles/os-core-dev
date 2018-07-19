@@ -19,6 +19,7 @@ automake-dev
 binutils
 bison
 bison-dev
+buildreq-cmake
 bzip2
 bzip2-dev
 ca-certs

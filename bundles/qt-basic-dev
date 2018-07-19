@@ -36,6 +36,7 @@ bison
 bison-dev
 bluez-dev
 boost-dev
+buildreq-cmake
 bzip2
 bzip2-dev
 cairo-dev

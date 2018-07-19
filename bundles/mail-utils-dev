@@ -22,6 +22,7 @@ automake-dev
 bats
 binutils
 bison
+buildreq-cmake
 bzip2
 bzip2-dev
 check

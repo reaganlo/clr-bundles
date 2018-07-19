@@ -32,6 +32,7 @@ binutils-dev
 bison
 bison-dev
 boost-dev
+buildreq-cmake
 bzip2
 bzip2-dev
 ca-certs
