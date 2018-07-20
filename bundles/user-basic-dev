@@ -64,6 +64,10 @@ bridge-utils
 bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-distutils3
+buildreq-gnome
+buildreq-golang
+buildreq-meson
 buildreq-qmake
 bzip2
 bzip2-dev
@@ -242,6 +246,8 @@ libXi-dev
 libXi-dev32
 libXinerama-dev
 libXinerama-dev32
+libXrandr-dev
+libXrandr-dev32
 libXrender-dev
 libXrender-dev32
 libXv-dev

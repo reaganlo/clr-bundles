@@ -40,6 +40,8 @@ boost
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-distutils3
+buildreq-golang
 bzip2
 bzip2-dev
 ca-certs

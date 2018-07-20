@@ -57,6 +57,8 @@ bluez-dev
 boost-dev
 brotli-dev
 buildreq-cmake
+buildreq-gnome
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs

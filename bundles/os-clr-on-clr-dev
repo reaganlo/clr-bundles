@@ -92,6 +92,9 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-cpan
 buildreq-distutils3
+buildreq-gnome
+buildreq-golang
+buildreq-meson
 buildreq-qmake
 bzip2
 bzip2-dev

@@ -37,6 +37,8 @@ bison-dev
 bluez-dev
 boost-dev
 buildreq-cmake
+buildreq-gnome
+buildreq-meson
 bzip2
 bzip2-dev
 cairo-dev
@@ -172,6 +174,8 @@ libXft-dev
 libXft-dev32
 libXi-dev
 libXi-dev32
+libXrandr-dev
+libXrandr-dev32
 libXrender-dev
 libXrender-dev32
 libXtst-dev

@@ -33,6 +33,8 @@ bison
 bison-dev
 boost-dev
 buildreq-cmake
+buildreq-distutils3
+buildreq-golang
 bzip2
 bzip2-dev
 ca-certs
