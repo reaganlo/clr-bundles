@@ -12,6 +12,7 @@
 #
 # This file should remain sorted
 ansible
+audit
 bc
 bmap-tools
 clamav
