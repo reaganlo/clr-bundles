@@ -1,0 +1,32 @@
+# [TITLE]: desktop-apps
+# [DESCRIPTION]: Helper libraries from the KDE ecosystem
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(qt-basic)
+
+
+kauth-lib
+kbookmarks-lib
+kcompletion-lib
+kconfig
+kconfig-lib
+kconfigwidgets-lib
+kglobalaccel-lib
+kiconthemes-lib
+kio-lib
+kitemviews-lib
+kjobwidgets-lib
+knewstuff-lib
+knotifications-lib
+knotifyconfig-lib
+kparts-lib
+kservice-lib
+ktextwidgets-lib
+kwidgetsaddons-lib
+kwindowsystem-lib
+kxmlgui-lib
+phonon-lib
+solid-lib
+sonnet-lib
