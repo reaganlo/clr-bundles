@@ -1,11 +1,11 @@
-# [TITLE]: desktop-apps
+# [TITLE]: desktop-kde-apps
 # [DESCRIPTION]: Applications for the desktop from the KDE ecosystem
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(qt-basic)
-
+include(deskt-kde-libs)
 
 
 konsole
