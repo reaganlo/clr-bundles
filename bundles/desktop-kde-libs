@@ -6,14 +6,24 @@
 
 include(qt-basic)
 
-
+attica-lib
+gpgme-lib
+karchive-lib
 kauth-lib
 kbookmarks-lib
+kcodecs-lib
 kcompletion-lib
 kconfig
 kconfig-lib
 kconfigwidgets-lib
 kglobalaccel-lib
+kcoreaddons-lib
+kcrash-lib
+kdbusaddons-lib
+kdoctools-lib
+kglobalaccel-lib
+kguiaddons-lib
+ki18n-lib
 kiconthemes-lib
 kio-lib
 kitemviews-lib
@@ -22,11 +32,15 @@ knewstuff-lib
 knotifications-lib
 knotifyconfig-lib
 kparts-lib
+kpty-lib
 kservice-lib
 ktextwidgets-lib
+kwallet-lib
 kwidgetsaddons-lib
 kwindowsystem-lib
 kxmlgui-lib
+libassuan-lib
+libxslt-lib
 phonon-lib
 solid-lib
 sonnet-lib
