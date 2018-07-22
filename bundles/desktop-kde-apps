@@ -5,7 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(qt-basic)
-include(deskt-kde-libs)
+include(desktop-kde-libs)
 
 
 konsole
