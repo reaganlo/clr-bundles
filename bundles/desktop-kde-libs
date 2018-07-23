@@ -7,6 +7,9 @@
 include(qt-basic)
 
 attica-lib
+baloo-lib
+baloo-widgets-lib
+exiv2-lib
 gpgme-lib
 karchive-lib
 kauth-lib
@@ -17,10 +20,13 @@ kconfig
 kconfig-lib
 kconfigwidgets-lib
 kglobalaccel-lib
+kcmutils-lib
 kcoreaddons-lib
 kcrash-lib
 kdbusaddons-lib
+kdeclarative-lib
 kdoctools-lib
+kfilemetadata-lib
 kglobalaccel-lib
 kguiaddons-lib
 ki18n-lib
@@ -31,6 +37,7 @@ kjobwidgets-lib
 knewstuff-lib
 knotifications-lib
 knotifyconfig-lib
+kpackage-lib
 kparts-lib
 kpty-lib
 kservice-lib
