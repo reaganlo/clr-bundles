@@ -3,10 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(qt-basic)
 include(desktop-kde-libs)
-
-
-konsole
+include(qt-basic)
 dolphin
+konsole
