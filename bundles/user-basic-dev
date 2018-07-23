@@ -85,6 +85,7 @@ clear-font
 clr-rpm-config
 cmake
 compat-fuse-soname2-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptography
@@ -212,6 +213,7 @@ iptables-dev
 iptables-dev32
 isa-l-dev
 iso8601
+jeepney
 json-c-dev
 jsonschema-python
 keyring-python

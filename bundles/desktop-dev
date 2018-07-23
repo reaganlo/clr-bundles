@@ -66,7 +66,9 @@ boost-dev
 brotli-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-cpan
 buildreq-gnome
+buildreq-golang
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -97,6 +99,7 @@ colord-gtk-dev
 compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -735,6 +738,7 @@ yajl-dev
 yaml-dev
 yasm
 yelp-dev
+yelp-tools-dev
 yelp-xsl-dev
 zenity
 zlib

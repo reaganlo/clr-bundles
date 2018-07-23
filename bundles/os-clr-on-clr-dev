@@ -117,6 +117,7 @@ cmake
 colorama
 colord-dev
 compat-fuse-soname2-dev
+compat-python36-core
 contextlib2
 coreutils
 coverage
@@ -279,9 +280,11 @@ iptables-dev
 iptables-dev32
 ipython
 isa-l-dev
+iso-codes-dev
 iso8601
 isodate
 itstool
+jeepney
 jemalloc-dev
 json-c-dev
 json-glib-dev
@@ -322,6 +325,7 @@ libXi-dev
 libXi-dev32
 libXinerama-dev
 libXinerama-dev32
+libXpm-dev
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev

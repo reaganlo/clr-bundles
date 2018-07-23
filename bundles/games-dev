@@ -74,6 +74,7 @@ clutter-dev
 cmake
 colord-dev
 compat-libpng-soname12-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -193,6 +194,7 @@ iptables
 iptables-dev
 iptables-dev32
 irrlicht-dev
+iso-codes-dev
 itstool
 jansson-dev
 json-c-dev

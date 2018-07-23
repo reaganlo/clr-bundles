@@ -27,6 +27,7 @@ bzip2
 bzip2-dev
 clr-rpm-config
 cmake
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

@@ -42,6 +42,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-distutils3
 buildreq-golang
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
@@ -52,6 +53,7 @@ check-dev
 clr-rpm-config
 cmake
 compat-fuse-soname2-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptography
@@ -133,6 +135,7 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
+jeepney
 jsonschema-python
 keyring-python
 keyutils-dev

@@ -33,6 +33,7 @@ ca-certs
 check-dev
 clr-rpm-config
 cmake
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
