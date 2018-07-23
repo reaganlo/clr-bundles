@@ -9,3 +9,4 @@ include(desktop-kde-libs)
 
 
 konsole
+dolphin
