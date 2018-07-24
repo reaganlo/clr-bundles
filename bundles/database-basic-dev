@@ -23,6 +23,7 @@ bison
 bison-dev
 boost-dev
 buildreq-cmake
+buildreq-cpan
 bzip2
 bzip2-dev
 clr-rpm-config

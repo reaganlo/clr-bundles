@@ -40,6 +40,7 @@ boost
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-cpan
 buildreq-distutils3
 buildreq-golang
 buildreq-meson

@@ -30,6 +30,7 @@ bison-dev
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-cpan
 bzip2
 bzip2-dev
 check

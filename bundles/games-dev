@@ -57,6 +57,7 @@ bluez-dev
 boost-dev
 brotli-dev
 buildreq-cmake
+buildreq-cpan
 buildreq-gnome
 buildreq-meson
 bzip2

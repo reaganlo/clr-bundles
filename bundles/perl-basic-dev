@@ -13,6 +13,7 @@ automake-dev
 bats
 binutils
 bison
+buildreq-cpan
 bzip2
 clr-rpm-config
 coreutils

@@ -69,6 +69,7 @@ bluez-dev
 boost-dev
 bridge-utils
 buildreq-cmake
+buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang

@@ -21,6 +21,7 @@ binutils
 bison
 bison-dev
 buildreq-cmake
+buildreq-cpan
 buildreq-qmake
 bzip2
 bzip2-dev
