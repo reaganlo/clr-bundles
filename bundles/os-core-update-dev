@@ -27,6 +27,7 @@ boost-dev
 bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
@@ -169,6 +170,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pip

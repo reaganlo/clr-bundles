@@ -22,6 +22,8 @@ bison
 bison-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils3
+buildreq-meson
 buildreq-qmake
 bzip2
 bzip2-dev

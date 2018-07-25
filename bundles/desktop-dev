@@ -67,6 +67,7 @@ brotli-dev
 btrfs-progs-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
@@ -224,6 +225,7 @@ gnome-online-accounts-dev
 gnome-panel-dev
 gnome-settings-daemon-dev
 gnome-shell
+gnome-software-dev
 gnome-video-effects-dev
 gnu-efi
 gnu-efi-dev

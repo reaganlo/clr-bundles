@@ -27,6 +27,7 @@ bison-dev
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
@@ -187,6 +188,7 @@ pbr
 pcre-dev
 pcre-dev32
 pcre2-dev
+perl
 perl-Error
 perl-XML-Parser
 pigz

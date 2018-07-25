@@ -24,6 +24,8 @@ bison-dev
 boost-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils3
+buildreq-meson
 bzip2
 bzip2-dev
 clr-rpm-config

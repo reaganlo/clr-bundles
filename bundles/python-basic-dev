@@ -22,6 +22,8 @@ bats
 binutils
 bison
 buildreq-cmake
+buildreq-distutils3
+buildreq-meson
 bzip2
 bzip2-dev
 check
@@ -106,13 +108,11 @@ libxslt-bin
 linux-libc-headers
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
-ninja
 nss-altfiles
 openblas
 openssl
@@ -122,6 +122,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pip

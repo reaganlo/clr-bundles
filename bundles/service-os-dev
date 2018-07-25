@@ -35,6 +35,7 @@ boost-dev
 buildreq-cmake
 buildreq-distutils3
 buildreq-golang
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
@@ -183,6 +184,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pesign
 pigz

@@ -39,6 +39,7 @@ boost-dev
 buildreq-cmake
 buildreq-gnome
 buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 cairo-dev
@@ -299,6 +300,7 @@ pbr
 pcre-dev
 pcre-dev32
 pcre2-dev
+perl
 perl-IPC-Run
 perl-XML-Parser
 pigz

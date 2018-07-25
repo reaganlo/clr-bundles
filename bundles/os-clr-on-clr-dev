@@ -91,6 +91,7 @@ bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -118,7 +119,6 @@ colorama
 colord-dev
 compat-fuse-soname2-dev
 compat-python36-core
-configparser-python
 contextlib2
 coreutils
 coverage
@@ -166,6 +166,7 @@ elfutils-dev
 elfutils-dev32
 emacs
 enchant-dev
+entrypoints
 enum34
 enum34-legacypython
 execnet
@@ -247,6 +248,8 @@ gperftools-dev
 gpgme
 gpgme-dev
 graphviz
+greenlet
+greenlet-python
 grep
 groff
 gtk+-dev
