@@ -15,6 +15,7 @@ ansible
 audit
 bc
 bmap-tools
+casync
 clamav
 cockpit
 cpio
