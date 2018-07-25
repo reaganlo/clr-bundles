@@ -5,5 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(desktop-kde-libs)
 include(qt-basic)
+
+ark
 dolphin
 konsole
