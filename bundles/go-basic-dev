@@ -25,6 +25,7 @@ bison
 bison-dev
 boost-dev
 buildreq-cmake
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
@@ -75,6 +76,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+gnutls-dev
 go
 gperf
 graphviz
@@ -126,7 +128,6 @@ libxslt-bin
 linux-libc-headers
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -134,7 +135,6 @@ ncurses-dev32
 netbase
 nghttp2-dev
 nghttp2-dev32
-ninja
 nss-altfiles
 openssl
 openssl-dev

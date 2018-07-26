@@ -95,6 +95,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
+gnutls-dev
 go
 gperf
 graphviz

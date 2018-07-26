@@ -73,6 +73,7 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -271,6 +272,7 @@ jq
 json-c-dev
 json-glib-dev
 json-glib-dev32
+kiwisolver
 kmod
 kmod-bin
 kmod-dev
@@ -552,7 +554,9 @@ pyparsing-legacypython
 pytest
 python
 python-core
+python-dateutil
 python-dev
+python-tcl
 python3
 python3-core
 python3-dev

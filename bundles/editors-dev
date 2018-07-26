@@ -131,7 +131,6 @@ linux-libc-headers
 lua-dev
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -143,7 +142,6 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
-ninja
 nss-altfiles
 openssl
 openssl-dev

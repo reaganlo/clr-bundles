@@ -27,6 +27,8 @@ bison-dev
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-golang
+buildreq-kde
 buildreq-meson
 bzip2
 bzip2-dev
@@ -200,6 +202,7 @@ python-dev
 python3
 python3-core
 python3-dev
+qtbase-extras
 readline-dev
 readline-dev32
 rpm-build

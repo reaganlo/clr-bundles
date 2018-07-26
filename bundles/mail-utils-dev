@@ -23,6 +23,8 @@ bats
 binutils
 bison
 buildreq-cmake
+buildreq-distutils3
+buildreq-kde
 buildreq-meson
 bzip2
 bzip2-dev
@@ -176,6 +178,7 @@ python-dev
 python3
 python3-core
 python3-dev
+qtbase-extras
 readline-dev
 readline-dev32
 rpm-build

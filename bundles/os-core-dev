@@ -20,6 +20,7 @@ binutils
 bison
 bison-dev
 buildreq-cmake
+buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
@@ -71,6 +72,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+gnutls-dev
 gperf
 graphviz
 grep
@@ -125,13 +127,11 @@ libxslt-bin
 linux-libc-headers
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
 ncurses-dev32
 netbase
-ninja
 nss-altfiles
 openssl
 openssl-dev

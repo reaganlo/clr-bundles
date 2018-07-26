@@ -76,6 +76,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
+gnutls-dev
 gperf
 graphviz
 grep
@@ -123,14 +124,12 @@ m4
 make
 mariadb-dev
 mariadb-test
-meson
 mpc-dev
 mpfr-dev
 nasm
 ncurses-dev
 ncurses-dev32
 netbase
-ninja
 nss-altfiles
 openjade-dev
 openssl

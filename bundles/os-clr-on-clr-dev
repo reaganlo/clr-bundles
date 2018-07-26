@@ -95,6 +95,7 @@ buildreq-distutils
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -300,6 +301,7 @@ json-glib-dev32
 jsonschema-python
 keyring-python
 keyutils-dev
+kiwisolver
 kmod
 kmod-bin
 kmod-dev
@@ -645,12 +647,14 @@ pytest-runner
 pytest-xdist
 python
 python-core
+python-dateutil
 python-dev
 python-magic
 python-mimeparse
 python-mock
 python-rpm
 python-subunit
+python-tcl
 python3
 python3-core
 python3-dev

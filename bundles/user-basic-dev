@@ -68,6 +68,7 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-qmake
 bzip2

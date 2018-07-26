@@ -20,6 +20,7 @@ Mako-python
 ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
+Pillow
 R-dev
 SDL-dev
 SDL2-dev
@@ -70,6 +71,7 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -157,6 +159,7 @@ flex-dev
 font-bitstream-type1
 font-util-dev
 font-util-dev32
+fontconfig
 fontconfig-data
 fontconfig-dev
 fontconfig-dev32
@@ -165,7 +168,9 @@ freetype-dev
 freetype-dev32
 fribidi-dev
 fribidi-dev32
+fwupd-dev
 gawk
+gcab
 gcab-dev
 gcc
 gcc-dev
@@ -270,6 +275,7 @@ gvfs-dev
 gzip
 harfbuzz-dev
 harfbuzz-dev32
+help2man
 hostname
 hunspell-dev
 ibus-dev
@@ -440,6 +446,7 @@ libsass-dev
 libseccomp-dev
 libsecret-dev
 libsigc++-dev
+libsmbios-dev
 libsndfile-dev
 libsndfile-dev32
 libsoup-dev
@@ -607,6 +614,7 @@ psutil
 pulseaudio-dev
 pulseaudio-dev32
 pyaml
+pycairo
 pycairo-dev
 pygobject
 pygobject-dev
