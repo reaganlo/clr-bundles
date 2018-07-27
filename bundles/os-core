@@ -22,6 +22,7 @@ kmod-bin
 nano-bin
 nano-data
 netbase
+nettle-lib
 nss-altfiles
 procps-ng-bin
 sed-bin
