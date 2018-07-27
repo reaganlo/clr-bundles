@@ -91,8 +91,10 @@ glibc-libc32
 glibc-locale
 glibc-utils
 gmp-dev
+gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
+gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
@@ -136,6 +138,8 @@ libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
+libidn-dev
+libidn-dev32
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev
@@ -154,6 +158,8 @@ libtasn1-dev
 libtasn1-dev32
 libtool
 libtool-dev
+libunistring-dev
+libunistring-dev32
 libunwind-dev
 libusb-dev
 libxml2-dev
@@ -164,14 +170,17 @@ linux-libc-headers
 m4
 make
 man-db
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
 ncurses-dev32
+net-tools
 netbase
+nettle
 nettle-dev
-ninja
+nettle-dev32
+nettle-lib
+nettle-lib32
 nss-altfiles
 numactl-dev
 onig-dev
@@ -180,6 +189,8 @@ openssl-dev
 openssl-dev32
 openssl-lib32
 p11-kit
+p11-kit-dev
+p11-kit-dev32
 patch
 pbr
 pciutils-dev
