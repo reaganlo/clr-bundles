@@ -38,6 +38,7 @@ gdk-pixbuf-dev
 global
 gtk3-dev
 gtk+-dev
+libabigail
 libarchive
 libarchive-c
 libarchive-dev
