@@ -1,0 +1,6 @@
+# [TITLE]: kernel-hyperv-mini
+# [DESCRIPTION]: Run the hyperv mini-os specific kernel
+# [STATUS]: Deprecated
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas
+include(kernel-hyperv)
