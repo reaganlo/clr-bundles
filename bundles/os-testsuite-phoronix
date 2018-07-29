@@ -94,6 +94,7 @@ numactl-dev
 numpy
 ocl-icd
 ocl-icd-dev
+octave
 openblas
 openssl-dev
 opus-dev
