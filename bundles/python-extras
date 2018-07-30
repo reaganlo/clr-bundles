@@ -15,6 +15,10 @@ boto
 certifi
 cxxfilt
 deap
+flake8
+flake8-blind-except
+flake8-class-newline
+flake8-docstrings
 glibc-lib-avx2
 libgfortran-avx
 lxml
@@ -24,6 +28,9 @@ nose
 numpy
 pbr
 pytest
+pytest-cov
+pytest-repeat
+pytest-rerunfailures
 python-dateutil
 python-tappy
 requests
