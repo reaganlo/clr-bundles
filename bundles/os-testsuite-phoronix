@@ -10,6 +10,7 @@ include(go-basic)
 include(machine-learning-basic)
 include(desktop-autostart)
 include(desktop-apps-extras)
+include(octave)
 include(php-basic)
 include(games)
 include(R-basic)
@@ -94,7 +95,6 @@ numactl-dev
 numpy
 ocl-icd
 ocl-icd-dev
-octave
 openblas
 openssl-dev
 opus-dev
