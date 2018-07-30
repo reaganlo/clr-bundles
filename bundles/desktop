@@ -68,6 +68,8 @@ cups
 cups-filters
 cups-pk-helper
 dhcp
+fwupd
+fwupdate
 ghostscript
 gutenprint
 gnome-online-accounts
