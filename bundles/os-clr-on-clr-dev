@@ -53,6 +53,7 @@ appdirs
 apr-dev
 apr-util-dev
 argcomplete
+argon2-dev
 argparse
 asciidoc
 asn1crypto
@@ -199,6 +200,7 @@ fontconfig-data
 fontconfig-dev
 fontconfig-dev32
 freeglut-dev
+freetype
 freetype-dev
 freetype-dev32
 fribidi-dev
@@ -390,6 +392,7 @@ libXvMC-dev
 libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
+libabigail-dev
 libaio-dev
 libarchive-c
 libarchive-dev
@@ -508,6 +511,7 @@ links
 linux-libc-headers
 llvm
 llvm-dev
+lmdb-dev
 lua
 lua-dev
 lxml
@@ -666,6 +670,7 @@ perl-namespace-autoclean
 perl-namespace-clean
 pexpect
 phonon-dev
+php
 php-dev
 pigz
 pip

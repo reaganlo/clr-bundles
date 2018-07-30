@@ -8,6 +8,7 @@ include(dev-utils)
 include(os-core-dev)
 CUnit-dev
 CUnit-dev32
+Cython
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -27,6 +28,7 @@ bison-dev
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-distutils3
 buildreq-golang
 buildreq-kde
 buildreq-meson
@@ -116,6 +118,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
+libaio-dev
 libassuan-dev
 libc6
 libc6-dev

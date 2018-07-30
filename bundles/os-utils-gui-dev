@@ -8,6 +8,7 @@ include(os-core-dev)
 include(os-utils-gui)
 CUnit-dev
 CUnit-dev32
+Cython
 FreeRDP-dev
 LVM2
 LVM2-dev
@@ -238,6 +239,7 @@ jq
 json-c-dev
 json-glib-dev
 json-glib-dev32
+keyutils-dev
 kmod
 kmod-bin
 kmod-dev
@@ -290,6 +292,8 @@ libXvMC-dev
 libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
+libabigail
+libaio-dev
 libarchive-dev
 libassuan-dev
 libburn-dev

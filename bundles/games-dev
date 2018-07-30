@@ -93,6 +93,7 @@ dejagnu
 desktop-file-utils
 dhcp
 diffutils
+dnsmasq
 docbook-utils
 docbook-xml
 doxygen
@@ -101,6 +102,7 @@ e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
+elfutils
 elfutils-dev
 elfutils-dev32
 emacs

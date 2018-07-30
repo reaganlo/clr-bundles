@@ -31,6 +31,7 @@ boost-dev
 btrfs-progs-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils3
 buildreq-meson
 bzip2
 bzip2-dev
@@ -115,6 +116,7 @@ iperf-dev
 iptables-dev
 iptables-dev32
 json-c-dev
+keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
@@ -125,6 +127,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libaio-dev
 libc6-dev
 libcap-dev
 libcap-dev32

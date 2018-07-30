@@ -23,6 +23,7 @@ bats
 binutils
 bison
 buildreq-cmake
+buildreq-distutils3
 buildreq-kde
 buildreq-meson
 bzip2

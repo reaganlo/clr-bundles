@@ -102,6 +102,7 @@ intltool-dev
 iptables-dev
 iptables-dev32
 json-c-dev
+keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
@@ -112,6 +113,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libaio-dev
 libarchive-dev
 libc6
 libc6-dev
