@@ -83,6 +83,7 @@ automake-dev
 babeltrace-dev
 backports.ssl_match_hostname
 bash
+bash-completion
 bash-completion-dev
 bats
 bc
@@ -99,6 +100,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-cpan
 buildreq-distutils
+buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang

@@ -341,6 +341,7 @@ libxslt-bin
 libxslt-dev
 linux-firmware-wifi
 linux-libc-headers
+linux-steam-integration-dev
 llvm
 llvm-dev
 m4

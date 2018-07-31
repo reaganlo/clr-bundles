@@ -21,6 +21,7 @@ autoconf
 autogen
 automake
 automake-dev
+bash-completion-dev
 bats
 binutils
 bison
