@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
+include(containers-basic)
 include(git)
 include(openssl)
 include(os-installer)
