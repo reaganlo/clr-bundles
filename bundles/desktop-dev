@@ -172,6 +172,7 @@ freetype-dev32
 fribidi-dev
 fribidi-dev32
 fwupd-dev
+fwupdate-dev
 gawk
 gcab
 gcab-dev

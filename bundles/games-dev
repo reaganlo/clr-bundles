@@ -207,6 +207,7 @@ kmod-dev
 kmod-dev32
 krb5-dev
 lcms2-dev
+leveldb
 libICE-dev
 libICE-dev32
 libSM-dev

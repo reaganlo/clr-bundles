@@ -259,6 +259,7 @@ gnutls-dev
 go
 gobject-introspection
 gobject-introspection-dev
+golang-github-cpuguy83-go-md2man
 googletest-dev
 gperf
 gperftools-dev
@@ -394,6 +395,7 @@ libXvMC-dev
 libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
+libabigail
 libabigail-dev
 libaio-dev
 libarchive-c
@@ -466,6 +468,7 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libsamplerate-dev
+libseccomp-dev
 libsndfile-dev
 libsndfile-dev32
 libsolv-dev
@@ -744,6 +747,7 @@ re2c
 readline-dev
 readline-dev32
 requests
+requests-toolbelt-python
 rest-dev
 rest-dev32
 rpm-build
