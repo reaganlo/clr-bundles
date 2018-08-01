@@ -13,6 +13,7 @@
 # This file should remain sorted
 ansible
 audit
+axel
 bc
 bmap-tools
 casync
