@@ -198,7 +198,6 @@ m4
 make
 man-db
 mesa-dev
-meson
 metrics-discovery-dev
 mpc-dev
 mpfr-dev

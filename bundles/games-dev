@@ -60,6 +60,7 @@ buildreq-cmake
 buildreq-cpan
 buildreq-gnome
 buildreq-meson
+buildreq-scons
 bzip2
 bzip2-dev
 ca-certs

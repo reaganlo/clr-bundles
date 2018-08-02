@@ -40,6 +40,7 @@ buildreq-cmake
 buildreq-gnome
 buildreq-meson
 buildreq-qmake
+buildreq-scons
 bzip2
 bzip2-dev
 cairo-dev
