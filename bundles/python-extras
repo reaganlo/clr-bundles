@@ -20,6 +20,7 @@ flake8-blind-except
 flake8-class-newline
 flake8-docstrings
 glibc-lib-avx2
+kernel-config-checker
 libgfortran-avx
 lxml
 MonkeyType
