@@ -605,3 +605,4 @@ yajl-lib
 yasm
 zlib-dev
 zlib-dev32
+zstd-dev

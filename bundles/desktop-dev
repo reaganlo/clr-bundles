@@ -761,3 +761,4 @@ zenity
 zlib
 zlib-dev
 zlib-dev32
+zstd-dev
