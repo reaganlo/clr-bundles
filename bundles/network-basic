@@ -40,5 +40,6 @@ rsync
 tcpdump
 traceroute
 weechat
+WireGuard
 wget
 znc
