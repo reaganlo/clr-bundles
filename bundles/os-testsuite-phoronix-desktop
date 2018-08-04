@@ -3,20 +3,12 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
-include(os-testsuite-phoronix-desktop)
-include(os-testsuite-phoronix-server)
 include(c-basic)
-include(database-basic)
 include(git)
-include(go-basic)
-include(machine-learning-basic)
 include(desktop-autostart)
 include(desktop-apps-extras)
-include(octave)
 include(php-basic)
 include(games)
-include(R-basic)
 include(python3-basic)
 include(qt-basic-dev)
 SDL
@@ -38,7 +30,6 @@ bc
 beignet
 beignet-dev
 bison
-bndl-lamp-basic
 boost-dev
 bzip2-dev
 bzip2-dev
@@ -88,8 +79,6 @@ lua-dev
 mesa-demos
 meson
 mpfr-dev
-openmpi
-openmpi-dev
 nasm
 ncurses-dev
 ninja
@@ -113,11 +102,8 @@ php
 popt-dev
 pth-dev
 python3-dev
-redis-native
 scons
 snappy-dev
-SuiteSparse
-SuiteSparse-dev
 sqlite-autoconf-dev
 tcl
 time
