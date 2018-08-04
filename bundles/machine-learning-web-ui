@@ -5,6 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(R-extras)
 include(python3-basic)
+include(python-data-science)
 
 Jinja2
 MarkupSafe

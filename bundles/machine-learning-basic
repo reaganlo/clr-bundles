@@ -5,6 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(python-extras)
+include(python-data-science)
 
 #
 # Key ML frameworks and tools
