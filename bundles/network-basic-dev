@@ -29,6 +29,7 @@ boost-dev
 buildreq-cmake
 buildreq-cpan
 buildreq-distutils3
+buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
@@ -278,7 +279,6 @@ rpm-build
 ruby
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info

@@ -523,7 +523,6 @@ sbc-dev32
 scons
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info
