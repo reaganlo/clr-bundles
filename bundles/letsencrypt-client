@@ -4,5 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(python3-basic)
+include(cloud-api)
 
 certbot

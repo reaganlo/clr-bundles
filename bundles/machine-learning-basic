@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
+include(cloud-api)
 include(python-extras)
 include(python-data-science)
 
