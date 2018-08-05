@@ -3,8 +3,10 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+
 include(python3-basic)
 
+include(cloud-api)
 #
 # For the test suite
 #
