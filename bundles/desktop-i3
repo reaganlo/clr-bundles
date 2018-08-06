@@ -4,6 +4,7 @@
 # [CAPABILITIES]: Run i3 as gdm session or xinit WM
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 dmenu
+feh
 i3
 i3lock
 i3status
