@@ -1,5 +1,5 @@
-# [TITLE]: os-testsuite-phoronix
-# [DESCRIPTION]: Run the Phoronix testsuite
+# [TITLE]: os-testsuite-phoronix-server
+# [DESCRIPTION]: Run the Phoronix testsuite (server version)
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
