@@ -10,6 +10,7 @@ include(openssl)
 include(perl-basic)
 include(python3-basic)
 include(wpa_supplicant)
+WireGuard
 bind-utils
 bridge-utils
 connect-proxy
@@ -40,6 +41,5 @@ rsync
 tcpdump
 traceroute
 weechat
-WireGuard
 wget
 znc
