@@ -38,7 +38,6 @@ bzip2-dev
 ca-certs
 clr-rpm-config
 cmake
-compat-python36-core
 containerd-dev
 coreutils
 cracklib-dev

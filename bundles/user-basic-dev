@@ -88,7 +88,6 @@ clear-font
 clr-rpm-config
 cmake
 compat-fuse-soname2-dev
-compat-python36-core
 coreutils
 cracklib-dev
 cryptography

@@ -130,7 +130,6 @@ cmake
 colorama
 colord-dev
 compat-fuse-soname2-dev
-compat-python36-core
 contextlib2
 coreutils
 coverage

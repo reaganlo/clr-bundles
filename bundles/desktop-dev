@@ -104,7 +104,6 @@ colord-gtk-dev
 compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
