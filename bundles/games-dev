@@ -138,6 +138,7 @@ gdbm-dev32
 gdk-pixbuf
 gdk-pixbuf-dev
 gdk-pixbuf-dev32
+geoclue-dev
 gettext
 gettext-bin
 gettext-dev
@@ -236,10 +237,12 @@ libXi-dev32
 libXinerama-dev
 libXinerama-dev32
 libXmu-dev
+libXpm-dev
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev
 libXrender-dev32
+libXres-dev
 libXt-dev
 libXt-dev32
 libXtst-dev
@@ -249,6 +252,7 @@ libXv-dev32
 libXvMC-dev
 libXvMC-dev32
 libXxf86dga-dev
+libXxf86misc-dev
 libXxf86vm-dev
 libXxf86vm-dev32
 libc6

@@ -12,6 +12,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
 acl-dev32
+acrn-hypervisor-dev
 asciidoc
 asn1crypto
 asn1crypto-legacypython

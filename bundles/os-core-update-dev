@@ -28,6 +28,7 @@ boost-dev
 bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-distutils3
 buildreq-meson
 bzip2
 bzip2-dev
