@@ -13,7 +13,6 @@ curl
 diffutils
 expect
 file
-kernel-config-checker-bin
 make
 perl
 perl-YAML-Tiny
