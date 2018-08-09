@@ -37,6 +37,7 @@ bison-dev
 bluez-dev
 boost-dev
 buildreq-cmake
+buildreq-cpan
 buildreq-gnome
 buildreq-meson
 buildreq-qmake
@@ -130,6 +131,8 @@ gobject-introspection
 gobject-introspection-dev
 googletest-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff

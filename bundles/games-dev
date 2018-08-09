@@ -173,6 +173,8 @@ gobject-introspection
 gobject-introspection-dev
 googletest-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff

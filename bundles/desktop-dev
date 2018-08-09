@@ -249,6 +249,8 @@ googletest-dev
 gperf
 gpgme
 gpgme-dev
+graphite-dev
+graphite-dev32
 graphviz
 grep
 grilo-dev

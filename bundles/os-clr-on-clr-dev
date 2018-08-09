@@ -265,6 +265,8 @@ gperf
 gperftools-dev
 gpgme
 gpgme-dev
+graphite-dev
+graphite-dev32
 graphviz
 greenlet
 greenlet-python
