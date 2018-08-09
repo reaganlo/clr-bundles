@@ -170,6 +170,7 @@ perl-File-DesktopEntry
 perl-File-FcntlLock
 perl-File-Grep
 perl-File-HomeDir
+perl-File-KeePass
 perl-File-LibMagic
 perl-File-Listing
 perl-File-MMagic
@@ -441,8 +442,10 @@ perl-System-Command
 perl-TAP-Harness-Archive
 perl-Taint-Util
 perl-Term-ProgressBar
+perl-Term-ReadLine-Gnu
 perl-Term-ReadPassword
 perl-Term-Shell
+perl-Term-ShellUI
 perl-Term-Size-Perl
 perl-Term-Table
 perl-Term-UI
