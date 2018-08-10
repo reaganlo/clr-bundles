@@ -64,6 +64,7 @@ alsa-plugins
 alsa-utils
 bash-completion
 clr-desktop-defaults
+clr-fwupd-hooks
 cups
 cups-filters
 cups-pk-helper
