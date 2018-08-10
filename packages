@@ -45,6 +45,7 @@ hugo
 iasimage
 icdiff
 iftop
+ImageMagick
 inotify-tools
 iproute2
 ipvsadm
