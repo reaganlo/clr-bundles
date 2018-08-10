@@ -87,6 +87,7 @@ bash-completion
 bash-completion-dev
 bats
 bc
+beignet-dev
 binutils
 binutils-dev
 bison
@@ -272,6 +273,7 @@ greenlet
 greenlet-python
 grep
 groff
+gsl-dev
 gst-plugins-base-dev
 gstreamer-dev
 gtk+-dev
@@ -368,6 +370,7 @@ libXau-dev
 libXau-dev32
 libXcomposite-dev
 libXcomposite-dev32
+libXcursor-dev
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -382,11 +385,13 @@ libXi-dev
 libXi-dev32
 libXinerama-dev
 libXinerama-dev32
+libXmu-dev
 libXpm-dev
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev
 libXrender-dev32
+libXres-dev
 libXt-dev
 libXt-dev32
 libXtst-dev
@@ -395,6 +400,7 @@ libXv-dev
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
+libXxf86misc-dev
 libXxf86vm-dev
 libXxf86vm-dev32
 libabigail
@@ -577,6 +583,8 @@ openal-soft-dev
 openblas
 openjade-dev
 openjdk-dev
+openjdk9
+openjdk9-dev
 openldap-dev
 openmpi-dev
 openssh
@@ -792,6 +800,7 @@ startup-notification
 startup-notification-dev
 strace
 subunit-dev
+subversion
 swig
 systemd
 systemd-bin
@@ -810,6 +819,7 @@ testresources
 testscenarios
 testtools
 texinfo
+texlive
 thin-provisioning-tools
 tiff-dev
 tk
@@ -849,6 +859,7 @@ wayland-dev
 wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
+wget
 which
 xapian-core-dev
 xcb-proto

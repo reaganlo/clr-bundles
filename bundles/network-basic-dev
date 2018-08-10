@@ -182,6 +182,7 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
+nftables-dev
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
