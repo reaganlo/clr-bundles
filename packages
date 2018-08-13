@@ -26,6 +26,7 @@ dfu-util
 diffoscope
 diffutils
 docutils
+dovecot
 dtc
 ethtool
 file
