@@ -119,6 +119,7 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
+kernel-config
 kmod
 kmod-dev
 kmod-dev32

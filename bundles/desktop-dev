@@ -733,6 +733,7 @@ xcb-proto-dev32
 xcb-util-dev
 xcb-util-image-dev
 xcb-util-keysyms-dev
+xcb-util-renderutil-dev
 xcb-util-wm-dev
 xcursorgen
 xdg-desktop-portal

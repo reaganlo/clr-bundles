@@ -274,6 +274,7 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
+libcroco-dev
 libdatrie-dev
 libdatrie-dev32
 libdrm-dev
