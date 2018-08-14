@@ -2,8 +2,8 @@
 # [DESCRIPTION]: Grouping bundle used by all openstack using bundles
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Obed Munoz <obed.n.munoz@intel.com>
-include(python-basic)
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(python3-basic)
 Babel
 debtcollector
 funcsigs
