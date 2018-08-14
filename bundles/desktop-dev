@@ -69,6 +69,7 @@ brotli-dev
 btrfs-progs-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -418,6 +419,7 @@ libjpeg-turbo-dev32
 libksba-dev
 libmbim-dev
 libmediaart-dev
+libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32
 libmspack-dev

@@ -139,6 +139,7 @@ libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libksba-dev
+libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev

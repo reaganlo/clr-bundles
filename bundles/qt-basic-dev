@@ -216,6 +216,7 @@ libidn-dev32
 libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
+libmicrohttpd-dev
 libogg-dev
 libogg-dev32
 libpciaccess-dev

@@ -115,6 +115,7 @@ libgcrypt-dev32
 libgpg-error-dev
 libidn-dev
 libidn-dev32
+libmicrohttpd-dev
 libstdc++
 libtasn1-dev
 libtasn1-dev32

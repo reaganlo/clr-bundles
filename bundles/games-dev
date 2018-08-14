@@ -292,6 +292,7 @@ libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmbim-dev
+libmicrohttpd-dev
 libndp-dev
 libndp-dev32
 libnl-dev

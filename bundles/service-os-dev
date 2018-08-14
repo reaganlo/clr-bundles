@@ -35,6 +35,7 @@ bison
 bison-dev
 boost-dev
 buildreq-cmake
+buildreq-distutils23
 buildreq-distutils3
 buildreq-golang
 buildreq-meson
@@ -148,6 +149,7 @@ libgfortran-compat-soname4
 libgpg-error-dev
 libidn-dev
 libidn-dev32
+libmicrohttpd-dev
 libpciaccess-dev
 libstdc++
 libtasn1-dev

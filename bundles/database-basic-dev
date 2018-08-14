@@ -24,6 +24,7 @@ bison-dev
 boost-dev
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils23
 buildreq-distutils3
 buildreq-meson
 bzip2
@@ -108,6 +109,7 @@ libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libjpeg-turbo-dev
+libmicrohttpd-dev
 libstdc++
 libtasn1-dev
 libtasn1-dev32

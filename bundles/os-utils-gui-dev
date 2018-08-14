@@ -57,6 +57,7 @@ boost-dev
 bridge-utils
 buildreq-cmake
 buildreq-cpan
+buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -342,6 +343,7 @@ libisofs-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
+libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32
 libnetfilter_conntrack-dev

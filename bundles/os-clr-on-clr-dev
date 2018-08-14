@@ -447,6 +447,7 @@ libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
+libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32
 libmodulemd-dev
