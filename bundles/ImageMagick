@@ -1,6 +1,6 @@
 # [TITLE]: ImageMagick
 # [DESCRIPTION]: ImageMagick
-# [STATUS]: ACTIVE
+# [STATUS]: Active
 # [CAPABILITIES]: Many console image manipulation utilities, screen capture, viewer.
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
