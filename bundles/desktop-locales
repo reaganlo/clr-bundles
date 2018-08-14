@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
+aspell
 caribou-locales
 colord-locales
 evolution-data-server-locales
