@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libX11client)
+bridge-utils
+dmidecode
+dnsmasq
+ebtables
+edk2
+gettext-bin
+iptables
+libvirt
+nftables
 qemu
 qemu-extras
-libvirt
-bridge-utils
-iptables
-nftables
-ebtables
-dnsmasq
-edk2
-dmidecode
-gettext-bin
