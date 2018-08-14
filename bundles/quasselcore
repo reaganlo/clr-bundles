@@ -1,7 +1,0 @@
-# [TITLE]: quasselcore
-# [DESCRIPTION]: Quassel IRC core daemon only
-# [STATUS]: ACTIVE
-# [CAPABILITIES]: Quassel Core service daemon
-# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include(qt-basic)
-quassel-extras
