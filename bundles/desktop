@@ -156,6 +156,7 @@ xkeyboard-config
 xorg-server
 xrandr
 xrdb
+xvfb-run
 
 # wayland bits
 wayland
