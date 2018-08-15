@@ -61,6 +61,7 @@ logrotate
 meld
 mkosi
 nginx
+nmap
 octave
 openssl
 p11-kit

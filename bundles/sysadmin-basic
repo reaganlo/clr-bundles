@@ -59,6 +59,7 @@ mosh
 motd-update
 nano
 ncurses
+nmap-extras
 numactl
 parallel
 pciutils
