@@ -7,6 +7,7 @@ include(dev-utils)
 include(os-core-dev)
 include(sysadmin-basic)
 CUnit-dev
+CUnit-dev32
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -35,6 +36,7 @@ buildreq-distutils3
 buildreq-meson
 bzip2
 bzip2-dev
+ca-certs
 check
 check-dev
 check-dev32
@@ -57,6 +59,7 @@ doxygen
 dracut-dev
 e2fsprogs
 e2fsprogs-dev
+e2fsprogs-dev32
 efivar-dev
 elfutils-dev
 elfutils-dev32
@@ -89,6 +92,7 @@ glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-locale
+glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
@@ -127,6 +131,7 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libaio-dev
+libc6
 libc6-dev
 libcap-dev
 libcap-dev32
@@ -134,6 +139,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
+libevent-dev32
 libffi-dev
 libffi-dev32
 libgcrypt-dev
@@ -184,6 +190,8 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
+nghttp2-dev
+nghttp2-dev32
 nss-altfiles
 numactl-dev
 onig-dev
