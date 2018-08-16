@@ -22,6 +22,7 @@ bats
 binutils
 bison
 buildreq-cmake
+buildreq-configure
 buildreq-distutils23
 buildreq-distutils3
 buildreq-meson
@@ -162,6 +163,7 @@ texinfo
 tk-dev
 tzdata
 unzip
+util-linux
 util-linux-bin
 util-linux-dev
 util-linux-dev32

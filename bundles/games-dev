@@ -57,6 +57,7 @@ bluez-dev
 boost-dev
 brotli-dev
 buildreq-cmake
+buildreq-configure
 buildreq-cpan
 buildreq-gnome
 buildreq-meson
@@ -448,6 +449,7 @@ tcl
 texinfo
 tzdata
 unzip
+util-linux
 util-linux-bin
 util-linux-dev
 util-linux-dev32

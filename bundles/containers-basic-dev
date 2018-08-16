@@ -29,6 +29,7 @@ bison-dev
 boost-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-configure
 buildreq-distutils3
 buildreq-golang
 buildreq-kde

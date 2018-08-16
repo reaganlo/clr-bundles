@@ -13,6 +13,7 @@ automake-dev
 bats
 binutils
 bison
+buildreq-configure
 buildreq-cpan
 bzip2
 clr-rpm-config
@@ -134,10 +135,12 @@ systemd-lib
 tar
 tcl
 unzip
+util-linux
 util-linux-bin
 util-linux-extras
 valgrind
 which
+xmlto
 xz
 zlib-dev
 zlib-dev32

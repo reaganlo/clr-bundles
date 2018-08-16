@@ -99,6 +99,7 @@ bridge-utils
 bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
+buildreq-configure
 buildreq-cpan
 buildreq-distutils
 buildreq-distutils23

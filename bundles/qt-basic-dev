@@ -37,6 +37,7 @@ bison-dev
 bluez-dev
 boost-dev
 buildreq-cmake
+buildreq-configure
 buildreq-cpan
 buildreq-gnome
 buildreq-meson
@@ -379,6 +380,7 @@ texinfo
 tiff-dev
 tzdata
 unzip
+util-linux
 util-linux-bin
 util-linux-dev
 util-linux-dev32
