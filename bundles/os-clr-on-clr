@@ -68,6 +68,7 @@ python-magic
 python-rpm
 python-toml
 python-zeep
+requests-ntlm
 rpm
 rpm-common
 sbsigntools
