@@ -36,6 +36,7 @@ pytest-repeat
 pytest-rerunfailures
 python-dateutil
 python-tappy
+python-openzwave
 requests
 scikit-image
 scikit-learn
