@@ -20,6 +20,7 @@ cscope
 diffstat
 diffutils
 docutils
+dwarves
 elfutils
 gdb
 git-extras
