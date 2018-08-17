@@ -29,6 +29,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
+buildreq-gnome
 buildreq-kde
 buildreq-meson
 bzip2
