@@ -39,6 +39,8 @@ llvm
 llvm-dev
 m4
 make
+nasm
+nasm-bin
 pkg-config
 zlib-dev
 # scons intentionally left out for now
