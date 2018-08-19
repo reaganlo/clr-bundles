@@ -9,4 +9,5 @@ include(qt-basic)
 ark
 cantata
 dolphin
+kate
 konsole
