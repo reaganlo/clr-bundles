@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
+include(desktop-kde-apps)
 include(python3-basic)
 
 

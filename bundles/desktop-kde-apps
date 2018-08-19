@@ -7,5 +7,6 @@ include(desktop-kde-libs)
 include(qt-basic)
 
 ark
+cantata
 dolphin
 konsole
