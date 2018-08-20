@@ -12,6 +12,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
 acl-dev32
+apr-dev
 asciidoc
 aspell
 aspell-dev
@@ -154,6 +155,7 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
+libpcap-dev
 libpipeline-dev
 libpng-dev
 libpwquality-dev

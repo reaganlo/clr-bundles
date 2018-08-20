@@ -36,6 +36,7 @@ alsa-lib-dev
 alsa-lib-dev32
 appstream-glib
 appstream-glib-dev
+apr-dev
 asciidoc
 aspell
 aspell-dev
@@ -441,6 +442,7 @@ libnotify-dev
 liboauth-dev
 libogg-dev
 libogg-dev32
+libpcap-dev
 libpciaccess-dev
 libpciaccess-dev32
 libpeas-dev
@@ -687,6 +689,7 @@ systemd-dev
 systemd-dev32
 systemd-extras
 systemd-lib
+taglib-dev
 tar
 tbb-dev
 tcl

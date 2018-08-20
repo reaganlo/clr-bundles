@@ -33,6 +33,7 @@ Z3-dev
 acl-dev
 acl-dev32
 acpica-unix2
+apr-dev
 asciidoc
 asn1crypto
 asn1crypto-legacypython
