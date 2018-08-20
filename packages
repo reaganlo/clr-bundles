@@ -60,6 +60,7 @@ linux-tools
 logrotate
 meld
 mkosi
+mtr
 ncdu
 nginx
 nmap
