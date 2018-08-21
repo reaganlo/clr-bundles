@@ -6,19 +6,21 @@
 
 include(os-testsuite-phoronix-desktop)
 include(os-testsuite-phoronix-server)
+
+include(R-basic)
 include(c-basic)
 include(database-basic)
+include(desktop-apps-extras)
+include(desktop-autostart)
+include(games)
 include(git)
 include(go-basic)
 include(machine-learning-basic)
-include(desktop-autostart)
-include(desktop-apps-extras)
 include(octave)
 include(php-basic)
-include(games)
-include(R-basic)
 include(python3-basic)
 include(qt-basic-dev)
+
 SDL
 SDL-dev
 SDL2_gfx-dev
