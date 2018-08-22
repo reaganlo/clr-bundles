@@ -186,13 +186,11 @@ p11-kit-dev
 p11-kit-dev32
 pacrunner-dev
 patch
-pbr
 pcre-dev
 pcre-dev32
 perl
 perl-XML-Parser
 pigz
-pip
 pkg-config
 pkg-config-dev
 popt-dev
@@ -206,7 +204,6 @@ readline-dev32
 rpm-build
 ruby
 sed
-setuptools
 shadow
 shared-mime-info
 slang-dev

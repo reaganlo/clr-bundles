@@ -22,6 +22,7 @@ bison
 bison-dev
 buildreq-cmake
 buildreq-configure
+buildreq-distutils3
 buildreq-meson
 bzip2
 bzip2-dev
@@ -156,11 +157,9 @@ openssl-dev
 p11-kit-dev
 p11-kit-dev32
 patch
-pbr
 pcre-dev
 perl-XML-Parser
 pigz
-pip
 pkg-config
 pkg-config-dev
 popt-dev
@@ -175,7 +174,6 @@ readline-dev32
 rpm-build
 ruby
 sed
-setuptools
 shadow
 slang-dev
 strace
