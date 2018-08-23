@@ -9,6 +9,7 @@ debtcollector
 funcsigs
 functools32
 futures
+haproxy
 iso8601
 jsonschema
 keystoneauth1
@@ -33,8 +34,9 @@ pytz
 requests
 setuptools
 six
+sg3_utils
 stevedore
-
+sysfsutils
 
 # the base openstack components
 nova
