@@ -27,6 +27,7 @@ buildreq-configure
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 bzip2
@@ -83,7 +84,6 @@ gmp-dev32
 gmp-lib32
 gnupg
 gnutls-dev
-go
 gobject-introspection-dev
 gpgme
 gpgme-dev

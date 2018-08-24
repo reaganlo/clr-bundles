@@ -577,6 +577,7 @@ npth-dev
 nspr-dev
 nss-altfiles
 nss-dev
+ntlm-auth
 numactl
 numactl-dev
 numpy
