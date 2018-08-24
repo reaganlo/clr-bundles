@@ -8,6 +8,7 @@ include(qt-basic)
 
 ark
 cantata
+digikam
 dolphin
 kate
 konsole
