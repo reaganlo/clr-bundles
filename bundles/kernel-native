@@ -5,6 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
 console-autostart
+init-rdahead-extras
 irqbalance
 linux
 linux-firmware
