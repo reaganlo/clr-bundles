@@ -331,7 +331,6 @@ qtcharts-dev
 qtconnectivity-dev
 qtdatavis3d-dev
 qtdeclarative-dev
-qtdeclarative-extras
 qtgamepad-dev
 qtimageformats-dev
 qtlocation-dev
@@ -346,7 +345,6 @@ qtserialport-dev
 qtspeech-dev
 qtsvg-dev
 qttools-dev
-qttools-extras
 qtvirtualkeyboard-dev
 qtwayland-dev
 qtwebchannel-dev

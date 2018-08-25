@@ -257,6 +257,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXcomposite-dev
@@ -294,6 +295,7 @@ libXv-dev
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
+libXxf86misc-dev
 libXxf86vm-dev
 libXxf86vm-dev32
 libabigail

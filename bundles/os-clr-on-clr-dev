@@ -750,13 +750,11 @@ qtbase-dev
 qtbase-extras
 qtconnectivity-dev
 qtdeclarative-dev
-qtdeclarative-extras
 qtmultimedia-dev
 qtsensors-dev
 qtserialport-dev
 qtsvg-dev
 qttools-dev
-qttools-extras
 qtwebsockets-dev
 qtxmlpatterns-dev
 rdma-core-dev
