@@ -9,6 +9,7 @@ include(qt-basic)
 #  https://download.kde.org/stable/plasma/5.13.4/
 bluedevil
 breeze
+breeze-gtk
 discover
 drkonqi
 kactivitymanagerd
