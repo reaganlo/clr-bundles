@@ -7,6 +7,10 @@ include(desktop-kde-libs)
 include(desktop-kde-apps)
 include(qt-basic)
 
+#
+# Needed for kde wrapper script
+#
+include(x11-tools)
 
 #
 # main bits
@@ -24,8 +28,10 @@ kde-gtk-config
 kdecoration
 kdeplasma-addons
 kgamma5
+kglobalaccel
 khotkeys
 kinfocenter
+kinit
 kmenuedit
 kscreen
 kscreenlocker
