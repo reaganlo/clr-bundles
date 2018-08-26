@@ -4,7 +4,13 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(desktop-kde-libs)
+include(desktop-kde-apps)
 include(qt-basic)
+
+
+#
+# main bits
+#
 
 #  https://download.kde.org/stable/plasma/5.13.4/
 bluedevil
