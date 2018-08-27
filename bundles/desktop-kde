@@ -20,6 +20,7 @@ include(x11-tools)
 bluedevil
 breeze
 breeze-gtk
+breeze-icons
 discover
 drkonqi
 kactivitymanagerd
