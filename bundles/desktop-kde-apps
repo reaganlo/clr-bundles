@@ -31,6 +31,7 @@ digikam
 dolphin
 dolphin-plugins
 dragon
+eventviews
 filelight
 frameworkintegration
 granatier
@@ -105,6 +106,7 @@ klines
 kmag
 kmahjongg
 kmail
+kmail-account-wizard
 kmailtransport
 kmbox
 kmediaplayer
@@ -141,6 +143,8 @@ ksystemlog
 kteatime
 ktimer
 ktnef
+ktp-approver
+ktp-common-internals
 ktp-desktop-applets
 ktuberling
 kturtle
