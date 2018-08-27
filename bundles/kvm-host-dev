@@ -47,6 +47,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-meson
 buildreq-qmake
 buildreq-scons

@@ -461,6 +461,7 @@ nss-altfiles
 numactl
 numactl-dev
 ocl-icd-dev
+octave-dev
 open-iscsi
 openconnect-dev
 openldap-dev

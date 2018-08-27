@@ -34,6 +34,9 @@ Mako-python
 Markdown
 MarkupSafe
 MarkupSafe-legacypython
+ModemManager-dev
+ModemManager-dev32
+NetworkManager-dev
 PyYAML
 PyYAML-legacypython
 Pygments
@@ -154,9 +157,11 @@ db-dev
 dbus-dev
 dbus-dev32
 dbus-glib-dev
+dbus-glib-dev32
 defusedxml
 dejagnu
 desktop-file-utils
+dhcp
 diffutils
 dnsmasq
 docbook-utils
@@ -319,6 +324,7 @@ iso-codes-dev
 iso8601
 isodate
 itstool
+jansson-dev
 jeepney
 jemalloc-dev
 json-c-dev
@@ -336,7 +342,11 @@ kconfigwidgets-dev
 kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
+kdeclarative-dev
+kded-dev
+kdesignerplugin-dev
 kdoctools-dev
+kemoticons-dev
 keyring-python
 keyutils-dev
 kglobalaccel
@@ -344,6 +354,8 @@ kglobalaccel-dev
 kguiaddons-dev
 ki18n-dev
 kiconthemes-dev
+kio-dev
+kirigami2-dev
 kitemviews-dev
 kjobwidgets-dev
 kmod
@@ -351,9 +363,13 @@ kmod-bin
 kmod-dev
 kmod-dev32
 knotifications-dev
+kpackage-dev
+kparts-dev
+kplotting-dev
 krb5-dev
 kservice-dev
 ktextwidgets-dev
+kunitconversion-dev
 kwallet-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
@@ -441,6 +457,7 @@ libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libgudev-dev
+libgudev-dev32
 libgusb-dev
 libical-dev
 libidn-dev
@@ -449,10 +466,13 @@ libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
+libmbim-dev
 libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32
 libmodulemd-dev
+libndp-dev
+libndp-dev32
 libnetfilter_conntrack-dev
 libnetfilter_conntrack-dev32
 libnetfilter_cthelper-dev
@@ -463,6 +483,7 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libnl-dev
+libnl-dev32
 libogg-dev
 libogg-dev32
 libpcap-dev
@@ -474,6 +495,7 @@ libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libpwquality-dev
+libqmi-dev
 librepo-dev
 librsvg
 librsvg-dev
@@ -526,6 +548,7 @@ linecache2
 linecache2-legacypython
 linecache2-python
 links
+linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
@@ -547,8 +570,11 @@ memkind-dev
 mesa-dev
 mesa-dev32
 meson
+mobile-broadband-provider-info
 mock
 more-itertools
+mozjs-dev
+mozjs52-dev
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -566,6 +592,7 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
+newt-dev
 nfs-utils
 nghttp2-dev
 nghttp2-dev32
@@ -577,11 +604,13 @@ npth-dev
 nspr-dev
 nss-altfiles
 nss-dev
+nss-lib32
 ntlm-auth
 numactl
 numactl-dev
 numpy
 oath-toolkit-dev
+octave-dev
 onig-dev
 open-iscsi
 open-isns-dev
@@ -728,6 +757,7 @@ pycparser-python
 pycurl
 pydocstyle
 pyflakes-python
+pygobject
 pyparsing
 pytest
 pytest-runner
@@ -769,6 +799,7 @@ rpm-build
 rpm-common
 rpm-dev
 ruby
+samba-dev
 sbc-dev
 sbc-dev32
 sbsigntools

@@ -61,6 +61,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-meson
 buildreq-scons
 bzip2
@@ -381,6 +382,7 @@ nspr-dev
 nss-altfiles
 nss-dev
 nss-lib32
+octave-dev
 openal-soft-dev
 openldap-dev
 openssl

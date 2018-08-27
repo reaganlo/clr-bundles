@@ -564,6 +564,7 @@ nss-dev
 nss-lib32
 numpy
 ocl-icd-dev
+octave-dev
 onig-dev
 openal-soft-dev
 openblas

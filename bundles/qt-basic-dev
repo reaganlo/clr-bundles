@@ -41,6 +41,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
+buildreq-kde
 buildreq-meson
 buildreq-qmake
 buildreq-scons
@@ -285,6 +286,7 @@ nettle-lib
 nettle-lib32
 ninja
 nss-altfiles
+octave-dev
 openal-soft-dev
 openjade-dev
 openldap-dev

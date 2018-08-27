@@ -31,6 +31,7 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils3
 buildreq-gnome
+buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
@@ -90,7 +91,6 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
-go
 gperf
 graphviz
 grep

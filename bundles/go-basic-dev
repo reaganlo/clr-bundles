@@ -27,6 +27,7 @@ bison-dev
 boost-dev
 buildreq-cmake
 buildreq-configure
+buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
