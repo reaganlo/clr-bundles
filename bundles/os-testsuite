@@ -8,6 +8,7 @@ include(openssh-server)
 acl
 attr
 bats
+binutils
 cpio
 curl
 diffutils
