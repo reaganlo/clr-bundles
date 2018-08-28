@@ -11,6 +11,9 @@ linux-firmware-ipu4
 linux-pk414-sos
 mcelog
 
+# Thermal control
+thermal_daemon
+
 # User Software
 acrn-hypervisor
 
