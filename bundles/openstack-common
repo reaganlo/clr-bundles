@@ -25,6 +25,7 @@ oslo.i18n
 oslo.log
 oslo.serialization
 oslo.utils
+otp
 pbr
 positional
 prettytable
