@@ -345,6 +345,7 @@ kdbusaddons-dev
 kdeclarative-dev
 kded-dev
 kdesignerplugin-dev
+kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring-python
@@ -786,6 +787,7 @@ qtserialport-dev
 qtsvg-dev
 qttools-dev
 qtwebsockets-dev
+qtx11extras-dev
 qtxmlpatterns-dev
 rdma-core-dev
 re2c
