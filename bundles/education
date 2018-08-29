@@ -1,0 +1,9 @@
+# [TITLE]: education
+# [DESCRIPTION]: Educational applications
+# [STATUS]: Active
+# [CAPABILITIES]: learning
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libX11client)
+include(qt-basic)
+gcompris-qt
