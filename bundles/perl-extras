@@ -449,7 +449,7 @@ perl-Term-ShellUI
 perl-Term-Size-Perl
 perl-Term-Table
 perl-Term-UI
-perl-TermReadKey
+perl-Term-ReadKey
 perl-Test-Assertions
 perl-Test-Deep
 perl-Test-Exception
