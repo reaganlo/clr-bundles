@@ -12,9 +12,11 @@ futures
 haproxy
 iso8601
 jsonschema
+keepalived
 keystoneauth1
-monotonic
+memcached
 msgpack-python
+monotonic
 multipath-tools
 netaddr
 netifaces
