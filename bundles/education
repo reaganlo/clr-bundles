@@ -6,4 +6,22 @@
 
 include(libX11client)
 include(qt-basic)
+
+blinken
+fritzing-app
 gcompris-qt
+gimp
+gnome-tweak-tool
+kanagram
+kbruch
+kgeography
+khangman
+kig
+klettres
+kmplot
+kolourpaint
+ktuberling
+kturtle
+kwordquiz
+marble
+parley
