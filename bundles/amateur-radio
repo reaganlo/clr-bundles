@@ -8,6 +8,7 @@ include(desktop-gnomelibs)
 include(libX11client)
 include(python3-basic)
 
+direwolf
 fldigi
 flmsg
 flnet
