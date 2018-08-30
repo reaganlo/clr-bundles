@@ -152,6 +152,7 @@ cups-dev
 curl
 curl-dev
 curl-dev32
+cyrus-sasl-dev
 db
 db-dev
 dbus-dev

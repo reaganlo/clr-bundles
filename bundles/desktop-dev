@@ -116,6 +116,7 @@ cups-filters
 cups-filters-dev
 curl-dev
 curl-dev32
+cyrus-sasl-dev
 db
 db-dev
 dbus

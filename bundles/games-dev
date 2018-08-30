@@ -85,6 +85,7 @@ cryptsetup-dev
 cups-dev
 curl-dev
 curl-dev32
+cyrus-sasl-dev
 db-dev
 dbus-dev
 dbus-dev32

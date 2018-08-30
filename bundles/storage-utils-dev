@@ -45,6 +45,7 @@ cracklib-dev
 cryptsetup-dev
 cups-dev
 curl-dev
+cyrus-sasl-dev
 db-dev
 dbus-dev
 dbus-dev32

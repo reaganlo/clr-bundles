@@ -99,6 +99,7 @@ cryptography_vectors
 cryptsetup-dev
 cups-dev
 curl-dev
+cyrus-sasl-dev
 db
 db-dev
 dbus-dev

@@ -37,6 +37,7 @@ check-dev
 clr-rpm-config
 cmake
 coreutils
+cyrus-sasl-dev
 db
 db-dev
 dbus-dev
