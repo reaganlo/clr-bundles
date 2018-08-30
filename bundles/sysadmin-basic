@@ -25,6 +25,7 @@ coreutils
 cpuid
 dbus
 dfc
+diffutils
 dmidecode
 dos2unix
 dracut
@@ -62,6 +63,7 @@ ncurses
 nmap-extras
 numactl
 parallel
+patch
 pciutils
 pciutils-data
 pciutils-doc
