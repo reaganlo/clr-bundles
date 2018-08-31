@@ -41,6 +41,7 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 ca-certs
@@ -213,8 +214,6 @@ python3
 python3-core
 python3-dev
 pytz
-qtbase-dev
-qtbase-extras
 readline-dev
 readline-dev32
 rpm-build

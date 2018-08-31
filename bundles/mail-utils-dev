@@ -24,6 +24,7 @@ binutils
 bison
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome

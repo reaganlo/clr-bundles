@@ -28,6 +28,7 @@ acl-dev
 acl-dev32
 alsa-lib-dev
 alsa-lib-dev32
+appstream-glib
 appstream-glib-dev
 asciidoc
 aspell-dev

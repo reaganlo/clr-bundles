@@ -10,6 +10,7 @@ CUnit-dev
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
+Sphinx
 acl-dev
 acl-dev32
 asciidoc
@@ -28,6 +29,7 @@ boost-dev
 btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-kde
