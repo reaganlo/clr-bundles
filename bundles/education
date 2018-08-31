@@ -10,6 +10,7 @@ include(libX11client)
 include(qt-basic)
 
 blinken
+cantor
 fritzing-app
 gcompris-qt
 gimp
