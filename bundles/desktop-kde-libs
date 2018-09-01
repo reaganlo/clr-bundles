@@ -49,5 +49,6 @@ kxmlgui-lib
 libassuan-lib
 libxslt-lib
 phonon-lib
+qtwebengine
 solid-lib
 sonnet-lib
