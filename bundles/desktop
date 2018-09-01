@@ -25,6 +25,7 @@ dbus-extras
 desktop-file-utils
 font-bitstream-type1
 fontconfig
+fuse
 gdk-pixbuf
 geoclue
 geocode-glib

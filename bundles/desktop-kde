@@ -11,6 +11,7 @@ include(qt-basic)
 # Needed for kde wrapper script
 #
 include(x11-tools)
+fuse
 
 #
 # main bits
