@@ -37,6 +37,7 @@ simg-tools
 smartmontools
 squashfs-tools
 sshfs
+tdb-lib
 thin-provisioning-tools
 usermode
 xfsprogs
