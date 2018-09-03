@@ -35,6 +35,7 @@ pyinotify
 python-dateutil
 python-keystoneclient
 pytz
+pyxattr
 rabbitmq-c
 requests
 setuptools
@@ -42,6 +43,7 @@ six
 sg3_utils
 stevedore
 sysfsutils
+tgt
 
 # the base openstack components
 nova
