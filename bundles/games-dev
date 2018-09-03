@@ -208,6 +208,7 @@ iso-codes-dev
 itstool
 jansson-dev
 json-c-dev
+json-c-dev32
 json-glib-dev
 json-glib-dev32
 kmod-dev
@@ -460,6 +461,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala
 vala-dev
 valgrind
 valgrind-dev

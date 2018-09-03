@@ -196,7 +196,6 @@ patch
 pcre-dev
 pcre-dev32
 pcre2-dev
-perl
 perl-Error
 perl-XML-Parser
 pigz

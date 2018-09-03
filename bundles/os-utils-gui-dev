@@ -243,6 +243,7 @@ iso-codes-dev
 itstool
 jq
 json-c-dev
+json-c-dev32
 json-glib-dev
 json-glib-dev32
 keyutils-dev

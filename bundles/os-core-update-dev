@@ -188,7 +188,6 @@ pacrunner-dev
 patch
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pkg-config

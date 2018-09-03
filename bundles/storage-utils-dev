@@ -34,6 +34,7 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-kde
 buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 check-dev
@@ -76,6 +77,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -125,6 +127,7 @@ kmod
 kmod-dev
 kmod-dev32
 krb5-dev
+ldb-dev
 libICE-dev
 libICE-dev32
 libSM-dev
@@ -224,7 +227,6 @@ python-dev
 python3
 python3-core
 python3-dev
-qtbase-dev
 qtbase-extras
 rdma-core-dev
 readline-dev
@@ -251,6 +253,8 @@ talloc-dev
 tar
 tcl
 tcl-dev
+tdb-dev
+tdb-legacypython
 texinfo
 thin-provisioning-tools
 tk-dev

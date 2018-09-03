@@ -101,6 +101,7 @@ clutter-gtk-dev
 cmake
 cmrt-dev
 cogl-dev
+coinmp-dev
 colord
 colord-dev
 colord-gtk-dev
@@ -175,6 +176,7 @@ freetype-dev
 freetype-dev32
 fribidi-dev
 fribidi-dev32
+fuse-dev
 fwupd-dev
 fwupdate-dev
 gawk
@@ -186,6 +188,7 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gcr-dev
+gdal-dev
 gdb
 gdb-dev
 gdbm-dev
@@ -306,6 +309,7 @@ jansson-dev
 jemalloc-dev
 jq
 json-c-dev
+json-c-dev32
 json-glib-dev
 json-glib-dev32
 keyutils-dev
@@ -314,6 +318,7 @@ kmod-dev
 kmod-dev32
 krb5-dev
 lcms2-dev
+ldb-dev
 lensfun-dev
 less
 libICE-dev
@@ -574,6 +579,7 @@ opencv-dev
 openjade-dev
 openjdk
 openjdk-dev
+openjdk9-dev
 openldap-dev
 openssh
 openssl
@@ -692,10 +698,13 @@ systemd-dev32
 systemd-extras
 systemd-lib
 taglib-dev
+talloc-dev
 tar
 tbb-dev
 tcl
 tcl-dev
+tdb-dev
+tdb-legacypython
 telepathy-glib-dev
 telepathy-logger-dev
 texinfo

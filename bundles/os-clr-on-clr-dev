@@ -324,11 +324,11 @@ isa-l-dev
 iso-codes-dev
 iso8601
 isodate
-itstool
 jansson-dev
 jeepney
 jemalloc-dev
 json-c-dev
+json-c-dev32
 json-glib-dev
 json-glib-dev32
 jsonschema-python
@@ -377,6 +377,7 @@ kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
 lcms2-dev
+ldb-dev
 less
 leveldb-dev
 libICE-dev
@@ -852,6 +853,8 @@ talloc-dev
 tar
 tcl
 tcl-dev
+tdb-dev
+tdb-legacypython
 telemetrics-client-dev
 testrepository
 testresources

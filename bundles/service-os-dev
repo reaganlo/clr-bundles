@@ -190,7 +190,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pesign
 pigz

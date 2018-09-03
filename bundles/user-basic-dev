@@ -225,6 +225,7 @@ isa-l-dev
 iso8601
 jeepney
 json-c-dev
+json-c-dev32
 jsonschema-python
 keyring-python
 keyutils-dev
@@ -233,6 +234,7 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
+ldb-dev
 less
 leveldb-dev
 libICE-dev
@@ -544,6 +546,8 @@ talloc-dev
 tar
 tcl
 tcl-dev
+tdb-dev
+tdb-legacypython
 texinfo
 thin-provisioning-tools
 tk

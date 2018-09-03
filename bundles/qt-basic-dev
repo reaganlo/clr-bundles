@@ -159,6 +159,7 @@ iptables-dev
 iptables-dev32
 jemalloc-dev
 json-c-dev
+json-c-dev32
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -309,7 +310,6 @@ pbr
 pcre-dev
 pcre-dev32
 pcre2-dev
-perl
 perl-IPC-Run
 perl-XML-Parser
 pigz

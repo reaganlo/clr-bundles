@@ -169,6 +169,8 @@ iptables
 iptables-dev
 iptables-dev32
 isa-l-dev
+json-c-dev
+json-c-dev32
 keyutils-dev
 kmod
 kmod-bin

@@ -69,6 +69,7 @@ git
 glib-bin
 glib-dev
 glibc-bin
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-locale
@@ -135,6 +136,7 @@ ncurses-dev32
 netbase
 nss-altfiles
 openjade-dev
+openmpi-dev
 openssl
 openssl-dev
 p11-kit
