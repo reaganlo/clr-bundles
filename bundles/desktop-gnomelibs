@@ -35,3 +35,4 @@ gtksourceview-lib
 pulseaudio-lib
 libdrm-lib
 gnome-bluetooth-lib
+tdb-lib
