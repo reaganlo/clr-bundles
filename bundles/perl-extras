@@ -333,6 +333,7 @@ perl-Module-Util
 perl-Module-Versions-Report
 perl-Mozilla-CA
 perl-Net-CIDR-Lite
+perl-Net-DBus
 perl-Net-DNS
 perl-Net-DNS-Resolver-Programmable
 perl-Net-HTTP
@@ -546,6 +547,7 @@ perl-XML-SAX-ExpatXS
 perl-XML-SAX-Writer
 perl-XML-Simple
 perl-XML-SimpleObject
+perl-XML-Twig
 perl-XML-Writer
 perl-XML-XPath
 perl-XML-XPathEngine
