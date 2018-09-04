@@ -9,6 +9,7 @@ include(perl-basic)
 
 dapl
 infiniband-diags
+libvma
 mstflint
 opa-psm2
 opensm
