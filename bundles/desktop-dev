@@ -503,6 +503,7 @@ libxkbcommon-dev
 libxkbcommon-dev32
 libxkbfile-dev
 libxklavier-dev
+libxml2
 libxml2-dev
 libxml2-dev32
 libxml2-python

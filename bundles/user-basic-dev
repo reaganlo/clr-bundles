@@ -343,6 +343,7 @@ libuser-dev
 libva-dev
 libxcb-dev
 libxcb-dev32
+libxml2
 libxml2-bin
 libxml2-dev
 libxml2-dev32

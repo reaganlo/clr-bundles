@@ -133,6 +133,7 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+cmocka-dev
 colorama
 colord-dev
 compat-fuse-soname2-dev
@@ -860,6 +861,7 @@ testrepository
 testresources
 testscenarios
 testtools
+tevent-dev
 texinfo
 texlive
 thin-provisioning-tools

@@ -358,6 +358,7 @@ setuptools
 shadow
 shared-mime-info
 shared-mime-info-dev
+six
 snappy-dev
 spice
 spice-dev
