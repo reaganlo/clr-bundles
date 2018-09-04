@@ -3,16 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
-include(kernel-container)
 include(containers-basic)
-
-# clear-containers packages
-clear-containers-runtime
-clear-containers-shim
-clear-containers-proxy
-clear-containers-image
-qemu-lite
-util-linux-bin
 
 # kata-containers packages
 kata-image
