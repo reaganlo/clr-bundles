@@ -1,6 +1,6 @@
 # [TITLE]: kernel-container
 # [DESCRIPTION]: Run the container specific kernel
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
-linux-container
+filesystem
