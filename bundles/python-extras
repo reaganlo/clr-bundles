@@ -37,9 +37,11 @@ pytest-rerunfailures
 python-dateutil
 python-tappy
 requests
+requests-ntlm
 scikit-image
 scikit-learn
 scipy
 simplejson
 six
 urllib3
+zeep
