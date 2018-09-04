@@ -1,9 +1,6 @@
 # [TITLE]: os-clear-containers
 # [DESCRIPTION]: Control Clear Containers guest setup and workloads
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
-clear-containers-agent
 filesystem
-iptables
-systemd
