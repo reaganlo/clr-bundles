@@ -26,8 +26,8 @@ irssi
 iw
 links
 net-tools
-netcat
 nftables
+nmap-extras
 openconnect
 opensm
 openssh
