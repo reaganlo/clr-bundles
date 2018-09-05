@@ -156,6 +156,7 @@ curl-dev32
 cyrus-sasl-dev
 db
 db-dev
+dbus-broker
 dbus-dev
 dbus-dev32
 dbus-glib-dev
@@ -312,7 +313,6 @@ idna-python
 imagesize
 intltool
 intltool-dev
-invm-frameworks-dev
 ipaddress
 ipaddress-legacypython
 ipaddress-python
@@ -325,8 +325,8 @@ isa-l-dev
 iso-codes-dev
 iso8601
 isodate
+itstool
 jansson-dev
-jeepney
 jemalloc-dev
 json-c-dev
 json-c-dev32
@@ -496,6 +496,8 @@ libpciaccess-dev32
 libpipeline-dev
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libpwquality-dev
@@ -504,6 +506,7 @@ librepo-dev
 librsvg
 librsvg-dev
 librsvg-dev32
+libsafec-dev
 libsamplerate-dev
 libseccomp-dev
 libsndfile-dev

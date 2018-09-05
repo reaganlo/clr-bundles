@@ -87,6 +87,7 @@ curl-dev
 curl-dev32
 cyrus-sasl-dev
 db-dev
+dbus-broker
 dbus-dev
 dbus-dev32
 dbus-extras
@@ -285,6 +286,9 @@ libffi-dev32
 libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libgudev-dev
@@ -309,6 +313,8 @@ libpciaccess-dev
 libpciaccess-dev32
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libqmi-dev

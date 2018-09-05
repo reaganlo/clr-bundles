@@ -94,7 +94,6 @@ cmake
 compat-fuse-soname2-dev
 coreutils
 cracklib-dev
-cryptography
 cryptography_vectors
 cryptsetup-dev
 cups-dev
@@ -215,7 +214,6 @@ idna
 imagesize
 intltool
 intltool-dev
-invm-frameworks-dev
 ipaddress
 iproute2
 iptables
@@ -223,7 +221,6 @@ iptables-dev
 iptables-dev32
 isa-l-dev
 iso8601
-jeepney
 json-c-dev
 json-c-dev32
 jsonschema-python
@@ -326,6 +323,7 @@ libpwquality-dev
 librsvg
 librsvg-dev
 librsvg-dev32
+libsafec-dev
 libssh2-dev
 libstdc++
 libtasn1-dev

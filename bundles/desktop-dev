@@ -121,6 +121,7 @@ cyrus-sasl-dev
 db
 db-dev
 dbus
+dbus-broker
 dbus-dev
 dbus-dev32
 dbus-extras
@@ -187,6 +188,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcr-data
 gcr-dev
 gdal-dev
 gdb
@@ -407,6 +409,9 @@ libgcrypt-dev32
 libgd-dev
 libgdata-dev
 libgee-dev
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgnomekbd-dev
 libgpg-error-dev
 libgpg-error-dev32
@@ -455,6 +460,8 @@ libpeas-dev
 libpipeline-dev
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libpwquality-dev
@@ -618,6 +625,7 @@ perl-XML-Parser
 perl-XML-Simple
 pigz
 pip
+pipewire-dev
 pixman-dev
 pixman-dev32
 pkg-config
@@ -684,6 +692,7 @@ shared-mime-info
 shared-mime-info-dev
 six
 slang-dev
+source-highlight
 speex-dev
 speexdsp-dev
 sqlite-autoconf

@@ -94,6 +94,7 @@ cyrus-sasl-dev
 db
 db-dev
 dbus
+dbus-broker
 dbus-dev
 dbus-dev32
 dbus-glib-dev
@@ -335,6 +336,9 @@ libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgit2-dev
 libgpg-error-dev
 libgpg-error-dev32
@@ -368,6 +372,8 @@ libpciaccess-dev32
 libpeas-dev
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libpwquality-dev
@@ -498,6 +504,7 @@ perl-XML-Parser
 perl-XML-Simple
 pigz
 pip
+pipewire-dev
 pixman-dev
 pixman-dev32
 pkg-config

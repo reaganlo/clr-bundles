@@ -90,6 +90,7 @@ glib-bin
 glib-dev
 glib-dev32
 glibc-bin
+glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-locale
@@ -116,7 +117,7 @@ hostname
 icu4c-dev
 intltool
 intltool-dev
-invm-frameworks-dev
+ipmctl-dev
 iptables-dev
 iptables-dev32
 iso8601
@@ -153,6 +154,7 @@ libidn-dev32
 libmicrohttpd-dev
 libnl-dev
 libpwquality-dev
+libsafec-dev
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -194,7 +196,6 @@ nfs-utils-dev
 ninja
 nss-altfiles
 ntfs-3g-dev
-numactl-dev
 open-iscsi-dev
 open-isns-dev
 openldap-dev

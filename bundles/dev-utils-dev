@@ -59,7 +59,6 @@ cmake
 compat-fuse-soname2-dev
 coreutils
 cracklib-dev
-cryptography
 cryptography_vectors
 cryptsetup-dev
 curl-dev
@@ -141,7 +140,6 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
-jeepney
 jsonschema-python
 keyring-python
 keyutils-dev
