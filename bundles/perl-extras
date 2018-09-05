@@ -251,6 +251,7 @@ perl-IO-Socket-Timeout
 perl-IO-String
 perl-IO-Tee
 perl-IO-TieCombine
+perl-IO-Tty
 perl-IO-stringy
 perl-IPC-Run
 perl-IPC-Run3
