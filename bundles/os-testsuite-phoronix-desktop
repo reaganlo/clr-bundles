@@ -10,6 +10,7 @@ include(desktop-apps-extras)
 include(php-basic)
 include(games)
 include(python3-basic)
+include(python2-basic)
 include(qt-basic-dev)
 SDL
 SDL-dev

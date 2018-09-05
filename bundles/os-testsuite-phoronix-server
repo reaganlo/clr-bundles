@@ -10,6 +10,7 @@ include(go-basic)
 include(octave)
 include(php-basic)
 include(python3-basic)
+include(python2-basic)
 acl-dev
 attr-dev
 autoconf
