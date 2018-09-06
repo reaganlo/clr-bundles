@@ -540,9 +540,10 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 mozjs-dev
-mozjs52
 mozjs52-dev
-mozjs52-lib
+mozjs60
+mozjs60-dev
+mozjs60-lib
 mpc-dev
 mpfr-dev
 mpg123-dev
@@ -623,6 +624,7 @@ perl-IPC-Run
 perl-Test-Output
 perl-XML-Parser
 perl-XML-Simple
+php
 pigz
 pip
 pipewire-dev

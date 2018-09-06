@@ -198,6 +198,7 @@ nss-altfiles
 ntfs-3g-dev
 open-iscsi-dev
 open-isns-dev
+openjdk
 openldap-dev
 opensm-dev
 openssl
@@ -215,6 +216,7 @@ pcre-dev32
 perl
 perl-Digest-CRC
 perl-XML-Parser
+php
 pigz
 pip
 pkg-config

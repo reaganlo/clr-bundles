@@ -473,6 +473,7 @@ ocl-icd-dev
 octave-dev
 open-iscsi
 openconnect-dev
+openjdk
 openldap-dev
 openssh
 openssl
@@ -502,6 +503,7 @@ perl
 perl-URI
 perl-XML-Parser
 perl-XML-Simple
+php
 pigz
 pip
 pipewire-dev

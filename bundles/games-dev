@@ -392,6 +392,7 @@ nss-dev
 nss-lib32
 octave-dev
 openal-soft-dev
+openjdk
 openldap-dev
 openssl
 openssl-dev
@@ -411,6 +412,7 @@ pcre-dev
 pcre-dev32
 perl
 perl-XML-Parser
+php
 pigz
 pip
 pixman-dev

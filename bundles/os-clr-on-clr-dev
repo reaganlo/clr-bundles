@@ -81,6 +81,7 @@ attrs-legacypython
 attrs-python
 audit-dev
 autoconf
+autoconf213
 autogen
 automake
 automake-dev
@@ -624,6 +625,7 @@ open-isns-dev
 openal-soft-dev
 openblas
 openjade-dev
+openjdk
 openjdk-dev
 openjdk9
 openjdk9-dev
@@ -749,6 +751,7 @@ procps-ng
 procps-ng-bin
 protobuf-c-dev
 protobuf-dev
+psutil
 pulseaudio-dev
 pulseaudio-dev32
 py

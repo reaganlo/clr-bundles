@@ -30,6 +30,7 @@ atk-dev32
 attr-dev
 attr-dev32
 autoconf
+autoconf213
 autogen
 automake
 automake-dev
@@ -210,6 +211,7 @@ libXvMC-dev
 libXvMC-dev32
 libXxf86vm-dev
 libXxf86vm-dev32
+libabigail
 libaio-dev
 libatomic_ops-dev
 libc6
@@ -255,6 +257,7 @@ libpthread-stubs-dev32
 librsvg
 librsvg-dev
 librsvg-dev32
+libseccomp-dev
 libssh2-dev
 libstdc++
 libtasn1-dev
@@ -287,6 +290,8 @@ make
 mesa-dev
 mesa-dev32
 meson
+mozjs-dev
+mozjs52-dev
 mpc-dev
 mpfr-dev
 nasm
@@ -304,12 +309,14 @@ nftables-dev
 nghttp2-dev
 nghttp2-dev32
 ninja
+nspr-dev
 nss-altfiles
 nss-dev
 numactl
 numactl-dev
 oath-toolkit-dev
 open-iscsi
+openjdk
 openldap-dev
 openssh
 openssl
@@ -330,6 +337,7 @@ pecan
 perl
 perl-Digest-CRC
 perl-XML-Parser
+php
 pigz
 pip
 pixman-dev
@@ -339,6 +347,7 @@ pkg-config-dev
 polkit-dev
 prettytable
 procps-ng
+psutil
 pyparsing
 python
 python-core

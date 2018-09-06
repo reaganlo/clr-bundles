@@ -294,6 +294,7 @@ nss-altfiles
 octave-dev
 openal-soft-dev
 openjade-dev
+openjdk
 openldap-dev
 openssl
 openssl-dev
@@ -315,6 +316,7 @@ pcre-dev32
 pcre2-dev
 perl-IPC-Run
 perl-XML-Parser
+php
 pigz
 pip
 pixman-dev
