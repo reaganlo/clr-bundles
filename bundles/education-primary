@@ -1,0 +1,24 @@
+# [TITLE]: education-primary
+# [DESCRIPTION]: Educational applications for the primary school level
+# [STATUS]: Active
+# [CAPABILITIES]: learning
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(desktop-gnomelibs)
+include(desktop-kde-libs)
+include(libX11client)
+include(qt-basic)
+
+gcompris-qt
+kanagram
+kbruch
+kgeography
+khangman
+kig
+klettres
+kmplot
+ktuberling
+kturtle
+kwordquiz
+marble
+parley

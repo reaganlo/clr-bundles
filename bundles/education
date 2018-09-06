@@ -9,22 +9,11 @@ include(desktop-kde-libs)
 include(libX11client)
 include(qt-basic)
 
-blinken
-cantor
-fritzing-app
-gcompris-qt
+# This bundle is a superset of level-targeted education bundles
+include(education-preschool)
+include(education-primary)
+include(education-secondary)
+include(education-tertiary)
+
 gimp
 gnome-tweak-tool
-kanagram
-kbruch
-kgeography
-khangman
-kig
-klettres
-kmplot
-kolourpaint
-ktuberling
-kturtle
-kwordquiz
-marble
-parley
