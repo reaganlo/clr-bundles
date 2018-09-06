@@ -7,4 +7,5 @@ include(cloud-api)
 include(python3-basic)
 
 home-assistant
+gmqtt
 python-openzwave
