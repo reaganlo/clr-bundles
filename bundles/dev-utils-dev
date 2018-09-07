@@ -186,6 +186,7 @@ libtasn1-dev32
 libtool
 libtool-dev
 libunwind-dev
+libunwind-dev32
 libxml2-bin
 libxml2-dev
 libxml2-dev32

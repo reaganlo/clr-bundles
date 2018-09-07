@@ -138,9 +138,6 @@ libffi-dev
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libidn-dev
@@ -193,7 +190,6 @@ nghttp2-dev32
 ninja
 npth-dev
 nss-altfiles
-numactl-dev
 openssl
 openssl-dev
 openssl-dev32

@@ -409,9 +409,6 @@ libgcrypt-dev32
 libgd-dev
 libgdata-dev
 libgee-dev
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 libgnomekbd-dev
 libgpg-error-dev
 libgpg-error-dev32

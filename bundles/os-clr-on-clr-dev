@@ -122,6 +122,7 @@ ca-certs
 cached-property
 cairo-dev
 cairo-dev32
+ccache
 ceph-dev
 certifi
 cffi
@@ -529,6 +530,7 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libunwind-dev32
 libusb-dev
 libuser-dev
 libva-dev
@@ -936,6 +938,7 @@ yajl-dev
 yajl-lib
 yaml-dev
 yasm
+zip
 zlib
 zlib-dev
 zlib-dev32

@@ -339,6 +339,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libunwind-dev32
 libusb-dev
 libuser-dev
 libva-dev
