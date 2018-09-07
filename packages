@@ -28,6 +28,7 @@ diffutils
 docutils
 dovecot
 dtc
+duperemove
 ethtool
 file
 findutils
