@@ -11,6 +11,7 @@ evolution-data-server-locales
 evolution-data-server-locales
 gdk-pixbuf-locales
 gdm-locales
+glibc-locale
 gnome-applets-locales
 gnome-bluetooth-locales
 gnome-calendar-locales
