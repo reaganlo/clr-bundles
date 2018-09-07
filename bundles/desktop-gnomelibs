@@ -36,3 +36,6 @@ pulseaudio-lib
 libdrm-lib
 gnome-bluetooth-lib
 tdb-lib
+tracker
+tracker-extras
+
