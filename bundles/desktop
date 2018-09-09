@@ -37,6 +37,7 @@ gsettings-desktop-schemas
 gtk+
 gtk3
 ibus
+ibus-libpinyin
 iso-codes
 json-glib
 libcanberra
