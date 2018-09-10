@@ -16,4 +16,4 @@ include(education-secondary)
 include(education-tertiary)
 
 gimp
-gnome-tweak-tool
+gnome-tweaks

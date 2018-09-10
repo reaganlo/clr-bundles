@@ -28,7 +28,7 @@ gnome-settings-daemon-locales
 gnome-shell-extensions-locales
 gnome-shell-locales
 gnome-terminal-locales
-gnome-tweak-tool-locales
+gnome-tweaks-locales
 gsettings-desktop-schemas-locales
 gtk+-locales
 gtk3-locales
