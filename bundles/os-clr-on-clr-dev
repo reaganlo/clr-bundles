@@ -73,7 +73,6 @@ at-spi2-core-dev32
 atk-dev
 atk-dev32
 atomicwrites
-attica-dev
 attr-dev
 attr-dev32
 attrs
@@ -346,7 +345,6 @@ kconfigwidgets-dev
 kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
-kdeclarative-dev
 kded-dev
 kdesignerplugin-dev
 kdoctools
@@ -436,6 +434,7 @@ libassuan-dev
 libatomic_ops-dev
 libc6
 libc6-dev
+libcanberra-dev
 libcap-dev
 libcap-dev32
 libcap-ng-dev
@@ -444,6 +443,7 @@ libcgroup-dev
 libcroco-dev
 libdatrie-dev
 libdatrie-dev32
+libdbusmenu-dev
 libdrm-dev
 libdrm-dev32
 libepoxy-dev
@@ -661,6 +661,7 @@ pcre2-dev
 pecan
 pep8-python
 perl
+perl-App-cpanminus
 perl-B-Hooks-EndOfScope
 perl-CPAN-Meta-Check
 perl-Capture-Tiny

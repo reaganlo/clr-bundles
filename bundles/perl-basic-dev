@@ -70,9 +70,8 @@ perl-Class-Data-Inheritable
 perl-Class-Singleton
 perl-Crypt-SSLeay
 perl-DateTime
-perl-Devel-StackTrace
+perl-DateTime-TimeZone-dev
 perl-Encode-Locale
-perl-Eval-Closure
 perl-Exception-Class
 perl-File-Listing
 perl-HTML-Parser
@@ -90,7 +89,6 @@ perl-IO-Socket-SSL
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-LWP-Protocol-https-dev
-perl-MRO-Compat
 perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
@@ -100,7 +98,6 @@ perl-Net-SSLeay
 perl-Package-Stash
 perl-Params-ValidationCompiler
 perl-Path-Class
-perl-Role-Tiny
 perl-Specio
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify

@@ -428,11 +428,9 @@ perl-Class-Data-Inheritable
 perl-Class-Singleton
 perl-Crypt-SSLeay
 perl-DateTime
-perl-Devel-StackTrace
 perl-Digest-CRC
 perl-Encode-Locale
 perl-Error
-perl-Eval-Closure
 perl-Exception-Class
 perl-File-Listing
 perl-HTML-Parser
@@ -448,7 +446,6 @@ perl-IO-Socket-SSL
 perl-IO-stringy
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
-perl-MRO-Compat
 perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
@@ -458,7 +455,6 @@ perl-Net-SSLeay
 perl-Package-Stash
 perl-Params-ValidationCompiler
 perl-Path-Class
-perl-Role-Tiny
 perl-Specio
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
@@ -512,6 +508,7 @@ pytz
 qemu
 qtbase-dev
 qtbase-extras
+qttools-dev
 rdma-core-dev
 readline-dev
 readline-dev32
