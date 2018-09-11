@@ -33,7 +33,6 @@ bzip2
 bzip2-dev
 ca-certs
 clr-rpm-config
-cmake
 coreutils
 cracklib-dev
 cryptsetup-dev

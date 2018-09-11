@@ -49,7 +49,6 @@ cffi
 cffi-legacypython
 check-dev
 clr-rpm-config
-cmake
 coreutils
 cracklib-dev
 cryptography_vectors

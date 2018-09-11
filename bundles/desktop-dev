@@ -454,6 +454,7 @@ libpcap-dev
 libpciaccess-dev
 libpciaccess-dev32
 libpeas-dev
+libpinyin-dev
 libpipeline-dev
 libpng-dev
 libpng-dev32

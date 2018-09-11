@@ -197,7 +197,6 @@ exiv2-dev
 expat-dev
 expat-dev32
 expect
-extra-cmake-modules
 extras
 fcgi-dev
 fftw-dev
@@ -288,7 +287,9 @@ groff
 gsl-dev
 gst-plugins-base-dev
 gstreamer-dev
+gstreamer-dev32
 gtk+-dev
+gtk+-dev32
 gtk-doc
 gtk-doc-dev
 gtk3-dev
@@ -805,6 +806,7 @@ rdma-core-dev
 re2c
 readline-dev
 readline-dev32
+recommonmark
 requests
 requests-toolbelt-python
 rest-dev
