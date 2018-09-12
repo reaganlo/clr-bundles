@@ -203,6 +203,7 @@ graphite-dev
 graphite-dev32
 graphviz
 graphviz-dev
+graphviz-extras
 grep
 groff
 gsettings-desktop-schemas-dev

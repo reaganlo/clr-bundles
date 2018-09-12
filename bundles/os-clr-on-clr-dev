@@ -137,6 +137,7 @@ cmake
 cmocka-dev
 colorama
 colord-dev
+commonmark
 compat-fuse-soname2-dev
 contextlib2
 coreutils
@@ -280,6 +281,7 @@ gpgme-dev
 graphite-dev
 graphite-dev32
 graphviz
+graphviz-extras
 greenlet
 greenlet-python
 grep
@@ -806,7 +808,6 @@ rdma-core-dev
 re2c
 readline-dev
 readline-dev32
-recommonmark
 requests
 requests-toolbelt-python
 rest-dev

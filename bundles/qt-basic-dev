@@ -139,6 +139,7 @@ gperf
 graphite-dev
 graphite-dev32
 graphviz
+graphviz-extras
 grep
 groff
 gst-plugins-base-dev

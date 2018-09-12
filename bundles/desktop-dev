@@ -261,6 +261,7 @@ gpgme-dev
 graphite-dev
 graphite-dev32
 graphviz
+graphviz-extras
 grep
 grilo-dev
 grilo-plugins
