@@ -780,6 +780,7 @@ xorgproto-dev
 xorgproto-dev32
 xtrans-dev
 xtrans-dev32
+xvfb-run
 xz
 xz-dev
 xz-dev32
