@@ -38,6 +38,7 @@ pytz
 pyxattr
 rabbitmq-c
 requests
+rsync
 setuptools
 six
 sg3_utils
