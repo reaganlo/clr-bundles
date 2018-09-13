@@ -6,8 +6,8 @@
 
 include(c-basic)
 include(dev-utils)
-include(python-extras)
-include(perl-extras)
+include(python3-basic)
+include(perl-basic)
 
 acpica-unix2
 btrfs-progs
@@ -17,6 +17,7 @@ fakeroot
 i2c-tools
 intltool
 graphite
+hwloc-dev
 llvm
 mariadb-dev
 libXaw-dev
