@@ -137,6 +137,7 @@ cmake
 cmocka-dev
 colorama
 colord-dev
+commonmark
 compat-fuse-soname2-dev
 contextlib2
 coreutils

@@ -451,6 +451,7 @@ libnotify-dev
 liboauth-dev
 libogg-dev
 libogg-dev32
+libosinfo-dev
 libpcap-dev
 libpciaccess-dev
 libpciaccess-dev32

@@ -37,6 +37,7 @@ automake-dev
 babeltrace-dev
 bash-completion-dev
 bats
+beignet-dev
 binutils
 binutils-dev
 bison
@@ -283,6 +284,7 @@ libxslt-bin
 linux-libc-headers
 llvm
 llvm-dev
+lua-dev
 lz4-dev
 lzo-dev
 m4
@@ -317,6 +319,8 @@ numactl-dev
 oath-toolkit-dev
 open-iscsi
 openjdk
+openjdk9
+openjdk9-dev
 openldap-dev
 openssh
 openssl
