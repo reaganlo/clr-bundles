@@ -39,6 +39,7 @@ python-keystoneclient
 pytz
 pyxattr
 rabbitmq-c
+rabbitmq-server
 radvd
 requests
 rsync
