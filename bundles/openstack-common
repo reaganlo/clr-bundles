@@ -15,6 +15,7 @@ iso8601
 jsonschema
 keepalived
 keystoneauth1
+M2Crypto
 memcached
 msgpack-python
 monotonic
