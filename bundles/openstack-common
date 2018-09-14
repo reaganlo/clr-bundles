@@ -48,6 +48,7 @@ sg3_utils
 stevedore
 sysfsutils
 tgt
+xorriso
 
 # the base openstack components
 nova
