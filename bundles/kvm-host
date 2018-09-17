@@ -9,7 +9,7 @@ dmidecode
 dnsmasq
 ebtables
 edk2
-gettext-bin
+gettext
 iptables
 libvirt
 nftables
