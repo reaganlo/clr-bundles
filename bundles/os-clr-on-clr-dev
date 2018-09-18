@@ -592,6 +592,7 @@ mpc-dev
 mpfr-dev
 mtdev-dev
 mtdev-dev32
+mypy_extensions
 nasm
 nasm-bin
 ncurses-dev

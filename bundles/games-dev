@@ -62,6 +62,7 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-scons
 bzip2
@@ -183,6 +184,7 @@ graphite-dev32
 graphviz
 grep
 groff
+gsl-dev
 gst-plugins-base-dev
 gstreamer-dev
 gstreamer-dev32
@@ -426,6 +428,7 @@ python3
 python3-core
 python3-dev
 qemu
+qtbase-extras
 readline-dev
 readline-dev32
 rest-dev

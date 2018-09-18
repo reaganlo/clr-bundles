@@ -142,6 +142,7 @@ graphviz
 graphviz-extras
 grep
 groff
+gsl-dev
 gst-plugins-base-dev
 gstreamer-dev
 gtk-doc

@@ -207,6 +207,7 @@ graphviz-extras
 grep
 groff
 gsettings-desktop-schemas-dev
+gsl-dev
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-base-dev
