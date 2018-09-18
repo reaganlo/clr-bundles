@@ -151,6 +151,7 @@ xf86-video-fbdev
 xf86-video-nouveau
 xf86-video-vboxvideo
 xf86-video-vesa
+xf86-video-qxl
 xauth
 xhost
 xinit
