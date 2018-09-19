@@ -47,6 +47,7 @@ gtk-doc
 gtk-doc-dev
 gzip
 hostname
+intltool-dev
 libc6-dev
 libffi-dev
 libffi-dev32
@@ -127,6 +128,7 @@ shadow
 strace
 systemd-bin
 systemd-dev
+systemd-dev32
 systemd-extras
 systemd-lib
 tar

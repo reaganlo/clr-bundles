@@ -145,6 +145,8 @@ libgpg-error-dev
 libgpg-error-dev32
 libidn-dev
 libidn-dev32
+libidn2-dev
+libidn2-dev32
 libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32

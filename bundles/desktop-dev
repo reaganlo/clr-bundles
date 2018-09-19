@@ -58,8 +58,6 @@ babl-dev
 bash-completion-dev
 bats
 bdftopcf
-beautifulsoup4
-beignet-dev
 binutils
 binutils-dev
 bison
@@ -87,7 +85,6 @@ cairo-dev32
 cairomm-dev
 cargo
 caribou-dev
-ccache
 check
 check-dev
 check-dev32
@@ -101,7 +98,6 @@ clutter-gtk-dev
 cmake
 cmrt-dev
 cogl-dev
-coinmp-dev
 colord
 colord-dev
 colord-gtk-dev
@@ -145,7 +141,6 @@ e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
-eigen-dev
 elfutils
 elfutils-dev
 elfutils-dev32
@@ -190,7 +185,6 @@ gcc-libgcc32
 gcc-libstdc++32
 gcr-data
 gcr-dev
-gdal-dev
 gdb
 gdb-dev
 gdbm-dev
@@ -226,6 +220,7 @@ glibc-locale
 glibc-staticdev
 glibc-utils
 glibmm-dev
+glslang
 glu-dev
 glu-dev32
 gmime-dev
@@ -332,11 +327,13 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libXScrnSaver-dev
+libXScrnSaver-dev32
 libXau-dev
 libXau-dev32
 libXcomposite-dev
 libXcomposite-dev32
 libXcursor-dev
+libXcursor-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -354,6 +351,7 @@ libXi-dev32
 libXinerama-dev
 libXinerama-dev32
 libXmu-dev
+libXmu-dev32
 libXpm-dev
 libXrandr-dev
 libXrandr-dev32
@@ -424,6 +422,8 @@ libgweather-dev
 libical-dev
 libidn-dev
 libidn-dev32
+libidn2-dev
+libidn2-dev32
 libinput-dev
 libiscsi-dev
 libjpeg-turbo-dev
@@ -498,7 +498,6 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
-libva-intel-driver
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -578,18 +577,13 @@ nspr-dev
 nss-altfiles
 nss-dev
 nss-lib32
-numpy
-ocl-icd-dev
 octave-dev
 onig-dev
 openal-soft-dev
-openblas
 openconnect-dev
 opencv-dev
 openjade-dev
 openjdk
-openjdk-dev
-openjdk9-dev
 openldap-dev
 openssh
 openssl
@@ -698,6 +692,8 @@ slang-dev
 source-highlight
 speex-dev
 speexdsp-dev
+spice-dev
+spice-protocol-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 sqlite-autoconf-dev32
@@ -713,7 +709,6 @@ systemd-lib
 taglib-dev
 talloc-dev
 tar
-tbb-dev
 tcl
 tcl-dev
 tdb-dev

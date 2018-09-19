@@ -221,6 +221,8 @@ libgudev-dev
 libical-dev
 libidn-dev
 libidn-dev32
+libidn2-dev
+libidn2-dev32
 libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32

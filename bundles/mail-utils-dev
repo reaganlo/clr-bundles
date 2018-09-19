@@ -98,6 +98,7 @@ guile
 gzip
 hostname
 idna
+intltool-dev
 krb5-dev
 libX11-dev
 libX11-dev32
@@ -124,6 +125,8 @@ libgfortran-compat-soname4
 libgpg-error-dev
 libidn-dev
 libidn-dev32
+libidn2-dev
+libidn2-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32

@@ -347,6 +347,8 @@ libgudev-dev
 libgusb-dev
 libidn-dev
 libidn-dev32
+libidn2-dev
+libidn2-dev32
 libinput-dev
 libisofs-dev
 libjpeg-turbo-dev

@@ -75,6 +75,7 @@ gtk-doc-dev
 guile
 gzip
 hostname
+intltool-dev
 libX11-dev
 libX11-dev32
 libXScrnSaver-dev
