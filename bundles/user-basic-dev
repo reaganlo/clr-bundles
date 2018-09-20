@@ -359,7 +359,6 @@ libxslt
 libxslt-bin
 libxslt-dev
 linux-libc-headers
-llvm
 llvm-dev
 lua-dev
 lz4-dev
@@ -545,6 +544,7 @@ sqlite-autoconf-dev
 startup-notification
 startup-notification-dev
 strace
+subversion
 swig
 systemd
 systemd-bin

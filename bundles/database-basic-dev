@@ -27,7 +27,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
-buildreq-gnome
 buildreq-meson
 bzip2
 bzip2-dev

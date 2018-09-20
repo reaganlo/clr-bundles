@@ -30,7 +30,6 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
-buildreq-gnome
 buildreq-golang
 buildreq-meson
 bzip2
@@ -190,6 +189,7 @@ pacrunner-dev
 patch
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pkg-config

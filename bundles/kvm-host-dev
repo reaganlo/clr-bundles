@@ -143,7 +143,6 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
-go
 gobject-introspection
 gobject-introspection-dev
 googletest-dev
@@ -284,7 +283,6 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
-llvm
 llvm-dev
 lua-dev
 lz4-dev
@@ -353,6 +351,7 @@ pkg-config-dev
 polkit-dev
 prettytable
 procps-ng
+protobuf-dev
 psutil
 pyparsing
 python
@@ -380,6 +379,7 @@ spice-dev
 spice-protocol
 spice-protocol-dev
 strace
+subversion
 systemd
 systemd-bin
 systemd-dev
