@@ -49,7 +49,9 @@ sg3_utils
 stevedore
 sysfsutils
 tgt
+tuned
 xorriso
+watchdogd
 
 # the base openstack components
 nova
