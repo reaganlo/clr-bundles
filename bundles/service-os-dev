@@ -181,7 +181,6 @@ nss-bin
 openssl
 openssl-dev
 openssl-dev32
-openssl-lib32
 p11-kit
 packaging
 patch

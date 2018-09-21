@@ -522,6 +522,7 @@ libxslt-dev
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
+llvm
 llvm-dev
 lua-dev
 lz4-dev
@@ -698,7 +699,6 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 startup-notification-dev
 strace
-subversion
 swig
 systemd
 systemd-bin

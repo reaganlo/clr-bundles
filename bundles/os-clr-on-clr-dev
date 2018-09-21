@@ -565,6 +565,7 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
+llvm
 llvm-dev
 lmdb-dev
 lua
