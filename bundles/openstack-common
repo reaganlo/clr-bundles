@@ -23,6 +23,7 @@ monotonic
 multipath-tools
 netaddr
 netifaces
+nss-pam-ldapd
 ordereddict
 oslo.config
 oslo.context
