@@ -517,6 +517,7 @@ polkit-dev
 popt-dev
 procps-ng
 procps-ng-bin
+protobuf-dev
 pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
@@ -558,6 +559,7 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 startup-notification-dev
 strace
+subversion
 swig
 systemd
 systemd-bin

@@ -101,6 +101,7 @@ cogl-dev
 colord
 colord-dev
 colord-gtk-dev
+compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
@@ -154,6 +155,7 @@ exiv2-dev
 expat-dev
 expat-dev32
 expect
+extra-cmake-modules
 fftw-dev
 flac-dev
 flac-dev32
@@ -522,7 +524,6 @@ libxslt-dev
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
-llvm
 llvm-dev
 lua-dev
 lz4-dev
@@ -539,6 +540,7 @@ metacity-dev
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
+mobile-broadband-provider-info-dev
 mozjs-dev
 mozjs52-dev
 mozjs60
@@ -699,6 +701,7 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 startup-notification-dev
 strace
+subversion
 swig
 systemd
 systemd-bin

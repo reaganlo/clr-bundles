@@ -93,6 +93,7 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 coreutils
 cracklib-dev
@@ -125,7 +126,6 @@ elfutils
 elfutils-dev
 elfutils-dev32
 emacs
-enchant-dev
 entrypoints
 enum34
 expat-dev
@@ -359,7 +359,6 @@ libxslt
 libxslt-bin
 libxslt-dev
 linux-libc-headers
-llvm
 llvm-dev
 lua-dev
 lz4-dev
@@ -545,6 +544,7 @@ sqlite-autoconf-dev
 startup-notification
 startup-notification-dev
 strace
+subversion
 swig
 systemd
 systemd-bin

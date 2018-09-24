@@ -40,6 +40,8 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
+buildreq-gnome
+buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -266,7 +268,6 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
-llvm
 llvm-dev
 m4
 make
@@ -328,6 +329,7 @@ pkg-config-dev
 postgresql-dev
 procps-ng
 procps-ng-bin
+protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
 python-dev
@@ -377,6 +379,7 @@ sqlite-autoconf
 sqlite-autoconf-dev
 sqlite-autoconf-dev32
 strace
+subversion
 systemd
 systemd-bin
 systemd-dev

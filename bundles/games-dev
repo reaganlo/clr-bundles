@@ -115,6 +115,7 @@ emacs
 expat-dev
 expat-dev32
 expect
+extra-cmake-modules
 fftw-dev
 flac-dev
 flac-dev32
@@ -362,7 +363,6 @@ libxslt-dev
 linux-firmware-wifi
 linux-libc-headers
 linux-steam-integration-dev
-llvm
 llvm-dev
 m4
 make
@@ -422,6 +422,7 @@ pkg-config
 pkg-config-dev
 polkit-dev
 procps-ng
+protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
 pygobject
@@ -453,6 +454,7 @@ speexdsp-dev
 sqlite-autoconf-dev
 sqlite-autoconf-dev32
 strace
+subversion
 systemd-bin
 systemd-dev
 systemd-dev32

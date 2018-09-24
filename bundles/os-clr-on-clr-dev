@@ -138,6 +138,7 @@ cmocka-dev
 colorama
 colord-dev
 commonmark
+compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 contextlib2
 coreutils
@@ -550,9 +551,7 @@ libxml2
 libxml2-bin
 libxml2-dev
 libxml2-dev32
-libxml2-legacy-legacypython
 libxml2-python
-libxml2-python3
 libxshmfence-dev
 libxshmfence-dev32
 libxslt
@@ -565,7 +564,6 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
-llvm
 llvm-dev
 lmdb-dev
 lua
@@ -907,6 +905,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala
 vala-dev
 valgrind
 valgrind-dev

@@ -28,6 +28,7 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils23
 buildreq-distutils3
+buildreq-gnome
 buildreq-meson
 bzip2
 bzip2-dev
@@ -148,7 +149,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pip

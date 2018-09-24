@@ -44,6 +44,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
+buildreq-gnome
 buildreq-golang
 buildreq-meson
 buildreq-qmake
@@ -195,7 +196,6 @@ libxslt
 libxslt-bin
 libxslt-dev
 linux-libc-headers
-llvm
 llvm-dev
 m4
 make
@@ -284,6 +284,7 @@ pretend
 processor-trace-dev
 procps-ng
 procps-ng-bin
+protobuf-dev
 py
 pycparser
 pycparser-legacypython
@@ -317,6 +318,7 @@ source-highlight-dev
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
+subversion
 systemd-bin
 systemd-dev
 systemd-dev32

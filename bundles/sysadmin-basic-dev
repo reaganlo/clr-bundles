@@ -34,6 +34,8 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
+buildreq-gnome
+buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
@@ -100,7 +102,6 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
-go
 gperf
 graphviz
 grep
@@ -200,7 +201,6 @@ p11-kit
 p11-kit-dev
 p11-kit-dev32
 patch
-pbr
 pciutils-dev
 pcre-dev
 pcre-dev32
@@ -210,7 +210,6 @@ perl-IO-stringy
 perl-Test-Output
 perl-XML-Parser
 pigz
-pip
 pkg-config
 pkg-config-dev
 popt-dev

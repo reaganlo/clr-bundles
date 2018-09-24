@@ -32,6 +32,7 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
+buildreq-gnome
 buildreq-golang
 buildreq-meson
 bzip2
@@ -42,6 +43,7 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
+compat-enchant-soname1-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -63,7 +65,6 @@ e2fsprogs-dev32
 ebtables-dev
 elfutils-dev
 elfutils-dev32
-enchant-dev
 expat-dev
 expat-dev32
 expect

@@ -38,6 +38,7 @@ buildreq-cmake
 buildreq-configure
 buildreq-distutils23
 buildreq-distutils3
+buildreq-gnome
 buildreq-golang
 buildreq-meson
 buildreq-qmake
@@ -187,7 +188,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pesign
 pigz
