@@ -1,0 +1,8 @@
+# [TITLE]: runtime-libs-boost
+# [DESCRIPTION]: Basic C++ / Boost runtime libraries
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+boost
+libstdc++
