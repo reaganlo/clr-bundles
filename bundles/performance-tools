@@ -11,6 +11,7 @@ include(tcl-basic)
 blktrace
 clr-debug-info
 collectl
+cpuloadgen
 dstat
 glances
 gperf
