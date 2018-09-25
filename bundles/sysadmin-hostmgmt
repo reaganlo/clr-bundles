@@ -17,3 +17,5 @@ docker-py
 netaddr
 openssh-bin
 # End ansible deps
+# for ntpdate for time management
+ntp-bin
