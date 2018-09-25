@@ -58,6 +58,8 @@ babl-dev
 bash-completion-dev
 bats
 bdftopcf
+beautifulsoup4
+beignet-dev
 binutils
 binutils-dev
 bison
@@ -85,6 +87,7 @@ cairo-dev32
 cairomm-dev
 cargo
 caribou-dev
+ccache
 check
 check-dev
 check-dev32
@@ -98,6 +101,7 @@ clutter-gtk-dev
 cmake
 cmrt-dev
 cogl-dev
+coinmp-dev
 colord
 colord-dev
 colord-gtk-dev
@@ -142,6 +146,7 @@ e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
+eigen-dev
 elfutils
 elfutils-dev
 elfutils-dev32
@@ -162,6 +167,7 @@ flac-dev32
 flatpak-dev
 flex
 flex-dev
+fltk-dev
 font-bitstream-type1
 font-util-dev
 font-util-dev32
@@ -187,6 +193,7 @@ gcc-libgcc32
 gcc-libstdc++32
 gcr-data
 gcr-dev
+gdal-dev
 gdb
 gdb-dev
 gdbm-dev
@@ -296,6 +303,7 @@ ibus-dev
 icon-naming-utils-dev
 icu4c-dev
 icu4c-dev32
+ilmbase-dev
 intel-gpu-tools-dev
 intltool
 intltool-dev
@@ -500,6 +508,7 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
+libva-intel-driver
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -579,13 +588,19 @@ nspr-dev
 nss-altfiles
 nss-dev
 nss-lib32
+numpy
+ocl-icd-dev
 octave-dev
 onig-dev
 openal-soft-dev
+openblas
 openconnect-dev
 opencv-dev
+openexr-dev
 openjade-dev
 openjdk
+openjdk-dev
+openjdk9-dev
 openldap-dev
 openssh
 openssl
@@ -712,6 +727,7 @@ systemd-lib
 taglib-dev
 talloc-dev
 tar
+tbb-dev
 tcl
 tcl-dev
 tdb-dev
