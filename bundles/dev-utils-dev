@@ -196,6 +196,7 @@ libxslt
 libxslt-bin
 libxslt-dev
 linux-libc-headers
+llvm
 llvm-dev
 m4
 make

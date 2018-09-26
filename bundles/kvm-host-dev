@@ -283,6 +283,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+llvm
 llvm-dev
 lua-dev
 lz4-dev

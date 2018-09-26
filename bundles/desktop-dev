@@ -269,6 +269,7 @@ graphviz-extras
 grep
 grilo-dev
 grilo-plugins
+grilo-plugins-dev
 groff
 gsettings-desktop-schemas
 gsettings-desktop-schemas-dev
@@ -533,6 +534,7 @@ libxslt-dev
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
+llvm
 llvm-dev
 lua-dev
 lz4-dev

@@ -551,7 +551,9 @@ libxml2
 libxml2-bin
 libxml2-dev
 libxml2-dev32
+libxml2-legacy-legacypython
 libxml2-python
+libxml2-python3
 libxshmfence-dev
 libxshmfence-dev32
 libxslt
@@ -564,6 +566,7 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
+llvm
 llvm-dev
 lmdb-dev
 lua
@@ -825,6 +828,7 @@ sbsigntools
 scikit-build
 scons
 sed
+serf-dev
 setuptools
 setuptools-legacypython
 setuptools-python
