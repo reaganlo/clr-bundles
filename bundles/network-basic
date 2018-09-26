@@ -7,6 +7,8 @@
 include(ethtool)
 include(iproute2)
 include(openssl)
+include(perl-basic)
+include(python3-basic)
 include(wpa_supplicant)
 WireGuard
 bind-utils
@@ -14,11 +16,13 @@ bridge-utils
 connect-proxy
 conntrack-tools
 curl
+dpdk
 ebtables
 ipset
 iptables
 iptraf
 iputils
+irssi
 iw
 links
 net-tools
@@ -36,5 +40,6 @@ redsocks
 rsync
 tcpdump
 traceroute
+weechat
 wget
 znc
