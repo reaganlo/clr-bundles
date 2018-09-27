@@ -31,7 +31,6 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
-buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
@@ -198,6 +197,7 @@ patch
 pcre-dev
 pcre-dev32
 pcre2-dev
+perl
 perl-Error
 perl-XML-Parser
 pigz

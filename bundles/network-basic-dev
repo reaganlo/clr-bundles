@@ -29,7 +29,6 @@ boost-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
-buildreq-gnome
 buildreq-golang
 buildreq-meson
 bzip2
@@ -199,6 +198,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message

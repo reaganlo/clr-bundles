@@ -29,7 +29,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
-buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
@@ -191,6 +190,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pip

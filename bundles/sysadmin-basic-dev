@@ -34,7 +34,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
-buildreq-gnome
 buildreq-golang
 buildreq-meson
 bzip2

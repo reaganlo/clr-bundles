@@ -31,7 +31,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
-buildreq-gnome
 buildreq-kde
 buildreq-meson
 buildreq-qmake

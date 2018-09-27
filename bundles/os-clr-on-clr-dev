@@ -219,6 +219,7 @@ freeglut-dev
 freetype
 freetype-dev
 freetype-dev32
+freezegun
 fribidi-dev
 fribidi-dev32
 funcsigs
@@ -784,6 +785,7 @@ pytest-runner
 pytest-xdist
 python
 python-core
+python-dateutil-legacypython-legacypython
 python-dev
 python-magic
 python-mimeparse

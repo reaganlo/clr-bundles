@@ -44,7 +44,6 @@ buildreq-configure
 buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
-buildreq-gnome
 buildreq-golang
 buildreq-meson
 buildreq-qmake
@@ -115,7 +114,6 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
-gnutls-dev
 go
 googletest-dev
 gperf
