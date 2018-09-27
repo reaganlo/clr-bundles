@@ -1,0 +1,12 @@
+# [TITLE]: openqa
+# [DESCRIPTION]: OpenQA infrastructure
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
+include(kvm-host)
+include(perl-basic)
+include(postgresql)
+include(web-server-basic)
+opencv-lib
+openQA
+os-autoinst
