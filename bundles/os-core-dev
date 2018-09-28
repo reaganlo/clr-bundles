@@ -5,6 +5,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 CUnit-dev
+CUnit-dev32
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -17,12 +18,15 @@ autogen
 automake
 automake-dev
 bash-completion-dev
+bats
 binutils
 bison
 bison-dev
+boost-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
+buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
@@ -42,6 +46,7 @@ docbook-xml
 doxygen
 e2fsprogs
 e2fsprogs-dev
+e2fsprogs-dev32
 elfutils-dev
 expat-dev
 expat-dev32
@@ -69,6 +74,7 @@ glibc-dev
 glibc-dev32
 glibc-libc32
 glibc-locale
+glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
@@ -102,12 +108,15 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libaio-dev
+libc6
 libc6-dev
 libcap-dev
 libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
+libevent-dev
+libevent-dev32
 libffi-dev
 libffi-dev32
 libgcrypt-dev
@@ -137,6 +146,7 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libxml2-dev
+libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
@@ -153,9 +163,13 @@ nettle-dev
 nettle-dev32
 nettle-lib
 nettle-lib32
+nghttp2-dev
+nghttp2-dev32
 nss-altfiles
 openssl
 openssl-dev
+openssl-dev32
+p11-kit
 p11-kit-dev
 p11-kit-dev32
 patch
@@ -190,6 +204,7 @@ texinfo
 thin-provisioning-tools
 unzip
 util-linux
+util-linux-bin
 util-linux-dev
 util-linux-dev32
 util-linux-extras

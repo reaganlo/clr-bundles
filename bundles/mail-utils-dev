@@ -36,6 +36,7 @@ bzip2
 bzip2-dev
 check
 check-dev
+check-dev32
 clr-rpm-config
 cmake
 coreutils
@@ -142,6 +143,7 @@ libgfortran-avx
 libgfortran-compat-soname3
 libgfortran-compat-soname4
 libgpg-error-dev
+libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libidn2-dev
