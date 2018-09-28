@@ -33,6 +33,7 @@ open-lldp
 powertop
 procps-ng
 psstop
+python-hwinfo
 siege
 strace
 sysdig
