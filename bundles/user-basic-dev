@@ -226,7 +226,7 @@ iso8601
 json-c-dev
 json-c-dev32
 jsonschema-python
-keyring-python
+keyring
 keyutils-dev
 kmod
 kmod-bin

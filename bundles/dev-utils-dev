@@ -140,7 +140,7 @@ iptables-dev
 iptables-dev32
 iso8601
 jsonschema-python
-keyring-python
+keyring
 keyutils-dev
 kmod
 kmod-dev
