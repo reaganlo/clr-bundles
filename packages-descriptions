@@ -1,0 +1,92 @@
+# This list defines package-scope bundle descriptions
+# Each line contains a single package name and its
+# corresponding description.
+#
+# There is a required 1:1 mapping for each entry in the packages
+# file and this file.
+#
+# This file should remain sorted
+ansible - Automates software provisioning, configuration management, and application deployment.
+audit - system audit tools
+axel - Download accelerator
+bc - basic calculator, an arbitrary-precision calculator language
+bmap-tools - Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
+casync - Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
+clamav - Clam AntiVirus is an anti-virus toolkit for Unix
+cockpit - Web based administration for GNU/Linux servers
+cpio - File archiver utility
+curl - Transfer data to/from a URL
+darktable - Photography workflow application
+dfu-util - Device Firmware Upgrade Utilities
+diffoscope - In-depth comparison of files, archives, and directories
+diffutils - Tools for file comparisons and differences
+docutils - Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
+dovecot - Security focused IMAP and POP3 email server
+dtc - Device Tree Compiler, to describe non-discoverable hardware
+duperemove - Tool for finding duplicated extents and submitting them for deduplication
+ethtool - Utility for displaying and modifying some parameters of network interface controller
+file - program for recognizing the type of data contained in a computer file
+findutils - basic directory searching utilities e.g. find, xargs, and locate
+fio - Flexible I/O tester
+firefox - Web Browser
+fwupdate - Firmware update tool
+gdb - GNU debugger
+gftp - Text mode and GUI FTP Client
+gimp - GNU Image Manipulation Program
+glmark2 - OpenGL 2.0 and ES 2.0 benchmark
+goaccess - Real-time web log analyzer
+gzip - lossless data compression/decompression utility
+htop - interactive text-mode process viewer
+httpd - Apache HyperText Transfer Protocol (HTTP) Server daemon
+hugo - Static Web site generator
+iasimage - for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
+icdiff - Improved Color Differences between similar files
+iftop - display bandwidth usage on an interface
+inotify-tools - monitor for file system events
+iproute2 - utilities for controlling TCP / IP networking and traffic control
+ipvsadm- Virtual Server admin tool - used to set up, maintain or inspect the virtual server table in the Linux kernel
+irssi - Internet Relay Chat (IRC) client program
+joe - Text editor
+jq - lightweight and flexible command-line JSON processor
+keepalived - strong & robust keepalive facility for the Linux Virtual Server project
+keepassxc - KeePassXC is a password manager
+kernel-install - installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
+keychain - manage SSH and GPG keys
+libva-utils - collection of utilities and examples to exercise VA-API (Video Acceleration API)
+linux-dev - programs for developing Linux
+linux-tools - Tools for use in Linux
+logrotate - manages the automatic rotation and compression of log files
+meld - visual file difference and merging tool, targeted at developers
+mkosi - generate disk images
+mtr - Poll a remote server and see how the latency and performance changes over time
+ncdu - curses disk space usage management tool
+nginx - HTTP server, reverse proxy, IMAP/POP3 proxy server
+octave - high-level programming language, primarily intended for numerical computations
+openssl - Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+p11-kit - Load and enumerate PKCS#11 modules for cryptography
+parallel - shell tool for executing jobs in parallel using one or more computers
+patch - updates text files according to instructions contained in a separate file
+pmdk - Persistent Memory Development Kit - tools and libraries for working with non-volatile memory
+postgresql - Database
+powertop - diagnose issues with power consumption and power management
+pwgen - generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
+redis-native - key-value database
+strace - System call diagnostic, instructional, and debugging tool
+subversion - Version Control System
+sudo - allows a user to run a program as another user
+suricata - network threat detection engine
+texlive - major TeX-related typesetting programs, macro packages, and fonts.
+thunderbird - Email client
+tmux - terminal multiplexer (similar to screen)
+unison - bidirectional file synchronization tool
+unzip - list, test, or extract files from a ZIP archive
+valgrind - suite of tools for debugging and profiling software code
+vlc - VideoLAN Client, multimedia player and framework
+weechat - Internet Relay Chat (IRC) client
+weston-extras - Utilities and tools for the Wayland graphics compositor
+which - locate executables in the system
+wpa_supplicant - backend component controlling the wireless connections
+xemacs - text editor and application development system
+xz - data compression/decompression tool
+zsh - Z Shell, an interactive shell and powerful command-line interpreter for scripting language
+zstd - realtime data compression/decompression tool
