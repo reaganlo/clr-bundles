@@ -163,6 +163,7 @@ iptables-dev32
 jemalloc-dev
 json-c-dev
 json-c-dev32
+kbd
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -239,6 +240,8 @@ libpthread-stubs-dev32
 librsvg-dev
 librsvg-dev32
 libsamplerate-dev
+libseccomp-dev
+libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 libstdc++

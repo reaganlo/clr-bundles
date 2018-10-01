@@ -341,6 +341,7 @@ json-glib-dev32
 jsonschema-python
 karchive-dev
 kauth-dev
+kbd
 kbookmarks-dev
 kcodecs-dev
 kcompletion-dev
@@ -518,6 +519,7 @@ librsvg-dev32
 libsafec-dev
 libsamplerate-dev
 libseccomp-dev
+libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
 libsolv-dev

@@ -121,6 +121,7 @@ iperf-dev
 iptables-dev
 iptables-dev32
 json-c-dev
+kbd
 keyutils-dev
 kmod
 kmod-dev
@@ -166,6 +167,8 @@ libpcap-dev
 libpipeline-dev
 libpng-dev
 libpwquality-dev
+libseccomp-dev
+libseccomp-dev32
 libssh2-dev
 libstdc++
 libtasn1-dev
@@ -176,6 +179,7 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
+libxkbcommon-dev
 libxml2-dev
 libxml2-dev32
 libxslt

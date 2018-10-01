@@ -91,6 +91,7 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+kbd
 kmod-dev
 kmod-dev32
 libICE-dev
@@ -117,12 +118,15 @@ libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libmicrohttpd-dev
+libseccomp-dev
+libseccomp-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
 libtool
 libtool-dev
 libunwind-dev
+libxkbcommon-dev
 libxml2-dev
 libxml2-dev32
 libxslt

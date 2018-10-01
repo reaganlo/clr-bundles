@@ -140,6 +140,7 @@ iptables-dev
 iptables-dev32
 iso8601
 jsonschema-python
+kbd
 keyring
 keyutils-dev
 kmod
@@ -179,6 +180,8 @@ libpipeline-dev
 libpng-dev
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libseccomp-dev
+libseccomp-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -186,6 +189,7 @@ libtool
 libtool-dev
 libunwind-dev
 libunwind-dev32
+libxkbcommon-dev
 libxml2-bin
 libxml2-dev
 libxml2-dev32

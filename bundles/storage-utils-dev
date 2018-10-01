@@ -121,6 +121,7 @@ iptables-dev
 iptables-dev32
 iso8601
 json-c-dev
+kbd
 keyutils-dev
 kmod
 kmod-dev
@@ -156,6 +157,8 @@ libmicrohttpd-dev
 libnl-dev
 libpwquality-dev
 libsafec-dev
+libseccomp-dev
+libseccomp-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -167,6 +170,7 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libuser-dev
+libxkbcommon-dev
 libxml2
 libxml2-dev
 libxml2-dev32

@@ -249,6 +249,7 @@ json-c-dev
 json-c-dev32
 json-glib-dev
 json-glib-dev32
+kbd
 keyutils-dev
 kmod
 kmod-bin
@@ -383,6 +384,7 @@ librsvg-dev
 librsvg-dev32
 libsamplerate-dev
 libseccomp-dev
+libseccomp-dev32
 libsecret-dev
 libsigc++-dev
 libsndfile-dev

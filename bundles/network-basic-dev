@@ -117,6 +117,7 @@ ipset-dev
 iptables-dev
 iptables-dev32
 irssi-dev
+kbd
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -159,6 +160,8 @@ libnftnl-dev
 libnftnl-dev32
 libnl-dev
 libpcap-dev
+libseccomp-dev
+libseccomp-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -167,6 +170,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libxkbcommon-dev
 libxml2-dev
 libxml2-dev32
 libxslt

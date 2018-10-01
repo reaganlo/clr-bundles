@@ -104,6 +104,7 @@ intltool-dev
 iptables-dev
 iptables-dev32
 json-c-dev
+kbd
 keyutils-dev
 kmod
 kmod-dev
@@ -146,6 +147,8 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libpwquality-dev
+libseccomp-dev
+libseccomp-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -154,6 +157,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
+libxkbcommon-dev
 libxml2-dev
 libxml2-dev32
 libxslt

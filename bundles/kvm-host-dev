@@ -172,6 +172,7 @@ iptables-dev32
 isa-l-dev
 json-c-dev
 json-c-dev32
+kbd
 keyutils-dev
 kmod
 kmod-bin
@@ -261,6 +262,7 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libseccomp-dev
+libseccomp-dev32
 libssh2-dev
 libstdc++
 libtasn1-dev
@@ -277,6 +279,7 @@ libva-dev
 libvirt-dev
 libxcb-dev
 libxcb-dev32
+libxkbcommon-dev
 libxml2-dev
 libxml2-dev32
 libxshmfence-dev

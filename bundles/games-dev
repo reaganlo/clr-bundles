@@ -64,6 +64,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-qmake
 buildreq-scons
 bzip2
 bzip2-dev
@@ -215,6 +216,7 @@ json-c-dev
 json-c-dev32
 json-glib-dev
 json-glib-dev32
+kbd
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -324,6 +326,8 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libsamplerate-dev
+libseccomp-dev
+libseccomp-dev32
 libsecret-dev
 libsndfile-dev
 libsndfile-dev32
