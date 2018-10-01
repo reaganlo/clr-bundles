@@ -3,9 +3,11 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(python3-basic)
 include(perl-basic)
+include(python3-basic)
 Babel
+M2Crypto
+apr-util-dev
 debtcollector
 elixir
 funcsigs
@@ -16,10 +18,9 @@ iso8601
 jsonschema
 keepalived
 keystoneauth1
-M2Crypto
 memcached
-msgpack-python
 monotonic
+msgpack-python
 multipath-tools
 netaddr
 netifaces
@@ -46,21 +47,21 @@ radvd
 requests
 rsync
 setuptools
-six
 sg3_utils
+six
 stevedore
 sysfsutils
 tgt
-xorriso
 watchdogd
+xorriso
 
 # the base openstack components
-nova
-keystone
-horizon
-glance
-neutron
 barbican
-swift
 cinder
+glance
+horizon
 ironic
+keystone
+neutron
+nova
+swift
