@@ -9,6 +9,7 @@ include(openssl)
 include(os-installer)
 include(python3-basic)
 include(sysadmin-basic)
+include(zstd)
 # bundle-chroot-builder still necessary for the
 # builder.conf laid on the system.
 # TODO: move this config to the mixer package instead
