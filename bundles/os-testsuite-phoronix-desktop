@@ -109,7 +109,9 @@ sqlite-autoconf-dev
 tcl
 time
 unzip
-vulkan-sdk
 x11perf
 yasm
 zlib-dev
+Vulkan-Headers
+Vulkan-Loader
+Vulkan-Tools
