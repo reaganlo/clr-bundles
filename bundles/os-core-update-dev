@@ -8,6 +8,7 @@ include(os-core-dev)
 include(os-core-update)
 CUnit-dev
 CUnit-dev32
+Cython
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -116,6 +117,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
 libaio-dev
 libarchive-dev
 libc6

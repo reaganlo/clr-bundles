@@ -877,6 +877,7 @@ tcl-dev
 tdb-dev
 tdb-legacypython
 telemetrics-client-dev
+termcolor
 testrepository
 testresources
 testscenarios

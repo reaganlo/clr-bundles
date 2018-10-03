@@ -271,6 +271,7 @@ libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+llvm
 llvm-dev
 m4
 make
