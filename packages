@@ -61,6 +61,7 @@ libva-utils
 linux-dev
 linux-tools
 logrotate
+make
 meld
 mkosi
 mtr
