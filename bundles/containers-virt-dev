@@ -201,7 +201,6 @@ p11-kit
 p11-kit-dev
 p11-kit-dev32
 patch
-pbr
 pcre-dev
 pcre-dev32
 pcre2-dev
@@ -209,7 +208,6 @@ perl
 perl-Error
 perl-XML-Parser
 pigz
-pip
 pixman-dev
 pixman-dev32
 pkg-config
@@ -225,7 +223,6 @@ readline-dev32
 rpm-build
 ruby
 sed
-setuptools
 shadow
 shared-mime-info
 sqlite-autoconf-dev

@@ -23,6 +23,10 @@ R-dev
 SDL-dev
 Sphinx
 Thunar-dev
+Vulkan-Headers-dev
+Vulkan-Loader-dev
+Vulkan-Loader-dev32
+Vulkan-Tools
 Z3-dev
 acl-dev
 acl-dev32
@@ -532,6 +536,7 @@ python3
 python3-core
 python3-dev
 qemu
+qtbase-dev
 qtbase-extras
 readline-dev
 readline-dev32
@@ -589,8 +594,6 @@ vala-dev
 valgrind
 valgrind-dev
 vte-dev
-vulkan-sdk-dev
-vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev

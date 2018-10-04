@@ -168,6 +168,7 @@ perl-Try-Tiny
 perl-URI
 perl-Variable-Magic
 perl-WWW-RobotRules
+perl-XML-Parser-dev
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean

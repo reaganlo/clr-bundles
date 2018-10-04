@@ -12,6 +12,10 @@ Mako-legacypython
 Mako-python
 SDL-dev
 Sphinx
+Vulkan-Headers-dev
+Vulkan-Loader-dev
+Vulkan-Loader-dev32
+Vulkan-Tools
 Z3-dev
 acl-dev
 acl-dev32
@@ -405,8 +409,6 @@ util-macros-dev
 util-macros-dev32
 valgrind
 valgrind-dev
-vulkan-sdk-dev
-vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev

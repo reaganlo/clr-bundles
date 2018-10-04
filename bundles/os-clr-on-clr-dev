@@ -45,6 +45,10 @@ R-dev
 SDL-dev
 Sphinx
 Sphinx-python
+Vulkan-Headers-dev
+Vulkan-Loader-dev
+Vulkan-Loader-dev32
+Vulkan-Tools
 Whoosh
 Z3-dev
 acl-dev
@@ -919,8 +923,6 @@ valgrind-dev
 vcversioner
 vim
 virtualenv
-vulkan-sdk-dev
-vulkan-sdk-dev32
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
