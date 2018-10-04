@@ -1,0 +1,33 @@
+# [TITLE]: software testing
+# [DESCRIPTION]: Software to run or create test suites
+# [STATUS]: Active
+# [CAPABILITIES]: Test runners
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(perl-basic)
+include(python-basic)
+
+
+bats
+check
+cmocka
+glog
+googletest
+perl-TAP-Harness-Archive
+pytest-cov
+pytest-forked
+pytest-randomly
+pytest-repeat
+pytest-rerunfailures
+pytest-runner
+pytest-sugar
+pytest-timeout
+pytest-xdist
+python-mock
+python-tappy
+testpath
+testrepository
+testresources
+testscenarios
+testtools
+unittest2
