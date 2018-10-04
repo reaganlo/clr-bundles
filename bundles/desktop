@@ -138,8 +138,9 @@ nautilus
 yelp
 
 # nice to have when using desktop
-ModemManager
 cups
+ModemManager
+ntfs-3g
 thermal_daemon
 
 # x.org bits
