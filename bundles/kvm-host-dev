@@ -29,6 +29,10 @@ acl-dev
 acl-dev32
 acpica-unix2
 asciidoc
+at-spi2-atk-dev
+at-spi2-atk-dev32
+at-spi2-core-dev
+at-spi2-core-dev32
 atk-dev
 atk-dev32
 attr-dev
@@ -69,13 +73,16 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+colord-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
 cups-dev
 curl-dev
+curl-dev32
 cyrus-sasl-dev
 db-dev
+dbus-broker
 dbus-dev
 dbus-dev32
 dejagnu
@@ -133,6 +140,8 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glib-networking
+glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -143,6 +152,8 @@ glibc-utils
 glu-dev
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -157,9 +168,9 @@ graphite-dev32
 graphviz
 grep
 groff
-gtk+-dev
 gtk-doc
 gtk-doc-dev
+gtk3-dev
 guile
 gzip
 harfbuzz-dev
@@ -174,8 +185,11 @@ iptables
 iptables-dev
 iptables-dev32
 isa-l-dev
+iso-codes-dev
 json-c-dev
 json-c-dev32
+json-glib-dev
+json-glib-dev32
 kbd
 keyutils-dev
 kmod
@@ -183,6 +197,7 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
+lcms2-dev
 leveldb-dev
 libICE-dev
 libICE-dev32
@@ -192,6 +207,8 @@ libX11-dev
 libX11-dev32
 libXau-dev
 libXau-dev32
+libXcomposite-dev
+libXcomposite-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -210,6 +227,10 @@ libXrandr-dev
 libXrandr-dev32
 libXrender-dev
 libXrender-dev32
+libXt-dev
+libXt-dev32
+libXtst-dev
+libXtst-dev32
 libXv-dev
 libXv-dev32
 libXvMC-dev
@@ -231,6 +252,8 @@ libdatrie-dev
 libdatrie-dev32
 libdrm-dev
 libdrm-dev32
+libepoxy-dev
+libepoxy-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -239,10 +262,13 @@ libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
+libgudev-dev
+libgusb-dev
 libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
+libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmicrohttpd-dev
@@ -260,6 +286,8 @@ libpciaccess-dev
 libpciaccess-dev32
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 librsvg
@@ -267,6 +295,8 @@ librsvg-dev
 librsvg-dev32
 libseccomp-dev
 libseccomp-dev32
+libsoup-dev
+libsoup-dev32
 libssh2-dev
 libstdc++
 libtasn1-dev
@@ -284,6 +314,7 @@ libvirt-dev
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
+libxkbcommon-dev32
 libxml2-dev
 libxml2-dev32
 libxshmfence-dev
@@ -373,6 +404,8 @@ qemu
 readline-dev
 readline-dev32
 requests
+rest-dev
+rest-dev32
 rpm-build
 ruby
 scons
@@ -387,6 +420,8 @@ spice
 spice-dev
 spice-protocol
 spice-protocol-dev
+sqlite-autoconf-dev
+sqlite-autoconf-dev32
 strace
 subversion
 systemd
@@ -399,6 +434,7 @@ tar
 tcl
 texinfo
 thin-provisioning-tools
+tiff-dev
 tox
 tox-python
 tzdata
@@ -411,6 +447,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala-dev
 valgrind
 valgrind-dev
 virtualenv
@@ -424,6 +461,7 @@ xcb-proto-dev
 xcb-proto-dev32
 xdg-utils
 xfsprogs-dev
+xkeyboard-config-dev
 xmlsec1-dev
 xmlto
 xorgproto-dev

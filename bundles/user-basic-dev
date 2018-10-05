@@ -51,6 +51,10 @@ asn1crypto
 asn1crypto-legacypython
 asn1crypto-python
 aspell
+at-spi2-atk-dev
+at-spi2-atk-dev32
+at-spi2-core-dev
+at-spi2-core-dev32
 atk-dev
 atk-dev32
 atomicwrites
@@ -110,6 +114,7 @@ clear-font
 clr-rpm-config
 cmake
 colorama
+colord-dev
 commonmark
 compat-enchant-soname1-dev
 compat-fuse-soname2-dev
@@ -121,9 +126,11 @@ cryptography_vectors
 cryptsetup-dev
 cups-dev
 curl-dev
+curl-dev32
 cyrus-sasl-dev
 db
 db-dev
+dbus-broker
 dbus-dev
 dbus-dev32
 dejagnu
@@ -191,6 +198,8 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glib-networking
+glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -226,6 +235,7 @@ groff
 gtk+-dev
 gtk-doc
 gtk-doc-dev
+gtk3-dev
 guile
 gzip
 harfbuzz-dev
@@ -250,9 +260,12 @@ iptables
 iptables-dev
 iptables-dev32
 isa-l-dev
+iso-codes-dev
 iso8601
 json-c-dev
 json-c-dev32
+json-glib-dev
+json-glib-dev32
 jsonschema-python
 kbd
 keyring
@@ -262,6 +275,7 @@ kmod-bin
 kmod-dev
 kmod-dev32
 krb5-dev
+lcms2-dev
 ldb-dev
 less
 leveldb-dev
@@ -274,6 +288,8 @@ libX11-dev32
 libXScrnSaver-dev
 libXau-dev
 libXau-dev32
+libXcomposite-dev
+libXcomposite-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -292,6 +308,10 @@ libXrandr-dev
 libXrandr-dev32
 libXrender-dev
 libXrender-dev32
+libXt-dev
+libXt-dev32
+libXtst-dev
+libXtst-dev32
 libXv-dev
 libXv-dev32
 libXvMC-dev
@@ -315,6 +335,8 @@ libdatrie-dev
 libdatrie-dev32
 libdrm-dev
 libdrm-dev32
+libepoxy-dev
+libepoxy-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -326,10 +348,13 @@ libgfortran-compat-soname3
 libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
+libgudev-dev
+libgusb-dev
 libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
+libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmicrohttpd-dev
@@ -351,6 +376,8 @@ libpciaccess-dev32
 libpipeline-dev
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libpwquality-dev
@@ -360,6 +387,8 @@ librsvg-dev32
 libsafec-dev
 libseccomp-dev
 libseccomp-dev32
+libsoup-dev
+libsoup-dev32
 libssh2-dev
 libstdc++
 libtasn1-dev
@@ -379,6 +408,7 @@ libva-dev
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
+libxkbcommon-dev32
 libxml2
 libxml2-bin
 libxml2-dev
@@ -573,6 +603,8 @@ readline-dev
 readline-dev32
 recommonmark
 requests
+rest-dev
+rest-dev32
 rpm-build
 rpm-common
 ruby
@@ -600,6 +632,7 @@ spice-protocol
 spice-protocol-dev
 sqlite-autoconf
 sqlite-autoconf-dev
+sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
 strace
@@ -621,6 +654,7 @@ tdb-legacypython
 termcolor
 texinfo
 thin-provisioning-tools
+tiff-dev
 tk
 tk-dev
 tokyocabinet-dev
@@ -642,6 +676,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala-dev
 valgrind
 valgrind-dev
 vim
@@ -657,6 +692,7 @@ xcb-proto-dev
 xcb-proto-dev32
 xdg-utils
 xfsprogs-dev
+xkeyboard-config-dev
 xmlsec1-dev
 xmlto
 xorgproto-dev

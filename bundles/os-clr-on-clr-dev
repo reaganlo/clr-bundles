@@ -37,6 +37,7 @@ MarkupSafe-legacypython
 ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
+OpenSP-dev
 PyYAML
 PyYAML-legacypython
 Pygments
@@ -57,6 +58,7 @@ acpica-unix2
 alabaster
 alsa-lib-dev
 alsa-lib-dev32
+apipkg
 appdirs
 apr-dev
 apr-util-dev
@@ -89,6 +91,7 @@ autogen
 automake
 automake-dev
 babeltrace-dev
+backcall
 backports.ssl_match_hostname
 bash
 bash-completion
@@ -147,6 +150,7 @@ compat-fuse-soname2-dev
 contextlib2
 coreutils
 coverage
+coverage-python
 cppunit-dev
 cracklib-dev
 cryptography
@@ -168,6 +172,7 @@ dbus-dev
 dbus-dev32
 dbus-glib-dev
 dbus-glib-dev32
+decorator
 defusedxml
 dejagnu
 desktop-file-utils
@@ -330,19 +335,24 @@ iproute2
 iptables
 iptables-dev
 iptables-dev32
+ipykernel
 ipython
+ipython_genutils
 isa-l-dev
 iso-codes-dev
 iso8601
 isodate
 itstool
 jansson-dev
+jedi
 jemalloc-dev
 json-c-dev
 json-c-dev32
 json-glib-dev
 json-glib-dev32
 jsonschema-python
+jupyter_client
+jupyter_core
 karchive-dev
 kauth-dev
 kbd
@@ -565,6 +575,7 @@ libxslt
 libxslt-bin
 libxslt-dev
 libzip-dev
+libzmq-dev
 linecache2
 linecache2-legacypython
 linecache2-python
@@ -661,6 +672,7 @@ packaging
 pacrunner-dev
 pango-dev
 pango-dev32
+parso
 parted-dev
 patch
 pbr
@@ -746,6 +758,7 @@ pexpect
 phonon-dev
 php
 php-dev
+pickleshare
 pigz
 pip
 pixman-dev
@@ -764,9 +777,11 @@ prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
+prompt_toolkit
 protobuf-c-dev
 protobuf-dev
 psutil
+ptyprocess
 pulseaudio-dev
 pulseaudio-dev32
 py
@@ -786,9 +801,11 @@ pygobject
 pyparsing
 pytest
 pytest-runner
+pytest-timeout
 pytest-xdist
 python
 python-core
+python-dateutil
 python-dateutil-legacypython-legacypython
 python-dev
 python-magic
@@ -796,11 +813,13 @@ python-mimeparse
 python-mock
 python-rpm
 python-subunit
+python-toml
 python3
 python3-core
 python3-dev
 pytz
 pytz-legacypython
+pyzmq
 qemu
 qtbase-dev
 qtbase-extras
@@ -843,6 +862,7 @@ setuptools_scm-legacypython
 shadow
 shared-mime-info
 shared-mime-info-dev
+simplegeneric
 six
 six-legacypython
 slang-dev
@@ -900,6 +920,8 @@ tox-python
 traceback2
 traceback2-legacypython
 traceback2-python
+traitlets
+traitlets-python
 typed-ast
 typing
 tzdata
@@ -927,6 +949,7 @@ wayland-dev
 wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
+wcwidth
 wget
 which
 xapian-core-dev

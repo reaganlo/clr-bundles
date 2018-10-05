@@ -27,6 +27,7 @@ SDL-dev
 SDL2-dev
 SDL2_image-dev
 Sphinx
+Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -592,6 +593,7 @@ nspr-dev
 nss-altfiles
 nss-dev
 nss-lib32
+ntfs-3g-dev
 numpy
 ocl-icd-dev
 octave-dev
@@ -776,6 +778,7 @@ woff2-dev
 xcb-proto
 xcb-proto-dev
 xcb-proto-dev32
+xcb-util-cursor-dev
 xcb-util-dev
 xcb-util-image-dev
 xcb-util-keysyms-dev
