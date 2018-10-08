@@ -31,6 +31,7 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils3
+buildreq-gnome
 buildreq-kde
 buildreq-meson
 buildreq-qmake
@@ -40,7 +41,6 @@ check-dev
 check-dev32
 cifs-utils-dev
 clr-rpm-config
-cmake
 compat-fuse-soname2-dev
 coreutils
 cracklib-dev
@@ -183,7 +183,6 @@ lz4-dev
 lzo-dev
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 multipath-tools-dev
@@ -198,7 +197,6 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nfs-utils-dev
-ninja
 nss-altfiles
 ntfs-3g-dev
 open-iscsi-dev

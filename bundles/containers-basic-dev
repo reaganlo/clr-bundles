@@ -31,6 +31,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
+buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
@@ -38,7 +39,6 @@ bzip2
 bzip2-dev
 ca-certs
 clr-rpm-config
-cmake
 containerd-dev
 coreutils
 cracklib-dev
@@ -173,7 +173,6 @@ lz4-dev
 lzo-dev
 m4
 make
-meson
 mpc-dev
 mpfr-dev
 ncurses-dev
@@ -187,7 +186,6 @@ nettle-lib
 nettle-lib32
 nghttp2-dev
 nghttp2-dev32
-ninja
 npth-dev
 nss-altfiles
 openssl
