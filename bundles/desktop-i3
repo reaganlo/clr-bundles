@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: Run i3 as gdm session or xinit WM
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+include(x11-server)
 dmenu
 feh
 i3
