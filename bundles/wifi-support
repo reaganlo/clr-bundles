@@ -1,0 +1,13 @@
+# [TITLE]: wifi-support
+# [DESCRIPTION]: Firmware and tools for basic wifi support
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+
+
+linux-firmware-wifi
+NetworkManager-bin
+NetworkManager-config
+NetworkManager-data
+wpa_supplicant
