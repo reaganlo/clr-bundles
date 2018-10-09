@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(cryptography)
 include(libX11client)
 clr-fwupd-hooks
 fwupd
