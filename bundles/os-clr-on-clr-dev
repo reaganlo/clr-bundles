@@ -568,7 +568,9 @@ libxml2
 libxml2-bin
 libxml2-dev
 libxml2-dev32
+libxml2-legacy-legacypython
 libxml2-python
+libxml2-python3
 libxshmfence-dev
 libxshmfence-dev32
 libxslt

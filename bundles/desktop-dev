@@ -772,7 +772,6 @@ wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
 webkitgtk-dev
-weston-dev
 which
 woff2-dev
 xcb-proto
@@ -789,7 +788,6 @@ xdg-desktop-portal
 xdg-desktop-portal-dev
 xdg-user-dirs
 xdg-utils
-xf86-input-libinput-dev
 xf86-input-wacom-dev
 xkbcomp-bin
 xkbcomp-dev

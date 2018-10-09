@@ -537,7 +537,6 @@ python3-core
 python3-dev
 qemu
 qtbase-dev
-qtbase-extras
 readline-dev
 readline-dev32
 rest-dev
@@ -557,6 +556,7 @@ shared-mime-info-dev
 six
 speex-dev
 speexdsp-dev
+spice-dev
 spice-gtk
 spice-gtk-dev
 spice-protocol-dev
