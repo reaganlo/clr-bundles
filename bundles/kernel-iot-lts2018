@@ -1,0 +1,11 @@
+# [TITLE]: kernel-iot-lts2018
+# [DESCRIPTION]: Run the Intel "PK" kernel, and enterprise-style kernel with backports
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(bootloader)
+console-autostart
+irqbalance
+linux-firmware
+linux-iot-lts2018
+mcelog
