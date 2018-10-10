@@ -8,6 +8,7 @@ include(iproute2)
 include(perl-basic)
 include(python3-basic)
 include(tcl-basic)
+bcc
 blktrace
 clr-debug-info
 collectl
