@@ -13,6 +13,7 @@ include(zstd)
 # bundle-chroot-builder still necessary for the
 # builder.conf laid on the system.
 # TODO: move this config to the mixer package instead
+bsdiff
 bundle-chroot-builder
 createrepo_c
 dnf
