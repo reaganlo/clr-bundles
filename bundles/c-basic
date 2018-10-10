@@ -8,6 +8,8 @@
 include(perl-basic)
 
 autoconf
+autoconf-archive-dev
+autoconf-archive-doc
 autogen
 automake
 automake-dev
