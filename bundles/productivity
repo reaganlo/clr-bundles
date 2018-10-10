@@ -5,6 +5,7 @@
 # [MAINTAINER]: Josue David Hernandez <josue.d.hernandez.gutierrez@intel.com>
 include(mail-utils)
 include(python3-basic)
+asciinema
 irssi
 khal
 taskwarrior
