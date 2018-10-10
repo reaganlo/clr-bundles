@@ -150,7 +150,6 @@ compat-fuse-soname2-dev
 contextlib2
 coreutils
 coverage
-coverage-python
 cppunit-dev
 cracklib-dev
 cryptography
