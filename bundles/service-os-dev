@@ -40,6 +40,7 @@ buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kernel
 buildreq-meson
 buildreq-qmake
 bzip2
@@ -186,6 +187,7 @@ nss-bin
 openssl
 openssl-dev
 openssl-dev32
+openssl-lib32
 p11-kit
 packaging
 patch

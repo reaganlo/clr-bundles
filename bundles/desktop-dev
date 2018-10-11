@@ -180,6 +180,8 @@ fontconfig
 fontconfig-data
 fontconfig-dev
 fontconfig-dev32
+fontforge
+fonttools
 freeglut-dev
 freetype-dev
 freetype-dev32
