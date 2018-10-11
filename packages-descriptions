@@ -57,6 +57,7 @@ libva-utils - collection of utilities and examples to exercise VA-API (Video Acc
 linux-dev - programs for developing Linux
 linux-tools - Tools for use in Linux
 logrotate - manages the automatic rotation and compression of log files
+make - build automation tool
 meld - visual file difference and merging tool, targeted at developers
 mkosi - generate disk images
 mtr - Poll a remote server and see how the latency and performance changes over time
