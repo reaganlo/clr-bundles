@@ -16,6 +16,7 @@ audit
 axel
 bc
 bmap-tools
+borgbackup
 casync
 clamav
 cockpit

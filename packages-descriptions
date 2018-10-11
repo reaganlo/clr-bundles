@@ -11,6 +11,7 @@ audit - system audit tools
 axel - Download accelerator
 bc - basic calculator, an arbitrary-precision calculator language
 bmap-tools - Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
+borgbackup - Deduplicating archiver with compression and authenticated encryption.
 casync - Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 clamav - Clam AntiVirus is an anti-virus toolkit for Unix
 cockpit - Web based administration for GNU/Linux servers
