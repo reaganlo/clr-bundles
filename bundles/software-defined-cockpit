@@ -13,6 +13,8 @@ gst-plugins-good
 gstreamer
 gstreamer-vaapi
 ias
+intel-gmmlib
+intel-media-driver
 ioc-cbc-tools
 libva
 libva-intel-driver

@@ -100,9 +100,11 @@ gst-plugins-base
 gsound
 gstreamer
 gstreamer-vaapi
+intel-gmmlib
+intel-hybrid-driver
+intel-media-driver
 libva
 libva-intel-driver
-intel-hybrid-driver
 libyami
 
 
