@@ -18,6 +18,7 @@ bc
 bmap-tools
 borgbackup
 casync
+ccache
 clamav
 cockpit
 cpio
