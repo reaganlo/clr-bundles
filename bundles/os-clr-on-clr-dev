@@ -215,6 +215,8 @@ file-dev
 fixtures
 flac-dev
 flac-dev32
+flake8
+flake8-polyfill
 flex
 flex-dev
 font-bitstream-type1
@@ -290,6 +292,8 @@ graphite-dev
 graphite-dev32
 graphviz
 graphviz-extras
+greenlet
+greenlet-python
 grep
 groff
 gsl-dev
@@ -792,6 +796,7 @@ pycparser
 pycparser-legacypython
 pycparser-python
 pycurl
+pydocstyle
 pyflakes-python
 pygobject
 pyparsing
@@ -805,8 +810,10 @@ python-dateutil
 python-dateutil-legacypython-legacypython
 python-dev
 python-magic
+python-mimeparse
 python-mock
 python-rpm
+python-subunit
 python-toml
 python3
 python3-core

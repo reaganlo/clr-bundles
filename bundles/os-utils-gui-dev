@@ -240,6 +240,7 @@ iceauth-bin
 icon-naming-utils-dev
 icu4c-dev
 icu4c-dev32
+intel-gmmlib-dev
 intel-gpu-tools-dev
 intltool
 intltool-dev

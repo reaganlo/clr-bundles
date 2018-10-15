@@ -307,7 +307,6 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
-libva-dev
 libvirt-dev
 libxcb-dev
 libxcb-dev32
