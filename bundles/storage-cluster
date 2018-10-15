@@ -10,6 +10,7 @@ include(python2-basic)
 
 ceph
 ceph-deploy
+ceph-extras
 pip-legacypython
 glusterfs
 parted
