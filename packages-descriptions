@@ -49,6 +49,7 @@ ipvsadm- Virtual Server admin tool - used to set up, maintain or inspect the vir
 irssi - Internet Relay Chat (IRC) client program
 joe - Text editor
 jq - lightweight and flexible command-line JSON processor
+kbd - library to manage the Linux keymaps
 keepalived - strong & robust keepalive facility for the Linux Virtual Server project
 keepassxc - KeePassXC is a password manager
 kernel-install - installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
@@ -80,6 +81,7 @@ suricata - network threat detection engine
 texlive - major TeX-related typesetting programs, macro packages, and fonts.
 thunderbird - Email client
 tmux - terminal multiplexer (similar to screen)
+tzdata - timezone database
 unison - bidirectional file synchronization tool
 unzip - list, test, or extract files from a ZIP archive
 valgrind - suite of tools for debugging and profiling software code

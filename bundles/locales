@@ -1,0 +1,7 @@
+# [TITLE]: locales
+# [DESCRIPTION]: basic system translations
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
+
+glibc-locale

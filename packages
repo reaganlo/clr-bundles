@@ -55,6 +55,7 @@ ipvsadm
 irssi
 joe
 jq
+kbd
 keepalived
 keepassxc
 kernel-install
@@ -88,6 +89,7 @@ sysstat
 texlive
 thunderbird
 tmux
+tzdata
 unison
 unzip
 valgrind
