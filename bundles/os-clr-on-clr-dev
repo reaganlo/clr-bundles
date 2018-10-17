@@ -78,7 +78,6 @@ at-spi2-core-dev
 at-spi2-core-dev32
 atk-dev
 atk-dev32
-atomicwrites
 attr-dev
 attr-dev32
 attrs
@@ -600,7 +599,6 @@ mesa-dev32
 meson
 mobile-broadband-provider-info
 mock
-more-itertools
 mozjs-dev
 mozjs52-dev
 mpc-dev

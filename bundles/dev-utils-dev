@@ -28,7 +28,6 @@ asciidoc
 asn1crypto
 asn1crypto-legacypython
 asn1crypto-python
-atomicwrites
 attr-dev
 attr-dev32
 attrs
@@ -236,7 +235,6 @@ mccabe-python
 mesa-dev
 metrics-discovery-dev
 mock
-more-itertools
 mpc-dev
 mpfr-dev
 mypy_extensions
