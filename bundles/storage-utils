@@ -18,6 +18,7 @@ e2fsprogs
 e2fsprogs-extras
 gptfdisk
 ipmctl
+lsscsi
 mdadm
 multipath-tools
 ndctl
