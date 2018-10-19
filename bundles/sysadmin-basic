@@ -97,3 +97,4 @@ util-linux
 # mkpasswd tool is part of whois
 whois-extras
 xz
+zstd
