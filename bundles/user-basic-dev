@@ -500,9 +500,11 @@ perl-Class-Data-Inheritable
 perl-Class-Singleton
 perl-Crypt-SSLeay
 perl-DateTime
+perl-Devel-StackTrace
 perl-Digest-CRC
 perl-Encode-Locale
 perl-Error
+perl-Eval-Closure
 perl-Exception-Class
 perl-File-Listing
 perl-HTML-Parser
@@ -519,6 +521,7 @@ perl-IO-stringy
 perl-IPC-Run
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
+perl-MRO-Compat
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA
@@ -527,6 +530,7 @@ perl-Net-SSLeay
 perl-Package-Stash
 perl-Params-ValidationCompiler
 perl-Path-Class
+perl-Role-Tiny
 perl-Specio
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify

@@ -130,9 +130,11 @@ perl-Crypt-SSLeay-dev
 perl-DBI-dev
 perl-DateTime
 perl-DateTime-TimeZone-dev
+perl-Devel-StackTrace
 perl-Encode-Locale
 perl-Encode-Locale-dev
 perl-Error-dev
+perl-Eval-Closure
 perl-Exception-Class
 perl-File-Listing
 perl-File-Listing-dev
@@ -156,6 +158,7 @@ perl-IO-Socket-SSL
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-LWP-Protocol-https-dev
+perl-MRO-Compat
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA
@@ -165,6 +168,7 @@ perl-Package-Stash
 perl-Params-Validate-dev
 perl-Params-ValidationCompiler
 perl-Path-Class
+perl-Role-Tiny
 perl-Specio
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
