@@ -106,6 +106,7 @@ intel-media-driver
 libva
 libva-intel-driver
 libyami
+mediasdk
 
 
 # gnome-flashback for vnc/software rendering support

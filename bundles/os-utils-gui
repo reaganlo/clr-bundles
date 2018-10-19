@@ -59,6 +59,8 @@ libva
 libva-intel-driver
 linux-firmware-extras
 linux-firmware-wifi
+mediasdk
+mediasdk-extras
 mkfontdir
 mkfontscale
 moka-icon-theme
