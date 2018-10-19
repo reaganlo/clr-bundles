@@ -12,5 +12,6 @@ mash
 mod_wsgi
 nfs-utils
 postgresql
+python2-mod_wsgi-legacypython
 yum
 yum-metadata-parser
