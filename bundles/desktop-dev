@@ -550,6 +550,7 @@ make
 man-db
 mariadb-dev
 mariadb-test
+mediasdk-dev
 mesa-dev
 mesa-dev32
 meson

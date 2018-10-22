@@ -447,6 +447,7 @@ lz4-dev
 lzo-dev
 m4
 make
+mediasdk-dev
 mesa-dev
 mesa-dev32
 meson

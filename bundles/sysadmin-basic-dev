@@ -182,6 +182,7 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+lz4-dev
 m4
 make
 man-db
@@ -270,3 +271,4 @@ xz-dev32
 zlib
 zlib-dev
 zlib-dev32
+zstd-dev
