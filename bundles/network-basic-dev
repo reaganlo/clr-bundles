@@ -14,6 +14,7 @@ Linux-PAM-dev32
 acl-dev
 acl-dev32
 apr-dev
+aspell-dev
 attr-dev
 attr-dev32
 autoconf
@@ -264,6 +265,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+php
 php-dev
 pigz
 pip
