@@ -263,6 +263,7 @@ perl-Image-Size
 perl-Import-Into
 perl-Importer
 perl-Inline
+perl-Inline-C
 perl-JSON-MaybeXS
 perl-JSON-RPC
 perl-JavaScript-Minifier-XS
