@@ -12,10 +12,13 @@ include(python-data-science)
 # Key ML frameworks and tools
 #
 
-Theano
+dldt
 neon
 neon-doc
 scikit-learn
+tensorflow
+Theano
+
 
 
 #
@@ -86,7 +89,6 @@ snappy-dev
 Sphinx
 swig
 tbb-dev
-tensorflow
 tflearn
 tqdm
 wheel
