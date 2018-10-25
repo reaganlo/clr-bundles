@@ -53,6 +53,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
+buildreq-distutils
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
@@ -63,6 +64,7 @@ bzip2
 bzip2-dev
 ca-certs
 cairo-dev
+cairo-dev32
 certifi
 cffi
 cffi-legacypython
@@ -109,6 +111,10 @@ expat-dev32
 expect
 flex
 flex-dev
+fontconfig-dev
+fontconfig-dev32
+freetype-dev
+freetype-dev32
 freezegun
 gawk
 gcc
@@ -116,6 +122,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -138,15 +145,22 @@ gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
+gobject-introspection
+gobject-introspection-dev
 googletest-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff
+gtk+-dev
 gtk-doc
 gtk-doc-dev
+gtk3-dev
 guile
 gzip
+harfbuzz-dev
 help2man
 hostname
 hwloc-dev
@@ -170,6 +184,7 @@ jsonschema-python
 kbd
 keyring
 keyutils-dev
+kiwisolver
 kmod
 kmod-dev
 kmod-dev32
@@ -205,6 +220,7 @@ libpciaccess-dev
 libpciaccess-dev32
 libpipeline-dev
 libpng-dev
+libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libseccomp-dev
@@ -249,6 +265,7 @@ nose
 nose-python
 nss-altfiles
 numactl-dev
+numpy
 onig-dev
 openblas
 openjade-dev
@@ -346,8 +363,10 @@ pytest
 pytest-runner
 pytest-xdist
 python-core
+python-dateutil
 python-dev
 python-mock
+python-tcl
 python3
 python3-core
 python3-dev

@@ -374,6 +374,7 @@ kiconthemes-dev
 kio-dev
 kirigami2-dev
 kitemviews-dev
+kiwisolver
 kjobwidgets-dev
 kmod
 kmod-bin
@@ -803,6 +804,7 @@ python-dev
 python-magic
 python-mock
 python-rpm
+python-tcl
 python-toml
 python3
 python3-core

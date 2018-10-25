@@ -599,6 +599,7 @@ nss-dev
 nss-lib32
 ntfs-3g-dev
 numpy
+numpy-legacypython
 ocl-icd-dev
 octave-dev
 onig-dev

@@ -88,6 +88,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
+buildreq-distutils
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
@@ -270,6 +271,7 @@ jsonschema-python
 kbd
 keyring
 keyutils-dev
+kiwisolver
 kmod
 kmod-bin
 kmod-dev
@@ -461,6 +463,7 @@ nss-altfiles
 nss-dev
 numactl
 numactl-dev
+numpy
 oath-toolkit-dev
 onig-dev
 open-iscsi
@@ -589,8 +592,10 @@ pytest-runner
 pytest-xdist
 python
 python-core
+python-dateutil
 python-dev
 python-mock
+python-tcl
 python3
 python3-core
 python3-dev
