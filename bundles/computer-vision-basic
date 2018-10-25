@@ -20,13 +20,20 @@ tensorflow
 
 boto3-legacypython
 botocore-legacypython
+docutils-legacypython
+jmespath-legacypython
+futures-legacypython
 mkl-dnn-dev
 numpy
+numpy-legacypython
 openblas
 opencv-dev
 opencv-python
 pandas
+s3transfer-legacypython
 scikit-image
 scipy-python
 tflearn
 wheel
+python-dateutil-legacypython
+urllib3-legacypython
