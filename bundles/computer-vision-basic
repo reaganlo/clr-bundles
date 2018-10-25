@@ -29,6 +29,7 @@ numpy-legacypython
 openblas
 opencv-dev
 opencv-python
+opencv-legacypython
 pandas
 s3transfer-legacypython
 scikit-image
