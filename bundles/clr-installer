@@ -1,0 +1,27 @@
+# [TITLE]: clr-installer
+# [DESCRIPTION]: Image creation and installation for Clear Linux OS
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
+include(curl)
+include(iproute2)
+include(kbd)
+include(locales)
+include(openssh-server)
+include(telemetrics)
+include(tzdata)
+include(wpa_supplicant)
+bind-utils
+btrfs-progs
+clr-installer
+dosfstools-bin
+e2fsprogs-extras
+gptfdisk-bin
+iputils
+less
+linux-firmware-extras
+linux-firmware-wifi
+nano
+parted-bin
+qemu-extras
+xfsprogs-bin
