@@ -32,7 +32,6 @@ opencv-python
 opencv-legacypython
 pandas
 python-dldt
-python-dldt-dev
 s3transfer-legacypython
 scikit-image
 scipy-python
