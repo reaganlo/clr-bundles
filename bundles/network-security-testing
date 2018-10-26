@@ -1,0 +1,13 @@
+# [TITLE]: network-security-testing
+# [DESCRIPTION]: Various tools to test and improve network security
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+# perl-basic and tcl-basic included to avoid duplication
+include(network-basic)
+
+bro
+hyperscan
+nmap
+suricata
+wireshark
