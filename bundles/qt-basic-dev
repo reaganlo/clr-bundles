@@ -23,7 +23,10 @@ alsa-lib-dev
 alsa-lib-dev32
 asciidoc
 assimp-dev
+at-spi2-atk-dev
 at-spi2-atk-dev32
+at-spi2-core-dev
+at-spi2-core-dev32
 atk-dev
 atk-dev32
 attr-dev
@@ -52,6 +55,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 bzip2-dev
+ca-certs
 cairo-dev
 cairo-dev32
 check
@@ -61,14 +65,17 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+colord-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
 cups-dev
 curl-dev
+curl-dev32
 cyrus-sasl-dev
 db
 db-dev
+dbus-broker
 dbus-dev
 dbus-dev32
 dejagnu
@@ -123,6 +130,8 @@ git
 glib-bin
 glib-dev
 glib-dev32
+glib-networking
+glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -165,13 +174,17 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+iso-codes-dev
 jemalloc-dev
 json-c-dev
 json-c-dev32
+json-glib-dev
+json-glib-dev32
 kbd
 kmod-dev
 kmod-dev32
 krb5-dev
+lcms2-dev
 libICE-dev
 libICE-dev32
 libSM-dev
@@ -181,6 +194,7 @@ libX11-dev32
 libXau-dev
 libXau-dev32
 libXcomposite-dev
+libXcomposite-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -193,10 +207,14 @@ libXft-dev
 libXft-dev32
 libXi-dev
 libXi-dev32
+libXinerama-dev
+libXinerama-dev32
 libXrandr-dev
 libXrandr-dev32
 libXrender-dev
 libXrender-dev32
+libXt-dev
+libXt-dev32
 libXtst-dev
 libXtst-dev32
 libXv-dev
@@ -216,6 +234,8 @@ libdatrie-dev
 libdatrie-dev32
 libdrm-dev
 libdrm-dev32
+libepoxy-dev
+libepoxy-dev32
 libevdev-dev
 libevdev-dev32
 libffi-dev
@@ -225,6 +245,7 @@ libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
 libgudev-dev
+libgusb-dev
 libical-dev
 libidn-dev
 libidn-dev32
@@ -240,8 +261,11 @@ libpciaccess-dev
 libpciaccess-dev32
 libpng-dev
 libpng-dev32
+libpsl-dev
+libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
+librsvg
 librsvg-dev
 librsvg-dev32
 libsamplerate-dev
@@ -249,6 +273,8 @@ libseccomp-dev
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
+libsoup-dev
+libsoup-dev32
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -268,6 +294,7 @@ libwebp-dev
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev
+libxkbcommon-dev32
 libxml2-dev
 libxml2-dev32
 libxshmfence-dev
@@ -334,6 +361,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+polkit-dev
 postgresql-dev
 procps-ng
 procps-ng-bin
@@ -344,6 +372,7 @@ python-dev
 python3
 python3-core
 python3-dev
+qemu
 qt3d-dev
 qtbase-dev
 qtbase-extras
@@ -373,6 +402,8 @@ qtx11extras-dev
 qtxmlpatterns-dev
 readline-dev
 readline-dev32
+rest-dev
+rest-dev32
 rpm-build
 sbc-dev
 sbc-dev32
@@ -381,6 +412,7 @@ sed
 setuptools
 shadow
 shared-mime-info
+shared-mime-info-dev
 speex-dev
 speexdsp-dev
 sqlite-autoconf
@@ -407,6 +439,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala-dev
 valgrind
 valgrind-dev
 wayland-dev
