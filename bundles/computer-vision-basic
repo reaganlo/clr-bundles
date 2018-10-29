@@ -5,6 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(cloud-api)
+include(computer-vision-models)
 include(python-extras)
 include(python-data-science)
 include(python2-basic)
