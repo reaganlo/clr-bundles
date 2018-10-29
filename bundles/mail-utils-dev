@@ -97,7 +97,6 @@ gnu-efi
 gnu-efi-dev
 gnupg
 gnutls-dev
-gobject-introspection-dev
 gperf
 gpgme
 gpgme-dev
@@ -251,6 +250,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
+vala
 valgrind
 valgrind-dev
 which

@@ -854,7 +854,6 @@ setuptools_scm-legacypython
 shadow
 shared-mime-info
 shared-mime-info-dev
-simplegeneric
 six
 six-legacypython
 slang-dev
@@ -893,7 +892,6 @@ tcl-dev
 tdb-dev
 tdb-legacypython
 telemetrics-client-dev
-termcolor
 testrepository
 testresources
 testscenarios
