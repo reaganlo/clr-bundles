@@ -83,6 +83,7 @@ gettext-dev
 git
 glib-bin
 glib-dev
+glib-dev32
 glibc-bin
 glibc-dev32
 glibc-libc32

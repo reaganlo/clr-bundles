@@ -89,6 +89,7 @@ cmrt-dev
 colord-dev
 compat-fuse-soname2-dev
 coreutils
+cppcheck
 cracklib-dev
 cryptsetup-dev
 cups-dev
@@ -581,6 +582,7 @@ tcl-dev
 texinfo
 thin-provisioning-tools
 tiff-dev
+tk-dev
 tzdata
 unzip
 usbredir-dev

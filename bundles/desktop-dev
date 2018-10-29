@@ -115,6 +115,7 @@ compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
 coreutils
+cppcheck
 cracklib-dev
 cryptsetup-dev
 cups
