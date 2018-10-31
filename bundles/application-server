@@ -3,9 +3,11 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(web-server-basic)
+include(c-basic)
 include(python3-basic)
+include(web-server-basic)
 
 httpd-dev
+httpd-extras
 mod_wsgi
 uwsgi
