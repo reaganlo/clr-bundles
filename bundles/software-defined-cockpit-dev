@@ -93,6 +93,7 @@ desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
+docutils
 double-conversion-dev
 doxygen
 e2fsprogs

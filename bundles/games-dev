@@ -17,15 +17,7 @@ ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
 SDL-dev
-SDL2-dev
-SDL2_gfx-dev
-SDL2_image-dev
-SDL2_net-dev
-SDL2_ttf-dev
-SDL_gfx-dev
-SDL_image-dev
-SDL_net-dev
-SDL_ttf-dev
+SDL-dev32
 Sphinx
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -352,7 +344,6 @@ libusb-dev32
 libvorbis-dev
 libvorbis-dev32
 libwebp-dev
-libwebp-dev32
 libxcb-dev
 libxcb-dev32
 libxkbcommon-dev

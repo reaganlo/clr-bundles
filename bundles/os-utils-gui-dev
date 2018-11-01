@@ -109,6 +109,7 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
+docutils
 doxygen
 e2fsprogs
 e2fsprogs-data

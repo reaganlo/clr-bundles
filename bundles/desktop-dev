@@ -144,6 +144,7 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
+docutils
 double-conversion-dev
 doxygen
 e2fsprogs
