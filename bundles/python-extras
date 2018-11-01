@@ -22,6 +22,8 @@ flake8-blind-except
 flake8-class-newline
 flake8-docstrings
 glibc-lib-avx2
+intelhex
+jdcal
 kernel-config-checker
 libgfortran-avx
 lxml
@@ -29,14 +31,17 @@ MonkeyType
 mypy
 nose
 numpy
+pathlib2
 pbr
 pytest
 pytest-cov
 pytest-repeat
 pytest-rerunfailures
 python-dateutil
+python-tabulate
 python-tappy
 python-zeep
+python-zstandard
 requests
 requests-ntlm
 scikit-image
