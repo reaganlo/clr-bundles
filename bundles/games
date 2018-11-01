@@ -14,16 +14,6 @@ GConf-lib
 NetworkManager-data
 NetworkManager-lib
 NetworkManager-lib32
-SDL-lib32
-SDL2-lib32
-SDL2_gfx-lib32
-SDL2_image-lib32
-SDL2_net-lib32
-SDL2_ttf-lib32
-SDL_gfx-lib32
-SDL_image-lib32
-SDL_net-lib32
-SDL_ttf-lib32
 acl-lib32
 alsa-lib-lib32
 atk-lib32
