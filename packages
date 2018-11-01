@@ -60,6 +60,7 @@ keepalived
 keepassxc
 kernel-install
 keychain
+lftp
 libva-utils
 linux-dev
 linux-tools
