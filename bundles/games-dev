@@ -17,9 +17,7 @@ ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
 SDL-dev
-SDL-dev32
 SDL2-dev
-SDL2-dev32
 SDL2_gfx-dev
 SDL2_image-dev
 SDL2_net-dev
