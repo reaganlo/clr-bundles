@@ -669,6 +669,7 @@ pcre-dev
 pcre-dev32
 pcre2-dev
 pecan
+pep8
 pep8-python
 perl
 perl-App-cpanminus

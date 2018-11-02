@@ -17,7 +17,6 @@ ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
 SDL-dev
-SDL-dev32
 Sphinx
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -58,7 +57,6 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
-buildreq-qmake
 buildreq-scons
 bzip2
 bzip2-dev
@@ -161,7 +159,6 @@ glibc-locale
 glibc-staticdev
 glibc-utils
 glu-dev
-glu-dev32
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -228,7 +225,6 @@ libXau-dev32
 libXcomposite-dev
 libXcomposite-dev32
 libXcursor-dev
-libXcursor-dev32
 libXdamage-dev
 libXdamage-dev32
 libXdmcp-dev
@@ -340,7 +336,6 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
-libusb-dev32
 libvorbis-dev
 libvorbis-dev32
 libwebp-dev
