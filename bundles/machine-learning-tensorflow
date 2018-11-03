@@ -1,0 +1,25 @@
+# [TITLE]: machine-learning-tensorflow
+# [DESCRIPTION]: Build machine learning applications using Tensorflow
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(cloud-api)
+include(python-data-science)
+
+#
+# Key ML framework and tools
+#
+
+
+tensorboard
+tensorflow
+tflearn
+
+
+
+#
+# Dependencies, helpers and libraries for Key frameworks
+#
+
+Keras
+protobuf-python
