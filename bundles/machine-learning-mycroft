@@ -10,10 +10,10 @@ include(python-data-science)
 # Key ML frameworks and tools
 #
 
-mycroft-core
+# mycroft-core
 
 #
 # Dependencies, helpers and libraries for Key frameworks
 #
 
-adapt-parser
+# adapt-parser
