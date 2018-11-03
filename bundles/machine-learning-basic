@@ -12,12 +12,13 @@ include(python-data-science)
 # Key ML frameworks and tools
 #
 
-dldt
-mycroft-core
+include(computer-vision-basic)
+include(machine-learning-mycroft)
+include(machine-learning-tensorflow)
+
 neon
 neon-doc
 scikit-learn
-tensorflow
 Theano
 
 
