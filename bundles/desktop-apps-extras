@@ -11,6 +11,7 @@ include(python3-basic)
 #
 # Apps that are also pundles
 #
+include(atom)
 include(darktable)
 include(gimp)
 include(thunderbird)
