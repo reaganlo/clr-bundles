@@ -1,0 +1,8 @@
+# [TITLE]: atom
+# [DESCRIPTION]: The popular atom text editor
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+# Run time requirement as Atom uses a lot of plugins  is compiled to use libpython
+include(desktop-gnomelibs)
+atom
