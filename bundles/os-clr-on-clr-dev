@@ -37,6 +37,7 @@ MarkupSafe-legacypython
 ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
+OpenSP-dev
 PyYAML
 PyYAML-legacypython
 Pygments
@@ -88,6 +89,7 @@ autogen
 automake
 automake-dev
 babeltrace-dev
+backcall
 backports.ssl_match_hostname
 bash
 bash-completion
@@ -168,6 +170,7 @@ dbus-dev
 dbus-dev32
 dbus-glib-dev
 dbus-glib-dev32
+decorator
 defusedxml
 dejagnu
 desktop-file-utils
@@ -328,19 +331,24 @@ iproute2
 iptables
 iptables-dev
 iptables-dev32
+ipykernel
 ipython
+ipython_genutils
 isa-l-dev
 iso-codes-dev
 iso8601
 isodate
 itstool
 jansson-dev
+jedi
 jemalloc-dev
 json-c-dev
 json-c-dev32
 json-glib-dev
 json-glib-dev32
 jsonschema-python
+jupyter_client
+jupyter_core
 karchive-dev
 kauth-dev
 kbd
@@ -564,6 +572,7 @@ libxslt
 libxslt-bin
 libxslt-dev
 libzip-dev
+libzmq-dev
 linecache2
 linecache2-legacypython
 linecache2-python
@@ -598,7 +607,6 @@ mpc-dev
 mpfr-dev
 mtdev-dev
 mtdev-dev32
-mypy_extensions
 nasm
 nasm-bin
 ncurses-dev
@@ -659,6 +667,7 @@ packaging
 pacrunner-dev
 pango-dev
 pango-dev32
+parso
 parted-dev
 patch
 pbr
@@ -744,6 +753,7 @@ perl-namespace-clean
 pexpect
 php
 php-dev
+pickleshare
 pigz
 pip
 pixman-dev
@@ -762,6 +772,7 @@ prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
+prompt_toolkit
 protobuf-c-dev
 protobuf-dev
 psutil
@@ -774,7 +785,6 @@ pyOpenSSL
 pyasn1
 pyasn1-legacypython
 pycairo-dev
-pycodestyle
 pycparser
 pycparser-legacypython
 pycparser-python
@@ -792,8 +802,10 @@ python-dateutil
 python-dateutil-legacypython-legacypython
 python-dev
 python-magic
+python-mimeparse
 python-mock
 python-rpm
+python-subunit
 python-tcl
 python-toml
 python3
@@ -801,6 +813,7 @@ python3-core
 python3-dev
 pytz
 pytz-legacypython
+pyzmq
 qemu
 qtbase-dev
 qtbase-extras
@@ -899,7 +912,8 @@ tox-python
 traceback2
 traceback2-legacypython
 traceback2-python
-typed-ast
+traitlets
+traitlets-python
 typing
 tzdata
 unittest2
@@ -927,6 +941,7 @@ wayland-dev
 wayland-dev32
 wayland-protocols-dev
 wayland-protocols-dev32
+wcwidth
 wget
 which
 xapian-core-dev

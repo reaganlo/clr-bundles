@@ -74,6 +74,7 @@ clear-font
 clr-rpm-config
 cmake
 colord-dev
+compat-fuse-soname2-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
