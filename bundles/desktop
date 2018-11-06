@@ -33,7 +33,7 @@ geocode-glib
 gjs
 glib-bin
 glib-config
-glib-networking-lib
+glib-networking
 gsettings-desktop-schemas
 gtk+
 gtk3
