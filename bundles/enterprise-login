@@ -1,0 +1,7 @@
+# [TITLE]: enterprise-login
+# [DESCRIPTION]: Enable enterprise login systems like Active Directory
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+krb5
+samba
