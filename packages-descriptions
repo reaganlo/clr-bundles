@@ -54,6 +54,7 @@ keepalived - strong & robust keepalive facility for the Linux Virtual Server pro
 keepassxc - KeePassXC is a password manager
 kernel-install - installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
 keychain - manage SSH and GPG keys
+lftp - File transfer client for http, ftp, sftp and more
 libva-utils - collection of utilities and examples to exercise VA-API (Video Acceleration API)
 linux-dev - programs for developing Linux
 linux-tools - Tools for use in Linux
