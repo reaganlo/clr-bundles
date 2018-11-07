@@ -1,0 +1,7 @@
+# [TITLE]: mercurial
+# [DESCRIPTION]: mercurial SCM tool
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
+include(python3-basic)
+mercurial
