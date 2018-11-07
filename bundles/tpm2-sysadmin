@@ -1,0 +1,8 @@
+# [TITLE]: tpm2-sysadmin
+# [DESCRIPTION]: The tpm system administration bundle
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
+tpm2-tss
+tpm2-abrmd
+tpm2-tools

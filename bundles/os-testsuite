@@ -20,3 +20,4 @@ perl-YAML-Tiny
 rsync
 socat
 sudo
+tpm2-simulator
