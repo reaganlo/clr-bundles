@@ -127,6 +127,7 @@ exo-dev
 expat-dev
 expat-dev32
 expect
+extra-cmake-modules
 fftw-dev
 flac-dev
 flac-dev32
