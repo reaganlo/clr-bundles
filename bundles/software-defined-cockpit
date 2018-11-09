@@ -19,5 +19,6 @@ ioc-cbc-tools
 libva
 libva-intel-driver
 mediasdk
+mediasdk-extras
 pulseaudio
 xkeyboard-config
