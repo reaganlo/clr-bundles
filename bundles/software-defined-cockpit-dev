@@ -88,6 +88,7 @@ db-dev
 dbus-broker
 dbus-dev
 dbus-dev32
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
@@ -449,6 +450,7 @@ setuptools
 shadow
 shared-mime-info
 shared-mime-info-dev
+six
 speex-dev
 speexdsp-dev
 sqlite-autoconf

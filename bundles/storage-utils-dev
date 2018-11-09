@@ -178,7 +178,7 @@ libxslt
 libxslt-bin
 libxslt-dev
 linux-libc-headers
-llvm-dev
+llvm
 lz4-dev
 lzo-dev
 m4
