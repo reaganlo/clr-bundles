@@ -16,6 +16,7 @@ automake-dev
 binutils
 binutils-dev
 binutils-doc
+binutils-extras
 binutils-locale
 bison
 check
