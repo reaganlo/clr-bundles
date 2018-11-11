@@ -83,6 +83,7 @@ network-manager-applet
 NetworkManager-openconnect
 dconf
 #groupcheck
+PackageKit
 polkit
 pulseaudio
 openconnect
