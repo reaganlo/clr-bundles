@@ -810,7 +810,6 @@ qtserialport-dev
 qtsvg-dev
 qttools-dev
 qtwebsockets-dev
-qtx11extras-dev
 qtxmlpatterns-dev
 rdma-core-dev
 re2c

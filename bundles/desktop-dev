@@ -21,6 +21,7 @@ Mako-python
 ModemManager-dev
 ModemManager-dev32
 NetworkManager-dev
+PackageKit-dev
 Pillow
 R-dev
 SDL-dev
@@ -55,6 +56,7 @@ atkmm-dev
 attr-dev
 attr-dev32
 autoconf
+autoconf-archive-dev
 autoconf213
 autogen
 automake
