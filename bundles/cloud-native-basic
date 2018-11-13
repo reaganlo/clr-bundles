@@ -2,9 +2,20 @@
 # [DESCRIPTION]: Contains ClearLinux native software for Cloud
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [MAINTAINER]: Obed N Munoz <obed.n.munoz@intel.com>
-include(containers-virt)
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(ethtool)
+include(iproute2)
+include(p11-kit)
+cri-o
+cri-tools
 ebtables
 kubernetes
 socat
+
+# kata-containers packages
+kata-image
+kata-proxy
+kata-qemu-lite
+kata-runtime
+kata-shim
+linux-kata
