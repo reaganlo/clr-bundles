@@ -10,6 +10,7 @@ cri-o
 cri-tools
 ebtables
 kubernetes
+runc
 socat
 
 # kata-containers packages
