@@ -15,7 +15,7 @@ include(python2-basic)
 
 dldt
 dldt-dev
-
+dldt-extras
 tensorflow
 
 # support packages
@@ -23,22 +23,22 @@ tensorflow
 boto3-legacypython
 botocore-legacypython
 docutils-legacypython
-jmespath-legacypython
 futures-legacypython
+jmespath-legacypython
 mkl-dnn-dev
 numpy
 numpy-legacypython
 openblas
 opencv-dev
-opencv-python
 opencv-legacypython
+opencv-python
 pandas
+python-dateutil-legacypython
 python-dldt
 python-dldt-legacypython
 s3transfer-legacypython
 scikit-image
 scipy-python
 tflearn
-wheel
-python-dateutil-legacypython
 urllib3-legacypython
+wheel
