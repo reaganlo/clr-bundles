@@ -12,6 +12,7 @@ include(octave)
 include(php-basic)
 include(python3-basic)
 include(python2-basic)
+include(rust-basic)
 acl-dev
 attr-dev
 autoconf
