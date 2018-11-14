@@ -146,6 +146,7 @@ compat-fuse-soname2-dev
 contextlib2
 coreutils
 coverage
+cppcheck
 cppunit-dev
 cracklib-dev
 cryptography

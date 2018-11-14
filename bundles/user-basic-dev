@@ -106,6 +106,7 @@ colord-dev
 compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 coreutils
+cppcheck
 cracklib-dev
 cryptography_vectors
 cryptsetup-dev

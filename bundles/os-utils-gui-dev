@@ -173,6 +173,7 @@ ghostscript-dev
 git
 gjs
 gjs-dev
+glew-dev
 glib-bin
 glib-dev
 glib-dev32
@@ -348,6 +349,7 @@ libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
 libgit2-dev
+libglade-dev
 libgpg-error-dev
 libgpg-error-dev32
 libgphoto2-dev

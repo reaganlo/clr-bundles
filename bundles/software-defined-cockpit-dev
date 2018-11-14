@@ -92,6 +92,7 @@ dbus-glib-dev
 dejagnu
 desktop-file-utils
 diffutils
+dlt-daemon-dev
 docbook-utils
 docbook-xml
 docutils
