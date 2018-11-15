@@ -1,0 +1,27 @@
+# [TITLE]: pkgconfig-gtk+-3.0
+# [DESCRIPTION]: All content for pkgconfig file gtk+-3.0.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-atk)
+include(pkgconfig-atk)
+include(pkgconfig-atk-bridge-2.0)
+include(pkgconfig-cairo)
+include(pkgconfig-cairo-gobject)
+include(pkgconfig-epoxy)
+include(pkgconfig-gdk-3.0)
+include(pkgconfig-gdk-pixbuf-2.0)
+include(pkgconfig-gio-2.0)
+include(pkgconfig-gio-unix-2.0)
+include(pkgconfig-pangoft2)
+include(pkgconfig-wayland-client)
+include(pkgconfig-wayland-cursor)
+include(pkgconfig-wayland-egl)
+include(pkgconfig-wayland-protocols)
+include(pkgconfig-xkbcommon)
+
+gtk3-dev
+
+

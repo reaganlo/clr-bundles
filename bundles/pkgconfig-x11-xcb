@@ -1,0 +1,13 @@
+# [TITLE]: pkgconfig-x11-xcb
+# [DESCRIPTION]: All content for pkgconfig file x11-xcb.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-x11)
+include(pkgconfig-xcb)
+
+libX11-dev
+
+

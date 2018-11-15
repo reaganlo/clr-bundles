@@ -1,0 +1,14 @@
+# [TITLE]: pkgconfig-cairo-xlib
+# [DESCRIPTION]: All content for pkgconfig file cairo-xlib.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-cairo)
+include(pkgconfig-x11)
+include(pkgconfig-xext)
+
+cairo-dev
+
+

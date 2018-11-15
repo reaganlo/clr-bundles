@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-wayland-client
+# [DESCRIPTION]: All content for pkgconfig file wayland-client.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+wayland-dev
+
+

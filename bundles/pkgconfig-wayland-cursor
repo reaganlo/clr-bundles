@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-wayland-cursor
+# [DESCRIPTION]: All content for pkgconfig file wayland-cursor.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+wayland-dev
+
+

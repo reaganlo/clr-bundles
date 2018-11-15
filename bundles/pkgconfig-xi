@@ -1,0 +1,15 @@
+# [TITLE]: pkgconfig-xi
+# [DESCRIPTION]: All content for pkgconfig file xi.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-inputproto)
+include(pkgconfig-x11)
+include(pkgconfig-xext)
+include(pkgconfig-xfixes)
+
+libXi-dev
+
+

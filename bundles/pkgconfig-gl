@@ -1,0 +1,21 @@
+# [TITLE]: pkgconfig-gl
+# [DESCRIPTION]: All content for pkgconfig file gl.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-libdrm)
+include(pkgconfig-x11)
+include(pkgconfig-x11-xcb)
+include(pkgconfig-xcb)
+include(pkgconfig-xcb-dri2)
+include(pkgconfig-xcb-glx)
+include(pkgconfig-xdamage)
+include(pkgconfig-xext)
+include(pkgconfig-xfixes)
+include(pkgconfig-xxf86vm)
+
+mesa-dev
+
+

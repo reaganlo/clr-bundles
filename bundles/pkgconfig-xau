@@ -1,0 +1,12 @@
+# [TITLE]: pkgconfig-xau
+# [DESCRIPTION]: All content for pkgconfig file xau.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-xproto)
+
+libXau-dev
+
+

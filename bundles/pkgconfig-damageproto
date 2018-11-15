@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-damageproto
+# [DESCRIPTION]: All content for pkgconfig file damageproto.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+xorgproto-dev
+
+

@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-libpcre
+# [DESCRIPTION]: All content for pkgconfig file libpcre.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+pcre-dev
+
+

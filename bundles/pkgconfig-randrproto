@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-randrproto
+# [DESCRIPTION]: All content for pkgconfig file randrproto.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+xorgproto-dev
+
+

@@ -1,0 +1,34 @@
+# [TITLE]: pkgconfig-gdk-3.0
+# [DESCRIPTION]: All content for pkgconfig file gdk-3.0.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-cairo)
+include(pkgconfig-cairo)
+include(pkgconfig-cairo-gobject)
+include(pkgconfig-cairo-xlib)
+include(pkgconfig-epoxy)
+include(pkgconfig-fontconfig)
+include(pkgconfig-gdk-pixbuf-2.0)
+include(pkgconfig-gio-unix-2.0)
+include(pkgconfig-pango)
+include(pkgconfig-pangocairo)
+include(pkgconfig-wayland-client)
+include(pkgconfig-wayland-cursor)
+include(pkgconfig-wayland-egl)
+include(pkgconfig-wayland-protocols)
+include(pkgconfig-x11)
+include(pkgconfig-xcomposite)
+include(pkgconfig-xdamage)
+include(pkgconfig-xext)
+include(pkgconfig-xfixes)
+include(pkgconfig-xi)
+include(pkgconfig-xinerama)
+include(pkgconfig-xkbcommon)
+include(pkgconfig-xrandr)
+
+gtk3-dev
+
+

@@ -1,0 +1,14 @@
+# [TITLE]: pkgconfig-xcb
+# [DESCRIPTION]: All content for pkgconfig file xcb.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-pthread-stubs)
+include(pkgconfig-xau)
+include(pkgconfig-xdmcp)
+
+libxcb-dev
+
+

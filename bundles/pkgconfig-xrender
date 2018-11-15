@@ -1,0 +1,15 @@
+# [TITLE]: pkgconfig-xrender
+# [DESCRIPTION]: All content for pkgconfig file xrender.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-renderproto)
+include(pkgconfig-x11)
+include(pkgconfig-x11)
+include(pkgconfig-xproto)
+
+libXrender-dev
+
+

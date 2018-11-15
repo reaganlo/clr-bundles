@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-dbus-1
+# [DESCRIPTION]: All content for pkgconfig file dbus-1.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+dbus-dev
+
+

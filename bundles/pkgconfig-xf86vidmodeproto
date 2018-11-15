@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-xf86vidmodeproto
+# [DESCRIPTION]: All content for pkgconfig file xf86vidmodeproto.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+xorgproto-dev
+
+

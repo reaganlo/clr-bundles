@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-xkbcommon
+# [DESCRIPTION]: All content for pkgconfig file xkbcommon.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+libxkbcommon-dev
+
+

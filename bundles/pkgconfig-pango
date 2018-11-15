@@ -1,0 +1,14 @@
+# [TITLE]: pkgconfig-pango
+# [DESCRIPTION]: All content for pkgconfig file pango.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+include(pkgconfig-fribidi)
+include(pkgconfig-glib-2.0)
+include(pkgconfig-gobject-2.0)
+
+pango-dev
+
+

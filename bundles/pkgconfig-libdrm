@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-libdrm
+# [DESCRIPTION]: All content for pkgconfig file libdrm.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+libdrm-dev
+
+

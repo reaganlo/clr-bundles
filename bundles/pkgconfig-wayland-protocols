@@ -1,0 +1,11 @@
+# [TITLE]: pkgconfig-wayland-protocols
+# [DESCRIPTION]: All content for pkgconfig file wayland-protocols.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(pkgconfig-base)
+
+wayland-protocols-dev
+
+
