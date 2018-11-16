@@ -11,6 +11,9 @@ include(xemacs)
 # apps low level deps
 glib-bin
 glib-config
+python-zeep
+requests
+requests-ntlm
 
 # apps
 baobab
