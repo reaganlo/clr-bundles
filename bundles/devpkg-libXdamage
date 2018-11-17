@@ -8,7 +8,6 @@ include(devpkg-base)
 include(devpkg-xorgproto)
 include(devpkg-libX11)
 include(devpkg-libXfixes)
-include(devpkg-libXfixes)
 include(devpkg-xorgproto)
 
 libXdamage-dev

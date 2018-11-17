@@ -7,6 +7,7 @@
 include(devpkg-base)
 include(devpkg-glib)
 include(devpkg-graphite)
+include(devpkg-icu4c)
 
 harfbuzz-dev
 

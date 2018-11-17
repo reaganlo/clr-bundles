@@ -8,6 +8,8 @@ include(devpkg-base)
 include(devpkg-glib)
 include(devpkg-glib)
 include(devpkg-glib)
+include(devpkg-glib)
+include(devpkg-pcre)
 
 glib-dev
 
