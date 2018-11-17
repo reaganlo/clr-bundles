@@ -1,0 +1,9 @@
+# [TITLE]: pkgconfig-base
+# [DESCRIPTION]: basic pkgconfig infra
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(c-basic)
+pkg-config
+

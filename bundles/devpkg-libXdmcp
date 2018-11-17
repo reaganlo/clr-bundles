@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-libXdmcp
+# [DESCRIPTION]: All content for pkgconfig file libXdmcp.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-xorgproto)
+
+libXdmcp-dev
+
+

@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-libXrender
+# [DESCRIPTION]: All content for pkgconfig file libXrender.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-xorgproto)
+include(devpkg-libX11)
+include(devpkg-libX11)
+include(devpkg-xorgproto)
+
+libXrender-dev
+
+

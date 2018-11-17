@@ -1,0 +1,21 @@
+# [TITLE]: devpkg-mesa
+# [DESCRIPTION]: All content for pkgconfig file mesa.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-libdrm)
+include(devpkg-libX11)
+include(devpkg-libX11)
+include(devpkg-libxcb)
+include(devpkg-libxcb)
+include(devpkg-libxcb)
+include(devpkg-libXdamage)
+include(devpkg-libXext)
+include(devpkg-libXfixes)
+include(devpkg-libXxf86vm)
+
+mesa-dev
+
+
