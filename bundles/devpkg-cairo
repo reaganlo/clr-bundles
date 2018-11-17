@@ -7,7 +7,6 @@
 include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-mesa)
-include(devpkg-fontconfig)
 include(devpkg-freetype)
 include(devpkg-mesa)
 include(devpkg-glib)
