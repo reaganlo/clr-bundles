@@ -6,7 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-mesa)
-include(devpkg-mesa)
 
 libepoxy-dev
 

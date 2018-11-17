@@ -5,10 +5,10 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-xorgproto)
 include(devpkg-libX11)
 include(devpkg-libXext)
 include(devpkg-libXfixes)
+include(devpkg-xorgproto)
 
 libXi-dev
 
