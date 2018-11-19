@@ -153,6 +153,8 @@ glibc-utils
 glu-dev
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -430,6 +432,7 @@ systemd-extras
 systemd-lib
 tar
 tcl
+tcl-dev
 texinfo
 thin-provisioning-tools
 tiff-dev

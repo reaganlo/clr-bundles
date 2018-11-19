@@ -161,6 +161,8 @@ glu-dev
 glu-dev32
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -207,6 +209,7 @@ json-c-dev32
 json-glib-dev
 json-glib-dev32
 kbd
+keyutils-dev
 kmod-dev
 kmod-dev32
 krb5-dev

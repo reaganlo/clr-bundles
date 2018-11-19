@@ -93,6 +93,8 @@ gmime
 gmime-dev
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -115,6 +117,7 @@ intltool-dev
 iptables-dev
 iptables-dev32
 kbd
+keyutils-dev
 kmod-dev
 kmod-dev32
 krb5-dev

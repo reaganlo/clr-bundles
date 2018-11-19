@@ -208,6 +208,7 @@ json-c-dev32
 json-glib-dev
 json-glib-dev32
 kbd
+keyutils-dev
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -455,6 +456,7 @@ systemd-lib
 systemd-lib32
 tar
 tcl
+tcl-dev
 texinfo
 tiff-dev
 tzdata
