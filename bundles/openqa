@@ -1,6 +1,6 @@
 # [TITLE]: openqa
 # [DESCRIPTION]: OpenQA infrastructure
-# [STATUS]: Active
+# [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(kvm-host)
