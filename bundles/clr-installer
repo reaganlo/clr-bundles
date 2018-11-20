@@ -14,6 +14,9 @@ include(wpa_supplicant)
 bind-utils
 btrfs-progs
 clr-installer
+cryptsetup-bin
+cryptsetup-config
+cryptsetup-lib
 dosfstools-bin
 e2fsprogs-extras
 gptfdisk-bin
