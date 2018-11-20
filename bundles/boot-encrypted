@@ -1,0 +1,9 @@
+# [TITLE]: boot-encrypted
+# [DESCRIPTION]: Enable booting encrypted root partition, swap, or other partitions
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
+include(bootloader-extras)
+cryptsetup-bin
+cryptsetup-config
+cryptsetup-lib
