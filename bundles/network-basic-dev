@@ -41,6 +41,7 @@ bzip2
 bzip2-dev
 c-ares-dev
 ca-certs
+cairo-dev
 check
 check-dev
 check-dev32
@@ -173,6 +174,8 @@ libnftnl-dev
 libnftnl-dev32
 libnl-dev
 libpcap-dev
+libpng-dev
+librsvg-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -210,6 +213,7 @@ nftables-dev
 nghttp2-dev
 nghttp2-dev32
 nss-altfiles
+nss-dev
 openconnect-dev
 opensm-dev
 openssl

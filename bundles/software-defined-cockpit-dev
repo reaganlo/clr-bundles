@@ -161,8 +161,6 @@ glu-dev
 glu-dev32
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
