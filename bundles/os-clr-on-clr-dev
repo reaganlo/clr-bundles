@@ -76,6 +76,7 @@ at-spi2-core-dev
 at-spi2-core-dev32
 atk-dev
 atk-dev32
+attica-dev
 attr-dev
 attr-dev32
 attrs
@@ -124,6 +125,7 @@ ca-certs
 cached-property
 cairo-dev
 cairo-dev32
+cargo
 ccache
 ceph-dev
 certifi
@@ -356,6 +358,7 @@ kcrash-dev
 kdbusaddons-dev
 kded-dev
 kdesignerplugin-dev
+kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring
@@ -375,6 +378,7 @@ kmod-bin
 kmod-dev
 kmod-dev32
 knotifications-dev
+kpackage-dev
 kparts-dev
 kplotting-dev
 krb5-dev
@@ -449,6 +453,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libcroco-dev
+libcroco-dev32
 libdatrie-dev
 libdatrie-dev32
 libdbusmenu-dev
@@ -587,6 +592,7 @@ man-db
 mariadb-dev
 mariadb-test
 mccabe-python
+media-player-info
 memkind-dev
 mesa-dev
 mesa-dev32
@@ -742,6 +748,7 @@ perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pexpect
+phonon-dev
 php
 php-dev
 pigz
@@ -826,6 +833,7 @@ rpm-build
 rpm-common
 rpm-dev
 ruby
+rust-std32
 samba-dev
 sbc-dev
 sbc-dev32
@@ -849,6 +857,7 @@ snappy-dev
 snowballstemmer
 solid-dev
 sonnet-dev
+sortedcontainers
 source-highlight
 speex-dev
 speexdsp-dev
