@@ -1,0 +1,13 @@
+# [TITLE]: devpkg-gst-plugins-base
+# [DESCRIPTION]: All content for pkgconfig file gst-plugins-base.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-gstreamer)
+include(devpkg-orc)
+
+gst-plugins-base-dev
+
+

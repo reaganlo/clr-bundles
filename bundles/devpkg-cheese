@@ -1,0 +1,16 @@
+# [TITLE]: devpkg-cheese
+# [DESCRIPTION]: All content for pkgconfig file cheese.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-clutter)
+include(devpkg-clutter-gst)
+include(devpkg-gdk-pixbuf)
+include(devpkg-glib)
+include(devpkg-gstreamer)
+
+cheese-dev
+
+
