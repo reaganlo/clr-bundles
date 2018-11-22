@@ -69,6 +69,7 @@ logrotate
 make
 meld
 mkosi
+mtd-utils
 mtr
 ncdu
 nfs-utils
