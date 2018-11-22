@@ -8,9 +8,7 @@ include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-fontconfig)
 include(devpkg-freetype)
-include(devpkg-fribidi)
 include(devpkg-glib)
-include(devpkg-harfbuzz)
 
 pango-dev
 

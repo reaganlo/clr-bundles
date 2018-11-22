@@ -6,7 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-glib)
-include(devpkg-libpng)
 
 gdk-pixbuf-dev
 

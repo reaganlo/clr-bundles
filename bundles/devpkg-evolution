@@ -7,7 +7,6 @@
 include(devpkg-base)
 include(devpkg-evolution-data-server)
 include(devpkg-glib)
-include(devpkg-gnome-desktop)
 include(devpkg-gtk3)
 include(devpkg-webkitgtk)
 

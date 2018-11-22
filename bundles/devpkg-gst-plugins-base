@@ -6,7 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-gstreamer)
-include(devpkg-orc)
 
 gst-plugins-base-dev
 
