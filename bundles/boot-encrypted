@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(bootloader-extras)
+LVM2
+LVM2-extras
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
