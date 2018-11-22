@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
+include(git)
 include(package-utils)
 include(python2-basic)
 include(web-server-basic)
