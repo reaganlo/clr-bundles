@@ -5,9 +5,15 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-fontconfig)
+include(devpkg-freetype)
 include(devpkg-glib)
 include(devpkg-libX11)
 include(devpkg-libXext)
+include(devpkg-libXrender)
+include(devpkg-libxcb)
+include(devpkg-mesa)
+include(devpkg-pixman)
 
 cairo-dev
 

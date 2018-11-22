@@ -6,7 +6,9 @@
 
 include(devpkg-base)
 include(devpkg-clutter)
+include(devpkg-clutter-gst)
 include(devpkg-gdk-pixbuf)
+include(devpkg-glib)
 include(devpkg-gstreamer)
 
 cheese-dev
