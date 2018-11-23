@@ -200,7 +200,6 @@ gnu-efi-dev
 gnupg
 gnutls-dev
 gnutls-dev32
-go
 gobject-introspection
 gobject-introspection-dev
 googletest-dev

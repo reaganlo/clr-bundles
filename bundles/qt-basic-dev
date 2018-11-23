@@ -145,7 +145,6 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
-go
 gobject-introspection
 gobject-introspection-dev
 googletest-dev
@@ -348,7 +347,6 @@ pacrunner-dev
 pango-dev
 pango-dev32
 patch
-pbr
 pcre-dev
 pcre-dev32
 pcre2-dev
@@ -357,7 +355,6 @@ perl-IPC-Run
 perl-XML-Parser
 php
 pigz
-pip
 pixman-dev
 pixman-dev32
 pkg-config
@@ -410,7 +407,6 @@ sbc-dev
 sbc-dev32
 scons
 sed
-setuptools
 shadow
 shared-mime-info
 shared-mime-info-dev

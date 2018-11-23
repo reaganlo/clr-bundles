@@ -28,6 +28,7 @@ autoconf
 autogen
 automake
 automake-dev
+babeltrace-dev
 bash
 bash-completion-dev
 bats
