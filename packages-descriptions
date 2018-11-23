@@ -95,5 +95,6 @@ which - locate executables in the system
 wpa_supplicant - backend component controlling the wireless connections
 xemacs - text editor and application development system
 xz - data compression/decompression tool
+znc - IRC network bouncer
 zsh - Z Shell, an interactive shell and powerful command-line interpreter for scripting language
 zstd - realtime data compression/decompression tool
