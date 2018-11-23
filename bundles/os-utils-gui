@@ -5,6 +5,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(cryptography)
 include(openssl)
+include(perl-basic)
 include(python3-basic)
 include(wpa_supplicant)
 include(xfce4-desktop)

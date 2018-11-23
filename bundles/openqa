@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(kvm-host)
-include(perl-basic)
+include(perl-extras)
 include(postgresql)
 include(web-server-basic)
 opencv-lib

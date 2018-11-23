@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(libX11client)
+include(perl-basic)
 
 setxkbmap
 x11vnc
