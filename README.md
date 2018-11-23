@@ -1,14 +1,16 @@
 Bundle Definition Files
 =======================
 
-This repository contains bundle definition files for the Clear Linux 
+**Please submit patches for review to dev@lists.clearlinux.org.**
+
+This repository contains bundle definition files for the Clear Linux
 Operating System for Intel Architecture.
 
-The files under bundles/ in this directory are processed via m4 macros 
+The files under bundles/ in this directory are processed via m4 macros
 and disregard lines start with '#' as comments.  Please be careful when
 editing.  The end result is a list of the packages that comprise a bundle.
 
-All bundle files must include a filled-out bundle-header.txt at the top 
+All bundle files must include a filled-out bundle-header.txt at the top
 of the file. These are used to generate documentation, so be descriptive
 and precise.
 
