@@ -8,6 +8,8 @@
 # to size constraints for os-core.
 include(iproute2)
 include(p11-kit)
+# sad
+include(perl)
 include(sudo)
 include(which)
 acpica-unix2
