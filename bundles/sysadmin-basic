@@ -9,7 +9,7 @@
 include(iproute2)
 include(p11-kit)
 # sad
-include(perl)
+include(perl-basic)
 include(sudo)
 include(which)
 acpica-unix2
