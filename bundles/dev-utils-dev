@@ -165,6 +165,7 @@ libXdmcp-dev
 libXdmcp-dev32
 libXext-dev
 libXext-dev32
+libXft-dev
 libXi-dev
 libXi-dev32
 libc6
