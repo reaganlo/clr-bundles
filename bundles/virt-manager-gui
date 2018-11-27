@@ -1,0 +1,7 @@
+# [TITLE]: virt-manager-gui
+# [DESCRIPTION]: Enable controlling virt-manager through a GUI
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(virt-manager)
+virt-viewer
