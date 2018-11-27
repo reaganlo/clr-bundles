@@ -53,6 +53,7 @@ bzip2
 bzip2-dev
 ca-certs
 cairo-dev
+cairo-dev32
 cffi
 cffi-legacypython
 check
@@ -92,12 +93,18 @@ expat-dev32
 expect
 flex
 flex-dev
+fontconfig-data
+fontconfig-dev
+fontconfig-dev32
+freetype-dev
+freetype-dev32
 gawk
 gcc
 gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -120,8 +127,12 @@ gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
+gobject-introspection
+gobject-introspection-dev
 googletest-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff
@@ -129,6 +140,7 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+harfbuzz-dev
 help2man
 hostname
 hwloc-dev
@@ -144,6 +156,8 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
+json-c-dev
+json-c-dev32
 jsonschema-python
 kbd
 keyring
@@ -168,6 +182,8 @@ libXext-dev32
 libXft-dev
 libXi-dev
 libXi-dev32
+libXrender-dev
+libXrender-dev32
 libc6
 libc6-dev
 libcap-dev
@@ -193,6 +209,7 @@ libpciaccess-dev
 libpciaccess-dev32
 libpipeline-dev
 libpng-dev
+libpng-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
 libseccomp-dev

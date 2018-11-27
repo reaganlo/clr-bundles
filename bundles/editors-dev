@@ -31,6 +31,8 @@ buildreq-meson
 buildreq-qmake
 bzip2
 bzip2-dev
+cairo-dev
+cairo-dev32
 check
 check-dev
 check-dev32
@@ -57,12 +59,18 @@ expat-dev32
 expect
 flex
 flex-dev
+fontconfig-data
+fontconfig-dev
+fontconfig-dev32
+freetype-dev
+freetype-dev32
 gawk
 gcc
 gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -85,7 +93,11 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
+gobject-introspection
+gobject-introspection-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff
@@ -93,6 +105,7 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+harfbuzz-dev
 hostname
 icu4c-dev
 icu4c-dev32
@@ -100,6 +113,8 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+json-c-dev
+json-c-dev32
 kbd
 kmod-dev
 kmod-dev32
@@ -119,6 +134,8 @@ libXext-dev32
 libXft-dev
 libXi-dev
 libXi-dev32
+libXrender-dev
+libXrender-dev32
 libc6-dev
 libcap-dev
 libcap-dev32
@@ -136,6 +153,8 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 libmicrohttpd-dev
+libpng-dev
+libpng-dev32
 libseccomp-dev
 libseccomp-dev32
 libstdc++

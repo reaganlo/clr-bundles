@@ -41,6 +41,8 @@ buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
+cairo-dev
+cairo-dev32
 check
 check-dev
 check-dev32
@@ -73,6 +75,11 @@ expect
 file-dev
 flex
 flex-dev
+fontconfig-data
+fontconfig-dev
+fontconfig-dev32
+freetype-dev
+freetype-dev32
 gawk
 gawk-dev
 gcc
@@ -104,7 +111,11 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
+gobject-introspection
+gobject-introspection-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff
@@ -112,14 +123,17 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+harfbuzz-dev
 hostname
 icu4c-dev
+icu4c-dev32
 intltool
 intltool-dev
 iperf-dev
 iptables-dev
 iptables-dev32
 json-c-dev
+json-c-dev32
 kbd
 keyutils-dev
 kmod
@@ -142,6 +156,8 @@ libXext-dev32
 libXft-dev
 libXi-dev
 libXi-dev32
+libXrender-dev
+libXrender-dev32
 libabigail
 libaio-dev
 libc6-dev
@@ -174,6 +190,7 @@ libnl-dev
 libpcap-dev
 libpipeline-dev
 libpng-dev
+libpng-dev32
 libpwquality-dev
 libseccomp-dev
 libseccomp-dev32

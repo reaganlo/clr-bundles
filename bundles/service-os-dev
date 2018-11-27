@@ -36,6 +36,7 @@ bison-dev
 boost-dev
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
@@ -46,6 +47,8 @@ buildreq-qmake
 bzip2
 bzip2-dev
 ca-certs
+cairo-dev
+cairo-dev32
 cffi
 cffi-legacypython
 check
@@ -80,12 +83,18 @@ expat-dev32
 expect
 flex
 flex-dev
+fontconfig-data
+fontconfig-dev
+fontconfig-dev32
+freetype-dev
+freetype-dev32
 gawk
 gcc
 gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -105,7 +114,11 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+gobject-introspection
+gobject-introspection-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff
@@ -113,6 +126,7 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+harfbuzz-dev
 hostname
 hypothesis-legacypython
 hypothesis-python
@@ -125,6 +139,8 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
+json-c-dev
+json-c-dev32
 kbd
 kernel-config
 kmod
@@ -146,6 +162,8 @@ libXext-dev32
 libXft-dev
 libXi-dev
 libXi-dev32
+libXrender-dev
+libXrender-dev32
 libc6
 libc6-dev
 libcap-dev
@@ -168,6 +186,8 @@ libidn-dev
 libidn-dev32
 libmicrohttpd-dev
 libpciaccess-dev
+libpng-dev
+libpng-dev32
 libseccomp-dev
 libseccomp-dev32
 libstdc++

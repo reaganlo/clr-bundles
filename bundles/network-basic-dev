@@ -43,6 +43,7 @@ bzip2-dev
 c-ares-dev
 ca-certs
 cairo-dev
+cairo-dev32
 check
 check-dev
 check-dev32
@@ -75,12 +76,18 @@ expat-dev32
 expect
 flex
 flex-dev
+fontconfig-data
+fontconfig-dev
+fontconfig-dev32
+freetype-dev
+freetype-dev32
 gawk
 gcc
 gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdb
 gdb-dev
 gdbm-dev
 gettext
@@ -105,7 +112,11 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
+gobject-introspection
+gobject-introspection-dev
 gperf
+graphite-dev
+graphite-dev32
 graphviz
 grep
 groff
@@ -113,6 +124,7 @@ gtk-doc
 gtk-doc-dev
 guile
 gzip
+harfbuzz-dev
 hostname
 icu4c-dev
 icu4c-dev32
@@ -123,6 +135,8 @@ ipset-dev
 iptables-dev
 iptables-dev32
 irssi-dev
+json-c-dev
+json-c-dev32
 kbd
 kmod-dev
 kmod-dev32
@@ -143,6 +157,8 @@ libXext-dev32
 libXft-dev
 libXi-dev
 libXi-dev32
+libXrender-dev
+libXrender-dev32
 libc6
 libc6-dev
 libcap-dev
@@ -177,6 +193,7 @@ libnftnl-dev32
 libnl-dev
 libpcap-dev
 libpng-dev
+libpng-dev32
 librsvg-dev
 libseccomp-dev
 libseccomp-dev32
