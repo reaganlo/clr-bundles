@@ -6,7 +6,7 @@
 include(desktop-gnomelibs)
 include(desktop-kde-apps)
 include(python3-basic)
-
+include(virt-manager)
 
 #
 # Apps that are also pundles
@@ -42,5 +42,4 @@ spice-gtk
 thermal_monitor
 tigervnc
 vinagre
-virt-manager
 virt-viewer

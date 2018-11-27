@@ -3,10 +3,6 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-# Run time requirement as vim is compiled to use libpython
-
-
 include(desktop-gnomelibs)
 include(libX11client)
-
 virt-manager
