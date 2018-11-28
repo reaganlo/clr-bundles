@@ -88,6 +88,7 @@ clutter-dev
 cmake
 cmrt-dev
 colord-dev
+compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 coreutils
 cppcheck
@@ -232,6 +233,7 @@ gtk-doc-dev
 gtk3-dev
 gtk3-dev32
 gtkmm3-dev
+gtkspell3-dev
 guile
 gvfs-dev
 gzip
@@ -273,7 +275,6 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
-libXScrnSaver-dev
 libXau-dev
 libXau-dev32
 libXcomposite-dev
