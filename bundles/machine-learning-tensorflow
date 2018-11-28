@@ -16,10 +16,10 @@ tensorflow
 tflearn
 
 
-
 #
 # Dependencies, helpers and libraries for Key frameworks
 #
 
 Keras
+horovod
 protobuf-python
