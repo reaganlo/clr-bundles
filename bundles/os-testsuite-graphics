@@ -1,0 +1,11 @@
+# [TITLE]: os-testsuite-graphics
+# [DESCRIPTION]: Provides minimal functionality for graphics testing functions
+# [STATUS]: WIP
+# [CAPABILITIES]: Graphics Benchmarking testing, UI interaction testing, and various file utilities
+# [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com>
+clear-font
+gdk-pixbuf
+glmark2
+libXcursor-lib
+shared-mime-info
+
