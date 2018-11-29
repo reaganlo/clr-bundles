@@ -1,0 +1,26 @@
+# [TITLE]: maker-cnc
+# [DESCRIPTION]: CNC carving tools for Makers
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(python-extras)
+include(python2-basic)
+
+
+# main CNC tools
+
+F-Engrave
+pycam
+
+
+# dependencies
+
+pygtk
+pygtk-legacypython
+pycam-legacypython
+pygobject-legacy
+pygobject-legacy-legacypython
+pycairo
+pycairo-legacypython
+tcl
+tk
