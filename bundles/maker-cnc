@@ -16,17 +16,20 @@ dmap2gcode
 
 # dependencies
 
+gtk3
 gtkglext
 potrace
 pycairo
 pycairo-legacypython
-pycam-legacypython
 pygtk
 pygtk-legacypython
 pygtkglext
 pygtkglext-legacypython
+pygobject
 pygobject-legacy
 pygobject-legacy-legacypython
 python-tcl
+PyOpenGL
+PyYAML
 tcl
 tk
