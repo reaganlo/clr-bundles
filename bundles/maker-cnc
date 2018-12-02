@@ -16,12 +16,17 @@ dmap2gcode
 
 # dependencies
 
-pygtk
-pygtk-legacypython
-pycam-legacypython
-pygobject-legacy
-pygobject-legacy-legacypython
+gtkglext
+potrace
 pycairo
 pycairo-legacypython
+pycam-legacypython
+pygtk
+pygtk-legacypython
+pygtkglext
+pygtkglext-legacypython
+pygobject-legacy
+pygobject-legacy-legacypython
+python-tcl
 tcl
 tk
