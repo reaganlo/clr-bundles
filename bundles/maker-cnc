@@ -31,5 +31,6 @@ pygobject-legacy-legacypython
 python-tcl
 PyOpenGL
 PyYAML
+svg.path
 tcl
 tk
