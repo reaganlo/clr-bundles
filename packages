@@ -1,6 +1,7 @@
-# This list defines package-scope bundles
-# Each line contains a single package name which will be generated as a bundle
-# of the same name containing only that package.
+# This list defines package-scope bundles.
+# Each line contains a single package name (which will be generated as a bundle
+# of the same name containing only that package) and its corresponding
+# description.
 #
 # Generally these are for things in /usr/bin or system services,
 # not for libraries and the like. Even with package-bundles, bundles
@@ -8,102 +9,103 @@
 # perceive it.
 #
 # Do not remove things from this list without very careful coordination
-# with devops
+# with devops.
 #
-# This file should remain sorted
-ansible
-audit
-axel
-bc
-bmap-tools
-borgbackup
-casync
-ccache
-clamav
-cockpit
-cpio
-curl
-darktable
-dfu-util
-diffoscope
-diffutils
-docutils
-dovecot
-dtc
-duperemove
-ethtool
-file
-findutils
-fio
-firefox
-fwupdate
-gdb
-gftp
-gimp
-glmark2
-goaccess
-gzip
-htop
-httpd
-hugo
-iasimage
-icdiff
-icecream
-iftop
-inotify-tools
-iproute2
-ipvsadm
-irssi
-joe
-jq
-kbd
-keepalived
-keepassxc
-kernel-install
-keychain
-lftp
-libva-utils
-linux-dev
-linux-tools
-logrotate
-make
-meld
-mkosi
-mtd-utils
-mtr
-ncdu
-nfs-utils
-nginx
-nmap
-octave
-openssl
-p11-kit
-parallel
-patch
-pmdk
-postgresql
-powertop
-pwgen
-redis-native
-strace
-subversion
-sudo
-suricata
-sysstat
-texlive
-thunderbird
-tmux
-tzdata
-unison
-unzip
-valgrind
-vlc
-weechat
-weston-extras
-which
-wpa_supplicant
-xemacs
-xz
-znc
-zsh
-zstd
+# This file should remain sorted.
+#
+ansible # Automates software provisioning, configuration management, and application deployment.
+audit # system audit tools
+axel # Download accelerator
+bc # basic calculator, an arbitrary-precision calculator language
+bmap-tools # Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
+borgbackup # Deduplicating archiver with compression and authenticated encryption.
+casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
+ccache # cache compilations to avoid redoing the same computation and speed project build times
+clamav # Clam AntiVirus is an anti-virus toolkit for Unix
+cockpit # Web based administration for GNU/Linux servers
+cpio # File archiver utility
+curl # Transfer data to/from a URL
+darktable # Photography workflow application
+dfu-util # Device Firmware Upgrade Utilities
+diffoscope # In-depth comparison of files, archives, and directories
+diffutils # Tools for file comparisons and differences
+docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
+dovecot # Security focused IMAP and POP3 email server
+dtc # Device Tree Compiler, to describe non-discoverable hardware
+duperemove # Tool for finding duplicated extents and submitting them for deduplication
+ethtool # Utility for displaying and modifying some parameters of network interface controller
+file # program for recognizing the type of data contained in a computer file
+findutils # basic directory searching utilities e.g. find, xargs, and locate
+fio # Flexible I/O tester
+firefox # Web Browser
+fwupdate # Firmware update tool
+gdb # GNU debugger
+gftp # Text mode and GUI FTP Client
+gimp # GNU Image Manipulation Program
+glmark2 # OpenGL 2.0 and ES 2.0 benchmark
+goaccess # Real-time web log analyzer
+gzip # lossless data compression/decompression utility
+htop # interactive text-mode process viewer
+httpd # Apache HyperText Transfer Protocol (HTTP) Server daemon
+hugo # Static Web site generator
+iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
+icdiff # Improved Color Differences between similar files
+icecream # Distributed network compilation
+iftop # display bandwidth usage on an interface
+inotify-tools # monitor for file system events
+iproute2 # utilities for controlling TCP / IP networking and traffic control
+ipvsadm # Virtual Server admin tool used to set up, maintain or inspect the virtual server table in the Linux kernel
+irssi # Internet Relay Chat (IRC) client program
+joe # Text editor
+jq # lightweight and flexible command-line JSON processor
+kbd # library to manage the Linux keymaps
+keepalived # strong & robust keepalive facility for the Linux Virtual Server project
+keepassxc # KeePassXC is a password manager
+kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
+keychain # manage SSH and GPG keys
+lftp # File transfer client for http, ftp, sftp and more
+libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
+linux-dev # programs for developing Linux
+linux-tools # Tools for use in Linux
+logrotate # manages the automatic rotation and compression of log files
+make # build automation tool
+meld # visual file difference and merging tool, targeted at developers
+mkosi # generate disk images
+mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
+mtr # Poll a remote server and see how the latency and performance changes over time
+ncdu # curses disk space usage management tool
+nfs-utils # Server and client tooling for network file systems (NFS)
+nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
+nmap # security scanner for network device discovery
+octave # high-level programming language, primarily intended for numerical computations
+openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+p11-kit # Load and enumerate PKCS#11 modules for cryptography
+parallel # shell tool for executing jobs in parallel using one or more computers
+patch # updates text files according to instructions contained in a separate file
+pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
+postgresql # Database
+powertop # diagnose issues with power consumption and power management
+pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
+redis-native # key-value database
+strace # System call diagnostic, instructional, and debugging tool
+subversion # Version Control System
+sudo # allows a user to run a program as another user
+suricata # network threat detection engine
+sysstat # utilities for monitoring system performance and usage activity
+texlive # major TeX-related typesetting programs, macro packages, and fonts.
+thunderbird # Email client
+tmux # terminal multiplexer (similar to screen)
+tzdata # timezone database
+unison # bidirectional file synchronization tool
+unzip # list, test, or extract files from a ZIP archive
+valgrind # suite of tools for debugging and profiling software code
+vlc # VideoLAN Client, multimedia player and framework
+weechat # Internet Relay Chat (IRC) client
+weston-extras # Utilities and tools for the Wayland graphics compositor
+which # locate executables in the system
+wpa_supplicant # backend component controlling the wireless connections
+xemacs # text editor and application development system
+xz # data compression/decompression tool
+znc # IRC network bouncer
+zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
+zstd # realtime data compression/decompression tool
