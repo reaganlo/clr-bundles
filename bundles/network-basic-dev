@@ -219,6 +219,7 @@ patch
 pbr
 pcre-dev
 pcre-dev32
+pcre2-dev
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable

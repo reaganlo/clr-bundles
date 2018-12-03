@@ -25,10 +25,8 @@ autoconf
 autogen
 automake
 automake-dev
-bash
 bash-completion-dev
 bats
-bc
 binutils
 binutils-dev
 bison
@@ -123,8 +121,6 @@ iptables-dev
 iptables-dev32
 iso8601
 kbd
-kernel-config
-kmod
 kmod-dev
 kmod-dev32
 libICE-dev
@@ -169,9 +165,7 @@ libxml2-dev
 libxml2-dev32
 libxslt
 libxslt-bin
-linux-firmware
 linux-libc-headers
-lz4
 m4
 make
 mpc-dev
