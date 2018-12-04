@@ -20,8 +20,6 @@ tensorflow
 
 # support packages
 
-azure-iot-sdk-lib
-azure-iot-sdk-python3
 boto3-legacypython
 botocore-legacypython
 docutils-legacypython
