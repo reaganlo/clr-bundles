@@ -2,23 +2,34 @@
 # [DESCRIPTION]: Run the automotive software defined cockpit which has graphic, media, sound and connectivity
 # [STATUS]: WIP
 # [CAPABILITIES]: 
-# [MAINTAINER]: Gan Yau Wai <yau.wai.gan@intel.com>
+# [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(wpa_supplicant)
+
+# Audio
+alsa-lib
 alsa-plugins
 alsa-utils
-fontconfig
+pulseaudio
+AVB-AudioModules
+SmartXbar
+
+# Graphics
+ias
+intel-gmmlib
+
+# Media
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gstreamer
 gstreamer-vaapi
-ias
-intel-gmmlib
 intel-media-driver
-ioc-cbc-tools
 libva
 libva-intel-driver
 mediasdk
 mediasdk-extras
-pulseaudio
-xkeyboard-config
+v4l-utils
+
+# User tools
+fontconfig
+ioc-cbc-tools
