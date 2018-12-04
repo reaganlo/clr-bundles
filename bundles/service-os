@@ -16,7 +16,7 @@ thermal_daemon
 
 # User Software
 acrn-hypervisor
-
+runc
 
 #
 # The package below is a python script
