@@ -82,6 +82,7 @@ openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (S
 p11-kit # Load and enumerate PKCS#11 modules for cryptography
 parallel # shell tool for executing jobs in parallel using one or more computers
 patch # updates text files according to instructions contained in a separate file
+pdns # PowerDNS authoritative name server (DNSSEC enabled)
 pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
 postgresql # Database
 powertop # diagnose issues with power consumption and power management
