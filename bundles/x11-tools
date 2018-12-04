@@ -10,11 +10,12 @@ setxkbmap
 x11vnc
 xauth
 xclip
+xdotool
 xdpyinfo
 xhost
 xinput
-xkbcomp
 xinput
+xkbcomp
 xkbcomp
 xkeyboard-config
 xmodmap
