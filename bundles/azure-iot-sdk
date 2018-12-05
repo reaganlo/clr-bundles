@@ -8,3 +8,5 @@ include(p11-kit)
 include(python3-basic)
 
 azure-iot-sdk
+gst-plugins-bad
+gst-plugins-good
