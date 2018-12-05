@@ -19,7 +19,6 @@ include(wpa_supplicant)
 # gir/typelibs have been split out and we need them.
 atk-data
 bluez
-bolt
 caribou
 clutter
 colord
