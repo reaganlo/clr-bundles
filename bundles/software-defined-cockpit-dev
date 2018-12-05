@@ -2,10 +2,11 @@
 # [DESCRIPTION]: All packages required to build the software-defined-cockpit bundle.
 # [STATUS]: WIP
 # [CAPABILITIES]: 
-# [MAINTAINER]: Gan Yau Wai <yau.wai.gan@intel.com>
+# [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(dev-utils)
 include(os-core-dev)
 include(software-defined-cockpit)
+AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
 Linux-PAM-dev
@@ -13,6 +14,7 @@ Linux-PAM-dev32
 Mako-legacypython
 Mako-python
 SDL-dev
+SmartXbar-dev
 Sphinx
 Vulkan-Headers-data
 Vulkan-Headers-dev

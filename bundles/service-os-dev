@@ -8,6 +8,7 @@ include(os-core-dev)
 include(service-os)
 CUnit-dev
 CUnit-dev32
+Cython
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -100,6 +101,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+go
 gperf
 graphviz
 grep
@@ -129,6 +131,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
 libc6
 libc6-dev
 libcap-dev
