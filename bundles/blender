@@ -1,0 +1,9 @@
+# [TITLE]: Blender
+# [DESCRIPTION]: A 3D Modelling And Rendering Package
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
+include(python3-basic)
+
+blender
+blender-extras
