@@ -795,7 +795,6 @@ qtbase-dev
 qtbase-extras
 qtdeclarative-dev
 qtsvg-dev
-qtxmlpatterns-dev
 readline-dev
 readline-dev32
 requests

@@ -14,6 +14,8 @@ Linux-PAM-dev32
 Mako-legacypython
 Mako-python
 SDL-dev
+SDL2-dev
+SDL2_image-dev
 SmartXbar-dev
 Sphinx
 Vulkan-Headers-data
@@ -436,7 +438,6 @@ qtbase-dev
 qtbase-extras
 qtdeclarative-dev
 qtsvg-dev
-qtxmlpatterns-dev
 readline-dev
 readline-dev32
 rest-dev
@@ -500,10 +501,8 @@ xcb-util-keysyms-dev
 xcb-util-renderutil-dev
 xcb-util-wm-dev
 xdg-utils
-xkbcomp-dev
 xkeyboard-config-dev
 xmlto
-xorg-server-dev
 xorgproto-dev
 xorgproto-dev32
 xtrans-dev
