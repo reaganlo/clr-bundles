@@ -6,6 +6,7 @@
 include(ethtool)
 include(iproute2)
 include(p11-kit)
+cloud-native-setup
 cri-o
 cri-tools
 ebtables
