@@ -70,6 +70,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcr-dev
 gdb-dev
 gettext
 gettext-bin
@@ -93,14 +94,17 @@ gnu-efi-dev
 gnupg
 gnutls-dev
 go
+gobject-introspection-dev
 golang-github-cpuguy83-go-md2man
 gperf
 gpgme-dev
 graphviz
 grep
 groff
+gtk+-dev
 gtk-doc
 gtk-doc-dev
+gtk3-dev
 guile
 gzip
 hostname
@@ -154,6 +158,7 @@ libnftnl-dev
 libnftnl-dev32
 libseccomp-dev
 libseccomp-dev32
+libsecret-dev
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -237,6 +242,7 @@ util-linux-bin
 util-linux-dev
 util-linux-dev32
 util-linux-extras
+vala-dev
 valgrind
 valgrind-dev
 which
