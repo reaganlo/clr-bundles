@@ -5,6 +5,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 include(desktop-kde-apps)
+include(pidgin)
 include(python3-basic)
 include(virt-manager)
 
@@ -34,7 +35,6 @@ fwupd
 hexchat
 libssh
 mediasdk-extras
-pidgin
 pidgin-sipe
 quassel
 rxvt-unicode

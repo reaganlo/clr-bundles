@@ -1,0 +1,15 @@
+# [TITLE]: pidgin
+# [DESCRIPTION]: Multi-protocol instant messagging client
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+pidgin
+pidgin-sipe
+
+# included for screen-sharing capabilities with pidgin-sipe
+appstream
+FreeRDP
+Remmina
+gstreamer
+gst-plugins-base
+gst-plugins-good
