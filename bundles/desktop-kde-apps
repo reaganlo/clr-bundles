@@ -38,6 +38,7 @@ frameworkintegration
 granatier
 grantlee
 grantleetheme
+gwenview
 kalarm
 kalarmcal
 kamera
@@ -125,6 +126,7 @@ konqueror
 konquest
 konsole
 kontactinterface
+konversation
 kpimtextedit
 kpkpass
 kqtquickcharts
@@ -193,4 +195,5 @@ svgpart
 sweeper
 syndication
 telepathy-qt
+yakuake
 zeroconf-ioslave
