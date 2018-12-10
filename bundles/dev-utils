@@ -13,6 +13,7 @@ bash-completion
 bats
 bc
 cgdb
+cloc
 clr-debug-info
 cpio
 cppcheck

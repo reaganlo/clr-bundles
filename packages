@@ -22,6 +22,7 @@ borgbackup # Deduplicating archiver with compression and authenticated encryptio
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 ccache # cache compilations to avoid redoing the same computation and speed project build times
 clamav # Clam AntiVirus is an anti-virus toolkit for Unix
+cloc # Count lines of code for many programming languages
 cockpit # Web based administration for GNU/Linux servers
 cpio # File archiver utility
 curl # Transfer data to/from a URL
