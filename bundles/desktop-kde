@@ -42,6 +42,7 @@ kconfig
 kconfigwidgets
 kcoreaddons
 kcrash
+kded
 kdbusaddons
 kdeclarative
 kde-cli-tools
@@ -97,6 +98,7 @@ plasma-pa
 plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
+powerdevil
 sddm
 solid
 sonnet
