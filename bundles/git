@@ -6,4 +6,5 @@
 include(openssl)
 include(p11-kit)
 git
+hub
 less
