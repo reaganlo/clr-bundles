@@ -22,6 +22,7 @@ clr-boot-manager
 clr-hardware-files
 clr-man-pages
 clr-service-restart
+cnf
 collectl
 coreutils
 cpuid
