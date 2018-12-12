@@ -3,9 +3,9 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(inkscape)
 include(python-extras)
 include(python2-basic)
-
 
 # main CNC tools
 
