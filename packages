@@ -68,6 +68,7 @@ lftp # File transfer client for http, ftp, sftp and more
 libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
 linux-dev # programs for developing Linux
 linux-tools # Tools for use in Linux
+llvm # LLVM/Clang compiler toolchain
 logrotate # manages the automatic rotation and compression of log files
 make # build automation tool
 meld # visual file difference and merging tool, targeted at developers
