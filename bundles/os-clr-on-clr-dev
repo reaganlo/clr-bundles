@@ -76,7 +76,6 @@ at-spi2-core-dev
 at-spi2-core-dev32
 atk-dev
 atk-dev32
-attica-dev
 attr-dev
 attr-dev32
 attrs
@@ -359,7 +358,6 @@ kcrash-dev
 kdbusaddons-dev
 kded-dev
 kdesignerplugin-dev
-kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring
@@ -379,7 +377,6 @@ kmod-bin
 kmod-dev
 kmod-dev32
 knotifications-dev
-kpackage-dev
 kparts-dev
 kplotting-dev
 krb5-dev
@@ -819,7 +816,6 @@ qtserialport-dev
 qtsvg-dev
 qttools-dev
 qtwebsockets-dev
-qtx11extras-dev
 rdma-core-dev
 re2c
 readline-dev
