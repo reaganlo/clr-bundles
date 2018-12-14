@@ -44,6 +44,7 @@ gdb # GNU debugger
 gftp # Text mode and GUI FTP Client
 gimp # GNU Image Manipulation Program
 glmark2 # OpenGL 2.0 and ES 2.0 benchmark
+global # GNU GLOBAL source code tagging system
 goaccess # Real-time web log analyzer
 gzip # lossless data compression/decompression utility
 htop # interactive text-mode process viewer
