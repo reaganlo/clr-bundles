@@ -59,6 +59,7 @@ icecream # Distributed network compilation
 iftop # display bandwidth usage on an interface
 inkscape # Inkscape SVG drawing program
 inotify-tools # monitor for file system events
+ipmitool # Manage IPMI functions of a local or remote system
 iproute2 # utilities for controlling TCP / IP networking and traffic control
 ipvsadm # Virtual Server admin tool used to set up, maintain or inspect the virtual server table in the Linux kernel
 irssi # Internet Relay Chat (IRC) client program
