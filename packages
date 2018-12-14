@@ -33,6 +33,7 @@ dfu-util # Device Firmware Upgrade Utilities
 diffoscope # In-depth comparison of files, archives, and directories
 diffutils # Tools for file comparisons and differences
 docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
+dosfstools # (V)FAT manipulation tools
 dovecot # Security focused IMAP and POP3 email server
 dtc # Device Tree Compiler, to describe non-discoverable hardware
 duperemove # Tool for finding duplicated extents and submitting them for deduplication
