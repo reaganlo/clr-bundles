@@ -13,6 +13,7 @@
 #
 # This file should remain sorted.
 #
+acpica-unix2 # Intel ACPI utilities
 ansible # Automates software provisioning, configuration management, and application deployment.
 audit # system audit tools
 axel # Download accelerator
