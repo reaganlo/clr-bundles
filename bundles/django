@@ -1,0 +1,14 @@
+# [TITLE]: django
+# [DESCRIPTION]: Django web framwork
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(python-basic)
+
+Django
+django-appconf
+django-babel
+django_compressor
+django-discover-runner
+django-nose
+django-pyscss
