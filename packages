@@ -114,6 +114,7 @@ weston-extras # Utilities and tools for the Wayland graphics compositor
 which # locate executables in the system
 wpa_supplicant # backend component controlling the wireless connections
 xemacs # text editor and application development system
+xfsprogs # XFS tools
 xz # data compression/decompression tool
 zip # create ZIP archives
 znc # IRC network bouncer
