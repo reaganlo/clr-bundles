@@ -589,7 +589,6 @@ make
 makedepend
 man-db
 mariadb-dev
-mariadb-test
 mccabe-python
 media-player-info
 memkind-dev

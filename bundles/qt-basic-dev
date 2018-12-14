@@ -307,10 +307,10 @@ libxslt-bin
 linux-libc-headers
 llvm
 llvm-dev
+lz4-dev
 m4
 make
 mariadb-dev
-mariadb-test
 mesa-dev
 mesa-dev32
 meson
@@ -335,6 +335,8 @@ octave-dev
 openal-soft-dev
 openjade-dev
 openjdk
+openjdk9
+openjdk9-dev
 openldap-dev
 openssl
 openssl-dev
@@ -421,7 +423,6 @@ sqlite-autoconf-dev
 sqlite-autoconf-dev32
 strace
 subversion
-systemd
 systemd-bin
 systemd-dev
 systemd-dev32
@@ -472,3 +473,4 @@ yaml-dev
 yasm
 zlib-dev
 zlib-dev32
+zstd-dev

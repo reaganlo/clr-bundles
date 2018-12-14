@@ -32,7 +32,6 @@ buildreq-meson
 bzip2
 bzip2-dev
 clr-rpm-config
-cmake
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -80,6 +79,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
+gnutls-dev
 gperf
 graphviz
 grep
@@ -130,10 +130,10 @@ libxml2-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
+lz4-dev
 m4
 make
 mariadb-dev
-mariadb-test
 mpc-dev
 mpfr-dev
 nasm
@@ -142,6 +142,8 @@ ncurses-dev32
 netbase
 nss-altfiles
 openjade-dev
+openjdk9
+openjdk9-dev
 openmpi-dev
 openssl
 openssl-dev
@@ -176,7 +178,6 @@ shared-mime-info
 sqlite-autoconf
 sqlite-autoconf-dev
 strace
-systemd
 systemd-bin
 systemd-dev
 systemd-dev32
@@ -205,3 +206,4 @@ xz-dev32
 yasm
 zlib-dev
 zlib-dev32
+zstd-dev

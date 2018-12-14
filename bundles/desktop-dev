@@ -584,7 +584,6 @@ m4
 make
 man-db
 mariadb-dev
-mariadb-test
 mediasdk-dev
 mesa-dev
 mesa-dev32
@@ -650,6 +649,7 @@ openexr-dev
 openjade-dev
 openjdk
 openjdk-dev
+openjdk9
 openjdk9-dev
 openldap-dev
 openssh
@@ -802,6 +802,7 @@ requests-toolbelt-python
 rest-dev
 rest-dev32
 rpm-build
+rpm-dev
 ruby
 ruby-dev
 rust-std32
