@@ -99,6 +99,7 @@ pmdk # Persistent Memory Development Kit tools and libraries for working with no
 postgresql # Database
 powertop # diagnose issues with power consumption and power management
 pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
+quagga # zebra and related routing tools
 redis-native # key-value database
 strace # System call diagnostic, instructional, and debugging tool
 subversion # Version Control System
