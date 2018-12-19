@@ -127,6 +127,9 @@ gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
 
+# Extensions for the default desktop experience
+desktop-icons
+
 # Applications
 evolution-data-server
 flatpak
