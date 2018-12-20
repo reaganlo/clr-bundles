@@ -3,5 +3,8 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libX11client)
 include(virt-manager)
+gtk-vnc
+spice-gtk
 virt-viewer
