@@ -76,6 +76,7 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+cmocka-dev
 coinmp-dev
 colord-dev
 compat-fuse-soname2-dev
@@ -115,6 +116,7 @@ expat-dev32
 expect
 extra-cmake-modules
 fftw-dev
+file-dev
 flac-dev
 flac-dev32
 flex
@@ -196,9 +198,9 @@ hostname
 ias-dev
 icu4c-dev
 icu4c-dev32
+igt-gpu-tools-dev
 ilmbase-dev
 intel-gmmlib-dev
-intel-gpu-tools-dev
 intltool
 intltool-dev
 iptables-dev

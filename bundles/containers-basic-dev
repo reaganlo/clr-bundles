@@ -62,6 +62,7 @@ elfutils-dev32
 expat-dev
 expat-dev32
 expect
+file-dev
 flex
 flex-dev
 gawk
@@ -203,7 +204,6 @@ patch
 pcre-dev
 pcre-dev32
 pcre2-dev
-perl
 perl-Error
 perl-XML-Parser
 pigz

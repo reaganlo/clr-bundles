@@ -61,6 +61,7 @@ elfutils-dev32
 expat-dev
 expat-dev32
 expect
+file-dev
 flex
 flex-dev
 gawk
@@ -193,7 +194,6 @@ pacrunner-dev
 patch
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pkg-config

@@ -358,6 +358,7 @@ kcrash-dev
 kdbusaddons-dev
 kded-dev
 kdesignerplugin-dev
+kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring
@@ -761,6 +762,7 @@ pmdk-dev
 polkit-dev
 popt-dev
 postgresql-dev
+ppp-dev
 pretend
 prettytable
 processor-trace-dev

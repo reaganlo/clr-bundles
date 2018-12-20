@@ -47,6 +47,7 @@ elfutils-dev
 expat-dev
 expat-dev32
 expect
+file-dev
 flex
 flex-dev
 gawk

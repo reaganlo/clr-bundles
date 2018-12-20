@@ -68,6 +68,7 @@ emacs
 expat-dev
 expat-dev32
 expect
+file-dev
 flex
 flex-dev
 fontconfig-data
@@ -220,7 +221,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pip

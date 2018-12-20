@@ -86,6 +86,7 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+cmocka-dev
 cmrt-dev
 colord-dev
 compat-enchant-soname1-dev
@@ -131,6 +132,7 @@ expat-dev32
 expect
 extra-cmake-modules
 fftw-dev
+file-dev
 flac-dev
 flac-dev32
 flatpak-dev
@@ -246,8 +248,8 @@ iceauth-bin
 icon-naming-utils-dev
 icu4c-dev
 icu4c-dev32
+igt-gpu-tools-dev
 intel-gmmlib-dev
-intel-gpu-tools-dev
 intltool
 intltool-dev
 iptables

@@ -99,6 +99,7 @@ expat-dev
 expat-dev32
 expect
 fftw-dev
+file-dev
 flac-dev
 flac-dev32
 flex

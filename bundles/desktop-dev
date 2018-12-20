@@ -119,6 +119,7 @@ clutter-dev
 clutter-gst-dev
 clutter-gtk-dev
 cmake
+cmocka-dev
 cmrt-dev
 cogl-dev
 coinmp-dev
@@ -192,6 +193,7 @@ expat-dev32
 expect
 extra-cmake-modules
 fftw-dev
+file-dev
 flac-dev
 flac-dev32
 flatpak-dev
@@ -339,9 +341,9 @@ icu4c-dev
 icu4c-dev32
 idna
 idna-python
+igt-gpu-tools-dev
 ilmbase-dev
 intel-gmmlib-dev
-intel-gpu-tools-dev
 intltool
 intltool-dev
 ipaddress
@@ -752,6 +754,7 @@ poppler-data-dev
 poppler-dev
 popt-dev
 postgresql-dev
+ppp-dev
 pretend
 procps-ng
 procps-ng-bin

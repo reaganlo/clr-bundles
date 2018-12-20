@@ -111,6 +111,7 @@ expat-dev32
 expect
 extra-cmake-modules
 fftw-dev
+file-dev
 flac-dev
 flac-dev32
 flex
@@ -461,6 +462,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
+ppp-dev
 procps-ng
 protobuf-dev
 pulseaudio-dev
