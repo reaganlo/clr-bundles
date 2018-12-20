@@ -119,7 +119,6 @@ buildreq-qmake
 buildreq-scons
 bzip2
 bzip2-dev
-c-ares-dev
 ca-certs
 cached-property
 cairo-dev
@@ -768,7 +767,6 @@ prettytable
 processor-trace-dev
 procps-ng
 procps-ng-bin
-protobuf-c-dev
 protobuf-dev
 psutil
 ptyprocess

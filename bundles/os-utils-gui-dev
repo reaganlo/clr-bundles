@@ -86,7 +86,6 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
-cmocka-dev
 cmrt-dev
 colord-dev
 compat-enchant-soname1-dev

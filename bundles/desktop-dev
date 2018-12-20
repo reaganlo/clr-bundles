@@ -119,7 +119,6 @@ clutter-dev
 clutter-gst-dev
 clutter-gtk-dev
 cmake
-cmocka-dev
 cmrt-dev
 cogl-dev
 coinmp-dev
@@ -161,7 +160,6 @@ dejagnu
 desktop-file-utils
 dhcp
 dhcp-dev
-dialog
 diffutils
 dnsmasq
 docbook-utils

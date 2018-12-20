@@ -40,7 +40,6 @@ buildreq-meson
 buildreq-qmake
 bzip2
 bzip2-dev
-c-ares-dev
 ca-certs
 cairo-dev
 check-dev
@@ -282,7 +281,6 @@ pluggy-python
 popt-dev
 procps-ng
 procps-ng-bin
-protobuf-c-dev
 python
 python-core
 python-dev

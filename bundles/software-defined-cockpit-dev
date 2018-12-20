@@ -76,7 +76,6 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
-cmocka-dev
 coinmp-dev
 colord-dev
 compat-fuse-soname2-dev
