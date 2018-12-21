@@ -1,0 +1,7 @@
+# [TITLE]: kernel-networktest
+# [DESCRIPTION]: kernel with NFS root FS support and modular network drivers
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+linux-networktest
+linux-networktest-dev
