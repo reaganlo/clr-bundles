@@ -73,6 +73,7 @@ kernel-install # installs kernel, initrd, kernel config and system map and creat
 keychain # manage SSH and GPG keys
 less # the less page
 lftp # File transfer client for http, ftp, sftp and more
+libnl # Low level firewall tools
 libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
 libzmq # ZMQ tools and libs
 linux-dev # programs for developing Linux
