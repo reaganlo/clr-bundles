@@ -5,23 +5,33 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 
-adwaita-icon-theme
+# Shared styling assets (intended for all supported styles)
+clr-wallpapers
+
+# Material style theming assets
+materia-theme
+paper-icon-theme
+
+# Arc style (current default)
 arc-theme
+faba-icon-theme
+moka-icon-theme
+
+# Base fonts
 cantarell-fonts
 clear-font
-clr-wallpapers
-faba-icon-theme
+liberation-fonts
+noto-cjk
+noto-emoji
+powerline-fonts
+source-code-pro
+terminus-font
+
+# GNOME Platform assets (common)
+adwaita-icon-theme
 gnome-backgrounds
 gnome-icon-theme
 gnome-themes-standard
 hicolor-icon-theme
-liberation-fonts
-moka-icon-theme
-noto-cjk
-noto-emoji
-paper-icon-theme
-powerline-fonts
 sound-theme-freedesktop
-source-code-pro
-terminus-font
 xcursor-themes
