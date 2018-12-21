@@ -88,7 +88,7 @@ linux-steam-integration
 mesa
 mesa-lib32
 ncurses-lib32
-ncurses-compat-lib32
+#ncurses-compat-lib32
 nspr-lib32
 nss-lib32
 nss-altfiles-lib32
