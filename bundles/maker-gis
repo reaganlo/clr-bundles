@@ -1,0 +1,9 @@
+# [TITLE]: maker-gis
+# [DESCRIPTION]: GIS/Mapping ools for Makers
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(desktop-kde-libs)
+
+QGIS
