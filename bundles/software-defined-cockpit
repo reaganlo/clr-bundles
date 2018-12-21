@@ -15,7 +15,6 @@ SmartXbar
 
 # Graphics
 ias
-intel-gmmlib
 
 # Media
 gst-plugins-bad
@@ -23,6 +22,9 @@ gst-plugins-base
 gst-plugins-good
 gstreamer
 gstreamer-vaapi
+intel-gmmlib
+#needed till compat automatically adds dependency
+compat-intel-gmmlib-soname1
 intel-media-driver
 libva
 libva-intel-driver

@@ -342,6 +342,7 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 intel-gmmlib-dev
+compat-intel-gmmlib-soname1-dev
 intltool
 intltool-dev
 ipaddress
