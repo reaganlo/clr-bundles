@@ -85,6 +85,7 @@ meld # visual file difference and merging tool, targeted at developers
 mkosi # generate disk images
 mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
 mtr # Poll a remote server and see how the latency and performance changes over time
+musl # musl compiler toolchain
 ncdu # curses disk space usage management tool
 nfs-utils # Server and client tooling for network file systems (NFS)
 nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
