@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
+include(machine-learning-tensorflow)
 
 Edge-optimized-models
 dldt-model-optimizer
