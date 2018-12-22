@@ -12,6 +12,9 @@ glib-lib
 gtk+-data
 gtk+-lib
 harfbuzz-lib
+libinput-data
+libinput-lib
+libinput-libexec
 libX11-data
 libX11-lib
 libXau-lib
