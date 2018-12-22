@@ -12,6 +12,7 @@ cni-plugins
 cri-o
 cri-tools
 ebtables
+firecracker
 kubernetes
 runc
 socat

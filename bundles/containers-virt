@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
+firecracker
 
 # kata-containers packages
 kata-image
