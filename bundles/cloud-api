@@ -7,5 +7,6 @@ include(python3-basic)
 
 awscli
 boto
+boto3
 botocore
 hypothesis
