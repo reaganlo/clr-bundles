@@ -9,9 +9,10 @@ include(python2-basic)
 
 # main CNC tools
 
-F-Engrave
-pycam
 dmap2gcode
+F-Engrave
+FreeCAD
+pycam
 
 
 # dependencies
