@@ -50,4 +50,15 @@ scikit-learn
 scipy
 simplejson
 six
+sphinxcontrib-apidoc
+sphinxcontrib-bibtex
+sphinxcontrib-blockdiag
+sphinxcontrib-httpdomain
+sphinxcontrib-newsfeed
+sphinxcontrib-pecanwsme
+sphinxcontrib-programoutput
+sphinxcontrib-seqdiag
+sphinxcontrib-websupport
+sphinx-feature-classification
+sphinx_rtd_theme
 urllib3
