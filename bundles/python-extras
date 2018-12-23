@@ -55,7 +55,6 @@ sphinxcontrib-bibtex
 sphinxcontrib-blockdiag
 sphinxcontrib-httpdomain
 sphinxcontrib-newsfeed
-sphinxcontrib-pecanwsme
 sphinxcontrib-programoutput
 sphinxcontrib-seqdiag
 sphinxcontrib-websupport
