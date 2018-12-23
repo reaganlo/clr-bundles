@@ -54,6 +54,7 @@ gzip # lossless data compression/decompression utility
 htop # interactive text-mode process viewer
 httpd # Apache HyperText Transfer Protocol (HTTP) Server daemon
 hugo # Static Web site generator
+hwloc # hardware affinity tools
 iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
 icdiff # Improved Color Differences between similar files
 icecream # Distributed network compilation
