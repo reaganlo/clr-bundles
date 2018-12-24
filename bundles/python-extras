@@ -51,7 +51,6 @@ scipy
 simplejson
 six
 sphinxcontrib-apidoc
-sphinxcontrib-bibtex
 sphinxcontrib-blockdiag
 sphinxcontrib-httpdomain
 sphinxcontrib-newsfeed
