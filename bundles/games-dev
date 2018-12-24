@@ -12,6 +12,7 @@ CUnit-dev32
 GConf-dev
 Linux-PAM-dev
 Linux-PAM-dev32
+LuaJIT-dev
 Mako-legacypython
 Mako-python
 ModemManager-dev
@@ -74,6 +75,7 @@ clutter-dev
 cmake
 colord-dev
 compat-libpng-soname12-dev
+compat-libva-soname1-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -176,6 +178,7 @@ gperf
 graphite-dev
 graphite-dev32
 graphviz
+graphviz-extras
 grep
 groff
 gsl-dev
@@ -276,6 +279,8 @@ libdrm-dev
 libdrm-dev32
 libepoxy-dev
 libepoxy-dev32
+libevdev-dev
+libevdev-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -325,6 +330,7 @@ libsndfile-dev
 libsndfile-dev32
 libsoup-dev
 libsoup-dev32
+libspatialindex-dev
 libstdc++
 libtasn1-dev
 libtasn1-dev32
@@ -357,6 +363,7 @@ linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
+lua-dev
 m4
 make
 mesa-dev
@@ -365,6 +372,8 @@ meson
 mobile-broadband-provider-info
 mpc-dev
 mpfr-dev
+mtdev-dev
+mtdev-dev32
 nasm
 nasm-bin
 ncurses-dev

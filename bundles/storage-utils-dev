@@ -56,6 +56,7 @@ desktop-file-utils
 diffutils
 docbook-utils
 docbook-xml
+docutils
 doxygen
 e2fsprogs
 e2fsprogs-data
@@ -98,6 +99,8 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev

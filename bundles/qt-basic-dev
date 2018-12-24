@@ -123,6 +123,7 @@ gdb
 gdb-dev
 gdbm-dev
 gdbm-dev32
+gdk-pixbuf
 gdk-pixbuf-dev
 gdk-pixbuf-dev32
 gettext
@@ -145,6 +146,8 @@ glibc-utils
 glu-dev
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev

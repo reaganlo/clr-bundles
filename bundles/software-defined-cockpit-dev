@@ -79,6 +79,7 @@ cmake
 coinmp-dev
 colord-dev
 compat-fuse-soname2-dev
+compat-intel-gmmlib-soname1-dev
 coreutils
 cppcheck
 cracklib-dev
@@ -166,6 +167,8 @@ glu-dev
 glu-dev32
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -200,7 +203,6 @@ icu4c-dev32
 igt-gpu-tools-dev
 ilmbase-dev
 intel-gmmlib-dev
-compat-intel-gmmlib-soname1-dev
 intltool
 intltool-dev
 iptables-dev

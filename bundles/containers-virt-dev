@@ -42,6 +42,7 @@ buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
+cargo
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -185,6 +186,7 @@ m4
 make
 mpc-dev
 mpfr-dev
+musl
 ncurses-dev
 ncurses-dev32
 net-tools
@@ -208,6 +210,7 @@ patch
 pcre-dev
 pcre-dev32
 pcre2-dev
+perl
 perl-Error
 perl-XML-Parser
 pigz
@@ -225,6 +228,7 @@ readline-dev
 readline-dev32
 rpm-build
 ruby
+rustc
 sed
 shadow
 shared-mime-info

@@ -129,6 +129,7 @@ compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
+compat-intel-gmmlib-soname1-dev
 coreutils
 coverage
 cppcheck
@@ -342,7 +343,6 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 intel-gmmlib-dev
-compat-intel-gmmlib-soname1-dev
 intltool
 intltool-dev
 ipaddress

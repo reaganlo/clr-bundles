@@ -90,6 +90,7 @@ cmrt-dev
 colord-dev
 compat-enchant-soname1-dev
 compat-fuse-soname2-dev
+compat-intel-gmmlib-soname1-dev
 coreutils
 cppcheck
 cracklib-dev
@@ -249,7 +250,6 @@ icu4c-dev
 icu4c-dev32
 igt-gpu-tools-dev
 intel-gmmlib-dev
-compat-intel-gmmlib-soname1-dev
 intltool
 intltool-dev
 iptables

@@ -79,6 +79,7 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
+buildreq-distutils
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
@@ -124,6 +125,7 @@ diffutils
 dnsmasq
 docbook-utils
 docbook-xml
+docutils
 dosfstools
 doxygen
 e2fsprogs
@@ -211,12 +213,14 @@ gpgme-dev
 graphite-dev
 graphite-dev32
 graphviz
+graphviz-extras
 grep
 groff
 gtk+-dev
 gtk-doc
 gtk-doc-dev
 gtk3-dev
+gtk3-dev32
 guile
 gzip
 harfbuzz-dev
@@ -315,6 +319,8 @@ libdrm-dev
 libdrm-dev32
 libepoxy-dev
 libepoxy-dev32
+libevdev-dev
+libevdev-dev32
 libevent-dev
 libevent-dev32
 libffi-dev
@@ -412,6 +418,8 @@ mozjs-dev
 mozjs52-dev
 mpc-dev
 mpfr-dev
+mtdev-dev
+mtdev-dev32
 nasm
 ncurses-dev
 ncurses-dev32
