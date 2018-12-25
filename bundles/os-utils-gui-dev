@@ -88,6 +88,7 @@ clutter-dev
 cmake
 cmrt-dev
 colord-dev
+colord-gtk-dev
 compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 compat-intel-gmmlib-soname1-dev
@@ -491,6 +492,7 @@ ocl-icd-dev
 octave-dev
 open-iscsi
 openconnect-dev
+openexr-dev
 openjdk
 openldap-dev
 openssh

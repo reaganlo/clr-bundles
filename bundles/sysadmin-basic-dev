@@ -50,7 +50,6 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 curl-dev
-db
 db-dev
 dbus-dev
 dbus-dev32
@@ -270,7 +269,6 @@ pkg-config
 pkg-config-dev
 popt-dev
 procps-ng
-procps-ng-bin
 procps-ng-dev
 protobuf-dev
 python-core
@@ -289,8 +287,6 @@ shadow
 shared-mime-info
 six
 slang-dev
-sqlite-autoconf
-sqlite-autoconf-dev
 strace
 systemd
 systemd-bin
@@ -300,10 +296,8 @@ systemd-extras
 systemd-lib
 tar
 tcl
-tcl-dev
 texinfo
 thin-provisioning-tools
-tk-dev
 tzdata
 unzip
 usbutils-dev
