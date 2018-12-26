@@ -7,6 +7,7 @@ bash-bin
 ca-certs-static
 clr-power-tweaks
 clr-systemd-config
+cnf
 coreutils-bin
 dbus-autostart
 dbus-bin
