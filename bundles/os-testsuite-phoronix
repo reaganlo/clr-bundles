@@ -132,3 +132,7 @@ zlib-dev
 Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
+
+
+# work around infra
+hwloc
