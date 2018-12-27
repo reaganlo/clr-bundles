@@ -20,7 +20,7 @@ include(machine-learning-basic)
 include(octave)
 include(php-basic)
 include(python3-basic)
-include(devpkg-qtbase)
+include(qt-basic-dev)
 
 SDL
 SDL-dev

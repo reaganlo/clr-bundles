@@ -11,7 +11,7 @@ include(php-basic)
 include(games)
 include(python3-basic)
 include(python2-basic)
-include(devpkg-qtbase)
+include(qt-basic-dev)
 SDL
 SDL-dev
 SDL2_gfx-dev
