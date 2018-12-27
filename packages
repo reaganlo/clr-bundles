@@ -109,6 +109,7 @@ subversion # Version Control System
 sudo # allows a user to run a program as another user
 suricata # network threat detection engine
 sysstat # utilities for monitoring system performance and usage activity
+texinfo # unix style documentation tooling
 texlive # major TeX-related typesetting programs, macro packages, and fonts.
 thunderbird # Email client
 tmux # terminal multiplexer (similar to screen)
