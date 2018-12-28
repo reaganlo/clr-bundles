@@ -90,6 +90,7 @@ musl # musl compiler toolchain
 ncdu # curses disk space usage management tool
 nfs-utils # Server and client tooling for network file systems (NFS)
 nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
+nload # network load monitor
 nmap # security scanner for network device discovery
 octave # high-level programming language, primarily intended for numerical computations
 openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
