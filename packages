@@ -32,9 +32,11 @@ darktable # Photography workflow application
 dfu-util # Device Firmware Upgrade Utilities
 diffoscope # In-depth comparison of files, archives, and directories
 diffutils # Tools for file comparisons and differences
+docbook-utils # docbook tools
 docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
 dosfstools # (V)FAT manipulation tools
 dovecot # Security focused IMAP and POP3 email server
+doxygen # documentation tooling
 dtc # Device Tree Compiler, to describe non-discoverable hardware
 duperemove # Tool for finding duplicated extents and submitting them for deduplication
 ethtool # Utility for displaying and modifying some parameters of network interface controller
@@ -42,6 +44,7 @@ file # program for recognizing the type of data contained in a computer file
 findutils # basic directory searching utilities e.g. find, xargs, and locate
 fio # Flexible I/O tester
 firefox # Web Browser
+fonttools # tools to manipulate system and user fonts
 fwupdate # Firmware update tool
 gdb # GNU debugger
 gftp # Text mode and GUI FTP Client
@@ -80,10 +83,12 @@ libzmq # ZMQ tools and libs
 linux-dev # programs for developing Linux
 linux-tools # Tools for use in Linux
 llvm # LLVM/Clang compiler toolchain
+lz4 # tools to compress and decompress lz4 files
 logrotate # manages the automatic rotation and compression of log files
 make # build automation tool
 meld # visual file difference and merging tool, targeted at developers
 mkosi # generate disk images
+mpg123 # play and decode mp3 files
 mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
 mtr # Poll a remote server and see how the latency and performance changes over time
 musl # musl compiler toolchain
@@ -93,6 +98,7 @@ nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
 nload # network load monitor
 nmap # security scanner for network device discovery
 octave # high-level programming language, primarily intended for numerical computations
+openldap # ldap tools
 openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
 p11-kit # Load and enumerate PKCS#11 modules for cryptography
 parallel # shell tool for executing jobs in parallel using one or more computers
