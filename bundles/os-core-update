@@ -9,6 +9,7 @@ bzip2
 clr-boot-manager-autostart
 clr-boot-manager-bin
 clr-boot-manager-services
+clr-bundles
 clr-find-bundle
 clr-hardware-files
 clr-service-restart-bin
