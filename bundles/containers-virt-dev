@@ -117,7 +117,9 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+json-c-dev
 kbd
+keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
@@ -162,6 +164,7 @@ libnftnl-dev
 libnftnl-dev32
 libpng-dev
 libpng-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libsecret-dev
@@ -218,6 +221,7 @@ pixman-dev
 pixman-dev32
 pkg-config
 pkg-config-dev
+popt-dev
 procps-ng
 python-dev
 python3

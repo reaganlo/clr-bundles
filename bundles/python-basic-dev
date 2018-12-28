@@ -6,8 +6,10 @@
 include(dev-utils)
 include(os-core-dev)
 include(python-basic)
+CUnit-dev
 Cython
 Jinja2
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Sphinx
@@ -113,6 +115,8 @@ iptables-dev32
 json-c-dev
 json-c-dev32
 kbd
+keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 libX11-dev
@@ -129,6 +133,8 @@ libXi-dev
 libXi-dev32
 libXrender-dev
 libXrender-dev32
+libabigail
+libaio-dev
 libc6-dev
 libcap-dev
 libcap-dev32
@@ -145,8 +151,17 @@ libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libpng-dev
 libpng-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -186,6 +201,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
+popt-dev
 procps-ng
 procps-ng-bin
 py
@@ -198,6 +214,7 @@ python3-dev
 readline-dev
 readline-dev32
 rpm-build
+ruby
 sed
 setuptools
 setuptools-legacypython
@@ -216,6 +233,7 @@ tar
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tk-dev
 tzdata
 unzip

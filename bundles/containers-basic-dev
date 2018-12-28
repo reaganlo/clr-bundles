@@ -114,7 +114,9 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+json-c-dev
 kbd
+keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
@@ -157,6 +159,7 @@ libnfnetlink-dev
 libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libsecret-dev
@@ -210,6 +213,7 @@ perl-XML-Parser
 pigz
 pkg-config
 pkg-config-dev
+popt-dev
 procps-ng
 python-dev
 python3

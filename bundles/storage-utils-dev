@@ -7,6 +7,7 @@ include(dev-utils)
 include(os-core-dev)
 include(storage-utils)
 CUnit-dev
+Cython
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -136,6 +137,7 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
 libaio-dev
 libassuan-dev
 libc6-dev
@@ -156,6 +158,14 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libnl-dev
 libpwquality-dev
 libsafec-dev

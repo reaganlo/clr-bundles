@@ -6,6 +6,9 @@
 include(database-basic)
 include(dev-utils)
 include(os-core-dev)
+CUnit-dev
+Cython
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -97,10 +100,14 @@ intltool-dev
 iptables-dev
 iptables-dev32
 jemalloc-dev
+json-c-dev
 kbd
+keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 libX11-dev
+libabigail
 libaio-dev
 libc6-dev
 libcap-dev
@@ -116,6 +123,15 @@ libgpg-error-dev
 libgpg-error-dev32
 libjpeg-turbo-dev
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -160,6 +176,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
+popt-dev
 postgresql-dev
 procps-ng
 procps-ng-bin
@@ -170,6 +187,7 @@ python3-dev
 readline-dev
 readline-dev32
 rpm-build
+ruby
 sed
 setuptools
 setuptools-python
@@ -187,6 +205,7 @@ tar
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tk-dev
 tzdata
 unzip

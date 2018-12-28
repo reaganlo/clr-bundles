@@ -8,6 +8,8 @@ include(dev-utils)
 include(os-core-dev)
 CUnit-dev
 CUnit-dev32
+Cython
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -26,6 +28,7 @@ bison
 bison-dev
 boost-dev
 buildreq-cmake
+buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
@@ -93,7 +96,10 @@ intltool
 intltool-dev
 iptables-dev
 iptables-dev32
+json-c-dev
 kbd
+keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 libICE-dev
@@ -102,6 +108,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
+libaio-dev
 libc6
 libc6-dev
 libcap-dev
@@ -120,6 +128,15 @@ libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -156,6 +173,7 @@ perl-XML-Parser
 pigz
 pkg-config
 pkg-config-dev
+popt-dev
 procps-ng
 python-dev
 python3
@@ -164,6 +182,7 @@ python3-dev
 readline-dev
 readline-dev32
 rpm-build
+ruby
 sed
 shadow
 shared-mime-info
@@ -176,6 +195,7 @@ systemd-lib
 tar
 tcl
 texinfo
+thin-provisioning-tools
 tpm2-abrmd-dev
 tpm2-tss-dev
 tzdata

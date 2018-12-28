@@ -294,6 +294,7 @@ libpsl-dev
 libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libpwquality-dev
 librsvg
 librsvg-dev
 librsvg-dev32
@@ -394,6 +395,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
+popt-dev
 prettytable
 procps-ng
 protobuf-dev

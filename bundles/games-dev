@@ -9,7 +9,9 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
+Cython
 GConf-dev
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT-dev
@@ -213,6 +215,7 @@ json-glib-dev
 json-glib-dev32
 kbd
 keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -263,6 +266,8 @@ libXxf86dga-dev
 libXxf86misc-dev
 libXxf86vm-dev
 libXxf86vm-dev32
+libabigail
+libaio-dev
 libc6
 libc6-dev
 libcanberra-dev
@@ -303,8 +308,16 @@ libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmbim-dev
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
 libndp-dev
 libndp-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libnl-dev
 libnl-dev32
 libnotify-dev
@@ -318,6 +331,7 @@ libpsl-dev
 libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libpwquality-dev
 libqmi-dev
 librsvg
 librsvg-dev
@@ -470,6 +484,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
+popt-dev
 ppp-dev
 procps-ng
 protobuf-dev
@@ -514,6 +529,7 @@ tar
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tiff-dev
 tzdata
 unzip

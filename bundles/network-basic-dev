@@ -9,6 +9,8 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
+Cython
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Sphinx
@@ -121,7 +123,10 @@ ipset-dev
 iptables-dev
 iptables-dev32
 irssi-dev
+json-c-dev
 kbd
+keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -131,6 +136,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
+libaio-dev
 libc6
 libc6-dev
 libcap-dev
@@ -165,6 +172,7 @@ libnftnl-dev32
 libnl-dev
 libpcap-dev
 libpng-dev
+libpwquality-dev
 librsvg-dev
 libseccomp-dev
 libseccomp-dev32
@@ -312,6 +320,7 @@ tar
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tk-dev
 tox
 tzdata

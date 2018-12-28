@@ -9,6 +9,8 @@ include(software-defined-cockpit)
 AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
+Cython
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-legacypython
@@ -213,6 +215,7 @@ json-glib-dev
 json-glib-dev32
 kbd
 keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -261,6 +264,7 @@ libXvMC-dev32
 libXxf86misc-dev
 libXxf86vm-dev
 libXxf86vm-dev32
+libabigail
 libaio-dev
 libc6
 libc6-dev
@@ -299,6 +303,14 @@ libinput-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libnice-dev
 libnl-dev
 libogg-dev
@@ -311,6 +323,7 @@ libpsl-dev
 libpsl-dev32
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libpwquality-dev
 librsvg
 librsvg-dev
 librsvg-dev32
@@ -424,6 +437,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
+popt-dev
 postgresql-dev
 procps-ng
 procps-ng-bin
@@ -446,6 +460,7 @@ readline-dev32
 rest-dev
 rest-dev32
 rpm-build
+ruby
 rust-std32
 sbc-dev
 sbc-dev32
@@ -473,6 +488,7 @@ tbb-dev
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tiff-dev
 tk-dev
 tzdata

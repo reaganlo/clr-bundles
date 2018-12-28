@@ -9,6 +9,7 @@ include(service-os)
 CUnit-dev
 CUnit-dev32
 Cython
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -123,7 +124,10 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
+json-c-dev
 kbd
+keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 libICE-dev
@@ -133,6 +137,7 @@ libSM-dev32
 libX11-dev
 libX11-dev32
 libabigail
+libaio-dev
 libc6
 libc6-dev
 libcap-dev
@@ -154,7 +159,16 @@ libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libpciaccess-dev
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -200,6 +214,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
+popt-dev
 pretend
 processor-trace-dev
 procps-ng
@@ -219,6 +234,7 @@ pytz
 readline-dev
 readline-dev32
 rpm-build
+ruby
 runc-dev
 sed
 setuptools
@@ -240,6 +256,7 @@ tcl
 tcl-dev
 telemetrics-client-dev
 texinfo
+thin-provisioning-tools
 tk-dev
 tzdata
 unzip

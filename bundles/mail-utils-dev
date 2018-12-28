@@ -6,8 +6,10 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
+CUnit-dev
 Cython
 Jinja2
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Sphinx
@@ -135,6 +137,7 @@ json-c-dev
 json-c-dev32
 kbd
 keyutils-dev
+kmod
 kmod-dev
 kmod-dev32
 krb5-dev
@@ -152,6 +155,7 @@ libXi-dev
 libXi-dev32
 libXrender-dev
 libXrender-dev32
+libabigail
 libaio-dev
 libassuan-dev
 libc6-dev
@@ -174,8 +178,17 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libpng-dev
 libpng-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -228,6 +241,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+popt-dev
 procps-ng
 procps-ng-bin
 py
@@ -265,6 +279,7 @@ tar
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tk-dev
 tokyocabinet-dev
 tzdata

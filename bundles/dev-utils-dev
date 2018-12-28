@@ -8,6 +8,8 @@ include(os-core-dev)
 include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
+Cython
+LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
@@ -142,6 +144,7 @@ ipaddress
 iptables-dev
 iptables-dev32
 iso8601
+json-c-dev
 jsonschema-python
 kbd
 keyring
@@ -156,6 +159,8 @@ libSM-dev
 libSM-dev32
 libX11-dev
 libX11-dev32
+libabigail
+libaio-dev
 libc6
 libc6-dev
 libcap-dev
@@ -177,12 +182,21 @@ libgpg-error-dev32
 libidn-dev
 libidn-dev32
 libmicrohttpd-dev
+libmnl-dev
+libmnl-dev32
+libnetfilter_conntrack-dev
+libnetfilter_conntrack-dev32
+libnfnetlink-dev
+libnfnetlink-dev32
+libnftnl-dev
+libnftnl-dev32
 libpciaccess-dev
 libpciaccess-dev32
 libpipeline-dev
 libpng-dev
 libpthread-stubs-dev
 libpthread-stubs-dev32
+libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
 libstdc++
@@ -314,6 +328,7 @@ readline-dev
 readline-dev32
 rpm-build
 rpm-common
+ruby
 scikit-build
 sed
 setuptools
@@ -339,6 +354,7 @@ tar
 tcl
 tcl-dev
 texinfo
+thin-provisioning-tools
 tk
 tk-dev
 tox
