@@ -45,6 +45,7 @@ findutils # basic directory searching utilities e.g. find, xargs, and locate
 fio # Flexible I/O tester
 firefox # Web Browser
 fonttools # tools to manipulate system and user fonts
+fuse # fuse filesystem support
 fwupdate # Firmware update tool
 gdb # GNU debugger
 gftp # Text mode and GUI FTP Client
