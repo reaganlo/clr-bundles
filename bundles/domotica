@@ -6,8 +6,12 @@
 include(cloud-api)
 include(python3-basic)
 
+astral
+hammock
 home-assistant
 gmqtt
+ouimeaux
+pyecobee
+pyhs100
 python-openzwave
-hammock
-astral
+spyrk
