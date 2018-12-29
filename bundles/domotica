@@ -9,3 +9,5 @@ include(python3-basic)
 home-assistant
 gmqtt
 python-openzwave
+hammock
+astral
