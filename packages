@@ -112,6 +112,7 @@ powertop # diagnose issues with power consumption and power management
 pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
 quagga # zebra and related routing tools
 redis-native # key-value database
+smartmontools # hard disk diagnostic utilities
 strace # System call diagnostic, instructional, and debugging tool
 subversion # Version Control System
 sudo # allows a user to run a program as another user
