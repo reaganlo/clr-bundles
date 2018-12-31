@@ -44,6 +44,7 @@ file # program for recognizing the type of data contained in a computer file
 findutils # basic directory searching utilities e.g. find, xargs, and locate
 fio # Flexible I/O tester
 firefox # Web Browser
+flac # FLAC audio format tools
 fonttools # tools to manipulate system and user fonts
 fuse # fuse filesystem support
 fwupdate # Firmware update tool
