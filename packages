@@ -65,6 +65,7 @@ icdiff # Improved Color Differences between similar files
 icecream # Distributed network compilation
 iftop # display bandwidth usage on an interface
 inkscape # Inkscape SVG drawing program
+intltool # internationalization tool for develops
 inotify-tools # monitor for file system events
 ipmitool # Manage IPMI functions of a local or remote system
 iproute2 # utilities for controlling TCP / IP networking and traffic control
