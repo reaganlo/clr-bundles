@@ -93,6 +93,7 @@ ncurses-lib32
 nspr-lib32
 nss-lib32
 nss-altfiles-lib32
+openal-soft-lib32
 openssl-lib32
 p11-kit-lib32
 pulseaudio-lib32
