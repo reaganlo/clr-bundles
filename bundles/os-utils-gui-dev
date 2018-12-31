@@ -590,6 +590,7 @@ protobuf-dev
 pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
+pygobject
 pyparsing
 pyparsing-legacypython
 python

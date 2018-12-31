@@ -253,6 +253,7 @@ gflags-dev
 ghostscript
 ghostscript-dev
 git
+gjs
 glib-bin
 glib-dev
 glib-dev32

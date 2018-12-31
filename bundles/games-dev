@@ -151,6 +151,7 @@ gettext-dev
 ghostscript
 ghostscript-dev
 git
+gjs
 gjs-dev
 glib-bin
 glib-dev
