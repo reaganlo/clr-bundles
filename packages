@@ -96,6 +96,7 @@ mpg123 # play and decode mp3 files
 mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
 mtr # Poll a remote server and see how the latency and performance changes over time
 musl # musl compiler toolchain
+nasm # assembler
 ncdu # curses disk space usage management tool
 nfs-utils # Server and client tooling for network file systems (NFS)
 nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
@@ -138,6 +139,7 @@ wpa_supplicant # backend component controlling the wireless connections
 xemacs # text editor and application development system
 xfsprogs # XFS tools
 xz # data compression/decompression tool
+yasm # assembler
 zip # create ZIP archives
 znc # IRC network bouncer
 zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
