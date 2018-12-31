@@ -84,6 +84,7 @@ libzmq # ZMQ tools and libs
 linux-dev # programs for developing Linux
 linux-tools # Tools for use in Linux
 llvm # LLVM/Clang compiler toolchain
+lm-sensors # Read various system sensors, sometimes using scary methods
 lz4 # tools to compress and decompress lz4 files
 logrotate # manages the automatic rotation and compression of log files
 make # build automation tool
