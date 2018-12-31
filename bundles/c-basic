@@ -6,6 +6,7 @@
 
 # perl for autoconf and friends
 include(perl-basic)
+include(nasm)
 
 autoconf
 autoconf-archive-dev

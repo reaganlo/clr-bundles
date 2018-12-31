@@ -12,6 +12,8 @@ include(games)
 include(python3-basic)
 include(python2-basic)
 include(devpkg-qtbase)
+include(nasm)
+include(yasm)
 SDL
 SDL-dev
 SDL2_gfx-dev
