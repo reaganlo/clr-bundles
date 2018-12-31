@@ -29,7 +29,7 @@ SDL_ttf-dev
 acl-dev
 attr-dev
 autoconf
-bc
+include(bc)
 beignet
 beignet-dev
 bison
@@ -44,12 +44,12 @@ curl-dev
 dialog
 dmidecode
 fftw-dev
-fio
+include(fio)
 flac-dev
 flex
 freeglut-dev
 gflags-dev
-gimp
+include(gimp)
 glibc-staticdev
 glibc-lib-avx2
 glog-dev
@@ -82,7 +82,7 @@ lua-dev
 mesa-demos
 meson
 mpfr-dev
-nasm
+include(nasm)
 ncurses-dev
 ninja
 numactl
@@ -94,7 +94,7 @@ openblas
 openssl-dev
 opus-dev
 p7zip
-patch
+include(patch)
 pbzip2
 pciutils
 pcre-dev
@@ -110,9 +110,9 @@ snappy-dev
 sqlite-autoconf-dev
 tcl
 time
-unzip
+include(unzip)
 x11perf
-yasm
+include(yasm)
 zlib-dev
 Vulkan-Headers
 Vulkan-Loader

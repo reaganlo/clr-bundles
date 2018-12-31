@@ -14,4 +14,4 @@ ceph-extras
 pip-legacypython
 glusterfs
 parted
-xfsprogs
+include(xfsprogs)

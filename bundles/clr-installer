@@ -23,7 +23,7 @@ dosfstools-bin
 e2fsprogs-extras
 gptfdisk-bin
 iputils
-less
+include(less)
 linux-firmware-extras
 linux-firmware-wifi
 nano

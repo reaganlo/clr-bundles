@@ -22,4 +22,4 @@ runc
 # The package below is a python script
 #
 include(python3-basic)
-iasimage
+include(iasimage)

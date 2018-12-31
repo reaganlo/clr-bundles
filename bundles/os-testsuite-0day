@@ -9,16 +9,16 @@ include(dev-utils)
 include(python3-basic)
 include(perl-basic)
 
-acpica-unix2
+include(acpica-unix2)
 btrfs-progs
 docbook-xml
 f2fs-tools
 fakeroot
 i2c-tools
-intltool
+include(intltool)
 graphite
 hwloc-dev
-llvm
+include(llvm)
 mariadb-dev
 libXaw-dev
 memcached

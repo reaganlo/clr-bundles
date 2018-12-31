@@ -1,7 +1,7 @@
 # [TITLE]: software-defined-cockpit
 # [DESCRIPTION]: Run the automotive software defined cockpit which has graphic, media, sound and connectivity
 # [STATUS]: WIP
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(libX11client)
 include(wpa_supplicant)
@@ -9,7 +9,7 @@ include(wpa_supplicant)
 # Audio
 alsa-lib
 alsa-plugins
-alsa-utils
+include(alsa-utils)
 pulseaudio
 AVB-AudioModules
 SmartXbar
@@ -31,7 +31,7 @@ libva
 libva-intel-driver
 mediasdk
 mediasdk-extras
-v4l-utils
+include(v4l-utils)
 
 # User tools
 fontconfig

@@ -37,7 +37,7 @@ libtool
 libtool-dev
 linux-libc-headers
 m4
-make
+include(make)
 pkg-config
 zlib-dev
 # scons intentionally left out for now

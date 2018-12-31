@@ -8,5 +8,5 @@ include(perl-basic)
 include(python3-basic)
 cgit
 gitolite
-nginx
+include(nginx)
 Pygments

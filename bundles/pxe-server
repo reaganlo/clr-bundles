@@ -8,6 +8,6 @@ dhcp
 dnsmasq
 grub
 ipxe
-nginx
+include(nginx)
 uwsgi
 wol

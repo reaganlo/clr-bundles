@@ -16,7 +16,7 @@ include(rust-basic)
 acl-dev
 attr-dev
 autoconf
-bc
+include(bc)
 bison
 bndl-lamp-basic
 boost-dev
@@ -28,7 +28,7 @@ curl-dev
 dialog
 dmidecode
 fftw-dev
-fio
+include(fio)
 flac-dev
 flex
 gflags-dev
@@ -58,7 +58,7 @@ meson
 mpfr-dev
 openmpi
 openmpi-dev
-nasm
+include(nasm)
 ncurses-dev
 ninja
 numactl
@@ -70,7 +70,7 @@ openblas
 openssl-dev
 opus-dev
 p7zip
-patch
+include(patch)
 pbzip2
 pciutils
 pcre-dev
@@ -81,7 +81,7 @@ php
 popt-dev
 pth-dev
 python3-dev
-redis-native
+include(redis-native)
 scons
 snappy-dev
 SuiteSparse
@@ -89,6 +89,6 @@ SuiteSparse-dev
 sqlite-autoconf-dev
 tcl
 time
-unzip
-yasm
+include(unzip)
+include(yasm)
 zlib-dev

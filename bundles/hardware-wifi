@@ -10,4 +10,4 @@ linux-firmware-wifi
 NetworkManager-bin
 NetworkManager-config
 NetworkManager-data
-wpa_supplicant
+include(wpa_supplicant)

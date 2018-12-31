@@ -11,9 +11,9 @@ include(sudo)
 
 # common requirements
 lzip
-make
+include(make)
 six
-zstd
+include(zstd)
 
 # autospec requirements
 abireport

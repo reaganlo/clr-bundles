@@ -12,7 +12,7 @@ include(qt-basic)
 #
 include(x11-tools)
 include(x11-server)
-fuse
+include(fuse)
 
 #
 # main bits
@@ -30,7 +30,7 @@ breeze-icons
 discover
 drkonqi
 exiv2
-gpgme
+include(gpgme)
 kactivitymanagerd
 karchive
 kauth

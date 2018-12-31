@@ -28,15 +28,15 @@ include(sysadmin-basic)
 include(sysadmin-basic-dev)
 Mako-python
 abireport
-cabextract
+include(cabextract)
 configobj
 cve-check-tool
-diffoscope
+include(diffoscope)
 dnf
 efitools
 fribidi-dev
 gdk-pixbuf-dev
-global
+include(global)
 gtk3-dev
 gtk+-dev
 libabigail
@@ -55,7 +55,7 @@ libzip-dev
 memkind
 memkind-dev
 mesa-dev
-mkosi
+include(mkosi)
 ncurses-data-rare
 p7zip
 pep8

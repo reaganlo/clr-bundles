@@ -27,7 +27,7 @@ dbus-extras
 desktop-file-utils
 font-bitstream-type1
 fontconfig
-fuse
+include(fuse)
 gdk-pixbuf
 geoclue
 geocode-glib
@@ -57,7 +57,7 @@ pango
 pygobject
 shared-mime-info
 telepathy-logger
-tzdata
+include(tzdata)
 
 # a11y
 at-spi2-core
@@ -65,7 +65,7 @@ at-spi2-core
 # Extra service level deps
 accountsservice
 alsa-plugins
-alsa-utils
+include(alsa-utils)
 bash-completion
 clr-desktop-defaults
 clr-fwupd-hooks
@@ -74,7 +74,7 @@ cups-filters
 cups-pk-helper
 dhcp
 fwupd
-fwupdate
+include(fwupdate)
 ghostscript
 gutenprint
 gnome-online-accounts

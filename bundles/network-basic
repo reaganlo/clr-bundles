@@ -15,14 +15,14 @@ bind-utils
 bridge-utils
 connect-proxy
 conntrack-tools
-curl
+include(curl)
 dpdk
 ebtables
 ipset
 iptables
 iptraf
 iputils
-irssi
+include(irssi)
 iw
 links
 net-tools
@@ -39,7 +39,7 @@ redsocks
 rsync
 tcpdump
 traceroute
-weechat
+include(weechat)
 wget
 whois
-znc
+include(znc)

@@ -11,8 +11,8 @@ koji
 koji-extras
 mash
 mod_wsgi
-nfs-utils
-postgresql
+include(nfs-utils)
+include(postgresql)
 python2-mod_wsgi-legacypython
 yum
 yum-metadata-parser

@@ -25,7 +25,7 @@ evince
 evolution
 evolution-ews
 file-roller
-firefox
+include(firefox)
 flatpak
 gedit
 gnome-calculator
@@ -43,10 +43,10 @@ gnome-weather
 graphviz
 graphviz-extras
 gvim
-libva-utils
+include(libva-utils)
 libyami-utils
 pavucontrol
 seahorse
 simple-scan
 totem
-xemacs
+include(xemacs)

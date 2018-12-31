@@ -7,6 +7,6 @@ include(cryptography)
 include(libX11client)
 clr-fwupd-hooks
 fwupd
-fwupdate
+include(fwupdate)
 libsoup
 polkit

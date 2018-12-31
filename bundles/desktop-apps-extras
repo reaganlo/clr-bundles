@@ -28,7 +28,7 @@ Remmina
 chrome-gnome-shell
 geany
 geany-plugins
-gimp
+include(gimp)
 gmic
 gphoto2
 fwupd

@@ -7,6 +7,6 @@ include(python3-basic)
 gdal
 mariadb
 mariadb-doc
-postgresql
+include(postgresql)
 sqlite-autoconf
 vsqlite

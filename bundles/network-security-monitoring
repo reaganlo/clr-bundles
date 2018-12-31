@@ -10,6 +10,6 @@ include(qt-basic)
 
 bro
 hyperscan
-nmap
-suricata
+include(nmap)
+include(suricata)
 wireshark

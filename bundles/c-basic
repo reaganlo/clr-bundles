@@ -39,11 +39,11 @@ libstdc++
 libtool
 libtool-dev
 linux-libc-headers
-llvm
+include(llvm)
 llvm-dev
 m4
-make
-nasm
+include(make)
+include(nasm)
 nasm-bin
 pkg-config
 zlib-dev

@@ -15,5 +15,5 @@ include(education-primary)
 include(education-secondary)
 include(education-tertiary)
 
-gimp
+include(gimp)
 gnome-tweaks

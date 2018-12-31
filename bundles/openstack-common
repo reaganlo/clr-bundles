@@ -18,7 +18,7 @@ futures
 haproxy
 iso8601
 jsonschema
-keepalived
+include(keepalived)
 keystoneauth1
 memcached
 monotonic

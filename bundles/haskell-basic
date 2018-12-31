@@ -13,9 +13,9 @@ gcc
 gcc-dev
 gmp-dev
 glibc-dev
-make
+include(make)
 ncurses-lib
 perl
 stack
-xz
+include(xz)
 zlib-dev
