@@ -41,7 +41,6 @@ check
 check-dev
 check-dev32
 clr-rpm-config
-cmake
 coreutils
 cracklib-dev
 cryptsetup-dev

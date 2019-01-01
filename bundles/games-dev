@@ -359,6 +359,7 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
+libvdpau-dev
 libvorbis-dev
 libvorbis-dev32
 libwebp-dev

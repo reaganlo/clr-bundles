@@ -122,7 +122,6 @@ iproute2
 ipset-dev
 iptables-dev
 iptables-dev32
-irssi-dev
 json-c-dev
 kbd
 keyutils-dev
@@ -332,7 +331,6 @@ util-linux-dev32
 util-linux-extras
 valgrind
 valgrind-dev
-weechat-dev
 which
 xmlto
 xz
@@ -340,4 +338,3 @@ xz-dev
 xz-dev32
 zlib-dev
 zlib-dev32
-znc-dev

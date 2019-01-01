@@ -1,7 +1,7 @@
 # [TITLE]: software-defined-cockpit-dev
 # [DESCRIPTION]: All packages required to build the software-defined-cockpit bundle.
 # [STATUS]: WIP
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(dev-utils)
 include(os-core-dev)
