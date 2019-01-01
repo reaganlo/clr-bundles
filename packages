@@ -13,6 +13,7 @@
 #
 # This file should remain sorted.
 #
+acl # Tools to manipulate filesystem acls
 acpica-unix2 # Intel ACPI utilities
 alsa-utils # alsa management tools
 audit # system audit tools
