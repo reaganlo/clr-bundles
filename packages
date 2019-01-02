@@ -107,6 +107,7 @@ nload # network load monitor
 nmap # security scanner for network device discovery
 octave # high-level programming language, primarily intended for numerical computations
 openldap # ldap tools
+openmpi # HPC tools for running on jobs on clusters
 openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
 p11-kit # Load and enumerate PKCS#11 modules for cryptography
 parallel # shell tool for executing jobs in parallel using one or more computers
