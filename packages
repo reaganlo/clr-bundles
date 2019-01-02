@@ -47,6 +47,7 @@ fio # Flexible I/O tester
 firefox # Web Browser
 flac # FLAC audio format tools
 fonttools # tools to manipulate system and user fonts
+fossil # Fossil is a simple, high-reliability, distributed software configuration management system
 fuse # fuse filesystem support
 fwupdate # Firmware update tool
 gdb # GNU debugger
