@@ -99,6 +99,16 @@ p11-kit-lib32
 pulseaudio-lib32
 s2tc-dev
 s2tc-dev32
+SDL2-lib32
+SDL-lib32
+SDL2_gfx-lib32
+SDL_gfx-lib32
+SDL_image-lib32
+SDL2_image-lib32
+SDL2_net-lib32
+SDL_net-lib32
+SDL_ttf-lib32
+SDL2_ttf-lib32
 systemd-lib32
 xdg-user-dirs
 xz-lib32
