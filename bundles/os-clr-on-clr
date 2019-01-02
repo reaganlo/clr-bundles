@@ -43,6 +43,7 @@ libabigail
 libarchive
 libarchive-c
 libarchive-dev
+libdeps
 libdrm-dev
 libva-dev
 libxcb-dev
