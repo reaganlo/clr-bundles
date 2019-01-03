@@ -99,18 +99,36 @@ p11-kit-lib32
 pulseaudio-lib32
 s2tc-dev
 s2tc-dev32
-SDL2-lib32
-SDL-lib32
-SDL2_gfx-lib32
-SDL_gfx-lib32
-SDL_image-lib32
-SDL2_image-lib32
-SDL2_net-lib32
-SDL_net-lib32
-SDL_ttf-lib32
-SDL2_ttf-lib32
 systemd-lib32
 xdg-user-dirs
 xz-lib32
 zenity
 zlib-lib32
+
+# SDL1 Libraries (32-bit)
+SDL-lib32
+SDL_gfx-lib32
+SDL_image-lib32
+SDL_net-lib32
+SDL_ttf-lib32
+
+# SDL1 Libraries (native)
+SDL
+SDL_gfx
+SDL_image
+SDL_net
+SDL_ttf
+
+# SDL2 Libraries (32-bit)
+SDL2-lib32
+SDL2_gfx-lib32
+SDL2_image-lib32
+SDL2_net-lib32
+SDL2_ttf-lib32
+
+# SDL2 Libraries (native)
+SDL2
+SDL2_gfx
+SDL2_image
+SDL2_net
+SDL2_ttf
