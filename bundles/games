@@ -37,7 +37,6 @@ gdk-pixbuf-lib32
 glib-lib32
 glibc-libc32
 glu-lib32
-gnome-themes-standard
 gtk+-lib32
 harfbuzz-lib32
 libICE-lib32
@@ -107,6 +106,8 @@ linux-steam-integration
 xdg-user-dirs
 zenity
 
+# System integration (theme, data, etc)
+gnome-themes-standard
 
 # SDL1 Libraries (32-bit)
 SDL-lib32
