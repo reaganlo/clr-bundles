@@ -129,7 +129,6 @@ libxml2-dev
 libxslt
 libxslt-bin
 linux-libc-headers
-m4
 make
 mpc-dev
 mpfr-dev

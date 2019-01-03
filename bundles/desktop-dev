@@ -25,6 +25,7 @@ PackageKit-dev
 Pillow
 R-dev
 SDL-dev
+SDL-dev32
 SDL2-dev
 SDL2_image-dev
 Sphinx
@@ -642,6 +643,7 @@ ocl-icd-dev
 octave-dev
 onig-dev
 openal-soft-dev
+openal-soft-dev32
 openblas
 openconnect-dev
 opencv-dev

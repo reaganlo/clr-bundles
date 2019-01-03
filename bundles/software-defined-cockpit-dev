@@ -16,6 +16,7 @@ Linux-PAM-dev32
 Mako-legacypython
 Mako-python
 SDL-dev
+SDL-dev32
 SDL2-dev
 SDL2_image-dev
 SmartXbar-dev
@@ -401,6 +402,7 @@ numpy-legacypython
 ocl-icd-dev
 octave-dev
 openal-soft-dev
+openal-soft-dev32
 openblas
 opencv-dev
 openexr-dev
