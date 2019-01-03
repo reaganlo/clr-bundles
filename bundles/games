@@ -85,7 +85,6 @@ libxcb-lib32
 libxkbcommon-lib32
 libxml2-lib32
 libxshmfence-lib32
-linux-steam-integration
 mesa
 mesa-lib32
 ncurses-lib32
@@ -100,10 +99,14 @@ pulseaudio-lib32
 s2tc-dev
 s2tc-dev32
 systemd-lib32
-xdg-user-dirs
 xz-lib32
-zenity
 zlib-lib32
+
+# Binary helpers for Steam + runtime
+linux-steam-integration
+xdg-user-dirs
+zenity
+
 
 # SDL1 Libraries (32-bit)
 SDL-lib32
