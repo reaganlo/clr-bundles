@@ -95,8 +95,8 @@ openal-soft-lib32
 openssl-lib32
 p11-kit-lib32
 pulseaudio-lib32
-s2tc-dev
-s2tc-dev32
+s2tc-lib
+s2tc-lib32
 systemd-lib32
 xz-lib32
 zlib-lib32
