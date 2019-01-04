@@ -21,6 +21,8 @@ atk-lib32
 attr-lib32
 bzip2-lib32
 cairo-lib32
+compat-curl-gnutls-soname4-lib
+compat-curl-gnutls-soname4-lib32
 compat-libpng-soname12-lib
 compat-libpng-soname12-lib32
 compat-libva-soname1-lib
