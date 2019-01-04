@@ -87,6 +87,7 @@ coreutils
 cppcheck
 cracklib-dev
 cryptsetup-dev
+ctags
 cups-dev
 curl-dev
 curl-dev32
@@ -97,6 +98,7 @@ dbus-broker
 dbus-dev
 dbus-dev32
 dbus-glib-dev
+dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -452,6 +454,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pyudev
 qemu
 qtbase-dev
 qtbase-extras

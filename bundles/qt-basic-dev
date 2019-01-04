@@ -74,6 +74,7 @@ colord-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
+ctags
 cups-dev
 curl-dev
 curl-dev32
@@ -83,6 +84,7 @@ db-dev
 dbus-broker
 dbus-dev
 dbus-dev32
+dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -391,6 +393,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pyudev
 qemu
 qt3d-dev
 qtbase-dev

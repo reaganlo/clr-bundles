@@ -52,11 +52,13 @@ compat-enchant-soname1-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
+ctags
 curl-dev
 db
 db-dev
 dbus-dev
 dbus-dev32
+dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -294,6 +296,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pyudev
 rdma-core-dev
 readline-dev
 readline-dev32

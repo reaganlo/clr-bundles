@@ -93,6 +93,7 @@ compat-libva-soname1-dev
 coreutils
 cracklib-dev
 cryptsetup-dev
+ctags
 cups-dev
 curl-dev
 curl-dev32
@@ -104,6 +105,7 @@ dbus-dev32
 dbus-extras
 dbus-glib-dev
 dbus-glib-dev32
+dbus-python
 dconf-dev
 dejagnu
 desktop-file-utils
@@ -513,6 +515,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pyudev
 qemu
 qtbase-dev
 readline-dev
