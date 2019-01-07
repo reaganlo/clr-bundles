@@ -50,6 +50,7 @@ ctags
 cups-dev
 curl-dev
 cyrus-sasl-dev
+db
 db-dev
 dbus-dev
 dbus-dev32

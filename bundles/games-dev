@@ -88,6 +88,7 @@ clr-rpm-config
 clutter-dev
 cmake
 colord-dev
+compat-curl-gnutls-soname4-dev
 compat-libpng-soname12-dev
 compat-libva-soname1-dev
 coreutils
@@ -189,6 +190,7 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnutls-dev
+gnutls-dev32
 gobject-introspection
 gobject-introspection-dev
 googletest-dev
