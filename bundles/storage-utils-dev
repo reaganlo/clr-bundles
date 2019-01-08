@@ -127,8 +127,10 @@ ipmctl-dev
 iptables-dev
 iptables-dev32
 iso8601
+jansson-dev
 json-c-dev
 kbd
+kdoctools-dev
 keyutils-dev
 kmod
 kmod-dev
@@ -143,6 +145,7 @@ libX11-dev
 libX11-dev32
 libabigail
 libaio-dev
+libarchive-dev
 libassuan-dev
 libc6-dev
 libcap-dev

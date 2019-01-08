@@ -367,6 +367,7 @@ json-c-dev32
 json-glib-dev
 json-glib-dev32
 kbd
+kdoctools-dev
 keyutils-dev
 kmod
 kmod-dev
@@ -800,6 +801,7 @@ qtbase-dev
 qtbase-extras
 qtdeclarative-dev
 qtsvg-dev
+rdma-core-dev
 readline-dev
 readline-dev32
 requests

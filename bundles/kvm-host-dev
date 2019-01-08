@@ -411,6 +411,7 @@ python3-core
 python3-dev
 pyudev
 qemu
+rdma-core-dev
 readline-dev
 readline-dev32
 requests

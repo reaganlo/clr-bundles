@@ -604,6 +604,7 @@ python3-dev
 pyudev
 qemu
 qtbase-dev
+rdma-core-dev
 readline-dev
 readline-dev32
 rest-dev

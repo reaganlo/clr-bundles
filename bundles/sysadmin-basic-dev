@@ -273,6 +273,7 @@ popt-dev
 procps-ng
 procps-ng-dev
 protobuf-dev
+python
 python-core
 python-dev
 python3
@@ -280,6 +281,7 @@ python3-core
 python3-dev
 pyudev
 qtbase-dev
+rdma-core-dev
 readline-dev
 readline-dev32
 rpm-build
