@@ -18,6 +18,7 @@ clr-debug-info
 include(cpio)
 cppcheck
 cscope
+debuginfo-cache
 diffstat
 include(diffutils)
 include(docutils)
