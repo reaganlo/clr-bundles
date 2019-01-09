@@ -140,7 +140,6 @@ cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
 cssselect
-ctags
 cups
 cups-dev
 cups-filters
@@ -157,7 +156,6 @@ dbus-dev32
 dbus-extras
 dbus-glib-dev
 dbus-glib-dev32
-dbus-python
 dconf-dev
 defusedxml
 dejagnu
