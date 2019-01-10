@@ -130,7 +130,9 @@ gnome-shell
 gnome-shell-extensions
 
 # Extensions for the default desktop experience
+dash-to-dock
 desktop-icons
+gnome-shell-impatience
 
 # Applications
 evolution-data-server
