@@ -104,6 +104,7 @@ gtk-doc-dev
 guile
 gzip
 harfbuzz-dev
+harfbuzz-dev32
 hostname
 icu4c-dev
 icu4c-dev32

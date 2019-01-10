@@ -285,6 +285,7 @@ libXxf86vm-dev
 libXxf86vm-dev32
 libabigail
 libaio-dev
+libatomic_ops-dev
 libc6
 libc6-dev
 libcanberra-dev

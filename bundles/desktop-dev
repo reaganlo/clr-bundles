@@ -426,6 +426,8 @@ libaio-dev
 libarchive-dev
 libassuan-dev
 libatasmart-dev
+libatomic_ops-dev
+libavtp-dev
 libblockdev-dev
 libbytesize-dev
 libc6

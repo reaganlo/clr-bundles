@@ -233,6 +233,7 @@ libXxf86vm-dev
 libXxf86vm-dev32
 libabigail
 libaio-dev
+libatomic_ops-dev
 libc6-dev
 libcap-dev
 libcap-dev32

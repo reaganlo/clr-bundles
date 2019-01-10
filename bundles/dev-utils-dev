@@ -62,6 +62,7 @@ clr-rpm-config
 cmake
 compat-fuse-soname2-dev
 coreutils
+cpio
 cppcheck
 cracklib-dev
 cryptography_vectors
@@ -160,6 +161,7 @@ libX11-dev
 libX11-dev32
 libabigail
 libaio-dev
+libatomic_ops-dev
 libc6
 libc6-dev
 libcap-dev
