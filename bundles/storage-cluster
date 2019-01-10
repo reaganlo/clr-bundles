@@ -3,17 +3,18 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
-include(python3-basic)
 
 # unfortunately, ceph is still too much legacy
 include(python2-basic)
+
+include(python3-basic)
+include(xfsprogs)
 
 LVM2-extras
 LVM2-python
 ceph
 ceph-deploy
 ceph-extras
-pip-legacypython
 glusterfs
 parted
-include(xfsprogs)
+pip-legacypython
