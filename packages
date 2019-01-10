@@ -115,6 +115,7 @@ parallel # shell tool for executing jobs in parallel using one or more computers
 patch # updates text files according to instructions contained in a separate file
 pdns # PowerDNS authoritative name server (DNSSEC enabled)
 pdns-recursor # PowerDNS recursive caching name server
+plzip # Parallel LZMA Data Compressor
 pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
 postgresql # Database
 powertop # diagnose issues with power consumption and power management

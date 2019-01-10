@@ -10,8 +10,8 @@ include(package-utils)
 include(sudo)
 
 # common requirements
-lzip
 include(make)
+plzip
 six
 include(zstd)
 
