@@ -6,7 +6,6 @@
 include(bootloader-extras)
 LVM2
 LVM2-extras
-LVM2-python
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib

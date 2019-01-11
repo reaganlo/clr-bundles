@@ -10,8 +10,8 @@ include(python2-basic)
 include(python3-basic)
 include(xfsprogs)
 
+LVM2
 LVM2-extras
-LVM2-python
 ceph
 ceph-deploy
 ceph-extras
