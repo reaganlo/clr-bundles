@@ -6,7 +6,7 @@
 include(git)
 include(openssh-server)
 include(perl-basic)
-acl
+include(acl)
 attr
 bats
 binutils

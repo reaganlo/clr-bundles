@@ -86,7 +86,7 @@ kxmlgui
 libassuan
 libkscreen
 libksysguard
-libxslt
+include(libxslt)
 milou
 oxygen
 phonon

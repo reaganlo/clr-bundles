@@ -92,7 +92,7 @@ mesa-demos
 meson
 mpfr-dev
 neofetch
-openmpi
+include(openmpi)
 openmpi-dev
 include(nasm)
 ncurses-dev

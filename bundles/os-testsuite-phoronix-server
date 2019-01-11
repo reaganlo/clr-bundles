@@ -56,7 +56,7 @@ libvorbis-dev
 lua-dev
 meson
 mpfr-dev
-openmpi
+include(openmpi)
 openmpi-dev
 include(nasm)
 ncurses-dev

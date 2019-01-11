@@ -5,7 +5,7 @@
 # [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com>
 clear-font
 gdk-pixbuf
-glmark2
+include(glmark2)
 libXcursor-lib
 shared-mime-info
 
