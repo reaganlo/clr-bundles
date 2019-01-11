@@ -586,7 +586,6 @@ lua
 lua-dev
 lxml
 lz4-dev
-lzip
 lzo-dev
 m4
 make
@@ -761,6 +760,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
+plzip
 pmdk-dev
 polkit-dev
 popt-dev
