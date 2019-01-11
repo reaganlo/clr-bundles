@@ -86,6 +86,7 @@ clear-font
 clr-rpm-config
 clutter-dev
 cmake
+cmocka-dev
 cmrt-dev
 colord-dev
 colord-gtk-dev
@@ -96,10 +97,12 @@ coreutils
 cppcheck
 cracklib-dev
 cryptsetup-dev
+ctags
 cups-dev
 curl-dev
 curl-dev32
 cyrus-sasl-dev
+datefudge
 db
 db-dev
 dbus
@@ -107,6 +110,7 @@ dbus-broker
 dbus-dev
 dbus-dev32
 dbus-glib-dev
+dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -601,6 +605,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pyudev
 qemu
 qtbase-dev
 rdma-core-dev

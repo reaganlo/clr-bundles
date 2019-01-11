@@ -162,6 +162,7 @@ curl
 curl-dev
 curl-dev32
 cyrus-sasl-dev
+datefudge
 db
 db-dev
 dbus
@@ -170,6 +171,7 @@ dbus-dev
 dbus-dev32
 dbus-glib-dev
 dbus-glib-dev32
+dbus-python
 defusedxml
 dejagnu
 desktop-file-utils
@@ -804,6 +806,7 @@ python3-core
 python3-dev
 pytz
 pytz-legacypython
+pyudev
 qemu
 qtbase-dev
 qtbase-extras

@@ -120,6 +120,7 @@ clutter-dev
 clutter-gst-dev
 clutter-gtk-dev
 cmake
+cmocka-dev
 cmrt-dev
 cogl-dev
 coinmp-dev
@@ -140,6 +141,7 @@ cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
 cssselect
+ctags
 cups
 cups-dev
 cups-filters
@@ -147,6 +149,7 @@ cups-filters-dev
 curl-dev
 curl-dev32
 cyrus-sasl-dev
+datefudge
 db
 db-dev
 dbus
@@ -156,6 +159,7 @@ dbus-dev32
 dbus-extras
 dbus-glib-dev
 dbus-glib-dev32
+dbus-python
 dconf-dev
 defusedxml
 dejagnu

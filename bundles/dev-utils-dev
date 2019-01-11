@@ -67,11 +67,13 @@ cppcheck
 cracklib-dev
 cryptography_vectors
 cryptsetup-dev
+ctags
 curl-dev
 db
 db-dev
 dbus-dev
 dbus-dev32
+dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -322,6 +324,7 @@ python3
 python3-core
 python3-dev
 pytz
+pyudev
 qtbase-dev
 qtbase-extras
 qttools-dev

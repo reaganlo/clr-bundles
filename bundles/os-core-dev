@@ -32,10 +32,13 @@ clr-rpm-config
 coreutils
 cracklib-dev
 cryptsetup-dev
+ctags
 curl-dev
+datefudge
 db-dev
 dbus-dev
 dbus-dev32
+dbus-python
 dejagnu
 diffutils
 docbook-utils
@@ -178,6 +181,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pyudev
 readline-dev
 readline-dev32
 rpm-build
