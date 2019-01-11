@@ -88,6 +88,9 @@ libkscreen
 libksysguard
 include(libxslt)
 milou
+ModemManager
+NetworkManager
+NetworkManager-openconnect
 oxygen
 phonon
 plasma-browser-integration
@@ -99,10 +102,13 @@ plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
 powerdevil
+pulseaudio
 sddm
 solid
 sonnet
 systemsettings
+udisks2
+upower
 user-manager
 xdg-desktop-portal
 xdg-desktop-portal-gtk
