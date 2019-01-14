@@ -44,13 +44,11 @@ coreutils
 cracklib-dev
 cri-containerd-dev
 cryptsetup-dev
-ctags
 curl-dev
 datefudge
 db-dev
 dbus-dev
 dbus-dev32
-dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -125,10 +123,6 @@ kmod
 kmod-dev
 kmod-dev32
 less
-libICE-dev
-libICE-dev32
-libSM-dev
-libSM-dev32
 libX11-dev
 libX11-dev32
 libabigail
@@ -224,7 +218,6 @@ python-dev
 python3
 python3-core
 python3-dev
-pyudev
 qtbase-dev
 readline-dev
 readline-dev32

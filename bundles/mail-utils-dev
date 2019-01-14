@@ -15,6 +15,7 @@ Linux-PAM-dev32
 Sphinx
 acl-dev
 acl-dev32
+asciidoc
 attr-dev
 attr-dev32
 autoconf
@@ -40,14 +41,10 @@ bzip2
 bzip2-dev
 cairo-dev
 cairo-dev32
-check
-check-dev
-check-dev32
 clr-rpm-config
 coreutils
 cracklib-dev
 cryptsetup-dev
-ctags
 curl-dev
 cyrus-sasl-dev
 datefudge
@@ -55,7 +52,6 @@ db
 db-dev
 dbus-dev
 dbus-dev32
-dbus-python
 dejagnu
 desktop-file-utils
 diffutils
@@ -147,17 +143,7 @@ krb5-dev
 libX11-dev
 libX11-dev32
 libXScrnSaver-dev
-libXau-dev
-libXau-dev32
-libXdmcp-dev
-libXdmcp-dev32
-libXext-dev
-libXext-dev32
 libXft-dev
-libXi-dev
-libXi-dev32
-libXrender-dev
-libXrender-dev32
 libabigail
 libaio-dev
 libassuan-dev
@@ -191,6 +177,7 @@ libnftnl-dev
 libnftnl-dev32
 libpng-dev
 libpng-dev32
+libpthread-stubs-dev
 libpwquality-dev
 libseccomp-dev
 libseccomp-dev32
@@ -202,8 +189,6 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 libunwind-dev
-libxcb-dev
-libxcb-dev32
 libxkbcommon-dev
 libxml2-dev
 libxml2-dev32
@@ -254,7 +239,6 @@ python-dev
 python3
 python3-core
 python3-dev
-pyudev
 qtbase-dev
 readline-dev
 readline-dev32
@@ -302,7 +286,6 @@ which
 xapian-core-dev
 xcb-proto
 xcb-proto-dev
-xcb-proto-dev32
 xmlto
 xorgproto-dev
 xorgproto-dev32
