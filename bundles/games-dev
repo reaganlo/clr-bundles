@@ -403,6 +403,8 @@ nss-lib32
 octave-dev
 openal-soft-dev
 openjdk
+openjdk9
+openjdk9-dev
 openldap-dev
 openssl
 openssl-dev
