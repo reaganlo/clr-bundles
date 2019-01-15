@@ -1,0 +1,7 @@
+# [TITLE]: os-core-update
+# [DESCRIPTION]: Provides basic suite for using http proxies
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(os-core)
+pacrunner
