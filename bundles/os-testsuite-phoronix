@@ -124,6 +124,7 @@ SuiteSparse
 SuiteSparse-dev
 sqlite-autoconf-dev
 tcl
+tiff-dev
 time
 include(unzip)
 x11perf
