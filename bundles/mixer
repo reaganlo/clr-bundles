@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Create Clear Linux releases
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Tudor Marcu <tudor.marcu@intel.com>
+# [MAINTAINER]: Rodrigo Chiossi <rodrigo.chiossi@intel.com>
 include(containers-basic)
 include(git)
 include(openssl)
