@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Utilities and Services for managing large-scale clusters of networked hosts
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Alberto Murillo <alberto.murillo.silva@intel.com>
+# [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 include(ansible)
 include(git)
 include(ipmitool)
