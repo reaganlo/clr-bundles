@@ -18,6 +18,7 @@ attr
 bats
 binutils
 expect
+glibc-bin
 perl
 perl-YAML-Tiny
 rsync
