@@ -3,22 +3,23 @@
 # [STATUS]: Active
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(git)
-include(openssh-server)
-include(perl-basic)
 include(acl)
-attr
-bats
-binutils
 include(cpio)
 include(curl)
 include(diffutils)
-expect
 include(file)
+include(git)
 include(make)
+include(openssh-server)
+include(perl-basic)
+include(sudo)
+
+attr
+bats
+binutils
+expect
 perl
 perl-YAML-Tiny
 rsync
 socat
-include(sudo)
 tpm2-simulator
