@@ -1,0 +1,15 @@
+# [TITLE]: aws-greengrass-iot
+# [DESCRIPTION]: Libraries to support building IoT applications on AWS Greengrass
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Daniel Castellanos <luis.daniel.castellanos@intel.com>
+include(python3-basic)
+include(python2-basic)
+
+awscli
+boto3
+boto3-legacypython
+numpy
+numpy-legacypython
+opencv-legacypython
+opencv-python
