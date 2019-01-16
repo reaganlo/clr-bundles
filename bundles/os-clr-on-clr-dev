@@ -538,8 +538,6 @@ libxml2-dev32
 libxml2-legacy-legacypython
 libxml2-python
 libxml2-python3
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
@@ -909,11 +907,6 @@ xapian-core-dev
 xcb-proto
 xcb-proto-dev
 xcb-util-cursor-dev
-xcb-util-dev
-xcb-util-image-dev
-xcb-util-keysyms-dev
-xcb-util-renderutil-dev
-xcb-util-wm-dev
 xdg-utils
 xfsprogs-dev
 xkeyboard-config-dev

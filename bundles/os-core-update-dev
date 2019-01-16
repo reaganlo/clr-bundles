@@ -2,7 +2,7 @@
 # [DESCRIPTION]: All packages required to build the os-core-update bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Matthew Johnson <matthew.johnson@intel.com>
+# [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(dev-utils)
 include(os-core-dev)
 include(os-core-update)

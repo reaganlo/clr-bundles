@@ -373,8 +373,6 @@ libxml2-bin
 libxml2-dev
 libxml2-dev32
 libxml2-python
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev

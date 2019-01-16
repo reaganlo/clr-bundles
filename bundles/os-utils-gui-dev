@@ -419,9 +419,6 @@ libxml2
 libxml2-dev
 libxml2-dev32
 libxml2-python
-libxshmfence
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
@@ -580,6 +577,7 @@ python3-core
 python3-dev
 qemu
 qtbase-dev
+qtbase-extras
 rdma-core-dev
 readline-dev
 readline-dev32
@@ -647,8 +645,6 @@ wayland-protocols-dev32
 which
 xcb-proto
 xcb-proto-dev
-xcb-util-dev
-xcb-util-keysyms-dev
 xcursorgen
 xdg-desktop-portal
 xdg-desktop-portal-dev

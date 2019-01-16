@@ -361,8 +361,6 @@ libxkbcommon-dev32
 libxml2-dev
 libxml2-dev32
 libxml2-python
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
@@ -493,6 +491,7 @@ python3-core
 python3-dev
 qemu
 qtbase-dev
+qtbase-extras
 readline-dev
 readline-dev32
 rest-dev

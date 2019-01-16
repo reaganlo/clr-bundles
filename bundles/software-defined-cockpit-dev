@@ -337,8 +337,6 @@ libxkbcommon-dev
 libxkbcommon-dev32
 libxml2-dev
 libxml2-dev32
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers
@@ -481,6 +479,7 @@ v4l-utils-dev
 vala-dev
 valgrind
 valgrind-dev
+wavpack-dev
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
@@ -489,11 +488,6 @@ which
 xcb-proto
 xcb-proto-dev
 xcb-util-cursor-dev
-xcb-util-dev
-xcb-util-image-dev
-xcb-util-keysyms-dev
-xcb-util-renderutil-dev
-xcb-util-wm-dev
 xdg-utils
 xkeyboard-config-dev
 xmlto

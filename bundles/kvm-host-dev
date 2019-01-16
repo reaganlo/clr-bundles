@@ -293,8 +293,6 @@ libxkbcommon-dev
 libxkbcommon-dev32
 libxml2-dev
 libxml2-dev32
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 linux-libc-headers

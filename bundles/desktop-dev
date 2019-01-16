@@ -544,8 +544,6 @@ libxml2
 libxml2-dev
 libxml2-dev32
 libxml2-python
-libxshmfence-dev
-libxshmfence-dev32
 libxslt
 libxslt-bin
 libxslt-dev
@@ -865,6 +863,7 @@ valgrind-dev
 virtualenv
 volume_key-dev
 vte-dev
+wavpack-dev
 wayland-dev
 wayland-dev32
 wayland-protocols-dev
@@ -875,11 +874,6 @@ woff2-dev
 xcb-proto
 xcb-proto-dev
 xcb-util-cursor-dev
-xcb-util-dev
-xcb-util-image-dev
-xcb-util-keysyms-dev
-xcb-util-renderutil-dev
-xcb-util-wm-dev
 xcursorgen
 xdg-desktop-portal
 xdg-desktop-portal-dev
