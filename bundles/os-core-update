@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
+include(os-core-webproxy)
 btrfs-progs
 bzip2
 clr-boot-manager-autostart
