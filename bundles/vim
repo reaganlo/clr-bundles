@@ -8,4 +8,5 @@ include(python3-basic)
 include(perl-basic)
 ctags
 vim
+vim-fugitive
 vim-go
