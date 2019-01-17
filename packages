@@ -121,6 +121,7 @@ postgresql # Database
 powertop # diagnose issues with power consumption and power management
 pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
 quagga # zebra and related routing tools
+rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
 redis-native # key-value database
 smartmontools # hard disk diagnostic utilities
 squid # HTTP caching proxy
