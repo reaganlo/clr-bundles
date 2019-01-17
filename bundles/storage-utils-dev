@@ -192,6 +192,7 @@ libxslt-bin
 libxslt-dev
 linux-libc-headers
 llvm
+lmdb-dev
 lz4-dev
 lzo-dev
 m4
@@ -272,7 +273,6 @@ tar
 tcl
 tcl-dev
 tdb-dev
-tdb-legacypython
 texinfo
 thin-provisioning-tools
 tk-dev

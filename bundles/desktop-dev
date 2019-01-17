@@ -74,8 +74,6 @@ backports.ssl_match_hostname
 bash-completion-dev
 bats
 bdftopcf
-beautifulsoup4
-beignet-dev
 binutils
 binutils-dev
 bison
@@ -104,7 +102,6 @@ cairo-dev32
 cairomm-dev
 cargo
 caribou-dev
-ccache
 certifi
 cffi
 cffi-legacypython
@@ -123,7 +120,6 @@ cmake
 cmocka-dev
 cmrt-dev
 cogl-dev
-coinmp-dev
 colord
 colord-dev
 colord-gtk-dev
@@ -177,7 +173,6 @@ e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
-eigen-dev
 elfutils
 elfutils-dev
 elfutils-dev32
@@ -228,7 +223,6 @@ gcc-libgcc32
 gcc-libstdc++32
 gcr-data
 gcr-dev
-gdal-dev
 gdb
 gdb-dev
 gdbm-dev
@@ -529,7 +523,6 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
-libva-intel-driver
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -552,6 +545,7 @@ linux-firmware-wifi
 linux-libc-headers
 llvm
 llvm-dev
+lmdb-dev
 lua-dev
 lxml
 lz4-dev
@@ -613,19 +607,15 @@ nss-lib32
 ntfs-3g-dev
 ntlm-auth
 numpy
-numpy-legacypython
-ocl-icd-dev
 octave-dev
 onig-dev
 openal-soft-dev
 openal-soft-dev32
-openblas
 openconnect-dev
 opencv-dev
 openexr-dev
 openjade-dev
 openjdk
-openjdk-dev
 openjdk9
 openjdk9-dev
 openldap-dev
@@ -821,11 +811,9 @@ systemd-lib
 taglib-dev
 talloc-dev
 tar
-tbb-dev
 tcl
 tcl-dev
 tdb-dev
-tdb-legacypython
 telepathy-glib-dev
 telepathy-logger-dev
 testrepository

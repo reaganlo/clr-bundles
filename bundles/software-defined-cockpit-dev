@@ -47,8 +47,6 @@ automake
 automake-dev
 bash-completion-dev
 bats
-beautifulsoup4
-beignet-dev
 binutils
 binutils-dev
 bison
@@ -71,7 +69,6 @@ ca-certs
 cairo-dev
 cairo-dev32
 cargo
-ccache
 check-dev
 check-dev32
 clear-font
@@ -79,7 +76,6 @@ clr-rpm-config
 clutter-dev
 cmake
 cmocka-dev
-coinmp-dev
 colord-dev
 compat-fuse-soname2-dev
 compat-intel-gmmlib-soname1-dev
@@ -112,7 +108,6 @@ e2fsprogs-data
 e2fsprogs-dev
 e2fsprogs-dev32
 e2fsprogs-extras
-eigen-dev
 elfutils-dev
 elfutils-dev32
 expat-dev
@@ -141,7 +136,6 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gdal-dev
 gdb
 gdb-dev
 gdbm-dev
@@ -270,7 +264,6 @@ libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
-libgphoto2-dev
 libgudev-dev
 libgusb-dev
 libidn-dev
@@ -328,7 +321,6 @@ libunistring-dev32
 libunwind-dev
 libusb-dev
 libva-dev
-libva-intel-driver
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -370,18 +362,13 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nss-altfiles
-numpy
-numpy-legacypython
-ocl-icd-dev
 octave-dev
 openal-soft-dev
 openal-soft-dev32
-openblas
 opencv-dev
 openexr-dev
 openjade-dev
 openjdk
-openjdk-dev
 openjdk9
 openjdk9-dev
 openldap-dev
@@ -475,7 +462,6 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
-v4l-utils-dev
 vala-dev
 valgrind
 valgrind-dev
