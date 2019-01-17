@@ -9,4 +9,5 @@ include(perl-basic)
 ctags
 vim
 vim-fugitive
+vim-gnupg
 vim-go
