@@ -16,7 +16,7 @@ include(rust-basic)
 acl-dev
 attr-dev
 autoconf
-autoconf-dev
+autoconf-data
 include(bc)
 bison
 bndl-lamp-basic

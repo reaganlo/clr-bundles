@@ -29,7 +29,7 @@ SDL_ttf-dev
 acl-dev
 attr-dev
 autoconf
-autoconf-dev
+autoconf-data
 include(bc)
 beignet
 beignet-dev
