@@ -2,7 +2,7 @@
 # [DESCRIPTION]: The ansible tool for host management
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
+# [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(ipmitool)
 include(python3-basic)
 ansible
