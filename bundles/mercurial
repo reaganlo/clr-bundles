@@ -3,5 +3,6 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
+include(python2-basic)
 include(python3-basic)
 mercurial
