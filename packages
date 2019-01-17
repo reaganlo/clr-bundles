@@ -147,6 +147,7 @@ which # locate executables in the system
 wpa_supplicant # backend component controlling the wireless connections
 xemacs # text editor and application development system
 xfsprogs # XFS tools
+xterm # The basic X.Org terminal program desktop launcher
 xz # data compression/decompression tool
 yasm # assembler
 zip # create ZIP archives
