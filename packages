@@ -100,6 +100,7 @@ mpg123 # play and decode mp3 files
 mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
 mtr # Poll a remote server and see how the latency and performance changes over time
 musl # musl compiler toolchain
+mutt # The mutt mail client
 nasm # assembler
 ncdu # curses disk space usage management tool
 nfs-utils # Server and client tooling for network file systems (NFS)
