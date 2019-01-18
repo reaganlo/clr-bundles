@@ -136,6 +136,7 @@ texlive # major TeX-related typesetting programs, macro packages, and fonts.
 thunderbird # Email client
 tmux # terminal multiplexer (similar to screen)
 tzdata # timezone database
+unbundle # Recursively resolves a package list from a bundle definition
 unison # bidirectional file synchronization tool
 unzip # list, test, or extract files from a ZIP archive
 valgrind # suite of tools for debugging and profiling software code
