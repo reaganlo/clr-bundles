@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(c-basic)
 include(linux-dev)
 clr-ignore-mod-sig
 dkms
