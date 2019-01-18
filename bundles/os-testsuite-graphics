@@ -7,5 +7,6 @@ clear-font
 gdk-pixbuf
 include(glmark2)
 libXcursor-lib
+piglit
 shared-mime-info
 
