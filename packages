@@ -29,6 +29,7 @@ cloc # Count lines of code for many programming languages
 cockpit # Web based administration for GNU/Linux servers
 cpio # File archiver utility
 curl # Transfer data to/from a URL
+cve-bin-tool # CVE scanning tool
 darktable # Photography workflow application
 dfu-util # Device Firmware Upgrade Utilities
 diffoscope # In-depth comparison of files, archives, and directories
