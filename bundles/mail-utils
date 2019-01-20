@@ -6,6 +6,6 @@
 include(python2-basic)
 imapfilter
 msmtp
-mutt
+include(mutt)
 notmuch
 offlineimap
