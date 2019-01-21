@@ -115,6 +115,7 @@ perl
 perl-Digest-MD5
 phoronix-test-suite
 php
+pkg-config-dev
 popt-dev
 pth-dev
 python3-dev
