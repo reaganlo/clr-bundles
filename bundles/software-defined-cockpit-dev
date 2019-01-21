@@ -79,6 +79,7 @@ cmocka-dev
 colord-dev
 compat-fuse-soname2-dev
 compat-intel-gmmlib-soname1-dev
+compat-python36-core
 coreutils
 cppcheck
 cracklib-dev

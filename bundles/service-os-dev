@@ -50,6 +50,7 @@ cffi
 cffi-legacypython
 check-dev
 clr-rpm-config
+compat-python36-core
 coreutils
 cracklib-dev
 cryptography_vectors

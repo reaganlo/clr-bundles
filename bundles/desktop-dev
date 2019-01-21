@@ -128,6 +128,7 @@ compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
 compat-intel-gmmlib-soname1-dev
+compat-python36-core
 coreutils
 coverage
 cppcheck
@@ -515,7 +516,6 @@ libtasn1-dev32
 libthai-dev
 libthai-dev32
 libtheora-dev
-libtirpc-dev
 libtool
 libtool-dev
 libtool-dev32
@@ -811,20 +811,16 @@ systemd-extras
 systemd-lib
 taglib-dev
 talloc-dev
-talloc-python3
 tar
 tcl
 tcl-dev
 tdb-dev
-tdb-python3
 telepathy-glib-dev
 telepathy-logger-dev
 testrepository
 testresources
 testscenarios
 testtools
-tevent-dev
-tevent-python3
 texinfo
 thin-provisioning-tools
 tiff-dev

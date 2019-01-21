@@ -90,6 +90,7 @@ colord-dev
 compat-curl-gnutls-soname4-dev
 compat-libpng-soname12-dev
 compat-libva-soname1-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

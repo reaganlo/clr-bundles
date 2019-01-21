@@ -38,6 +38,7 @@ bzip2-dev
 ca-certs
 clr-rpm-config
 cmocka-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

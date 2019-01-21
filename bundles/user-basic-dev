@@ -105,6 +105,7 @@ cmake
 colord-dev
 compat-enchant-soname1-dev
 compat-fuse-soname2-dev
+compat-python36-core
 coreutils
 cpio
 cppcheck

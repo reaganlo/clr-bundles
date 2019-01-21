@@ -42,8 +42,8 @@ check-dev
 check-dev32
 cifs-utils-dev
 clr-rpm-config
-cmocka-dev
 compat-fuse-soname2-dev
+compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -51,7 +51,6 @@ cups-dev
 curl-dev
 cyrus-sasl-dev
 datefudge
-db
 db-dev
 dbus-dev
 dbus-dev32
@@ -271,14 +270,10 @@ systemd-dev32
 systemd-extras
 systemd-lib
 talloc-dev
-talloc-python3
 tar
 tcl
 tcl-dev
 tdb-dev
-tdb-python3
-tevent-dev
-tevent-python3
 texinfo
 thin-provisioning-tools
 tk-dev
