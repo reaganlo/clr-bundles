@@ -50,7 +50,6 @@ cffi
 cffi-legacypython
 check-dev
 clr-rpm-config
-compat-python36-core
 coreutils
 cracklib-dev
 cryptography_vectors
@@ -203,7 +202,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pesign
 pigz

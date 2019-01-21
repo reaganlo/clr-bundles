@@ -70,7 +70,6 @@ clr-rpm-config
 clutter-dev
 cmake
 colord-dev
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

@@ -30,7 +30,6 @@ buildreq-distutils3
 buildreq-meson
 bzip2
 clr-rpm-config
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

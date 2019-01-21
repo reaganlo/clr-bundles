@@ -36,7 +36,6 @@ bzip2
 bzip2-dev
 ca-certs
 clr-rpm-config
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

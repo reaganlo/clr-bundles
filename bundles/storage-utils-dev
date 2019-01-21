@@ -43,7 +43,6 @@ check-dev32
 cifs-utils-dev
 clr-rpm-config
 compat-fuse-soname2-dev
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

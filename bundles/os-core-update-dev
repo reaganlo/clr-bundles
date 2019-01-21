@@ -39,7 +39,6 @@ bzip2-dev
 ca-certs
 check-dev
 clr-rpm-config
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -193,7 +192,6 @@ pacrunner-dev
 patch
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pkg-config

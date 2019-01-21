@@ -74,7 +74,6 @@ clr-rpm-config
 cmake
 colord-dev
 compat-fuse-soname2-dev
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev

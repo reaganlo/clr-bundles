@@ -128,7 +128,6 @@ compat-fuse-soname2-dev
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
 compat-intel-gmmlib-soname1-dev
-compat-python36-core
 coreutils
 coverage
 cppcheck

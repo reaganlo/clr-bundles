@@ -42,7 +42,6 @@ bzip2-dev
 cairo-dev
 cairo-dev32
 clr-rpm-config
-compat-python36-core
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -224,7 +223,6 @@ patch
 pbr
 pcre-dev
 pcre-dev32
-perl
 perl-XML-Parser
 pigz
 pip
