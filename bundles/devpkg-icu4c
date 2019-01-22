@@ -7,5 +7,3 @@
 include(devpkg-base)
 
 icu4c-dev
-
-

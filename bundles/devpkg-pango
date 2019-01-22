@@ -13,5 +13,3 @@ include(devpkg-glib)
 include(devpkg-harfbuzz)
 
 pango-dev
-
-

@@ -7,5 +7,3 @@
 include(devpkg-base)
 
 libpthread-stubs-dev
-
-

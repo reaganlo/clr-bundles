@@ -6,13 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-libX11)
-include(devpkg-libXdamage)
-include(devpkg-libXext)
-include(devpkg-libXfixes)
-include(devpkg-libXxf86vm)
 include(devpkg-libdrm)
-include(devpkg-libxcb)
 
 mesa-dev
-
-

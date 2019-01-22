@@ -6,7 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-pcre)
+include(devpkg-util-linux)
 
 glib-dev
-
-

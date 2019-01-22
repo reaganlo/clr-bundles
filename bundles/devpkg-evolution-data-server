@@ -16,5 +16,3 @@ include(devpkg-nss)
 include(devpkg-sqlite-autoconf)
 
 evolution-data-server-dev
-
-

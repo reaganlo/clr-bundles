@@ -10,5 +10,3 @@ include(devpkg-gtk3)
 include(devpkg-libsoup)
 
 webkitgtk-dev
-
-

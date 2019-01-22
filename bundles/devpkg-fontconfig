@@ -10,5 +10,3 @@ include(devpkg-freetype)
 include(devpkg-util-linux)
 
 fontconfig-dev
-
-

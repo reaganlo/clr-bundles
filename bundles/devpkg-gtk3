@@ -12,13 +12,6 @@ include(devpkg-fontconfig)
 include(devpkg-gdk-pixbuf)
 include(devpkg-glib)
 include(devpkg-libX11)
-include(devpkg-libXcomposite)
-include(devpkg-libXdamage)
-include(devpkg-libXext)
-include(devpkg-libXfixes)
-include(devpkg-libXi)
-include(devpkg-libXinerama)
-include(devpkg-libXrandr)
 include(devpkg-libepoxy)
 include(devpkg-libxkbcommon)
 include(devpkg-pango)
@@ -26,5 +19,3 @@ include(devpkg-wayland)
 include(devpkg-wayland-protocols)
 
 gtk3-dev
-
-
