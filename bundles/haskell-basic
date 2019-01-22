@@ -18,4 +18,4 @@ ncurses-lib
 perl
 stack
 include(xz)
-zlib-dev
+include(devpkg-zlib)

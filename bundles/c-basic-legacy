@@ -39,5 +39,5 @@ linux-libc-headers
 m4
 include(make)
 pkg-config
-zlib-dev
+include(devpkg-zlib)
 # scons intentionally left out for now
