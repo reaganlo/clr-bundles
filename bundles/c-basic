@@ -46,5 +46,5 @@ include(make)
 include(nasm)
 nasm-bin
 pkg-config
-include(devpkg-zlib)
+zlib-dev
 # scons intentionally left out for now
