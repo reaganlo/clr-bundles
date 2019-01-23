@@ -39,6 +39,7 @@ include(devpkg-fribidi)
 include(devpkg-gdk-pixbuf)
 include(global)
 include(devpkg-gtk3)
+GitPython
 gtk+-dev
 libabigail
 libarchive
