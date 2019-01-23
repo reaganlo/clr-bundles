@@ -49,7 +49,7 @@ kde-cli-tools
 kdecoration
 kde-gtk-config
 kdeplasma-addons
-kdiff3
+include(kdiff3)
 kdoctools
 kfilemetadata
 kgamma5

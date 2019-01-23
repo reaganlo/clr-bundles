@@ -27,6 +27,6 @@ xrestop
 xscreensaver
 xset
 xsetroot
-xterm
+include(xterm)
 xwd
 xwininfo
