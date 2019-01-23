@@ -126,6 +126,7 @@ pwgen # generates passwords which are designed to be easily memorized by humans,
 quagga # zebra and related routing tools
 rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
 redis-native # key-value database
+scons # python build system
 smartmontools # hard disk diagnostic utilities
 squid # HTTP caching proxy
 strace # System call diagnostic, instructional, and debugging tool
