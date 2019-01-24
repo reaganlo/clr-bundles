@@ -1,5 +1,5 @@
-pkgconfig(ompi)	devpkg-openmpi
-pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
+pkgconfig(evolution-mail-3.0)	devpkg-evolution
+pkgconfig(evolution-shell-3.0)	devpkg-evolution
 pkgconfig(gtk+-3.0)	devpkg-gtk3
 pkgconfig(gdk-3.0)	devpkg-gtk3
 pkgconfig(pango)	devpkg-pango
@@ -70,9 +70,6 @@ pkgconfig(atk)	devpkg-atk
 pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-atk
 pkgconfig(atspi-2)	devpkg-at-spi2-core
 pkgconfig(dbus-1)	devpkg-dbus
-pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
-pkgconfig(evolution-mail-3.0)	devpkg-evolution
-pkgconfig(evolution-shell-3.0)	devpkg-evolution
 pkgconfig(libebackend-1.2)	devpkg-evolution-data-server
 pkgconfig(libedataserver-1.2)	devpkg-evolution-data-server
 pkgconfig(gmodule-2.0)	devpkg-glib
@@ -90,7 +87,12 @@ pkgconfig(icu-i18n)	devpkg-icu4c
 pkgconfig(icu-uc)	devpkg-icu4c
 pkgconfig(webkit2gtk-4.0)	devpkg-webkitgtk
 pkgconfig(javascriptcoregtk-4.0)	devpkg-webkitgtk
+pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
+pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
 pkgconfig(libemail-engine)	devpkg-evolution
+pkgconfig(fuse3)	devpkg-fuse
+pkgconfig(ompi)	devpkg-openmpi
+pkgconfig(opencv)	devpkg-opencv
 pkgconfig(openssl)	devpkg-openssl
 pkgconfig(libssl)	devpkg-openssl
 pkgconfig(libcrypto)	devpkg-openssl
