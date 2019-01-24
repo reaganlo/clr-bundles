@@ -9,5 +9,6 @@ include(tcl-basic)
 include(qt-basic)
 
 git-gui
+gitg
 tk
 qgit
