@@ -84,7 +84,7 @@ popt-dev
 pth-dev
 python3-dev
 include(redis-native)
-scons
+include(scons)
 snappy-dev
 SuiteSparse
 SuiteSparse-dev

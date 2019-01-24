@@ -76,7 +76,7 @@ requests-ntlm
 rpm
 rpm-common
 sbsigntools
-scons
+include(scons)
 six
 telemetrics-client-dev
 urlgrabber
