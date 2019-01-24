@@ -6,6 +6,8 @@
 include(dev-utils)
 include(libX11client)
 include(tcl-basic)
+include(qt-basic)
 
 git-gui
 tk
+qgit
