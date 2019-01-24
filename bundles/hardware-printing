@@ -1,0 +1,9 @@
+# [TITLE]: hardware-printing
+# [DESCRIPTION]: Firmware and tools for printer support
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+cups
+cups-filters
+hplip
