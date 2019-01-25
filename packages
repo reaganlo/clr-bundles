@@ -83,6 +83,7 @@ keepassxc # KeePassXC is a password manager
 kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
 keychain # manage SSH and GPG keys
 less # the less page
+libarchive # various archiving tools
 lftp # File transfer client for http, ftp, sftp and more
 libnl # Low level firewall tools
 libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
