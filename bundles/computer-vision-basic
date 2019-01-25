@@ -29,7 +29,7 @@ mkl-dnn-dev
 numpy
 numpy-legacypython
 openblas
-opencv-dev
+include(devpkg-opencv)
 opencv-legacypython
 opencv-python
 pandas
