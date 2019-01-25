@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(desktop-kde-libs)
-include(desktop-kde-apps)
 include(qt-basic)
 
 #
