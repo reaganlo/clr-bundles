@@ -77,7 +77,6 @@ irssi # Internet Relay Chat (IRC) client program
 joe # Text editor
 jq # lightweight and flexible command-line JSON processor
 kbd # library to manage the Linux keymaps
-kdiff3 # Feature-Rich Code Comparison Utility
 keepalived # strong & robust keepalive facility for the Linux Virtual Server project
 keepassxc # KeePassXC is a password manager
 kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
