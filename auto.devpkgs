@@ -2,10 +2,13 @@ evolution-mail-3.0
 fuse3
 gnome-desktop-3.0
 libcurl
+liblzma
+libxslt
+ncurses
 ompi
 opencv
 openssl
 Qt5Core
-libxslt
+systemd
 xcb
 xcb-proto
