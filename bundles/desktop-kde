@@ -28,6 +28,8 @@ breeze-gtk
 breeze-icons
 discover
 drkonqi
+dolphin
+dolphin-plugins
 exiv2
 include(gpgme)
 kactivitymanagerd
@@ -69,6 +71,7 @@ knotifyconfig
 kpackage
 kparts
 kpty
+konsole
 kscreen
 kscreenlocker
 kservice
