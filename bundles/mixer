@@ -15,6 +15,7 @@ include(zstd)
 # TODO: move this config to the mixer package instead
 bsdiff
 bundle-chroot-builder
+clr-user-bundles-extras
 createrepo_c
 dnf
 hardlink
