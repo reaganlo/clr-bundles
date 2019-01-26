@@ -82,6 +82,7 @@ ModemManager
 NetworkManager
 network-manager-applet
 NetworkManager-openconnect
+NetworkManager-vpnc
 dconf
 #groupcheck
 PackageKit
