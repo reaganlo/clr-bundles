@@ -6,6 +6,7 @@
 include(python3-basic)
 
 awscli
+amazon-efs-utils
 boto
 boto3
 botocore
