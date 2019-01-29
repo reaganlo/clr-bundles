@@ -6,6 +6,7 @@
 perl
 perl-doc
 perl-Config-General
+perl-Config-Tiny
 perl-Crypt-SSLeay
 perl-DBI
 perl-DateTime-TimeZone
