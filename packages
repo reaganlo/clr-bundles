@@ -129,7 +129,7 @@ redis-native # key-value database
 scons # python build system
 smartmontools # hard disk diagnostic utilities
 squid # HTTP caching proxy
-#stellarium  # Software for astronomers
+stellarium  # Software for astronomers
 strace # System call diagnostic, instructional, and debugging tool
 subversion # Version Control System
 sudo # allows a user to run a program as another user
