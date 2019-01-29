@@ -8,6 +8,7 @@ include(p11-kit)
 include(perl-basic)
 minetest
 minetest_game
+scummvm
 
 # 32 bit client support for 32 bit games
 
