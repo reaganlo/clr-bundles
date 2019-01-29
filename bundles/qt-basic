@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(fonts-basic)
 include(libX11client)
 
 qt3d

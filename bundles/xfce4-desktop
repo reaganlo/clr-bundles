@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+include(fonts-basic)
 include(libX11client)
 include(which)
 Thunar

@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(cryptography)
+include(fonts-basic)
 include(openssl)
 include(perl-basic)
 include(python3-basic)

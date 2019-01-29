@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
+include(fonts-basic)
 
 # Shared styling assets (intended for all supported styles)
 clr-wallpapers
