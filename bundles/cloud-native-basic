@@ -14,6 +14,7 @@ cri-o
 cri-tools
 ebtables
 firecracker
+ksonnet
 kubernetes
 runc
 socat
