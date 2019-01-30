@@ -8,6 +8,7 @@ include(libX11client)
 include(tcl-basic)
 include(qt-basic)
 
+ddd
 git-gui
 gitg
 tk
