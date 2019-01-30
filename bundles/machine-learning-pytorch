@@ -1,0 +1,8 @@
+# [TITLE]: machine-learning-pytorch
+# [DESCRIPTION]: Build machine learning applications with mycroft
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(python3-basic)
+
+pytorch
