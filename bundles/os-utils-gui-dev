@@ -53,6 +53,7 @@ automake-dev
 bash-completion-dev
 bats
 include(bc)
+bdftopcf
 beignet-dev
 binutils
 binutils-dev
@@ -149,6 +150,8 @@ font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
+fontforge
+include(fonttools)
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32

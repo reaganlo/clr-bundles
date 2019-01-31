@@ -41,6 +41,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
+bdftopcf
 binutils
 binutils-dev
 bison
@@ -108,9 +109,13 @@ flac-dev32
 flex
 flex-dev
 font-bitstream-type1
+font-util-dev
+font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
+fontforge
+include(fonttools)
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -225,6 +230,7 @@ libevdev-dev
 libevdev-dev32
 libffi-dev
 libffi-dev32
+libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -301,6 +307,8 @@ mariadb-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mkfontdir-bin
+mkfontscale-bin
 mpc-dev
 mpfr-dev
 mtdev-dev
