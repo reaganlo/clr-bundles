@@ -137,6 +137,7 @@ suricata # network threat detection engine
 sysstat # utilities for monitoring system performance and usage activity
 texinfo # unix style documentation tooling
 texlive # major TeX-related typesetting programs, macro packages, and fonts.
+thermal_daemon # thermal management
 thunderbird # Email client
 tmux # terminal multiplexer (similar to screen)
 tzdata # timezone database
