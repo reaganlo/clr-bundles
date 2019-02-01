@@ -13,6 +13,7 @@ include(cloud-api)
 glibc-bin
 
 #
+PyYAML
 boto
 certifi
 cxxfilt
