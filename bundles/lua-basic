@@ -4,5 +4,6 @@
 # [CAPABILITIES]: Lua, LuaJIT, and Luarocks
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 lua
+lua52
 LuaJIT
 luarocks
