@@ -1,0 +1,32 @@
+# [TITLE]: python-testing
+# [DESCRIPTION]: Improve user experience with a common set of prebuilt python libraries for testing
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
+
+include(python3-basic)
+
+include(cloud-api)
+
+#
+# For the test suites
+#
+glibc-bin
+
+#
+py
+python-mock
+pygments_pytest
+pytest
+pytest-asyncio
+pytest-cov
+pytest-forked
+pytest-localserver
+pytest-randomly
+pytest-repeat
+pytest-rerunfailures
+pytest-runner
+pytest-sugar
+pytest-timeout
+pytest-twisted
+pytest-xdist
