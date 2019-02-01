@@ -1,0 +1,10 @@
+# [TITLE]: ocaml-basic
+# [DESCRIPTION]: Build and run ocaml language programs
+# [STATUS]: Active
+# [CAPABILITIES]: Build and run ocaml language programs
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+# perl for autoconf and friends
+
+ocaml
+ocamlbuild
