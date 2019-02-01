@@ -112,6 +112,7 @@ check-dev32
 include(devpkg-cheese)
 chrpath
 clear-font
+clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 include(devpkg-clutter-gst)

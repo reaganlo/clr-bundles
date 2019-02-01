@@ -44,6 +44,7 @@ bzip2-dev
 check
 check-dev
 check-dev32
+clr-hardware-files
 clr-rpm-config
 cmake
 coreutils
@@ -300,7 +301,6 @@ include(texinfo)
 thin-provisioning-tools
 include(tzdata)
 include(unzip)
-usbutils-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

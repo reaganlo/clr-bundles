@@ -12,7 +12,7 @@ linux-iot-lts2018-sos
 mcelog
 
 # Thermal control
-thermal_daemon
+include(thermal_daemon)
 
 # User Software
 acrn-hypervisor

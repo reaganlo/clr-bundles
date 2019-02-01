@@ -155,4 +155,4 @@ yelp
 cups
 ModemManager
 ntfs-3g
-thermal_daemon
+include(thermal_daemon)

@@ -93,6 +93,7 @@ check
 check-dev
 check-dev32
 clear-font
+clr-hardware-files
 clr-rpm-config
 cmake
 colord-dev

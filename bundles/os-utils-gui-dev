@@ -633,7 +633,6 @@ tk-dev
 include(tzdata)
 include(unzip)
 usbredir-dev
-usbutils-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
