@@ -19,6 +19,8 @@ alsa-utils # alsa management tools
 audit # system audit tools
 axel # Download accelerator
 bc # basic calculator, an arbitrary-precision calculator language
+binutils # various development tools to manage binary executable code
+bison # bison development tool
 bmap-tools # Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
 borgbackup # Deduplicating archiver with compression and authenticated encryption.
 cabextract # Manipulate CAB archives
@@ -47,6 +49,7 @@ findutils # basic directory searching utilities e.g. find, xargs, and locate
 fio # Flexible I/O tester
 firefox # Web Browser
 flac # FLAC audio format tools
+flex # flex development tool
 fonttools # tools to manipulate system and user fonts
 fossil # Fossil is a simple, high-reliability, distributed software configuration management system
 fuse # fuse filesystem support
