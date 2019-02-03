@@ -6,7 +6,9 @@ desktop
 dev-utils
 editors
 games
+gl
 go-basic
+harfbuzz
 kvm-host
 mail-utils
 network-basic
