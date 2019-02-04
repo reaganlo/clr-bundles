@@ -20,6 +20,7 @@ kdeclarative-lib
 kdoctools-lib
 kglobalaccel-lib
 kguiaddons-lib
+kirigami2-lib
 kpackage-lib
 libassuan-lib
 libxslt-lib
