@@ -111,6 +111,7 @@ sddm
 sddm-autostart
 solid
 sonnet
+systemd-extras
 systemsettings
 udisks2
 upower
