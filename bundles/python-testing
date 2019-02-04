@@ -3,10 +3,8 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-
-include(python3-basic)
-
 include(cloud-api)
+include(python3-basic)
 
 #
 # For the test suites
@@ -15,8 +13,6 @@ glibc-bin
 
 #
 py
-python-mock
-pygments_pytest
 pytest
 pytest-asyncio
 pytest-cov
@@ -28,5 +24,5 @@ pytest-rerunfailures
 pytest-runner
 pytest-sugar
 pytest-timeout
-pytest-twisted
 pytest-xdist
+python-mock
