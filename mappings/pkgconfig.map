@@ -103,4 +103,3 @@ pkgconfig(libcrypto)	devpkg-openssl
 pkgconfig(Qt5Core)	devpkg-qtbase
 pkgconfig(systemd)	devpkg-systemd
 pkgconfig(xcb-proto)	devpkg-xcb-proto
-pkgconfig(glm)	devpkg-glm
