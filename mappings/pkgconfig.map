@@ -91,8 +91,16 @@ pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
 pkgconfig(libemail-engine)	devpkg-evolution
 pkgconfig(fuse3)	devpkg-fuse
+pkgconfig(libcurl)	devpkg-curl
+pkgconfig(liblzma)	devpkg-xz
+pkgconfig(libxslt)	devpkg-libxslt
+pkgconfig(ncurses)	devpkg-ncurses
 pkgconfig(ompi)	devpkg-openmpi
 pkgconfig(opencv)	devpkg-opencv
 pkgconfig(openssl)	devpkg-openssl
 pkgconfig(libssl)	devpkg-openssl
 pkgconfig(libcrypto)	devpkg-openssl
+pkgconfig(Qt5Core)	devpkg-qtbase
+pkgconfig(systemd)	devpkg-systemd
+pkgconfig(xcb-proto)	devpkg-xcb-proto
+pkgconfig(glm)	devpkg-glm
