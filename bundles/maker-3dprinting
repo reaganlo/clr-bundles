@@ -7,5 +7,8 @@
 include(python3-basic)
 include(qt-basic)
 
+# Modeling tools
+openscad
+
 # Slicers
 Cura
