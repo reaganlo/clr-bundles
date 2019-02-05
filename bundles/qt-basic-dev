@@ -42,9 +42,9 @@ automake-dev
 bash-completion-dev
 bats
 bdftopcf
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 bluez-dev
 boost-dev
@@ -75,7 +75,7 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 cups-dev
-curl-dev
+include(devpkg-curl)
 curl-dev32
 cyrus-sasl-dev
 datefudge
@@ -106,7 +106,7 @@ fftw-dev
 file-dev
 flac-dev
 flac-dev32
-flex
+include(flex)
 flex-dev
 font-bitstream-type1
 font-util-dev
@@ -315,7 +315,7 @@ mtdev-dev
 mtdev-dev32
 include(nasm)
 nasm-bin
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 net-tools
 netbase
@@ -422,7 +422,7 @@ sqlite-autoconf-dev32
 include(strace)
 include(subversion)
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
@@ -451,7 +451,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(which)
 xcb-proto
-xcb-proto-dev
+include(devpkg-xcb-proto)
 xdg-utils
 xkeyboard-config-dev
 xmlto

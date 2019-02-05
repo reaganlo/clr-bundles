@@ -46,9 +46,9 @@ babeltrace-dev
 bash-completion-dev
 bats
 beignet-dev
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 boost-dev
 bridge-utils
@@ -78,7 +78,7 @@ coreutils
 cracklib-dev
 cryptsetup-dev
 cups-dev
-curl-dev
+include(devpkg-curl)
 curl-dev32
 cyrus-sasl-dev
 datefudge
@@ -109,7 +109,7 @@ expat-dev32
 expect
 fcgi-dev
 file-dev
-flex
+include(flex)
 flex-dev
 font-bitstream-type1
 fontconfig-data
@@ -313,7 +313,7 @@ mpfr-dev
 mtdev-dev
 mtdev-dev32
 include(nasm)
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 net-tools
 netbase
@@ -404,7 +404,7 @@ include(strace)
 include(subversion)
 systemd
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
@@ -436,7 +436,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(which)
 xcb-proto
-xcb-proto-dev
+include(devpkg-xcb-proto)
 xdg-utils
 xfsprogs-dev
 xkeyboard-config-dev

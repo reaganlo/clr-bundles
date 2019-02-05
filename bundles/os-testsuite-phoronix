@@ -41,7 +41,7 @@ autoconf-data
 include(bc)
 beignet
 beignet-dev
-bison
+include(bison)
 bndl-lamp-basic
 boost-dev
 bzip2-dev
@@ -49,14 +49,14 @@ bzip2-dev
 include(devpkg-cairo)
 clinfo
 cmake
-curl-dev
-curl-dev
+include(devpkg-curl)
+include(devpkg-curl)
 dialog
 dmidecode
 fftw-dev
 include(fio)
 flac-dev
-flex
+include(flex)
 freeglut-dev
 gflags-dev
 include(gimp)
@@ -96,7 +96,7 @@ neofetch
 include(openmpi)
 include(devpkg-openmpi)
 include(nasm)
-ncurses-dev
+include(devpkg-ncurses)
 ninja
 numactl
 numactl-dev

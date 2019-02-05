@@ -16,7 +16,7 @@ include(sudo)
 
 attr
 bats
-binutils
+include(binutils)
 expect
 glibc-bin
 perl

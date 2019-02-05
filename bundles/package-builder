@@ -17,7 +17,7 @@ include(zstd)
 
 # autospec requirements
 abireport
-binutils
+include(binutils)
 chardet
 gnupg
 pycurl

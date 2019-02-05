@@ -21,8 +21,8 @@ automake
 automake-dev
 bash-completion-dev
 bats
-binutils
-bison
+include(binutils)
+include(bison)
 bison-dev
 buildreq-configure
 buildreq-cpan
@@ -33,7 +33,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 cryptsetup-dev
-curl-dev
+include(devpkg-curl)
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -45,7 +45,7 @@ e2fsprogs
 include(devpkg-elfutils)
 include(devpkg-expat)
 expect
-flex
+include(flex)
 flex-dev
 gawk
 gcc
@@ -130,7 +130,7 @@ linux-libc-headers
 include(make)
 mpc-dev
 mpfr-dev
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 netbase
 nss-altfiles
@@ -228,7 +228,7 @@ sed
 shadow
 include(strace)
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib

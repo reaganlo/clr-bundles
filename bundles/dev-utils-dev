@@ -30,9 +30,9 @@ bash
 bash-completion-dev
 bats
 include(bc)
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 boost
 boost-dev
@@ -59,7 +59,7 @@ include(cpio)
 cppcheck
 cracklib-dev
 cryptsetup-dev
-curl-dev
+include(devpkg-curl)
 db
 db-dev
 include(devpkg-dbus)
@@ -81,7 +81,7 @@ elfutils-dev32
 include(devpkg-expat)
 expat-dev32
 expect
-flex
+include(flex)
 flex-dev
 gawk
 gcc
@@ -193,7 +193,7 @@ libxml2-dev32
 libxml2-python
 include(libxslt)
 libxslt-bin
-libxslt-dev
+include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
 llvm-dev
@@ -204,7 +204,7 @@ include(devpkg-mesa)
 metrics-discovery-dev
 mpc-dev
 mpfr-dev
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 netbase
 nghttp2-dev
@@ -314,7 +314,7 @@ include(devpkg-sqlite-autoconf)
 include(strace)
 include(subversion)
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib

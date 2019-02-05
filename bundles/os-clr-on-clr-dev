@@ -95,9 +95,9 @@ bash-completion-dev
 bats
 include(bc)
 beignet-dev
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 bluez-dev
 boost
@@ -160,7 +160,7 @@ cssselect
 ctags
 cups-dev
 include(curl)
-curl-dev
+include(devpkg-curl)
 curl-dev32
 cyrus-sasl-dev
 datefudge
@@ -217,7 +217,7 @@ filelock
 fixtures
 flac-dev
 flac-dev32
-flex
+include(flex)
 flex-dev
 font-bitstream-type1
 fontconfig-data
@@ -541,7 +541,7 @@ libxml2-python
 libxml2-python3
 include(libxslt)
 libxslt-bin
-libxslt-dev
+include(devpkg-libxslt)
 libzip-dev
 linecache2
 linecache2-legacypython
@@ -579,7 +579,7 @@ mtdev-dev
 mtdev-dev32
 include(nasm)
 nasm-bin
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 ndctl-dev
 ndg_httpsclient
@@ -847,7 +847,7 @@ include(subversion)
 swig
 systemd
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
@@ -909,7 +909,7 @@ wget
 include(which)
 xapian-core-dev
 xcb-proto
-xcb-proto-dev
+include(devpkg-xcb-proto)
 xcb-util-cursor-dev
 xdg-utils
 xfsprogs-dev

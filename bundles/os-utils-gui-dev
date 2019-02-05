@@ -55,9 +55,9 @@ bats
 include(bc)
 bdftopcf
 beignet-dev
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 bluez-dev
 boost-dev
@@ -99,7 +99,7 @@ cppcheck
 cracklib-dev
 cryptsetup-dev
 cups-dev
-curl-dev
+include(devpkg-curl)
 curl-dev32
 cyrus-sasl-dev
 datefudge
@@ -141,7 +141,7 @@ file-dev
 flac-dev
 flac-dev32
 flatpak-dev
-flex
+include(flex)
 flex-dev
 fltk-dev
 font-bitstream-type1
@@ -427,7 +427,7 @@ libxml2-dev32
 libxml2-python
 include(libxslt)
 libxslt-bin
-libxslt-dev
+include(devpkg-libxslt)
 links
 linux-libc-headers
 include(llvm)
@@ -452,7 +452,7 @@ mtdev-dev
 mtdev-dev32
 include(nasm)
 nasm-bin
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 net-tools
 netbase
@@ -619,7 +619,7 @@ include(subversion)
 swig
 systemd
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
@@ -651,7 +651,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(which)
 xcb-proto
-xcb-proto-dev
+include(devpkg-xcb-proto)
 xcursorgen
 xdg-desktop-portal
 xdg-desktop-portal-dev

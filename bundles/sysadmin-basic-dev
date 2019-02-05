@@ -26,9 +26,9 @@ automake
 automake-dev
 bash-completion-dev
 bats
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 boost-dev
 btrfs-progs-dev
@@ -50,7 +50,7 @@ cmake
 coreutils
 cracklib-dev
 cryptsetup-dev
-curl-dev
+include(devpkg-curl)
 datefudge
 db-dev
 include(devpkg-dbus)
@@ -72,7 +72,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 file-dev
-flex
+include(flex)
 flex-dev
 gawk
 gawk-dev
@@ -187,7 +187,7 @@ include(make)
 man-db
 mpc-dev
 mpfr-dev
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 net-tools
 netbase
@@ -291,7 +291,7 @@ slang-dev
 include(strace)
 systemd
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib

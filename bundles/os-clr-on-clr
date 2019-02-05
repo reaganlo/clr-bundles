@@ -80,7 +80,7 @@ include(scons)
 six
 telemetrics-client-dev
 urlgrabber
-xcb-proto-dev
+include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
 xmlstarlet
 xorriso

@@ -74,9 +74,9 @@ backports.ssl_match_hostname
 bash-completion-dev
 bats
 bdftopcf
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 bluez-dev
 boost-dev
@@ -142,7 +142,7 @@ cups
 cups-dev
 cups-filters
 cups-filters-dev
-curl-dev
+include(devpkg-curl)
 curl-dev32
 cyrus-sasl-dev
 datefudge
@@ -195,7 +195,7 @@ file-dev
 flac-dev
 flac-dev32
 flatpak-dev
-flex
+include(flex)
 flex-dev
 fltk-dev
 font-bitstream-type1
@@ -542,7 +542,7 @@ libxml2-dev32
 libxml2-python
 include(libxslt)
 libxslt-bin
-libxslt-dev
+include(devpkg-libxslt)
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
@@ -585,7 +585,7 @@ mypaint-brushes-dev
 include(nasm)
 nasm-bin
 nautilus-dev
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 ndctl-dev
 ndg_httpsclient
@@ -809,7 +809,7 @@ include(subversion)
 swig
 systemd
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
@@ -866,7 +866,7 @@ include(devpkg-webkitgtk)
 include(which)
 woff2-dev
 xcb-proto
-xcb-proto-dev
+include(devpkg-xcb-proto)
 xcb-util-cursor-dev
 xcursorgen
 xdg-desktop-portal

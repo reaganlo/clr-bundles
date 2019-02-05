@@ -26,9 +26,9 @@ bash
 bash-completion-dev
 bats
 include(bc)
-binutils
+include(binutils)
 binutils-dev
-bison
+include(bison)
 bison-dev
 boost-dev
 btrfs-progs-dev
@@ -47,7 +47,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 cryptsetup-dev
-curl-dev
+include(devpkg-curl)
 datefudge
 db-dev
 include(devpkg-dbus)
@@ -67,7 +67,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 file-dev
-flex
+include(flex)
 flex-dev
 gawk
 gcc
@@ -188,7 +188,7 @@ include(make)
 mpc-dev
 mpfr-dev
 include(musl)
-ncurses-dev
+include(devpkg-ncurses)
 ncurses-dev32
 net-tools
 netbase
@@ -238,7 +238,7 @@ include(devpkg-sqlite-autoconf)
 include(strace)
 swig
 systemd-bin
-systemd-dev
+include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
