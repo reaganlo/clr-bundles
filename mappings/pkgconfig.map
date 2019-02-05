@@ -91,6 +91,7 @@ pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
 pkgconfig(libemail-engine)	devpkg-evolution
 pkgconfig(fuse3)	devpkg-fuse
+pkgconfig(glm)	devpkg-glm
 pkgconfig(libcurl)	devpkg-curl
 pkgconfig(liblzma)	devpkg-xz
 pkgconfig(libxslt)	devpkg-libxslt
