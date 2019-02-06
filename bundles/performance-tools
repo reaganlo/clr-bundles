@@ -23,7 +23,8 @@ iptraf
 latencytop
 linux-extra
 include(linux-tools)
-ltp
+# ltp is not a performance tool. it's also 800Mb in size
+#ltp
 ltrace
 msr-tools
 net-snmp
