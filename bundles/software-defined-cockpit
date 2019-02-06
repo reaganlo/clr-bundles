@@ -30,7 +30,6 @@ intel-media-driver
 libva
 libva-intel-driver
 mediasdk
-mediasdk-extras
 include(v4l-utils)
 
 # User tools

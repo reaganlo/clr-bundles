@@ -64,7 +64,6 @@ libva-intel-driver
 linux-firmware-extras
 linux-firmware-wifi
 mediasdk
-mediasdk-extras
 mesa-demos
 mkfontdir
 mkfontscale
