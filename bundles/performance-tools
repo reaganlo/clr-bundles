@@ -7,7 +7,7 @@ include(ethtool)
 include(iproute2)
 include(perl-basic)
 include(python3-basic)
-include(tcl-basic)
+
 bcc
 blktrace
 clr-debug-info
@@ -34,6 +34,9 @@ open-lldp
 include(powertop)
 procps-ng
 psstop
+#
+# EVIL THIS PULLS IN PYTHON
+#
 python-hwinfo
 siege
 include(strace)
