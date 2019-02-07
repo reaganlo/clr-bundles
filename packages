@@ -70,6 +70,7 @@ iasimage # for creating Intel Automotive Service (IAS) images, a binary file for
 icdiff # Improved Color Differences between similar files
 icecream # Distributed network compilation
 iftop # display bandwidth usage on an interface
+igt-gpu-tools # Intel graphics performance diagnostics
 inkscape # Inkscape SVG drawing program
 intltool # internationalization tool for develops
 inotify-tools # monitor for file system events
