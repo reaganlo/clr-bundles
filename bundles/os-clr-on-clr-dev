@@ -301,7 +301,7 @@ gsl-dev
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
-include(devpkg-gtk+)
+include(devpkg-gtk)
 gtk+-dev32
 gtk-doc
 gtk-doc-dev

@@ -311,7 +311,7 @@ gst-plugins-good
 include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+
-include(devpkg-gtk+)
+include(devpkg-gtk)
 gtk+-dev32
 gtk-doc
 gtk-doc-dev

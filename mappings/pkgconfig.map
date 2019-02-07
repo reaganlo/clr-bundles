@@ -100,7 +100,7 @@ pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
 pkgconfig(libemail-engine)	devpkg-evolution
 pkgconfig(fuse3)	devpkg-fuse
 pkgconfig(glm)	devpkg-glm
-pkgconfig(gtk+-2.0)	devpkg-gtk+
+pkgconfig(gtk+-2.0)	devpkg-gtk
 pkgconfig(libcurl)	devpkg-curl
 pkgconfig(liblzma)	devpkg-xz
 pkgconfig(libva)	devpkg-libva

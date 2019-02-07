@@ -40,7 +40,7 @@ include(devpkg-gdk-pixbuf)
 include(global)
 include(devpkg-gtk3)
 GitPython
-include(devpkg-gtk+)
+include(devpkg-gtk)
 libabigail
 include(libarchive)
 libarchive-c

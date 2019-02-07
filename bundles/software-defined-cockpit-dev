@@ -183,7 +183,7 @@ gsl-dev
 gst-plugins-bad-dev
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
-include(devpkg-gtk+)
+include(devpkg-gtk)
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)

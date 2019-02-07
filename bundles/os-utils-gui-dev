@@ -236,7 +236,7 @@ include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+
 gtk+-bin
-include(devpkg-gtk+)
+include(devpkg-gtk)
 gtk+-dev32
 gtk-doc
 gtk-doc-dev

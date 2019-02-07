@@ -209,7 +209,7 @@ graphviz
 graphviz-extras
 grep
 groff
-include(devpkg-gtk+)
+include(devpkg-gtk)
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)
