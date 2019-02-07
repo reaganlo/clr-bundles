@@ -183,7 +183,7 @@ gsl-dev
 gst-plugins-bad-dev
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
-gtk+-dev
+include(devpkg-gtk+)
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)
@@ -207,7 +207,7 @@ iso-codes-dev
 jemalloc-dev
 json-c-dev
 json-c-dev32
-json-glib-dev
+include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 keyutils-dev
@@ -270,7 +270,7 @@ libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
-libinput-dev
+include(devpkg-libinput)
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmicrohttpd-dev
@@ -320,7 +320,7 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
-libva-dev
+include(devpkg-libva)
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev

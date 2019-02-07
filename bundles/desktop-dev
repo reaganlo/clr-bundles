@@ -311,7 +311,7 @@ gst-plugins-good
 include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+
-gtk+-dev
+include(devpkg-gtk+)
 gtk+-dev32
 gtk-doc
 gtk-doc-dev
@@ -361,7 +361,7 @@ jemalloc-dev
 include(jq)
 json-c-dev
 json-c-dev32
-json-glib-dev
+include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 kdoctools-dev
@@ -451,7 +451,7 @@ libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
-libinput-dev
+include(devpkg-libinput)
 libiscsi-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
@@ -525,7 +525,7 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
-libva-dev
+include(devpkg-libva)
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev

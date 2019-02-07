@@ -58,7 +58,7 @@ glu-dev
 gmp-dev
 gnupg
 gnuplot
-gtk+-dev
+include(devpkg-gtk+)
 hwloc-dev
 jemalloc-dev
 jemalloc-dev

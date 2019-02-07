@@ -40,14 +40,14 @@ include(devpkg-gdk-pixbuf)
 include(global)
 include(devpkg-gtk3)
 GitPython
-gtk+-dev
+include(devpkg-gtk+)
 libabigail
 include(libarchive)
 libarchive-c
 libarchive-dev
 libdeps
 include(devpkg-libdrm)
-libva-dev
+include(devpkg-libva)
 include(devpkg-libxcb)
 include(devpkg-libXdamage)
 include(devpkg-libXfixes)

@@ -236,7 +236,7 @@ include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+
 gtk+-bin
-gtk+-dev
+include(devpkg-gtk+)
 gtk+-dev32
 gtk-doc
 gtk-doc-dev
@@ -271,7 +271,7 @@ itstool
 include(jq)
 json-c-dev
 json-c-dev32
-json-glib-dev
+include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 keyutils-dev
@@ -351,7 +351,7 @@ libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
-libinput-dev
+include(devpkg-libinput)
 libisofs-dev
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
@@ -406,7 +406,7 @@ libunistring-dev
 libunistring-dev32
 libunwind-dev
 libusb-dev
-libva-dev
+include(devpkg-libva)
 libvirt-dev
 libvirt-glib-dev
 libvorbis-dev

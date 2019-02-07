@@ -301,7 +301,7 @@ gsl-dev
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
-gtk+-dev
+include(devpkg-gtk+)
 gtk+-dev32
 gtk-doc
 gtk-doc-dev
@@ -345,7 +345,7 @@ jansson-dev
 jemalloc-dev
 json-c-dev
 json-c-dev32
-json-glib-dev
+include(devpkg-json-glib)
 json-glib-dev32
 jsonschema-python
 karchive-dev
@@ -459,7 +459,7 @@ libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
-libinput-dev
+include(devpkg-libinput)
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libksba-dev
@@ -526,7 +526,7 @@ libunwind-dev
 libunwind-dev32
 libusb-dev
 libuser-dev
-libva-dev
+include(devpkg-libva)
 libvorbis-dev
 libvorbis-dev32
 libwebp-dev

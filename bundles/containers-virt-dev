@@ -107,7 +107,7 @@ gpgme-dev
 graphviz
 grep
 groff
-gtk+-dev
+include(devpkg-gtk+)
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)

@@ -209,7 +209,7 @@ graphviz
 graphviz-extras
 grep
 groff
-gtk+-dev
+include(devpkg-gtk+)
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)
@@ -237,7 +237,7 @@ iso8601
 jansson-dev
 json-c-dev
 json-c-dev32
-json-glib-dev
+include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 kdoctools-dev
@@ -302,7 +302,7 @@ libidn-dev
 libidn-dev32
 libidn2-dev
 libidn2-dev32
-libinput-dev
+include(devpkg-libinput)
 libjpeg-turbo-dev
 libjpeg-turbo-dev32
 libmicrohttpd-dev
