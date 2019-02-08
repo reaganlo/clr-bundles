@@ -1,0 +1,14 @@
+# [TITLE]: firefox
+# [DESCRIPTION]: The firefox web browser
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libX11client)
+include(desktop-gnomelibs)
+
+# dependencies
+gdk-pixbuf
+
+
+# main application
+firefox
