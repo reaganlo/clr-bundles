@@ -4,8 +4,10 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(python2-basic)
-imapfilter
-msmtp
 include(mutt)
+imapfilter
+fetchmail
+msmtp
 notmuch
 offlineimap
+procmail
