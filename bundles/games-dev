@@ -40,7 +40,7 @@ Vulkan-Tools
 Z3-dev
 acl-dev
 acl-dev32
-alsa-lib-dev
+include(devpkg-alsa-lib)
 alsa-lib-dev32
 asciidoc
 include(devpkg-at-spi2-atk)
@@ -61,7 +61,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-bluez-dev
+include(devpkg-bluez)
 boost-dev
 brotli-dev
 buildreq-cmake
@@ -280,7 +280,7 @@ libevdev-dev
 libevdev-dev32
 libevent-dev
 libevent-dev32
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libfontenc-dev
 libgcrypt-dev
@@ -296,7 +296,7 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 include(devpkg-libinput)
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libmbim-dev
 libmicrohttpd-dev
@@ -477,7 +477,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
-popt-dev
+include(devpkg-popt)
 ppp-dev
 procps-ng
 protobuf-dev

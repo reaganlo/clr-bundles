@@ -30,7 +30,7 @@ Z3-dev
 acl-dev
 acl-dev32
 acrn-hypervisor-dev
-alsa-lib-dev
+include(devpkg-alsa-lib)
 alsa-lib-dev32
 asciidoc
 include(devpkg-at-spi2-atk)
@@ -51,7 +51,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-bluez-dev
+include(devpkg-bluez)
 boost-dev
 buildreq-cmake
 buildreq-configure
@@ -258,7 +258,7 @@ libevdev-dev32
 libevent-dev
 libevent-dev32
 libexif-dev
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -271,7 +271,7 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 include(devpkg-libinput)
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libmicrohttpd-dev
 libmnl-dev
@@ -399,7 +399,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
-popt-dev
+include(devpkg-popt)
 postgresql-dev
 procps-ng
 procps-ng-bin

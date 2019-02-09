@@ -41,7 +41,7 @@ PyYAML
 PyYAML-legacypython
 Pygments
 R
-R-dev
+include(devpkg-R)
 SDL-dev
 Sphinx
 Sphinx-python
@@ -55,7 +55,7 @@ acl-dev
 acl-dev32
 include(acpica-unix2)
 alabaster
-alsa-lib-dev
+include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
 apr-dev
@@ -99,7 +99,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-bluez-dev
+include(devpkg-bluez)
 boost
 boost-dev
 bridge-utils
@@ -417,7 +417,7 @@ libabigail
 libabigail-dev
 libaio-dev
 libarchive-c
-libarchive-dev
+include(devpkg-libarchive)
 libassuan-dev
 libatomic_ops-dev
 libc6
@@ -441,7 +441,7 @@ libevdev-dev
 libevdev-dev32
 libevent-dev
 libevent-dev32
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -460,7 +460,7 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 include(devpkg-libinput)
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libksba-dev
 libmbim-dev
@@ -735,7 +735,7 @@ pluggy-python
 include(plzip)
 pmdk-dev
 polkit-dev
-popt-dev
+include(devpkg-popt)
 postgresql-dev
 ppp-dev
 pretend

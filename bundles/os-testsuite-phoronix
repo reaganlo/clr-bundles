@@ -81,7 +81,7 @@ libevent-dev
 libgcrypt-dev
 libgfortran-avx
 libgpg-error-dev
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 libksba-dev
 libnl-dev
 libogg-dev
@@ -116,7 +116,7 @@ perl-Digest-MD5
 phoronix-test-suite
 php
 pkg-config-dev
-popt-dev
+include(devpkg-popt)
 pth-dev
 python3-dev
 include(redis-native)

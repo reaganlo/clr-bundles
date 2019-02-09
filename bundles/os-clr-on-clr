@@ -44,7 +44,7 @@ include(devpkg-gtk)
 libabigail
 include(libarchive)
 libarchive-c
-libarchive-dev
+include(devpkg-libarchive)
 libdeps
 include(devpkg-libdrm)
 include(devpkg-libva)

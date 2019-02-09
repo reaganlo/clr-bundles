@@ -234,7 +234,7 @@ libevdev-dev
 libevdev-dev32
 libevent-dev
 libevent-dev32
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -247,7 +247,7 @@ libidn-dev32
 libidn2-dev
 libidn2-dev32
 include(devpkg-libinput)
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libmicrohttpd-dev
 libmnl-dev
@@ -365,7 +365,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 polkit-dev
-popt-dev
+include(devpkg-popt)
 prettytable
 procps-ng
 protobuf-dev

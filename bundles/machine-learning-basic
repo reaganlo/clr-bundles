@@ -56,7 +56,7 @@ hdf5-dev
 hdf5-dev
 Keras
 leveldb-dev
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 lmdb-dev
 matplotlib
 mido

@@ -116,7 +116,7 @@ libcap-ng-dev32
 libcgroup-dev
 libevent-dev
 libevent-dev32
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -169,7 +169,7 @@ perl-XML-Parser
 pigz
 pkg-config
 pkg-config-dev
-popt-dev
+include(devpkg-popt)
 procps-ng
 python-dev
 python3

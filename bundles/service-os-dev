@@ -143,7 +143,7 @@ libcap-ng-dev32
 libcgroup-dev
 libevent-dev
 libevent-dev32
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -209,7 +209,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
-popt-dev
+include(devpkg-popt)
 pretend
 processor-trace-dev
 procps-ng

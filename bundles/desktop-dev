@@ -23,7 +23,7 @@ ModemManager-dev32
 NetworkManager-dev
 PackageKit-dev
 Pillow
-R-dev
+include(devpkg-R)
 SDL-dev
 SDL-dev32
 SDL2-dev
@@ -39,7 +39,7 @@ accountsservice-dev
 acl-dev
 acl-dev32
 adwaita-icon-theme-dev
-alsa-lib-dev
+include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
 appstream-glib
@@ -78,7 +78,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-bluez-dev
+include(devpkg-bluez)
 boost-dev
 brotli-dev
 btrfs-progs-dev
@@ -396,7 +396,7 @@ libXvMC-dev32
 libXxf86misc-dev
 libabigail
 libaio-dev
-libarchive-dev
+include(devpkg-libarchive)
 libassuan-dev
 libatasmart-dev
 libatomic_ops-dev
@@ -428,7 +428,7 @@ libevdev-dev32
 libevent-dev
 libevent-dev32
 libexif-dev
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libfontenc-dev
 libgcrypt-dev
@@ -453,7 +453,7 @@ libidn2-dev
 libidn2-dev32
 include(devpkg-libinput)
 libiscsi-dev
-libjpeg-turbo-dev
+include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libksba-dev
 libmbim-dev
@@ -722,7 +722,7 @@ poppler
 poppler-data-dev
 poppler-dev
 poppler-extras
-popt-dev
+include(devpkg-popt)
 postgresql-dev
 ppp-dev
 pretend

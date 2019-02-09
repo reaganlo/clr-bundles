@@ -139,7 +139,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -266,7 +266,7 @@ perl-namespace-clean
 pigz
 pkg-config
 pkg-config-dev
-popt-dev
+include(devpkg-popt)
 procps-ng
 procps-ng-dev
 protobuf-dev

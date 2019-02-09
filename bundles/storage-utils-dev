@@ -139,7 +139,7 @@ include(devpkg-libX11)
 libX11-dev32
 libabigail
 libaio-dev
-libarchive-dev
+include(devpkg-libarchive)
 libassuan-dev
 libc6-dev
 libcap-dev
@@ -148,7 +148,7 @@ libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
 libevent-dev
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -237,7 +237,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
-popt-dev
+include(devpkg-popt)
 procps-ng
 procps-ng-bin
 python

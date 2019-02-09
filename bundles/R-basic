@@ -10,7 +10,7 @@ include(libX11client)
 #
 clr-R-helpers
 R
-R-dev
+include(devpkg-R)
 
 #
 # Required for performance reasons

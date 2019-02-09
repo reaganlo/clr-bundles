@@ -47,7 +47,6 @@ ethtool # Utility for displaying and modifying some parameters of network interf
 file # program for recognizing the type of data contained in a computer file
 findutils # basic directory searching utilities e.g. find, xargs, and locate
 fio # Flexible I/O tester
-firefox # Web Browser
 flac # FLAC audio format tools
 flex # flex development tool
 fonttools # tools to manipulate system and user fonts
@@ -116,6 +115,7 @@ nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
 nload # network load monitor
 nmap # security scanner for network device discovery
 octave # high-level programming language, primarily intended for numerical computations
+offlineimap # locally copy imap email
 openldap # ldap tools
 openmpi # HPC tools for running on jobs on clusters
 openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols

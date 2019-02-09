@@ -129,7 +129,7 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
-libffi-dev
+include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
@@ -187,7 +187,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
-popt-dev
+include(devpkg-popt)
 procps-ng
 procps-ng-bin
 py

@@ -9,5 +9,5 @@ imapfilter
 fetchmail
 msmtp
 notmuch
-offlineimap
+include(offlineimap)
 procmail
