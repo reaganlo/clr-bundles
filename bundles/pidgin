@@ -3,6 +3,8 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+include(libstdcpp)
+
 pidgin
 pidgin-sipe
 

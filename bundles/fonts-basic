@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Anselmo L. S. Melo <anselmo.melo@intel.com>
+include(libstdcpp)
 
 # tools
 fontconfig

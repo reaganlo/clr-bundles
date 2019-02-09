@@ -4,5 +4,7 @@
 # [CAPABILITIES]: Provide an alternative way to obtain and run software on Clear Linux OS
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(git)
+include(libstdcpp)
+
 flatpak
 flatpak-builder

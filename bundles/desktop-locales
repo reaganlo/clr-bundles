@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(perl-basic)
+include(libstdcpp)
 
 aspell
 caribou-locales

@@ -3,6 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]: Manage RDMA and IB devices.
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+include(libstdcpp)
 
 # rdma-core-extra pulls in perl
 include(perl-basic)

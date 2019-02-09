@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
 include(python3-basic)
+include(libstdcpp)
 
 blender
 blender-extras

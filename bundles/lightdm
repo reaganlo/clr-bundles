@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]: Login Manager for KDE, Xfce, i3 and custom desktop sessions.
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+include(libstdcpp)
 
 # Core DM functionality
 accountsservice

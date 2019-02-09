@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
+include(libstdcpp)
+
 glibc-lib-avx2
 # nose is needed for numpy
 nose-legacypython

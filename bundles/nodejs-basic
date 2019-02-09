@@ -3,5 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libstdcpp)
+
 nodejs
 nodejs-doc
