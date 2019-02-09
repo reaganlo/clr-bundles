@@ -1,4 +1,5 @@
-pkgconfig(cogl-1.0)	devpkg-cogl
+pkgconfig(alsa)	devpkg-alsa-lib
+pkgconfig(bluez)	devpkg-bluez
 pkgconfig(cairo)	devpkg-cairo
 pkgconfig(gobject-2.0)	devpkg-glib
 pkgconfig(glib-2.0)	devpkg-glib
@@ -36,6 +37,7 @@ pkgconfig(xcb-shm)	devpkg-libX11
 pkgconfig(xcb-render)	devpkg-libX11
 pkgconfig(xrender)	devpkg-libX11
 pkgconfig(renderproto)	devpkg-xorgproto
+pkgconfig(cogl-1.0)	devpkg-cogl
 pkgconfig(gmodule-no-export-2.0)	devpkg-glib
 pkgconfig(gdk-pixbuf-2.0)	devpkg-gdk-pixbuf
 pkgconfig(libpng16)	devpkg-libpng
@@ -72,12 +74,12 @@ pkgconfig(cairo-xlib)	devpkg-cairo
 pkgconfig(epoxy)	devpkg-libepoxy
 pkgconfig(libudev)	devpkg-systemd
 pkgconfig(libinput)	devpkg-libinput
+pkgconfig(dbus-1)	devpkg-dbus
 pkgconfig(evolution-mail-3.0)	devpkg-evolution
 pkgconfig(evolution-shell-3.0)	devpkg-evolution
 pkgconfig(gtk+-3.0)	devpkg-gtk3
 pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-atk
 pkgconfig(atspi-2)	devpkg-at-spi2-core
-pkgconfig(dbus-1)	devpkg-dbus
 pkgconfig(libebackend-1.2)	devpkg-evolution-data-server
 pkgconfig(libedataserver-1.2)	devpkg-evolution-data-server
 pkgconfig(gmodule-2.0)	devpkg-glib
@@ -101,8 +103,12 @@ pkgconfig(libemail-engine)	devpkg-evolution
 pkgconfig(fuse3)	devpkg-fuse
 pkgconfig(glm)	devpkg-glm
 pkgconfig(gtk+-2.0)	devpkg-gtk
+pkgconfig(libarchive)	devpkg-libarchive
 pkgconfig(libcurl)	devpkg-curl
+pkgconfig(libffi)	devpkg-libffi
+pkgconfig(libjpeg)	devpkg-libjpeg-turbo
 pkgconfig(liblzma)	devpkg-xz
+pkgconfig(libR)	devpkg-R
 pkgconfig(libva)	devpkg-libva
 pkgconfig(libxslt)	devpkg-libxslt
 pkgconfig(ncurses)	devpkg-ncurses
@@ -111,6 +117,9 @@ pkgconfig(opencv)	devpkg-opencv
 pkgconfig(openssl)	devpkg-openssl
 pkgconfig(libssl)	devpkg-openssl
 pkgconfig(libcrypto)	devpkg-openssl
+pkgconfig(popt)	devpkg-popt
 pkgconfig(Qt5Core)	devpkg-qtbase
+pkgconfig(Qt5Widgets)	devpkg-qtbase
+pkgconfig(Qt5Gui)	devpkg-qtbase
 pkgconfig(systemd)	devpkg-systemd
 pkgconfig(xcb-proto)	devpkg-xcb-proto

@@ -1,0 +1,9 @@
+# [TITLE]: devpkg-alsa-lib
+# [DESCRIPTION]: All content for pkgconfig file alsa-lib.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+alsa-lib-dev
