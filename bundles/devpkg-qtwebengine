@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-qtwebengine
+# [DESCRIPTION]: All content for pkgconfig file qtwebengine.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-qtbase)
+
+qtwebengine-dev
+
+
