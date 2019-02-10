@@ -1,0 +1,9 @@
+# [TITLE]: xemacs
+# [DESCRIPTION]: The firefox web browser
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libX11client)
+
+# main application
+xemacs

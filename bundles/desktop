@@ -54,7 +54,7 @@ linux-firmware-wifi
 mutter
 orca
 pango
-pygobject
+include(pygobject)
 shared-mime-info
 telepathy-logger
 include(tzdata)

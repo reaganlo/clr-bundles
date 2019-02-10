@@ -27,7 +27,7 @@ pygtk
 pygtk-legacypython
 pygtkglext
 pygtkglext-legacypython
-pygobject
+include(pygobject)
 pygobject-legacy
 pygobject-legacy-legacypython
 python-tcl

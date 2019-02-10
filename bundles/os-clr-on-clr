@@ -33,7 +33,7 @@ include(cabextract)
 configobj
 cve-check-tool
 include(diffoscope)
-dnf
+include(dnf)
 efitools
 include(devpkg-fribidi)
 include(devpkg-gdk-pixbuf)

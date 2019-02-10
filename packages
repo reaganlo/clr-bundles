@@ -160,7 +160,6 @@ weston-extras # Utilities and tools for the Wayland graphics compositor
 which # locate executables in the system
 wine # run PE32 executables with Linux
 wpa_supplicant # backend component controlling the wireless connections
-xemacs # text editor and application development system
 xfsprogs # XFS tools
 xterm # The basic X.Org terminal program desktop launcher
 xz # data compression/decompression tool
