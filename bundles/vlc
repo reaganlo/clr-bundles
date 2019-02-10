@@ -1,0 +1,9 @@
+# [TITLE]: vlc
+# [DESCRIPTION]: The vlc media player
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libX11client)
+
+# main application
+vlc

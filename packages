@@ -154,7 +154,6 @@ unison # bidirectional file synchronization tool
 unzip # list, test, or extract files from a ZIP archive
 valgrind # suite of tools for debugging and profiling software code
 v4l-utils # video4linux tools
-vlc # VideoLAN Client, multimedia player and framework
 weechat # Internet Relay Chat (IRC) client
 weston-extras # Utilities and tools for the Wayland graphics compositor
 which # locate executables in the system
