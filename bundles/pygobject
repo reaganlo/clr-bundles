@@ -1,0 +1,9 @@
+# [TITLE]: pygobject
+# [DESCRIPTION]: The pygobject ecosystem
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(python3-basic)
+
+# main application
+pygobject
