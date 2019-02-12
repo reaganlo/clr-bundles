@@ -29,7 +29,7 @@ openssl
 popt
 Qt5Core
 Qt5WebEngine
-Qt5SVG
+Qt5Svg
 Qt5Widgets
 systemd
 sqlite3
