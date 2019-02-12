@@ -1,15 +1,14 @@
-# [TITLE]: pygobject
-# [DESCRIPTION]: The pygobject ecosystem
+# [TITLE]: suricata
+# [DESCRIPTION]: network threat detection engine
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
-include(libX11client)
 
 # start of custom additions
 
 # end of custom additions
 
 # main package
-pygobject
+suricata

@@ -1,15 +1,15 @@
-# [TITLE]: pygobject
-# [DESCRIPTION]: The pygobject ecosystem
+# [TITLE]: stellarium
+# [DESCRIPTION]: Software for astronomers
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(python3-basic)
-include(libX11client)
+include(qt-basic)
+include(libstdcpp)
 
 # start of custom additions
 
 # end of custom additions
 
 # main package
-pygobject
+stellarium

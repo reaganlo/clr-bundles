@@ -1,15 +1,14 @@
-# [TITLE]: pygobject
-# [DESCRIPTION]: The pygobject ecosystem
+# [TITLE]: fonttools
+# [DESCRIPTION]: tools to manipulate system and user fonts
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
-include(libX11client)
 
 # start of custom additions
 
 # end of custom additions
 
 # main package
-pygobject
+fonttools

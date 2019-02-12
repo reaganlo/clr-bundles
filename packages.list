@@ -1,1 +1,41 @@
-weechat # Internet Relay Chat (IRC) client 
+weechat # Internet Relay Chat (IRC) client
+znc # IRC network bouncer
+v4l-utils # video4linux tools
+valgrind # suite of tools for debugging and profiling software code
+powertop # diagnose issues with power consumption and power management
+mpg123 # play and decode mp3 files
+clamav # Clam AntiVirus is an anti-virus toolkit for Unix
+cockpit # Web based administration for GNU/Linux servers
+darktable # Photography workflow application
+doxygen # documentation tooling
+flac # FLAC audio format tools
+fonttools # tools to manipulate system and user fonts
+gftp # Text mode and GUI FTP Client
+gimp # GNU Image Manipulation Program
+glmark2 # OpenGL 2.0 and ES 2.0 benchmark
+gpgme # GPG encryption tools
+igt-gpu-tools # Intel graphics performance diagnostics
+inkscape # Inkscape SVG drawing program
+keepassxc # KeePassXC is a password manager
+lftp # File transfer client for http, ftp, sftp and more
+libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
+libzmq # ZMQ tools and libs
+llvm # LLVM/Clang compiler toolchain
+nload # network load monitor
+nmap # security scanner for network device discovery
+octave # high-level programming language, primarily intended for numerical computations
+offlineimap # locally copy imap email
+openmpi # HPC tools for running on jobs on clusters
+pdns # PowerDNS authoritative name server (DNSSEC enabled)
+pdns-recursor # PowerDNS recursive caching name server
+pidgin # Multi-protocol instant messagging client
+plzip # Parallel LZMA Data Compressor
+pygobject # The pygobject ecosystem
+smartmontools # hard disk diagnostic utilities
+squid # HTTP caching proxy
+stellarium # Software for astronomers
+suricata # network threat detection engine
+texlive # major TeX-related typesetting programs, macro packages, and fonts.
+texmaker # TeX editor
+thermal_daemon # thermal management
+xfsprogs # XFS tools

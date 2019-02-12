@@ -1,15 +1,14 @@
-# [TITLE]: pygobject
-# [DESCRIPTION]: The pygobject ecosystem
+# [TITLE]: clamav
+# [DESCRIPTION]: Clam AntiVirus is an anti-virus toolkit for Unix
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(python3-basic)
-include(libX11client)
+include(libstdcpp)
 
 # start of custom additions
 
 # end of custom additions
 
 # main package
-pygobject
+clamav

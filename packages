@@ -26,13 +26,10 @@ borgbackup # Deduplicating archiver with compression and authenticated encryptio
 cabextract # Manipulate CAB archives
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 ccache # cache compilations to avoid redoing the same computation and speed project build times
-clamav # Clam AntiVirus is an anti-virus toolkit for Unix
 cloc # Count lines of code for many programming languages
-cockpit # Web based administration for GNU/Linux servers
 cpio # File archiver utility
 curl # Transfer data to/from a URL
 cve-bin-tool # CVE scanning tool
-darktable # Photography workflow application
 dfu-util # Device Firmware Upgrade Utilities
 diffoscope # In-depth comparison of files, archives, and directories
 diffutils # Tools for file comparisons and differences
@@ -40,26 +37,19 @@ docbook-utils # docbook tools
 docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
 dosfstools # (V)FAT manipulation tools
 dovecot # Security focused IMAP and POP3 email server
-doxygen # documentation tooling
 dtc # Device Tree Compiler, to describe non-discoverable hardware
 duperemove # Tool for finding duplicated extents and submitting them for deduplication
 ethtool # Utility for displaying and modifying some parameters of network interface controller
 file # program for recognizing the type of data contained in a computer file
 findutils # basic directory searching utilities e.g. find, xargs, and locate
 fio # Flexible I/O tester
-flac # FLAC audio format tools
 flex # flex development tool
-fonttools # tools to manipulate system and user fonts
 fossil # Fossil is a simple, high-reliability, distributed software configuration management system
 fuse # fuse filesystem support
 fwupdate # Firmware update tool
 gdb # GNU debugger
-gftp # Text mode and GUI FTP Client
-gimp # GNU Image Manipulation Program
-glmark2 # OpenGL 2.0 and ES 2.0 benchmark
 global # GNU GLOBAL source code tagging system
 goaccess # Real-time web log analyzer
-gpgme # GPG encryption tools
 gzip # lossless data compression/decompression utility
 htop # interactive text-mode process viewer
 httpd # Apache HyperText Transfer Protocol (HTTP) Server daemon
@@ -69,8 +59,6 @@ iasimage # for creating Intel Automotive Service (IAS) images, a binary file for
 icdiff # Improved Color Differences between similar files
 icecream # Distributed network compilation
 iftop # display bandwidth usage on an interface
-igt-gpu-tools # Intel graphics performance diagnostics
-inkscape # Inkscape SVG drawing program
 intltool # internationalization tool for develops
 inotify-tools # monitor for file system events
 ipmitool # Manage IPMI functions of a local or remote system
@@ -81,21 +69,16 @@ joe # Text editor
 jq # lightweight and flexible command-line JSON processor
 kbd # library to manage the Linux keymaps
 keepalived # strong & robust keepalive facility for the Linux Virtual Server project
-keepassxc # KeePassXC is a password manager
 kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
 keychain # manage SSH and GPG keys
 less # the less page
 libarchive # various archiving tools
-lftp # File transfer client for http, ftp, sftp and more
 libnl # Low level firewall tools
-libva-utils # collection of utilities and examples to exercise VA-API (Video Acceleration API)
 libxml2 # XML processing tools
 libxslt # XML documentation processing tools
-libzmq # ZMQ tools and libs
 linux-dev # programs for developing Linux
 linux-lts-dev # programs for developing Linux LTS version
 linux-tools # Tools for use in Linux
-llvm # LLVM/Clang compiler toolchain
 lm-sensors # Read various system sensors, sometimes using scary methods
 ltp # Linux Test Project
 lz4 # tools to compress and decompress lz4 files
@@ -103,7 +86,6 @@ logrotate # manages the automatic rotation and compression of log files
 make # build automation tool
 meld # visual file difference and merging tool, targeted at developers
 mkosi # generate disk images
-mpg123 # play and decode mp3 files
 mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
 mtr # Poll a remote server and see how the latency and performance changes over time
 musl # musl compiler toolchain
@@ -112,57 +94,37 @@ nasm # assembler
 ncdu # curses disk space usage management tool
 nfs-utils # Server and client tooling for network file systems (NFS)
 nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
-nload # network load monitor
-nmap # security scanner for network device discovery
-octave # high-level programming language, primarily intended for numerical computations
-offlineimap # locally copy imap email
 openldap # ldap tools
-openmpi # HPC tools for running on jobs on clusters
 openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
 p11-kit # Load and enumerate PKCS#11 modules for cryptography
 parallel # shell tool for executing jobs in parallel using one or more computers
 patch # updates text files according to instructions contained in a separate file
-pdns # PowerDNS authoritative name server (DNSSEC enabled)
-pdns-recursor # PowerDNS recursive caching name server
-plzip # Parallel LZMA Data Compressor
 pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
 postgresql # Database
-powertop # diagnose issues with power consumption and power management
 pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
 quagga # zebra and related routing tools
 rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
 redis-native # key-value database
 rsyslog # Rocket-fast system for log processing
 scons # python build system
-smartmontools # hard disk diagnostic utilities
-squid # HTTP caching proxy
-stellarium  # Software for astronomers
 strace # System call diagnostic, instructional, and debugging tool
 subversion # Version Control System
 sudo # allows a user to run a program as another user
-suricata # network threat detection engine
 sysstat # utilities for monitoring system performance and usage activity
 texinfo # unix style documentation tooling
-texlive # major TeX-related typesetting programs, macro packages, and fonts.
-texmaker # TeX editor
-thermal_daemon # thermal management
 thunderbird # Email client
 tmux # terminal multiplexer (similar to screen)
 tzdata # timezone database
 unbundle # Recursively resolves a package list from a bundle definition
 unison # bidirectional file synchronization tool
 unzip # list, test, or extract files from a ZIP archive
-valgrind # suite of tools for debugging and profiling software code
-v4l-utils # video4linux tools
 weston-extras # Utilities and tools for the Wayland graphics compositor
 which # locate executables in the system
 wine # run PE32 executables with Linux
 wpa_supplicant # backend component controlling the wireless connections
-xfsprogs # XFS tools
 xterm # The basic X.Org terminal program desktop launcher
 xz # data compression/decompression tool
 yasm # assembler
 zip # create ZIP archives
-znc # IRC network bouncer
 zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
 zstd # realtime data compression/decompression tool

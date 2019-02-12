@@ -1,10 +1,9 @@
-# [TITLE]: pygobject
-# [DESCRIPTION]: The pygobject ecosystem
+# [TITLE]: igt-gpu-tools
+# [DESCRIPTION]: Intel graphics performance diagnostics
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(python3-basic)
 include(libX11client)
 
 # start of custom additions
@@ -12,4 +11,4 @@ include(libX11client)
 # end of custom additions
 
 # main package
-pygobject
+igt-gpu-tools

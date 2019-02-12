@@ -1,17 +1,14 @@
 # [TITLE]: pidgin
 # [DESCRIPTION]: Multi-protocol instant messagging client
 # [STATUS]: Active
-# [CAPABILITIES]:
+# [CAPABILITIES]: 
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
-include(libstdcpp)
 
+include(libX11client)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
 pidgin
-pidgin-sipe
-
-# included for screen-sharing capabilities with pidgin-sipe
-appstream
-FreeRDP
-Remmina
-gstreamer
-gst-plugins-base
-gst-plugins-good

@@ -1,15 +1,16 @@
-# [TITLE]: pygobject
-# [DESCRIPTION]: The pygobject ecosystem
+# [TITLE]: keepassxc
+# [DESCRIPTION]: KeePassXC is a password manager
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(python3-basic)
+include(qt-basic)
 include(libX11client)
+include(libstdcpp)
 
 # start of custom additions
 
 # end of custom additions
 
 # main package
-pygobject
+keepassxc
