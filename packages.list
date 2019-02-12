@@ -39,3 +39,4 @@ texlive # major TeX-related typesetting programs, macro packages, and fonts.
 texmaker # TeX editor
 thermal_daemon # thermal management
 xfsprogs # XFS tools
+docker-compose # Compose is a tool for defining and running multi-container Docker applications.
