@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 libstdc++
-gcc-libs-math 
+gcc-libs-math

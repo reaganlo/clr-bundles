@@ -44,14 +44,12 @@ db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
 e2fsprogs
 include(devpkg-elfutils)
-elfutils-dev32
 include(devpkg-expat)
 expat-dev32
 expect
@@ -148,7 +146,6 @@ libunistring-dev32
 libunwind-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
-libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
@@ -174,8 +171,6 @@ p11-kit-dev
 p11-kit-dev32
 include(patch)
 pbr
-include(devpkg-pcre)
-pcre-dev32
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable
@@ -247,7 +242,6 @@ sed
 setuptools
 setuptools-python
 shadow
-shared-mime-info
 slang-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
@@ -263,7 +257,6 @@ tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tk-dev
-include(tzdata)
 include(unzip)
 util-linux
 util-linux-bin

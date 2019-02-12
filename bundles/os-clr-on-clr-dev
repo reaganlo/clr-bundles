@@ -58,6 +58,7 @@ alabaster
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
+appstream-dev
 apr-dev
 apr-util-dev
 argcomplete
@@ -134,7 +135,6 @@ check
 check-dev
 check-dev32
 clear-font
-clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 cmake
@@ -301,7 +301,7 @@ gsl-dev
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
-include(devpkg-gtk)
+gtk+-dev
 gtk+-dev32
 gtk-doc
 gtk-doc-dev
@@ -349,6 +349,7 @@ include(devpkg-json-glib)
 json-glib-dev32
 jsonschema-python
 karchive-dev
+kauth
 kauth-dev
 include(kbd)
 kbookmarks-dev
@@ -362,7 +363,6 @@ kcrash-dev
 kdbusaddons-dev
 kded-dev
 kdesignerplugin-dev
-kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring
@@ -432,7 +432,6 @@ libcroco-dev
 libcroco-dev32
 libdatrie-dev
 libdatrie-dev32
-libdbusmenu-dev
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
@@ -468,6 +467,7 @@ libmicrohttpd-dev
 libmnl-dev
 libmnl-dev32
 libmodulemd-dev
+libmspack-dev
 libndp-dev
 libndp-dev32
 libnetfilter_conntrack-dev
@@ -526,7 +526,6 @@ libunwind-dev
 libunwind-dev32
 libusb-dev
 libuser-dev
-include(devpkg-libva)
 libvorbis-dev
 libvorbis-dev32
 libwebp-dev
@@ -564,7 +563,6 @@ makedepend
 man-db
 mariadb-dev
 mccabe-python
-media-player-info
 memkind-dev
 include(devpkg-mesa)
 mesa-dev32
@@ -615,6 +613,7 @@ open-iscsi
 open-isns-dev
 openal-soft-dev
 openblas
+openexr-dev
 openjade-dev
 openjdk
 openjdk-dev
@@ -735,12 +734,14 @@ pluggy-python
 include(plzip)
 pmdk-dev
 polkit-dev
+polkit-qt-dev
 include(devpkg-popt)
 postgresql-dev
 ppp-dev
 pretend
 prettytable
 processor-trace-dev
+procmail
 procps-ng
 procps-ng-bin
 protobuf-dev

@@ -98,6 +98,7 @@ include(devpkg-curl)
 curl-dev32
 cyrus-sasl-dev
 datefudge
+db
 db-dev
 dbus-broker
 include(devpkg-dbus)
@@ -203,7 +204,7 @@ gsl-dev
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
-include(devpkg-gtk)
+gtk+-dev
 gtk+-dev32
 gtk-doc
 gtk-doc-dev
@@ -236,7 +237,6 @@ kmod-dev
 kmod-dev32
 krb5-dev
 lcms2-dev
-leveldb
 include(devpkg-libX11)
 libX11-dev32
 libXScrnSaver-dev
@@ -400,6 +400,7 @@ include(devpkg-nss)
 nss-lib32
 octave-dev
 openal-soft-dev
+openjade-dev
 openjdk
 openjdk9
 openjdk9-dev
@@ -440,6 +441,7 @@ perl-HTTP-Negotiate
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
+perl-IPC-Run
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
@@ -478,8 +480,10 @@ pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
+postgresql-dev
 ppp-dev
 procps-ng
+procps-ng-bin
 protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
@@ -491,7 +495,6 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qtbase)
-qtbase-extras
 readline-dev
 readline-dev32
 rest-dev
@@ -510,6 +513,7 @@ shared-mime-info-dev
 six
 speex-dev
 speexdsp-dev
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
@@ -526,6 +530,7 @@ tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tiff-dev
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux

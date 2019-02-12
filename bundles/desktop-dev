@@ -112,7 +112,6 @@ check-dev32
 include(devpkg-cheese)
 chrpath
 clear-font
-clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 include(devpkg-clutter-gst)
@@ -311,7 +310,7 @@ gst-plugins-good
 include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+
-include(devpkg-gtk)
+gtk+-dev
 gtk+-dev32
 gtk-doc
 gtk-doc-dev
@@ -342,6 +341,7 @@ igt-gpu-tools-dev
 ilmbase-dev
 include(inkscape)
 intel-gmmlib-dev
+intel-media-driver-dev
 include(intltool)
 intltool-dev
 ipaddress

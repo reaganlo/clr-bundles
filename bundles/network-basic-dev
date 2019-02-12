@@ -59,6 +59,7 @@ db
 db-dev
 include(devpkg-dbus)
 dbus-dev32
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 include(diffutils)
@@ -116,6 +117,7 @@ gtk-doc-dev
 guile
 include(gzip)
 hostname
+hunspell-dev
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
@@ -187,6 +189,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+lua-dev
 lz4-dev
 lzo-dev
 m4

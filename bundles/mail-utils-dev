@@ -8,7 +8,6 @@ include(mail-utils)
 include(os-core-dev)
 CUnit-dev
 Cython
-Jinja2
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -157,9 +156,6 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libidn-dev
@@ -211,7 +207,6 @@ nettle-lib
 nettle-lib32
 notmuch-dev
 nss-altfiles
-openblas
 openldap-dev
 include(openssl)
 include(devpkg-openssl)
@@ -220,15 +215,14 @@ include(p11-kit)
 p11-kit-dev
 p11-kit-dev32
 include(patch)
-pbr
 include(devpkg-pcre)
 pcre-dev32
 perl-XML-Parser
 pigz
-pip
 pkg-config
 pkg-config-dev
 include(devpkg-popt)
+procmail
 procps-ng
 procps-ng-bin
 py
@@ -246,7 +240,6 @@ ruby
 sed
 setuptools
 setuptools-legacypython
-setuptools-python
 shadow
 shared-mime-info
 six

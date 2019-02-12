@@ -43,14 +43,12 @@ db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
 e2fsprogs
 include(devpkg-elfutils)
-elfutils-dev32
 include(devpkg-expat)
 expect
 include(flex)
@@ -142,7 +140,6 @@ libtool-dev
 libunwind-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
-libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
@@ -167,10 +164,8 @@ include(p11-kit)
 include(patch)
 pbr
 include(devpkg-pcre)
-pcre-dev32
 perl
 perl-IPC-Run
-perl-XML-Parser
 pigz
 pip
 pkg-config
@@ -191,7 +186,6 @@ sed
 setuptools
 setuptools-python
 shadow
-shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
@@ -206,7 +200,6 @@ tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tk-dev
-include(tzdata)
 include(unzip)
 util-linux
 util-linux-bin

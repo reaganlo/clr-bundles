@@ -39,12 +39,12 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 check
 check-dev
 check-dev32
-clr-hardware-files
 clr-rpm-config
 cmake
 coreutils
@@ -276,7 +276,6 @@ python-dev
 python3
 python3-core
 python3-dev
-include(devpkg-qtbase)
 rdma-core-dev
 readline-dev
 readline-dev32
@@ -301,6 +300,7 @@ include(texinfo)
 thin-provisioning-tools
 include(tzdata)
 include(unzip)
+usbutils-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

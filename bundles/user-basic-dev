@@ -19,7 +19,6 @@ CUnit-dev
 CUnit-dev32
 Cython
 Cython-legacypython
-Jinja2
 LVM2
 LVM2-dev
 LVM2-extras
@@ -93,7 +92,6 @@ check
 check-dev
 check-dev32
 clear-font
-clr-hardware-files
 clr-rpm-config
 cmake
 colord-dev
@@ -114,6 +112,7 @@ db-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+dbus-glib-dev
 dejagnu
 desktop-file-utils
 include(diffutils)
@@ -209,7 +208,7 @@ graphviz
 graphviz-extras
 grep
 groff
-include(devpkg-gtk)
+gtk+-dev
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)
@@ -220,6 +219,7 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
+hunspell-dev
 hwloc-dev
 include(devpkg-icu4c)
 icu4c-dev32
@@ -406,7 +406,6 @@ oath-toolkit-dev
 onig-dev
 open-iscsi
 open-isns-dev
-openblas
 openjdk
 openjdk9
 openjdk9-dev
@@ -501,6 +500,7 @@ polkit-dev
 include(devpkg-popt)
 prettytable
 processor-trace-dev
+procmail
 procps-ng
 procps-ng-bin
 protobuf-dev
