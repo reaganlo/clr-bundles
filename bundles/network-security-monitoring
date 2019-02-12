@@ -7,9 +7,7 @@
 include(libX11client)
 include(network-basic)
 include(qt-basic)
+include(network-monitor-node)
 
-bro
-hyperscan
 include(nmap)
-include(suricata)
-wireshark
+include(wireshark)

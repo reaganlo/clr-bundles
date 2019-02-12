@@ -1,0 +1,9 @@
+# [TITLE]: network-monitor-node
+# [DESCRIPTION]: Run network security monitoring node
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+bro
+hyperscan
+include(suricata)
