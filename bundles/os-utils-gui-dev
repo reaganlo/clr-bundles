@@ -622,7 +622,7 @@ psutil
 pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
-pygobject
+include(pygobject)
 pygobject-dev
 pygobject-python
 pyparsing

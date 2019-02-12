@@ -1,7 +1,7 @@
 # [TITLE]: openmpi
 # [DESCRIPTION]: HPC tools for running on jobs on clusters
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

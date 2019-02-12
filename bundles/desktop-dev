@@ -744,7 +744,7 @@ pycairo-dev
 pycparser
 pycparser-legacypython
 pycparser-python
-pygobject
+include(pygobject)
 pygobject-dev
 pygobject-python
 pylint

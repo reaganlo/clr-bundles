@@ -1,7 +1,7 @@
 # [TITLE]: inkscape
 # [DESCRIPTION]: Inkscape SVG drawing program
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

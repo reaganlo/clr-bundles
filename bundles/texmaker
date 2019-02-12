@@ -1,7 +1,7 @@
 # [TITLE]: texmaker
 # [DESCRIPTION]: TeX editor
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

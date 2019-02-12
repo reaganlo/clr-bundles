@@ -1,7 +1,7 @@
 # [TITLE]: keepassxc
 # [DESCRIPTION]: KeePassXC is a password manager
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

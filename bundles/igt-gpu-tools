@@ -1,7 +1,7 @@
 # [TITLE]: igt-gpu-tools
 # [DESCRIPTION]: Intel graphics performance diagnostics
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

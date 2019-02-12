@@ -1,7 +1,7 @@
 # [TITLE]: llvm
 # [DESCRIPTION]: LLVM/Clang compiler toolchain
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

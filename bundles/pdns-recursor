@@ -1,7 +1,7 @@
 # [TITLE]: pdns-recursor
 # [DESCRIPTION]: PowerDNS recursive caching name server
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

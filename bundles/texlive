@@ -1,7 +1,7 @@
 # [TITLE]: texlive
 # [DESCRIPTION]: major TeX-related typesetting programs, macro packages, and fonts.
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

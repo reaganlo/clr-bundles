@@ -1,7 +1,7 @@
 # [TITLE]: flac
 # [DESCRIPTION]: FLAC audio format tools
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

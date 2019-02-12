@@ -1,7 +1,7 @@
 # [TITLE]: libva-utils
 # [DESCRIPTION]: collection of utilities and examples to exercise VA-API (Video Acceleration API)
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

@@ -760,7 +760,7 @@ pycparser-legacypython
 pycparser-python
 pycurl
 pyflakes-python
-pygobject
+include(pygobject)
 pyparsing
 pytest
 pytest-runner

@@ -1,7 +1,7 @@
 # [TITLE]: darktable
 # [DESCRIPTION]: Photography workflow application
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

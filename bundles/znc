@@ -1,7 +1,7 @@
 # [TITLE]: znc
 # [DESCRIPTION]: IRC network bouncer
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

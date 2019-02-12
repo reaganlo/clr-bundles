@@ -1,7 +1,7 @@
 # [TITLE]: gimp
 # [DESCRIPTION]: GNU Image Manipulation Program
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
