@@ -7,7 +7,13 @@
 include(libX11client)
 
 # start of custom additions
-
+pidgin-sipe
+appstream
+FreeRDP
+Remmina
+gstreamer
+gst-plugins-base
+gst-plugins-good
 # end of custom additions
 
 # main package
