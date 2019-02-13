@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-qtdeclarative
-# [DESCRIPTION]: All content for pkgconfig file qtdeclarative.pc
+# [TITLE]: devpkg-qtsvg
+# [DESCRIPTION]: All content for pkgconfig file qtsvg.pc
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
@@ -7,4 +7,4 @@
 include(devpkg-base)
 include(devpkg-qtbase)
 
-qtdeclarative-dev
+qtsvg-dev

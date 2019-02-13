@@ -119,7 +119,15 @@ pkgconfig(libssl)	devpkg-openssl
 pkgconfig(libcrypto)	devpkg-openssl
 pkgconfig(popt)	devpkg-popt
 pkgconfig(Qt5Core)	devpkg-qtbase
-pkgconfig(Qt5Widgets)	devpkg-qtbase
+pkgconfig(Qt5WebEngine)	devpkg-qtwebengine
 pkgconfig(Qt5Gui)	devpkg-qtbase
+pkgconfig(Qt5Qml)	devpkg-qtdeclarative
+pkgconfig(Qt5Network)	devpkg-qtbase
+pkgconfig(Qt5Quick)	devpkg-qtdeclarative
+pkgconfig(Qt5WebEngineCore)	devpkg-qtwebengine
+pkgconfig(Qt5WebChannel)	devpkg-qtwebchannel
+pkgconfig(Qt5Positioning)	devpkg-qtlocation
+pkgconfig(Qt5Svg)	devpkg-qtsvg
+pkgconfig(Qt5Widgets)	devpkg-qtbase
 pkgconfig(systemd)	devpkg-systemd
 pkgconfig(xcb-proto)	devpkg-xcb-proto

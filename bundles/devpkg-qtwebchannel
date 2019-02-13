@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-qtwebengine
-# [DESCRIPTION]: All content for pkgconfig file qtwebengine.pc
+# [TITLE]: devpkg-qtwebchannel
+# [DESCRIPTION]: All content for pkgconfig file qtwebchannel.pc
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
@@ -7,7 +7,5 @@
 include(devpkg-base)
 include(devpkg-qtbase)
 include(devpkg-qtdeclarative)
-include(devpkg-qtlocation)
-include(devpkg-qtwebchannel)
 
-qtwebengine-dev
+qtwebchannel-dev

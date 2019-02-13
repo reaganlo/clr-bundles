@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-qtdeclarative
-# [DESCRIPTION]: All content for pkgconfig file qtdeclarative.pc
+# [TITLE]: devpkg-qtlocation
+# [DESCRIPTION]: All content for pkgconfig file qtlocation.pc
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
@@ -7,4 +7,4 @@
 include(devpkg-base)
 include(devpkg-qtbase)
 
-qtdeclarative-dev
+qtlocation-dev
