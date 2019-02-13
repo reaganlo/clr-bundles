@@ -1,7 +1,7 @@
 # [TITLE]: docker-compose
 # [DESCRIPTION]: Compose is a tool for defining and running multi-container Docker applications.
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

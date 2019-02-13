@@ -114,7 +114,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -239,6 +239,8 @@ krb5-dev
 lcms2-dev
 include(devpkg-libX11)
 libX11-dev32
+libX11-lib
+libX11-lib32
 libXScrnSaver-dev
 libXcursor-dev
 libXcursor-dev32
@@ -366,7 +368,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 llvm-dev
 lua-dev
 m4
@@ -487,7 +489,7 @@ procps-ng-bin
 protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
-include(pygobject)
+pygobject
 python-core
 python-dev
 python3
@@ -542,7 +544,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32

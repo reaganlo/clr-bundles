@@ -166,7 +166,7 @@ include(docbook-utils)
 docbook-xml
 include(docutils)
 double-conversion-dev
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -205,7 +205,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -288,7 +288,7 @@ gobject-introspection-data
 gobject-introspection-dev
 googletest-dev
 gperf
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -339,7 +339,7 @@ idna
 idna-python
 igt-gpu-tools-dev
 ilmbase-dev
-include(inkscape)
+inkscape
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -376,6 +376,8 @@ lensfun-dev
 include(less)
 include(devpkg-libX11)
 libX11-dev32
+libX11-lib
+libX11-lib32
 libXScrnSaver-dev
 libXcursor-dev
 libXfont-dev
@@ -546,7 +548,7 @@ include(devpkg-libxslt)
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 llvm-dev
 lmdb-dev
 lua-dev
@@ -744,7 +746,7 @@ pycairo-dev
 pycparser
 pycparser-legacypython
 pycparser-python
-include(pygobject)
+pygobject
 pygobject-dev
 pygobject-python
 pylint
@@ -767,7 +769,7 @@ qpdf-dev
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-qtdeclarative)
-qtsvg-dev
+include(devpkg-qtsvg)
 rdma-core-dev
 readline-dev
 readline-dev32
@@ -852,7 +854,7 @@ v4l-utils-dev
 vala
 vala-bin
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 virtualenv
 volume_key-dev

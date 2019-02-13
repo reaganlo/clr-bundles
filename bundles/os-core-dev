@@ -41,7 +41,7 @@ dejagnu
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-dev
 include(devpkg-elfutils)
@@ -198,7 +198,7 @@ util-linux
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-include(valgrind)
+valgrind
 valgrind-dev
 include(which)
 xmlto

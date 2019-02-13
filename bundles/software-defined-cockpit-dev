@@ -10,6 +10,7 @@ AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
 Cython
+Cython-legacypython
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -33,6 +34,7 @@ acrn-hypervisor-dev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 asciidoc
+assimp-dev
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -47,6 +49,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
+bdftopcf
 include(binutils)
 binutils-dev
 include(bison)
@@ -56,6 +59,7 @@ boost-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
+buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -102,7 +106,7 @@ include(docbook-utils)
 docbook-xml
 include(docutils)
 double-conversion-dev
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -122,9 +126,13 @@ include(flex)
 flex-dev
 fltk-dev
 font-bitstream-type1
+font-util-dev
+font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
+fontforge
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -219,6 +227,8 @@ krb5-dev
 lcms2-dev
 include(devpkg-libX11)
 libX11-dev32
+libX11-lib
+libX11-lib32
 libXScrnSaver-dev
 libXcursor-dev
 libXft-dev
@@ -261,6 +271,7 @@ libevent-dev32
 libexif-dev
 include(devpkg-libffi)
 libffi-dev32
+libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
@@ -333,7 +344,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 llvm-dev
 lz4-dev
 m4
@@ -343,6 +354,8 @@ mediasdk-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mkfontdir-bin
+mkfontscale-bin
 mpc-dev
 mpfr-dev
 mpg123-dev
@@ -416,8 +429,14 @@ python3-dev
 qemu
 include(devpkg-qtbase)
 qtbase-extras
+qtconnectivity-dev
 include(devpkg-qtdeclarative)
-qtsvg-dev
+qtmultimedia-dev
+qtsensors-dev
+qtserialport-dev
+include(devpkg-qtsvg)
+qttools-dev
+qtwebsockets-dev
 readline-dev
 readline-dev32
 rest-dev
@@ -429,6 +448,7 @@ sbc-dev
 sbc-dev32
 include(scons)
 sed
+setuptools
 shadow
 shared-mime-info
 shared-mime-info-dev
@@ -464,7 +484,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 wavpack-dev
 include(devpkg-wayland)
@@ -485,6 +505,7 @@ xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
+yaml-dev
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32

@@ -90,7 +90,7 @@ include(diffutils)
 include(docbook-utils)
 docbook-xml
 double-conversion-dev
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -115,7 +115,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -201,6 +201,8 @@ krb5-dev
 lcms2-dev
 include(devpkg-libX11)
 libX11-dev32
+libX11-lib
+libX11-lib32
 libXft-dev
 libXft-dev32
 libXt-dev
@@ -297,7 +299,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 llvm-dev
 lz4-dev
 m4
@@ -381,7 +383,7 @@ qtdatavis3d-dev
 include(devpkg-qtdeclarative)
 qtgamepad-dev
 qtimageformats-dev
-qtlocation-dev
+include(devpkg-qtlocation)
 qtmultimedia-dev
 qtnetworkauth-dev
 qtquickcontrols2-dev
@@ -391,11 +393,11 @@ qtsensors-dev
 qtserialbus-dev
 qtserialport-dev
 qtspeech-dev
-qtsvg-dev
+include(devpkg-qtsvg)
 qttools-dev
 qtvirtualkeyboard-dev
 qtwayland-dev
-qtwebchannel-dev
+include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev
 qtxmlpatterns-dev
@@ -442,7 +444,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32

@@ -52,7 +52,7 @@ desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 include(devpkg-elfutils)
 elfutils-dev32
@@ -230,7 +230,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
-include(valgrind)
+valgrind
 valgrind-dev
 include(which)
 xcb-proto

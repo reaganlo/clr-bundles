@@ -128,7 +128,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(docutils)
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 e2fsprogs-dev
@@ -163,7 +163,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -231,7 +231,7 @@ gobject-introspection
 gobject-introspection-dev
 googletest-dev
 gperf
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -275,7 +275,7 @@ include(devpkg-icu4c)
 icu4c-dev32
 igt-gpu-tools-dev
 ilmbase-dev
-include(inkscape)
+inkscape
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -305,6 +305,8 @@ ldb-dev
 lensfun-dev
 include(devpkg-libX11)
 libX11-dev32
+libX11-lib
+libX11-lib32
 libXScrnSaver-dev
 libXcursor-dev
 libXfont-dev
@@ -464,7 +466,7 @@ lightdm
 links
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 llvm-dev
 lmdb-dev
 lua-dev
@@ -622,7 +624,7 @@ psutil
 pugixml-dev
 pulseaudio-dev
 pulseaudio-dev32
-include(pygobject)
+pygobject
 pygobject-dev
 pygobject-python
 pyparsing
@@ -701,7 +703,7 @@ util-macros-dev32
 vala
 vala-bin
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 vte-dev
 include(devpkg-wayland)
