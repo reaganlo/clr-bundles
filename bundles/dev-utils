@@ -48,5 +48,6 @@ source-highlight
 include(strace)
 stress-ng
 tig
+trace-cmd
 unifdef
 include(valgrind)
