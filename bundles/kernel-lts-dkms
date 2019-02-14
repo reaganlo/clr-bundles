@@ -1,0 +1,9 @@
+# [TITLE]: kernel-lts-dkms
+# [DESCRIPTION]: Support module building/loading via DKMS in LTS kernel
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(c-basic)
+include(linux-lts-dev)
+clr-ignore-mod-sig
+dkms
