@@ -1,12 +1,12 @@
 # [TITLE]: weechat
 # [DESCRIPTION]: Internet Relay Chat (IRC) client
 # [STATUS]: Active
-# [CAPABILITIES]:
+# [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 
 # start of custom additions
-
+include(libstdcpp)
 # end of custom additions
 
 # main package
