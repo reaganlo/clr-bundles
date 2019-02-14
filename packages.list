@@ -40,4 +40,4 @@ texmaker # TeX editor
 thermal_daemon # thermal management
 xfsprogs # XFS tools
 docker-compose # Compose is a tool for defining and running multi-container Docker applications.
-icecream # Distributed network compilation 
+icecream # Distributed network compilation

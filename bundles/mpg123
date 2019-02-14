@@ -1,9 +1,10 @@
 # [TITLE]: mpg123
 # [DESCRIPTION]: play and decode mp3 files
 # [STATUS]: Active
-# [CAPABILITIES]:
+# [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(libstdcpp)
 
 # start of custom additions
 
