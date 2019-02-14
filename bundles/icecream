@@ -1,14 +1,14 @@
-# [TITLE]: gftp
-# [DESCRIPTION]: Text mode and GUI FTP Client
+# [TITLE]: icecream
+# [DESCRIPTION]: Distributed network compilation
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(libX11client)
+include(libstdcpp)
 
 # start of custom additions
-include(libstdcpp)
+
 # end of custom additions
 
 # main package
-gftp
+icecream

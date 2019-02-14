@@ -57,7 +57,6 @@ hugo # Static Web site generator
 hwloc # hardware affinity tools
 iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
 icdiff # Improved Color Differences between similar files
-icecream # Distributed network compilation
 iftop # display bandwidth usage on an interface
 intltool # internationalization tool for develops
 inotify-tools # monitor for file system events
