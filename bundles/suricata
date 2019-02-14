@@ -1,13 +1,13 @@
 # [TITLE]: suricata
 # [DESCRIPTION]: network threat detection engine
 # [STATUS]: Active
-# [CAPABILITIES]:
+# [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
 
 # start of custom additions
-
+include(libstdcpp)
 # end of custom additions
 
 # main package
