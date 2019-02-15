@@ -26,7 +26,6 @@ bluedevil
 breeze
 breeze-gtk
 breeze-icons
-plasma-discover
 drkonqi
 dolphin
 dolphin-plugins
@@ -99,6 +98,7 @@ oxygen
 phonon
 plasma-browser-integration
 plasma-desktop
+plasma-discover
 plasma-integration
 plasma-nm
 plasma-pa
@@ -106,6 +106,7 @@ plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
 powerdevil
+print-manager
 pulseaudio
 sddm
 sddm-autostart
