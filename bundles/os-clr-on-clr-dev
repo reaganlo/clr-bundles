@@ -95,7 +95,6 @@ bash-completion
 bash-completion-dev
 bats
 include(bc)
-bdftopcf
 beignet-dev
 include(binutils)
 binutils-dev
@@ -221,13 +220,9 @@ flac-dev32
 include(flex)
 flex-dev
 font-bitstream-type1
-font-util-dev
-font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
-fontforge
-fonttools
 freeglut-dev
 freetype
 include(devpkg-freetype)
@@ -449,7 +444,6 @@ libevent-dev
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
-libfontenc-dev
 libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
@@ -575,8 +569,6 @@ memkind-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
-mkfontdir-bin
-mkfontscale-bin
 mobile-broadband-provider-info
 mock
 mozjs-dev
