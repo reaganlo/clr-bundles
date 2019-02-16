@@ -75,6 +75,8 @@ pkgconfig(epoxy)	devpkg-libepoxy
 pkgconfig(libudev)	devpkg-systemd
 pkgconfig(libinput)	devpkg-libinput
 pkgconfig(dbus-1)	devpkg-dbus
+pkgconfig(ext2fs)	devpkg-e2fsprogs
+pkgconfig(com_err)	devpkg-e2fsprogs
 pkgconfig(evolution-mail-3.0)	devpkg-evolution
 pkgconfig(evolution-shell-3.0)	devpkg-evolution
 pkgconfig(gtk+-3.0)	devpkg-gtk3
@@ -107,11 +109,15 @@ pkgconfig(libarchive)	devpkg-libarchive
 pkgconfig(libcurl)	devpkg-curl
 pkgconfig(libffi)	devpkg-libffi
 pkgconfig(libjpeg)	devpkg-libjpeg-turbo
+pkgconfig(LLVMSPIRVLib)	devpkg-llvm
 pkgconfig(liblzma)	devpkg-xz
 pkgconfig(libR)	devpkg-R
 pkgconfig(libva)	devpkg-libva
 pkgconfig(libxslt)	devpkg-libxslt
+pkgconfig(mozjs-52)	devpkg-mozjs52
+pkgconfig(mozjs-60)	devpkg-mozjs60
 pkgconfig(ncurses)	devpkg-ncurses
+pkgconfig(ogg)	devpkg-libogg
 pkgconfig(ompi)	devpkg-openmpi
 pkgconfig(opencv)	devpkg-opencv
 pkgconfig(openssl)	devpkg-openssl
@@ -129,5 +135,10 @@ pkgconfig(Qt5WebChannel)	devpkg-qtwebchannel
 pkgconfig(Qt5Positioning)	devpkg-qtlocation
 pkgconfig(Qt5Svg)	devpkg-qtsvg
 pkgconfig(Qt5Widgets)	devpkg-qtbase
+pkgconfig(Qt5UiTools)	devpkg-qttools
+pkgconfig(readline)	devpkg-readline
+pkgconfig(shared-mime-info)	devpkg-shared-mime-info
 pkgconfig(systemd)	devpkg-systemd
 pkgconfig(xcb-proto)	devpkg-xcb-proto
+pkgconfig(xv)	devpkg-libXv
+pkgconfig(videoproto)	devpkg-xorgproto
