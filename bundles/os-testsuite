@@ -10,7 +10,6 @@ include(diffutils)
 include(file)
 include(git)
 include(make)
-include(openssh-server)
 include(perl-basic)
 include(sudo)
 
@@ -19,6 +18,8 @@ bats
 include(binutils)
 expect
 glibc-bin
+openssh
+openssh-extras
 perl
 perl-YAML-Tiny
 rsync
