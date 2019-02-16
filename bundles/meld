@@ -1,7 +1,7 @@
 # [TITLE]: meld
 # [DESCRIPTION]: visual file difference and merging tool, targeted at developers
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

@@ -1,7 +1,7 @@
 # [TITLE]: icdiff
 # [DESCRIPTION]: Improved Color Differences between similar files
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

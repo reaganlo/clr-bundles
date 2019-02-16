@@ -1,10 +1,11 @@
 # [TITLE]: irssi
 # [DESCRIPTION]: Internet Relay Chat (IRC) client program
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(perl-basic)
+include(libglib)
 
 # start of custom additions
 

@@ -1,7 +1,7 @@
 # [TITLE]: docutils
 # [DESCRIPTION]: Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

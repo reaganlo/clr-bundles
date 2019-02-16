@@ -1,7 +1,7 @@
 # [TITLE]: diffoscope
 # [DESCRIPTION]: In-depth comparison of files, archives, and directories
 # [STATUS]: Active
-# [CAPABILITIES]: 
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
