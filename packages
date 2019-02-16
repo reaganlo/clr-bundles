@@ -31,7 +31,6 @@ docbook-utils # docbook tools
 dosfstools # (V)FAT manipulation tools
 dovecot # Security focused IMAP and POP3 email server
 dtc # Device Tree Compiler, to describe non-discoverable hardware
-duperemove # Tool for finding duplicated extents and submitting them for deduplication
 ethtool # Utility for displaying and modifying some parameters of network interface controller
 file # program for recognizing the type of data contained in a computer file
 findutils # basic directory searching utilities e.g. find, xargs, and locate
@@ -67,7 +66,6 @@ libxml2 # XML processing tools
 libxslt # XML documentation processing tools
 linux-dev # programs for developing Linux
 linux-lts-dev # programs for developing Linux LTS version
-linux-tools # Tools for use in Linux
 lm-sensors # Read various system sensors, sometimes using scary methods
 ltp # Linux Test Project
 lz4 # tools to compress and decompress lz4 files

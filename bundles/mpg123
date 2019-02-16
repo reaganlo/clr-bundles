@@ -7,7 +7,7 @@
 include(libstdcpp)
 
 # start of custom additions
-
+include(libglib)
 # end of custom additions
 
 # main package

@@ -5,7 +5,7 @@
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 include(R-datasets)
-
+include(python3-basic)
 #
 # Popular R packages
 #

@@ -5,6 +5,7 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(git)
 include(libstdcpp)
+include(libglib)
 
 flatpak
 flatpak-builder

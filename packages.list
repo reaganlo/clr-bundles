@@ -56,3 +56,6 @@ meld # visual file difference and merging tool, targeted at developers
 mkosi # generate disk images
 unbundle # Recursively resolves a package list from a bundle definition
 irssi # Internet Relay Chat (IRC) client program
+lightdm # LightDM login manager with GTK greeter
+duperemove # Tool for finding duplicated extents and submitting them for deduplication
+linux-tools # Tools for use in Linux 

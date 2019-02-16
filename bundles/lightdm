@@ -3,20 +3,13 @@
 # [STATUS]: Active
 # [CAPABILITIES]: Login Manager for KDE, Xfce, i3 and custom desktop sessions.
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include(libstdcpp)
 
-# Core DM functionality
-accountsservice
+include(libX11client)
+include(libglib)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
 lightdm
-polkit
-
-# below items are for the GTK greeter
-at-spi2-core
-clear-font
-font-bitstream-type1
-gdk-pixbuf
-hicolor-icon-theme
-lightdm-gtk-greeter
-mkfontdir
-mkfontscale
-powerline-fonts

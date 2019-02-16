@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(libX11client)
+include)perl-basic)
 
 accountsservice-lib
 gtk3-lib

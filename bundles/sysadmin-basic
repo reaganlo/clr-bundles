@@ -13,6 +13,8 @@ include(perl-basic)
 include(sudo)
 include(which)
 include(acpica-unix2)
+include(libglib)
+
 aspell
 aspell-en
 bash
