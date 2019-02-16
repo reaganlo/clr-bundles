@@ -1,0 +1,13 @@
+# [TITLE]: diffutils
+# [DESCRIPTION]: Tools for file comparisons and differences
+# [STATUS]: Active
+# [CAPABILITIES]: 
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+diffutils

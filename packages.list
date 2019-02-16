@@ -41,3 +41,5 @@ thermal_daemon # thermal management
 xfsprogs # XFS tools
 docker-compose # Compose is a tool for defining and running multi-container Docker applications.
 icecream # Distributed network compilation
+diffutils # Tools for file comparisons and differences
+diffoscope # In-depth comparison of files, archives, and directories 

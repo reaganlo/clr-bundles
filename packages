@@ -31,8 +31,6 @@ cpio # File archiver utility
 curl # Transfer data to/from a URL
 cve-bin-tool # CVE scanning tool
 dfu-util # Device Firmware Upgrade Utilities
-diffoscope # In-depth comparison of files, archives, and directories
-diffutils # Tools for file comparisons and differences
 docbook-utils # docbook tools
 docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
 dosfstools # (V)FAT manipulation tools
