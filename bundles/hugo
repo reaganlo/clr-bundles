@@ -1,14 +1,13 @@
-# [TITLE]: virt-manager
-# [DESCRIPTION]: Virtualization Management tool
+# [TITLE]: hugo
+# [DESCRIPTION]: Static Web site generator
 # [STATUS]: Active
 # [CAPABILITIES]: 
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(python3-basic)
 
 # start of custom additions
 
 # end of custom additions
 
 # main package
-virt-manager
+hugo

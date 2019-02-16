@@ -43,4 +43,16 @@ docker-compose # Compose is a tool for defining and running multi-container Dock
 icecream # Distributed network compilation
 diffutils # Tools for file comparisons and differences
 diffoscope # In-depth comparison of files, archives, and directories
-wine # run PE32 executables with Linux 
+wine # run PE32 executables with Linux
+virt-manager # Virtualization Management tool
+audit # system audit tools
+bmap-tools # Tools for creating the block map (bmap) for a file and copying files. Alternative to "dd" or "cp"
+borgbackup # Deduplicating archiver with compression and authenticated encryption.
+cve-bin-tool # CVE scanning tool
+docutils # Tools for converting text to other formats (e.g. HTML, XML, LaTeX)
+hugo # Static Web site generator
+icdiff # Improved Color Differences between similar files
+meld # visual file difference and merging tool, targeted at developers
+mkosi # generate disk images
+unbundle # Recursively resolves a package list from a bundle definition
+irssi # Internet Relay Chat (IRC) client program
