@@ -42,4 +42,5 @@ xfsprogs # XFS tools
 docker-compose # Compose is a tool for defining and running multi-container Docker applications.
 icecream # Distributed network compilation
 diffutils # Tools for file comparisons and differences
-diffoscope # In-depth comparison of files, archives, and directories 
+diffoscope # In-depth comparison of files, archives, and directories
+wine # run PE32 executables with Linux 

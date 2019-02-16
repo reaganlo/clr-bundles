@@ -117,7 +117,6 @@ unison # bidirectional file synchronization tool
 unzip # list, test, or extract files from a ZIP archive
 weston-extras # Utilities and tools for the Wayland graphics compositor
 which # locate executables in the system
-wine # run PE32 executables with Linux
 wpa_supplicant # backend component controlling the wireless connections
 xterm # The basic X.Org terminal program desktop launcher
 xz # data compression/decompression tool
