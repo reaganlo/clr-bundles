@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(os-core)
-inclide(libglib)
+include(libglib)
 
 pacrunner
