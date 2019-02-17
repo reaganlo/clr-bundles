@@ -155,4 +155,5 @@ yelp
 cups
 ModemManager
 ntfs-3g
+swupd-search
 include(thermal_daemon)

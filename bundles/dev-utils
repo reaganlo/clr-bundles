@@ -47,6 +47,7 @@ rt-tests
 source-highlight
 include(strace)
 stress-ng
+swupd-search
 tig
 trace-cmd
 unifdef
