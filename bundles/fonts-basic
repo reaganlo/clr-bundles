@@ -5,6 +5,7 @@
 # [MAINTAINER]: Anselmo L. S. Melo <anselmo.melo@intel.com>
 include(libstdcpp)
 include(libglib)
+include(python3-basic)
 
 # tools
 fontconfig

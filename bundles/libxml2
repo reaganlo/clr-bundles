@@ -1,16 +1,14 @@
-# [TITLE]: offlineimap
-# [DESCRIPTION]: locally copy imap email
+# [TITLE]: libxml2
+# [DESCRIPTION]: XML processing tools
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(python3-basic)
 
 # start of custom additions
-include(libstdcpp)
-include(libglib)
-include(python2basic)
 
 # end of custom additions
 
 # main package
-offlineimap
+libxml2

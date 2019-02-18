@@ -27,7 +27,6 @@ cloc # Count lines of code for many programming languages
 cpio # File archiver utility
 curl # Transfer data to/from a URL
 dfu-util # Device Firmware Upgrade Utilities
-docbook-utils # docbook tools
 dosfstools # (V)FAT manipulation tools
 dovecot # Security focused IMAP and POP3 email server
 dtc # Device Tree Compiler, to describe non-discoverable hardware
@@ -62,7 +61,6 @@ keychain # manage SSH and GPG keys
 less # the less page
 libarchive # various archiving tools
 libnl # Low level firewall tools
-libxml2 # XML processing tools
 libxslt # XML documentation processing tools
 linux-dev # programs for developing Linux
 linux-lts-dev # programs for developing Linux LTS version
@@ -92,7 +90,6 @@ rebootmgr # Performs scheduled or immediate system reboots after the kernel or c
 redis-native # key-value database
 rsyslog # Rocket-fast system for log processing
 scons # python build system
-strace # System call diagnostic, instructional, and debugging tool
 subversion # Version Control System
 sudo # allows a user to run a program as another user
 sysstat # utilities for monitoring system performance and usage activity
