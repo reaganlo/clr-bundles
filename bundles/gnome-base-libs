@@ -6,9 +6,12 @@
 
 include(libglib)
 include(libX11client)
+include(desktop-gnomelibs)
 
-libcanberra-lib
 gnome-desktop-lib
 gnome-online-accounts-lib
-
-
+gobject-introspection-lib
+libcanberra-lib
+libpeas-lib
+dbus-glib-lib
+gjs-lib
