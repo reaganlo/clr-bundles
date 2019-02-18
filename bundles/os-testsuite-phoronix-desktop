@@ -63,7 +63,7 @@ hwloc-dev
 jemalloc-dev
 jemalloc-dev
 libXpm
-libXv-dev
+include(devpkg-libXv)
 libXvMC-dev
 libXxf86dga
 libaio-dev
@@ -75,7 +75,7 @@ libgpg-error-dev
 include(devpkg-libjpeg-turbo)
 libksba-dev
 libnl-dev
-libogg-dev
+include(devpkg-libogg)
 include(devpkg-libpng)
 libtool
 libvorbis-dev

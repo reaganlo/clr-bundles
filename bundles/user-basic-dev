@@ -142,10 +142,10 @@ docbook-xml
 include(docutils)
 docutils-python
 include(dosfstools)
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
-e2fsprogs-dev
+include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
@@ -223,7 +223,7 @@ gobject-introspection-dev
 googletest-dev
 gperf
 gperftools-dev
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -291,7 +291,7 @@ libXt-dev
 libXt-dev32
 libXtst-dev
 libXtst-dev32
-libXv-dev
+include(devpkg-libXv)
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
@@ -394,8 +394,8 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
-llvm
-llvm-dev
+include(llvm)
+include(devpkg-llvm)
 lmdb-dev
 lua-dev
 lz4-dev
@@ -408,7 +408,7 @@ mesa-dev32
 meson
 mock
 mozjs-dev
-mozjs52-dev
+include(devpkg-mozjs52)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -562,9 +562,9 @@ pytz
 qemu
 include(devpkg-qtbase)
 qtbase-extras
-qttools-dev
+include(devpkg-qttools)
 rdma-core-dev
-readline-dev
+include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
@@ -582,7 +582,7 @@ setuptools-python
 setuptools_scm
 shadow
 shared-mime-info
-shared-mime-info-dev
+include(devpkg-shared-mime-info)
 six
 six-legacypython
 slang-dev
@@ -639,7 +639,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 vim
 virtualenv

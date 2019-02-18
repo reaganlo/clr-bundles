@@ -72,7 +72,7 @@ include(docbook-utils)
 docbook-xml
 include(docutils)
 docutils-python
-doxygen
+include(doxygen)
 e2fsprogs
 include(devpkg-elfutils)
 enum34
@@ -292,7 +292,7 @@ python3-dev
 pytz
 include(devpkg-qtbase)
 qtbase-extras
-readline-dev
+include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
@@ -331,7 +331,7 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 include(which)

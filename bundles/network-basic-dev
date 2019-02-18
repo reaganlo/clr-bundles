@@ -88,10 +88,10 @@ include(docbook-utils)
 docbook-xml
 include(docutils)
 docutils-python
-doxygen
+include(doxygen)
 dpdk-dev
 e2fsprogs
-e2fsprogs-dev
+include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 ebtables-dev
 include(devpkg-elfutils)
@@ -351,7 +351,7 @@ pytz
 include(devpkg-qtbase)
 qtbase-extras
 rdma-core-dev
-readline-dev
+include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
@@ -393,7 +393,7 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 include(which)

@@ -27,7 +27,7 @@ breeze
 breeze-gtk
 breeze-icons
 drkonqi
-dolphin
+include(dolphin)
 dolphin-plugins
 exiv2
 include(gpgme)
@@ -71,12 +71,12 @@ knotifyconfig
 kpackage
 kparts
 kpty
-konsole
+include(konsole)
 kscreen
 kscreenlocker
 kservice
 ksshaskpass
-ksysguard
+include(ksysguard)
 ktextwidgets
 kwallet
 kwallet-pam

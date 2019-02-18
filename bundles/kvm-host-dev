@@ -93,10 +93,10 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(dosfstools)
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
-e2fsprogs-dev
+include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
@@ -211,7 +211,7 @@ libXt-dev
 libXt-dev32
 libXtst-dev
 libXtst-dev32
-libXv-dev
+include(devpkg-libXv)
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
@@ -298,8 +298,8 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-llvm
-llvm-dev
+include(llvm)
+include(devpkg-llvm)
 lua-dev
 lz4-dev
 lzo-dev
@@ -309,7 +309,7 @@ include(devpkg-mesa)
 mesa-dev32
 meson
 mozjs-dev
-mozjs52-dev
+include(devpkg-mozjs52)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -381,7 +381,7 @@ python3-core
 python3-dev
 qemu
 rdma-core-dev
-readline-dev
+include(devpkg-readline)
 readline-dev32
 requests
 rest-dev
@@ -393,7 +393,7 @@ sed
 setuptools
 shadow
 shared-mime-info
-shared-mime-info-dev
+include(devpkg-shared-mime-info)
 six
 snappy-dev
 spice
@@ -429,7 +429,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 include(devpkg-wayland)

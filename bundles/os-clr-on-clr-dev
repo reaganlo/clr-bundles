@@ -184,11 +184,11 @@ include(docutils)
 docutils-python
 include(dosfstools)
 double-conversion-dev
-doxygen
+include(doxygen)
 dulwich
 e2fsprogs
 e2fsprogs-data
-e2fsprogs-dev
+include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
@@ -288,7 +288,7 @@ golang-github-cpuguy83-go-md2man
 googletest-dev
 gperf
 gperftools-dev
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -410,7 +410,7 @@ libXt-dev
 libXt-dev32
 libXtst-dev
 libXtst-dev32
-libXv-dev
+include(devpkg-libXv)
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
@@ -483,7 +483,7 @@ libnftnl-dev
 libnftnl-dev32
 libnl-dev
 libnl-dev32
-libogg-dev
+include(devpkg-libogg)
 libogg-dev32
 libpcap-dev
 include(devpkg-libpciaccess)
@@ -550,8 +550,8 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
-llvm
-llvm-dev
+include(llvm)
+include(devpkg-llvm)
 lmdb-dev
 lua
 lua-dev
@@ -572,7 +572,7 @@ meson
 mobile-broadband-provider-info
 mock
 mozjs-dev
-mozjs52-dev
+include(devpkg-mozjs52)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -733,7 +733,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-plzip
+include(plzip)
 pmdk-dev
 polkit-dev
 polkit-qt-dev
@@ -762,7 +762,7 @@ pycparser-legacypython
 pycparser-python
 pycurl
 pyflakes-python
-pygobject
+include(pygobject)
 pyparsing
 pytest
 pytest-runner
@@ -790,11 +790,11 @@ qtmultimedia-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
-qttools-dev
+include(devpkg-qttools)
 qtwebsockets-dev
 rdma-core-dev
 re2c
-readline-dev
+include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
@@ -821,7 +821,7 @@ setuptools_scm
 setuptools_scm-legacypython
 shadow
 shared-mime-info
-shared-mime-info-dev
+include(devpkg-shared-mime-info)
 six
 six-legacypython
 slang-dev
@@ -870,7 +870,7 @@ testtools
 tevent-dev
 tevent-python3
 include(texinfo)
-texlive
+include(texlive)
 thin-provisioning-tools
 tiff-dev
 tk
@@ -899,7 +899,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 vim
 virtualenv

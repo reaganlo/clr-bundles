@@ -50,7 +50,7 @@ libgpg-error-dev
 include(devpkg-libjpeg-turbo)
 libksba-dev
 libnl-dev
-libogg-dev
+include(devpkg-libogg)
 include(devpkg-libpng)
 libtool
 libvorbis-dev

@@ -1,16 +1,17 @@
-# [TITLE]: dolphin
-# [DESCRIPTION]: No detailed summary available
+# [TITLE]: gwenview
+# [DESCRIPTION]: A fast and easy to use image viewer
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)
 include(qt-basic)
+include(libX11client)
 include(libstdcpp)
 
 # start of custom additions
-dolphin-plugins
+
 # end of custom additions
 
 # main package
-dolphin
+gwenview

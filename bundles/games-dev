@@ -114,10 +114,10 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
-e2fsprogs-dev
+include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 elfutils
@@ -253,7 +253,7 @@ libXt-dev
 libXt-dev32
 libXtst-dev
 libXtst-dev32
-libXv-dev
+include(devpkg-libXv)
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
@@ -315,7 +315,7 @@ libnftnl-dev32
 libnl-dev
 libnl-dev32
 libnotify-dev
-libogg-dev
+include(devpkg-libogg)
 libogg-dev32
 include(devpkg-libpciaccess)
 libpciaccess-dev32
@@ -368,8 +368,8 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
-llvm
-llvm-dev
+include(llvm)
+include(devpkg-llvm)
 lua-dev
 m4
 include(make)
@@ -489,7 +489,7 @@ procps-ng-bin
 protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
-pygobject
+include(pygobject)
 python-core
 python-dev
 python3
@@ -497,7 +497,7 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qtbase)
-readline-dev
+include(devpkg-readline)
 readline-dev32
 rest-dev
 rest-dev32
@@ -511,7 +511,7 @@ include(scons)
 sed
 shadow
 shared-mime-info
-shared-mime-info-dev
+include(devpkg-shared-mime-info)
 six
 speex-dev
 speexdsp-dev
@@ -544,7 +544,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32

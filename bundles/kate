@@ -1,4 +1,4 @@
-# [TITLE]: dolphin
+# [TITLE]: kate
 # [DESCRIPTION]: No detailed summary available
 # [STATUS]: Active
 # [CAPABILITIES]:
@@ -9,8 +9,8 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions
-dolphin-plugins
+
 # end of custom additions
 
 # main package
-dolphin
+kate

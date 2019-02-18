@@ -175,10 +175,10 @@ docbook-xml
 include(docutils)
 docutils-python
 double-conversion-dev
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
-e2fsprogs-dev
+include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
@@ -214,7 +214,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-fonttools
+include(fonttools)
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -297,7 +297,7 @@ gobject-introspection-data
 gobject-introspection-dev
 googletest-dev
 gperf
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -349,7 +349,7 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagesize
-inkscape
+include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -401,7 +401,7 @@ libXt-dev
 libXt-dev32
 libXtst-dev
 libXtst-dev32
-libXv-dev
+include(devpkg-libXv)
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
@@ -489,7 +489,7 @@ libnl-dev
 libnl-dev32
 libnotify-dev
 liboauth-dev
-libogg-dev
+include(devpkg-libogg)
 libogg-dev32
 libosinfo-dev
 libpcap-dev
@@ -558,8 +558,8 @@ include(devpkg-libxslt)
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
-llvm
-llvm-dev
+include(llvm)
+include(devpkg-llvm)
 lmdb-dev
 lua-dev
 lxml
@@ -580,9 +580,9 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mozjs-dev
-mozjs52-dev
+include(devpkg-mozjs52)
 mozjs60
-mozjs60-dev
+include(devpkg-mozjs60)
 mozjs60-lib
 mpc-dev
 mpfr-dev
@@ -756,7 +756,7 @@ pycairo-dev
 pycparser
 pycparser-legacypython
 pycparser-python
-pygobject
+include(pygobject)
 pygobject-dev
 pygobject-python
 pylint
@@ -781,7 +781,7 @@ qtbase-extras
 include(devpkg-qtdeclarative)
 include(devpkg-qtsvg)
 rdma-core-dev
-readline-dev
+include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
@@ -806,7 +806,7 @@ setuptools-python
 setuptools_scm
 shadow
 shared-mime-info
-shared-mime-info-dev
+include(devpkg-shared-mime-info)
 six
 slang-dev
 snowballstemmer
@@ -869,7 +869,7 @@ v4l-utils-dev
 vala
 vala-bin
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 volume_key-dev

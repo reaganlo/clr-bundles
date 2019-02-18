@@ -33,7 +33,7 @@ lcov
 glibc-bin
 include(linux-tools)
 include(llvm)
-llvm-dev
+include(devpkg-llvm)
 ltrace
 man-pages
 meson
