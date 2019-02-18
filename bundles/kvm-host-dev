@@ -88,12 +88,12 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
 include(dosfstools)
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -298,7 +298,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 lua-dev
 lz4-dev
@@ -402,7 +402,7 @@ spice-protocol
 spice-protocol-dev
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-include(strace)
+strace
 include(subversion)
 systemd
 systemd-bin
@@ -429,7 +429,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 virtualenv
 include(devpkg-wayland)

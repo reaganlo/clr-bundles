@@ -53,10 +53,10 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-include(diffutils)
-include(docbook-utils)
+diffutils
+docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -110,7 +110,7 @@ gnutls-dev
 gobject-introspection
 gobject-introspection-dev
 gperf
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -246,7 +246,7 @@ six
 six-legacypython
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -272,7 +272,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala
-include(valgrind)
+valgrind
 valgrind-dev
 include(which)
 xapian-core-dev

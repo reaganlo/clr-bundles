@@ -54,10 +54,10 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-include(diffutils)
-include(docbook-utils)
+diffutils
+docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
@@ -220,7 +220,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procps-ng
-include(pygobject)
+pygobject
 python-dev
 python3
 python3-core
@@ -235,7 +235,7 @@ sed
 shadow
 shared-mime-info
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -255,7 +255,7 @@ include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(which)
 xmlto
