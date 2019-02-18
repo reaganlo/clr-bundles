@@ -89,5 +89,5 @@ gvim # Vi Improved, a highly configurable, improved version of the vi text edito
 gnome-characters # No detailed summary available
 gnome-color-manager # No detailed summary available
 gnome-disk-utility # No detailed summary available
-gnome-font-viewer # No detailed summary available
-gnome-logs # No detailed summary available 
+gnome-font-viewer # gnome font viewer
+gnome-logs # gnome log viewer

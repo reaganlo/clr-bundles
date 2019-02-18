@@ -6,6 +6,7 @@
 
 include(libX11client)
 include(libglib)
+include(gnome-base-libs)
 
 # start of custom additions
 eog-plugins

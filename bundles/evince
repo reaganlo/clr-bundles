@@ -6,6 +6,7 @@
 
 include(libX11client)
 include(libglib)
+include(gnome-base-libs)
 include(libstdcpp)
 
 # start of custom additions
