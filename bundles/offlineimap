@@ -8,7 +8,7 @@
 # start of custom additions
 include(libstdcpp)
 include(libglib)
-include(python2basic)
+include(python2-basic)
 
 # end of custom additions
 
