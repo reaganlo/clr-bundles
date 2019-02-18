@@ -11,4 +11,5 @@ amazon-efs-utils
 boto
 boto3
 botocore
-hypothesis
+# testing use only:
+# hypothesis
