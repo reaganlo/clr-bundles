@@ -176,15 +176,15 @@ defusedxml
 dejagnu
 desktop-file-utils
 dhcp
-diffutils
+include(diffutils)
 dnsmasq
-docbook-utils
+include(docbook-utils)
 docbook-xml
-docutils
+include(docutils)
 docutils-python
 include(dosfstools)
 double-conversion-dev
-doxygen
+include(doxygen)
 dulwich
 e2fsprogs
 e2fsprogs-data
@@ -288,7 +288,7 @@ golang-github-cpuguy83-go-md2man
 googletest-dev
 gperf
 gperftools-dev
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -533,7 +533,7 @@ libvorbis-dev32
 libwebp-dev
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
-libxml2
+include(libxml2)
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
@@ -550,7 +550,7 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-llvm)
 lmdb-dev
 lua
@@ -616,7 +616,7 @@ onig-dev
 open-iscsi
 open-isns-dev
 openal-soft-dev
-openblas
+include(openblas)
 openexr-dev
 openjade-dev
 openjdk
@@ -735,7 +735,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-plzip
+include(plzip)
 pmdk-dev
 polkit-dev
 polkit-qt-dev
@@ -764,7 +764,7 @@ pycparser-legacypython
 pycparser-python
 pycurl
 pyflakes-python
-pygobject
+include(pygobject)
 pyparsing
 pytest
 pytest-runner
@@ -846,7 +846,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
-strace
+include(strace)
 subunit-dev
 include(subversion)
 swig
@@ -872,7 +872,7 @@ testtools
 tevent-dev
 tevent-python3
 include(texinfo)
-texlive
+include(texlive)
 thin-provisioning-tools
 tiff-dev
 tk
@@ -901,7 +901,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 vim
 virtualenv

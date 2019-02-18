@@ -6,6 +6,6 @@
 
 include(devpkg-base)
 
-openblas
+include(openblas)
 
 

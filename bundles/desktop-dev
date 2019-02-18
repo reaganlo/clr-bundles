@@ -169,14 +169,14 @@ dejagnu
 desktop-file-utils
 dhcp
 dhcp-dev
-diffutils
+include(diffutils)
 dnsmasq
-docbook-utils
+include(docbook-utils)
 docbook-xml
-docutils
+include(docutils)
 docutils-python
 double-conversion-dev
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -215,7 +215,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-fonttools
+include(fonttools)
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -299,7 +299,7 @@ gobject-introspection-data
 gobject-introspection-dev
 googletest-dev
 gperf
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -351,7 +351,7 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagesize
-inkscape
+include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -554,7 +554,7 @@ include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 libxkbfile-dev
 libxklavier-dev
-libxml2
+include(libxml2)
 include(devpkg-libxml2)
 libxml2-dev32
 libxml2-python
@@ -564,7 +564,7 @@ include(devpkg-libxslt)
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-llvm)
 lmdb-dev
 lua-dev
@@ -634,7 +634,7 @@ octave-dev
 onig-dev
 openal-soft-dev
 openal-soft-dev32
-openblas
+include(openblas)
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
@@ -765,7 +765,7 @@ pycairo-dev
 pycparser
 pycparser-legacypython
 pycparser-python
-pygobject
+include(pygobject)
 pygobject-dev
 pygobject-python
 pylint
@@ -832,7 +832,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification-dev
-strace
+include(strace)
 include(subversion)
 swig
 systemd
@@ -881,7 +881,7 @@ v4l-utils-dev
 vala
 vala-bin
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 volume_key-dev

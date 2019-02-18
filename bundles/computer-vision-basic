@@ -28,7 +28,7 @@ jmespath-legacypython
 mkl-dnn-dev
 numpy
 numpy-legacypython
-openblas
+include(openblas)
 include(devpkg-opencv)
 opencv-legacypython
 opencv-python

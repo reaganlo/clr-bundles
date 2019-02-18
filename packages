@@ -18,7 +18,6 @@ acpica-unix2 # Intel ACPI utilities
 alsa-utils # alsa management tools
 axel # Download accelerator
 bc # basic calculator, an arbitrary-precision calculator language
-binutils # various development tools to manage binary executable code
 bison # bison development tool
 cabextract # Manipulate CAB archives
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet

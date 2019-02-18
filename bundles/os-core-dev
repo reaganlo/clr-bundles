@@ -38,10 +38,10 @@ db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 include(devpkg-e2fsprogs)
 include(devpkg-elfutils)
@@ -183,7 +183,7 @@ ruby
 sed
 shadow
 slang-dev
-strace
+include(strace)
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -198,7 +198,7 @@ util-linux
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-valgrind
+include(valgrind)
 valgrind-dev
 include(which)
 xmlto

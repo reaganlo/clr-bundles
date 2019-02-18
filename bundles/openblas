@@ -1,14 +1,13 @@
-# [TITLE]: linux-tools
-# [DESCRIPTION]: Tools for use in Linux
+# [TITLE]: openblas
+# [DESCRIPTION]: The OpenBLAS linear algebra package
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 
 # start of custom additions
-include(perl-basic)
-include(binutils)
+
 # end of custom additions
 
 # main package
-linux-tools
+openblas

@@ -91,7 +91,7 @@ numactl-dev
 numpy
 ocl-icd
 ocl-icd-dev
-openblas
+include(openblas)
 include(devpkg-openssl)
 opus-dev
 p7zip

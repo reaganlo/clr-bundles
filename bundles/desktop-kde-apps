@@ -30,7 +30,7 @@ bovo
 calendarsupport
 cantata
 cyrus-sasl
-digikam
+include(digikam)
 include(dolphin)
 dolphin-plugins
 dragon

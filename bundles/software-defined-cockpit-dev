@@ -118,13 +118,13 @@ dbus-dev32
 dbus-glib-dev
 dejagnu
 desktop-file-utils
-diffutils
+include(diffutils)
 dlt-daemon-dev
-docbook-utils
+include(docbook-utils)
 docbook-xml
-docutils
+include(docutils)
 double-conversion-dev
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -152,7 +152,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-fonttools
+include(fonttools)
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -379,7 +379,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-llvm)
 lz4-dev
 m4
@@ -420,7 +420,7 @@ numpy-legacypython
 octave-dev
 openal-soft-dev
 openal-soft-dev32
-openblas
+include(openblas)
 include(devpkg-opencv)
 openexr-dev
 openjade-dev
@@ -523,7 +523,7 @@ speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-strace
+include(strace)
 include(subversion)
 systemd-bin
 include(devpkg-systemd)
@@ -551,7 +551,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 wavpack-dev
