@@ -1,0 +1,15 @@
+# [TITLE]: gnome-calculator
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libglib)
+include(libX11client)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+gnome-calculator

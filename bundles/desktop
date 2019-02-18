@@ -140,7 +140,7 @@ evolution-data-server
 flatpak
 gnome-bluetooth
 gnome-calendar
-gnome-characters
+include(gnome-characters)
 gnome-control-center
 gnome-software
 gnome-terminal

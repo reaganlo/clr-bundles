@@ -68,4 +68,26 @@ gwenview # A fast and easy to use image viewer
 kate # No detailed summary available
 ark # No detailed summary available
 konsole # No detailed summary available
-ksysguard # Track and control the processes running in your system 
+ksysguard # Track and control the processes running in your system
+eog # The GNOME Image Viewer
+cheese # Cheese webcam utilities
+evolution # libraries needed for Evolution shell components
+gnome-calculator # No detailed summary available
+gnome-music # No detailed summary available
+gnome-photos # No detailed summary available
+gnome-screenshot # No detailed summary available
+gnome-system-monitor # No detailed summary available
+gnome-todo # No detailed summary available
+gnome-weather # No detailed summary available
+seahorse # No detailed summary available
+totem # Totem Movie Player plugin API
+baobab # No detailed summary available
+evince # GNOME document viewer view library
+file-roller # No detailed summary available
+gedit # gedit
+gvim # Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
+gnome-characters # No detailed summary available
+gnome-color-manager # No detailed summary available
+gnome-disk-utility # No detailed summary available
+gnome-font-viewer # No detailed summary available
+gnome-logs # No detailed summary available 

@@ -1,0 +1,15 @@
+# [TITLE]: baobab
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libX11client)
+include(libglib)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+baobab
