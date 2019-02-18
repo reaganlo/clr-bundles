@@ -17,7 +17,6 @@ dstat
 glances
 gperf
 include(htop)
-include(igt-gpu-tools)
 ioping
 iptraf
 latencytop
