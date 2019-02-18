@@ -93,4 +93,5 @@ gnome-font-viewer # gnome font viewer
 gnome-logs # gnome log viewer
 libxml2 # XML processing tools
 docbook-utils # docbook tools
-strace # System call diagnostic, instructional, and debugging tool 
+strace # System call diagnostic, instructional, and debugging tool
+digikam # An advanced digital photo management application 
