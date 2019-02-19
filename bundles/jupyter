@@ -1,0 +1,29 @@
+# [TITLE]: jupyter
+# [DESCRIPTION]: Jupyter metapackage. Install all the Jupyter components in one go.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(python3-basic)
+
+# start of custom additions
+jupyter
+jupyterlab
+jupyterlab_launcher
+jupyter-nbgallery
+jupyter-notebook-gist
+jupyter_client
+jupyter_console
+jupyter_core
+matplotlib
+nbconvert
+nbformat
+notebook
+pandas
+qtconsole
+widgetsnbextension
+
+# end of custom additions
+
+# main package
+jupyter

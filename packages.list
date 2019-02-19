@@ -97,4 +97,5 @@ strace # System call diagnostic, instructional, and debugging tool
 digikam # An advanced digital photo management application
 openblas # The OpenBLAS linear algebra package
 binutils # various development tools to manage binary executable code
-bcc # BPF Compiler Collection (BCC) 
+bcc # BPF Compiler Collection (BCC)
+jupyter # Jupyter metapackage. Install all the Jupyter components in one go. 
