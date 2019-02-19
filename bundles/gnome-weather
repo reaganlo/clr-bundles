@@ -8,6 +8,7 @@
 # start of custom additions
 include(libstdcpp)
 include(libX11client)
+include(gnome-base-libs)
 # end of custom additions
 
 # main package
