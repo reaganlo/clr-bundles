@@ -73,7 +73,7 @@ bats
 include(bc)
 bdftopcf
 beignet-dev
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -84,7 +84,6 @@ brotli-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
@@ -121,7 +120,6 @@ compat-enchant-soname1-dev
 compat-fuse-soname2-dev
 compat-intel-gmmlib-soname1-dev
 coreutils
-coverage
 cppcheck
 cracklib-dev
 cryptography
@@ -146,13 +144,13 @@ dconf-dev
 dejagnu
 desktop-file-utils
 dhcp
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(docutils)
+docutils
 docutils-python
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -165,6 +163,7 @@ elfutils-dev32
 enchant-dev
 enum34
 enum34-legacypython
+eog-dev
 include(devpkg-evolution-data-server)
 exempi-dev
 exiv2-dev
@@ -188,11 +187,10 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
-freezegun
 include(devpkg-fribidi)
 fribidi-dev32
 include(devpkg-fuse)
@@ -258,7 +256,7 @@ gobject-introspection
 gobject-introspection-dev
 googletest-dev
 gperf
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -307,7 +305,7 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagesize
-include(inkscape)
+inkscape
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -318,7 +316,6 @@ ipaddress-python
 iptables
 iptables-dev
 iptables-dev32
-ipython
 iso-codes-dev
 iso8601
 itstool
@@ -331,7 +328,6 @@ json-glib-dev32
 include(kbd)
 kdoctools-dev
 keyutils-dev
-kiwisolver
 kmod
 kmod-bin
 kmod-dev
@@ -400,9 +396,6 @@ libgcrypt-dev
 libgcrypt-dev32
 libgd-dev
 libgdata-dev
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 libgit2-dev
 libglade-dev
 libgpg-error-dev
@@ -495,18 +488,18 @@ include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 libxkbfile-dev
 libxklavier-dev
-include(libxml2)
+libxml2
 include(devpkg-libxml2)
 libxml2-dev32
 libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
-include(lightdm)
+lightdm
 links
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 lmdb-dev
 lua-dev
@@ -554,7 +547,6 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
-nose-python
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -562,12 +554,9 @@ include(devpkg-nss)
 nss-lib32
 numactl
 numactl-dev
-numpy
-numpy-legacypython
 ocl-icd-dev
 octave-dev
 open-iscsi
-include(openblas)
 openconnect-dev
 openexr-dev
 openjdk
@@ -682,7 +671,7 @@ pyasn1-legacypython
 pycparser
 pycparser-legacypython
 pycparser-python
-include(pygobject)
+pygobject
 pygobject-dev
 pygobject-python
 pyparsing
@@ -690,10 +679,8 @@ pyparsing-legacypython
 pytest
 python
 python-core
-python-dateutil
 python-dev
 python-mock
-python-tcl
 python3
 python3-core
 python3-dev
@@ -720,7 +707,6 @@ setuptools
 setuptools-legacypython
 setuptools-python
 setuptools_scm
-setuptools_scm-legacypython
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
@@ -737,7 +723,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification-dev
-include(strace)
+strace
 include(subversion)
 swig
 systemd
@@ -777,7 +763,7 @@ util-macros-dev32
 vala
 vala-bin
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 virtualenv
 vte-dev

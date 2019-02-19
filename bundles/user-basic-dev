@@ -31,6 +31,7 @@ Mako-python
 MarkupSafe
 MarkupSafe-legacypython
 Pygments
+SDL-dev
 Sphinx
 Sphinx-python
 Vulkan-Headers-dev
@@ -43,6 +44,7 @@ acl-dev
 acl-dev32
 include(acpica-unix2)
 alabaster
+include(devpkg-alsa-lib)
 apr-dev
 asciidoc
 asn1crypto
@@ -73,7 +75,7 @@ bash-completion-dev
 bats
 include(bc)
 beignet-dev
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -117,11 +119,14 @@ compat-fuse-soname2-dev
 coreutils
 include(cpio)
 cppcheck
+cppunit-dev
 cracklib-dev
 cryptography
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
+cscope
+ctags
 cups-dev
 include(devpkg-curl)
 curl-dev32
@@ -135,14 +140,14 @@ dbus-dev32
 dbus-glib-dev
 dejagnu
 desktop-file-utils
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(docutils)
+docutils
 docutils-python
 include(dosfstools)
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -160,6 +165,7 @@ enum34-legacypython
 include(devpkg-expat)
 expat-dev32
 expect
+extras
 fcgi-dev
 file-dev
 include(flex)
@@ -174,6 +180,7 @@ include(devpkg-fribidi)
 fribidi-dev32
 include(devpkg-fuse)
 gawk
+gc-dev
 gcc
 gcc-dev
 gcc-dev32
@@ -223,7 +230,7 @@ gobject-introspection-dev
 googletest-dev
 gperf
 gperftools-dev
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -231,12 +238,14 @@ graphviz
 graphviz-extras
 grep
 groff
+gsl-dev
 gtk+-dev
 gtk-doc
 gtk-doc-dev
 include(devpkg-gtk3)
 gtk3-dev32
 guile
+guile-dev
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
@@ -285,8 +294,12 @@ libX11-dev32
 libX11-lib
 libX11-lib32
 libXScrnSaver-dev
+libXcursor-dev
 libXft-dev
 libXft-dev32
+libXmu-dev
+libXpm-dev
+libXres-dev
 libXt-dev
 libXt-dev32
 libXtst-dev
@@ -295,6 +308,7 @@ include(devpkg-libXv)
 libXv-dev32
 libXvMC-dev
 libXvMC-dev32
+libXxf86misc-dev
 libabigail
 libaio-dev
 include(devpkg-libarchive)
@@ -385,7 +399,7 @@ libusb-dev
 libuser-dev
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
-include(libxml2)
+libxml2
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
@@ -394,7 +408,7 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 lmdb-dev
 lua-dev
@@ -402,6 +416,7 @@ lz4-dev
 lzo-dev
 m4
 include(make)
+makedepend
 man-db
 include(devpkg-mesa)
 mesa-dev32
@@ -440,6 +455,7 @@ oath-toolkit-dev
 onig-dev
 open-iscsi
 open-isns-dev
+openblas
 openjdk
 openjdk9
 openjdk9-dev
@@ -534,6 +550,7 @@ pluggy
 pluggy-python
 polkit-dev
 include(devpkg-popt)
+postgresql-dev
 pretend
 prettytable
 processor-trace-dev
@@ -601,7 +618,8 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
-include(strace)
+strace
+subunit-dev
 include(subversion)
 swig
 systemd
@@ -616,8 +634,13 @@ tar
 tcl
 tcl-dev
 tdb-dev
+testrepository
+testresources
+testscenarios
+testtools
 tevent-dev
 include(texinfo)
+texlive
 thin-provisioning-tools
 tiff-dev
 tk
@@ -626,6 +649,7 @@ tokyocabinet-dev
 tornado
 tox
 tox-python
+traceback2
 typing
 include(tzdata)
 include(unzip)
@@ -640,7 +664,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 vim
 virtualenv
@@ -648,6 +672,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wget
 include(which)
 xapian-core-dev
 xcb-proto

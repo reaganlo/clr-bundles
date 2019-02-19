@@ -8,6 +8,7 @@ include(mail-utils)
 include(os-core-dev)
 CUnit-dev
 Cython
+Jinja2
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -23,7 +24,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
-include(binutils)
+binutils
 include(bison)
 bison-dev
 buildreq-cmake
@@ -53,10 +54,10 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-include(diffutils)
-include(docbook-utils)
+diffutils
+docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -110,7 +111,7 @@ gnutls-dev
 gobject-introspection
 gobject-introspection-dev
 gperf
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -156,6 +157,9 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
 libidn-dev
@@ -207,6 +211,7 @@ nettle-lib
 nettle-lib32
 notmuch-dev
 nss-altfiles
+openblas
 openldap-dev
 include(openssl)
 include(devpkg-openssl)
@@ -215,10 +220,12 @@ include(p11-kit)
 p11-kit-dev
 p11-kit-dev32
 include(patch)
+pbr
 include(devpkg-pcre)
 pcre-dev32
 perl-XML-Parser
 pigz
+pip
 pkg-config
 pkg-config-dev
 include(devpkg-popt)
@@ -240,13 +247,14 @@ ruby
 sed
 setuptools
 setuptools-legacypython
+setuptools-python
 shadow
 shared-mime-info
 six
 six-legacypython
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -272,7 +280,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala
-include(valgrind)
+valgrind
 valgrind-dev
 include(which)
 xapian-core-dev

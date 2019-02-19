@@ -81,7 +81,7 @@ backports.ssl_match_hostname
 bash-completion-dev
 bats
 bdftopcf
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -92,7 +92,6 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils
 buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
@@ -169,14 +168,14 @@ dejagnu
 desktop-file-utils
 dhcp
 dhcp-dev
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(docutils)
+docutils
 docutils-python
 double-conversion-dev
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -215,11 +214,10 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
-freezegun
 include(devpkg-fribidi)
 fribidi-dev32
 include(devpkg-fuse)
@@ -299,7 +297,7 @@ gobject-introspection-data
 gobject-introspection-dev
 googletest-dev
 gperf
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -351,7 +349,7 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagesize
-include(inkscape)
+inkscape
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -378,7 +376,6 @@ json-glib-dev32
 include(kbd)
 kdoctools-dev
 keyutils-dev
-kiwisolver
 kmod
 kmod-dev
 kmod-dev32
@@ -451,9 +448,6 @@ libgcrypt-dev32
 libgd-dev
 libgdata-dev
 libgee-dev
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 libgnomekbd-dev
 libgpg-error-dev
 libgpg-error-dev32
@@ -554,7 +548,7 @@ include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 libxkbfile-dev
 libxklavier-dev
-include(libxml2)
+libxml2
 include(devpkg-libxml2)
 libxml2-dev32
 libxml2-python
@@ -564,7 +558,7 @@ include(devpkg-libxslt)
 libyami-dev
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 lmdb-dev
 lua-dev
@@ -620,7 +614,6 @@ nghttp2-dev
 nghttp2-dev32
 ninja
 nose
-nose-python
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -629,12 +622,10 @@ nss-lib32
 ntfs-3g-dev
 ntlm-auth
 numpy
-numpy-legacypython
 octave-dev
 onig-dev
 openal-soft-dev
 openal-soft-dev32
-include(openblas)
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
@@ -765,7 +756,7 @@ pycairo-dev
 pycparser
 pycparser-legacypython
 pycparser-python
-include(pygobject)
+pygobject
 pygobject-dev
 pygobject-python
 pylint
@@ -773,12 +764,10 @@ pyparsing
 pytest
 python
 python-core
-python-dateutil
 python-dev
 python-mock
 python-pocketlint
 python-polib
-python-tcl
 python3
 python3-core
 python3-dev
@@ -815,7 +804,6 @@ setuptools
 setuptools-legacypython
 setuptools-python
 setuptools_scm
-setuptools_scm-legacypython
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
@@ -832,7 +820,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification-dev
-include(strace)
+strace
 include(subversion)
 swig
 systemd
@@ -881,7 +869,7 @@ v4l-utils-dev
 vala
 vala-bin
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 virtualenv
 volume_key-dev
