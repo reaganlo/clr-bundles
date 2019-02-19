@@ -12,12 +12,14 @@ xauth
 xclip
 xdotool
 xdpyinfo
+xfontsel
 xhost
 xinput
 xinput
 xkbcomp
 xkbcomp
 xkeyboard-config
+xkill
 xmodmap
 xprop
 xrandr
