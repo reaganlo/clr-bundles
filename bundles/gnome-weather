@@ -6,7 +6,8 @@
 
 
 # start of custom additions
-
+include(libstdcpp)
+include(libX11client)
 # end of custom additions
 
 # main package

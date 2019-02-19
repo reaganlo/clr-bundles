@@ -3,7 +3,7 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Daniel Castellanos <luis.daniel.castellanos@intel.com>
-include(python3-basic)
+include(python-extras)
 include(python2-basic)
 include(cloud-api)
 
