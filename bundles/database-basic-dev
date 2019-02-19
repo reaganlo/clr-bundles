@@ -35,7 +35,7 @@ automake-dev
 backports.ssl_match_hostname
 bash-completion-dev
 bats
-binutils
+include(binutils)
 include(bison)
 bison-dev
 boost-dev
@@ -66,12 +66,12 @@ db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-docutils
+include(docutils)
 docutils-python
-doxygen
+include(doxygen)
 e2fsprogs
 include(devpkg-elfutils)
 enum34
@@ -253,7 +253,7 @@ snowballstemmer
 sphinxcontrib-websupport
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
-strace
+include(strace)
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -274,7 +274,7 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 vsqlite-dev
