@@ -370,7 +370,7 @@ linux-firmware-wifi
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
-lua-dev
+include(devpkg-lua)
 m4
 include(make)
 include(devpkg-mesa)

@@ -300,7 +300,7 @@ libxslt-bin
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
-lua-dev
+include(devpkg-lua)
 lz4-dev
 lzo-dev
 m4

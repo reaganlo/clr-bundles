@@ -561,7 +561,7 @@ include(llvm)
 include(devpkg-llvm)
 lmdb-dev
 lua
-lua-dev
+include(devpkg-lua)
 lxml
 lz4-dev
 lzlib-dev

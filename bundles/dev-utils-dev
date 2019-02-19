@@ -260,7 +260,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-lua-dev
+include(devpkg-lua)
 m4
 include(make)
 makedepend

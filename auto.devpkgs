@@ -24,6 +24,7 @@ libpng
 libR
 libva
 libxslt
+lua
 mozjs-52
 mozjs-60
 ncurses

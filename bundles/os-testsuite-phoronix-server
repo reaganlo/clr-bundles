@@ -54,7 +54,7 @@ include(devpkg-libogg)
 include(devpkg-libpng)
 libtool
 libvorbis-dev
-lua-dev
+include(devpkg-lua)
 meson
 mpfr-dev
 include(openmpi)

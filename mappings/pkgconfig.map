@@ -114,6 +114,7 @@ pkgconfig(liblzma)	devpkg-xz
 pkgconfig(libR)	devpkg-R
 pkgconfig(libva)	devpkg-libva
 pkgconfig(libxslt)	devpkg-libxslt
+pkgconfig(lua)	devpkg-lua
 pkgconfig(mozjs-52)	devpkg-mozjs52
 pkgconfig(mozjs-60)	devpkg-mozjs60
 pkgconfig(ncurses)	devpkg-ncurses

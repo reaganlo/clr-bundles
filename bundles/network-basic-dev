@@ -224,7 +224,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lua-dev
+include(devpkg-lua)
 lz4-dev
 lzo-dev
 m4

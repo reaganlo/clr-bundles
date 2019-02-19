@@ -79,7 +79,7 @@ include(devpkg-libogg)
 include(devpkg-libpng)
 libtool
 libvorbis-dev
-lua-dev
+include(devpkg-lua)
 mesa-demos
 meson
 mpfr-dev

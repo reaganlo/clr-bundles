@@ -186,7 +186,7 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lua-dev
+include(devpkg-lua)
 m4
 include(make)
 mock

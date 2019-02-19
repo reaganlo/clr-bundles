@@ -195,7 +195,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-lua-dev
+include(devpkg-lua)
 m4
 include(make)
 mpc-dev
