@@ -1,0 +1,15 @@
+# [TITLE]: bcc
+# [DESCRIPTION]: BPF Compiler Collection (BCC)
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(python3-basic)
+include(libstdcpp)
+
+# start of custom additions
+include(llvm)
+# end of custom additions
+
+# main package
+bcc
