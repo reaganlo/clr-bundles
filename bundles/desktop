@@ -129,6 +129,7 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
+xdg-utils
 
 # Extensions for the default desktop experience
 dash-to-dock
