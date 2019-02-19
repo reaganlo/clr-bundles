@@ -29,10 +29,10 @@ PackageKit-dev
 Pillow
 Pygments
 include(devpkg-R)
-SDL-dev
+include(devpkg-SDL)
 SDL-dev32
-SDL2-dev
-SDL2_image-dev
+include(devpkg-SDL2)
+include(devpkg-SDL2_image)
 Sphinx
 Vulkan-Headers-data
 Vulkan-Headers-dev

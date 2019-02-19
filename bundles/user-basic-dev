@@ -31,7 +31,7 @@ Mako-python
 MarkupSafe
 MarkupSafe-legacypython
 Pygments
-SDL-dev
+include(devpkg-SDL)
 Sphinx
 Sphinx-python
 Vulkan-Headers-dev

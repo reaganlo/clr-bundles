@@ -21,10 +21,10 @@ Mako-python
 MarkupSafe
 MarkupSafe-legacypython
 Pygments
-SDL-dev
+include(devpkg-SDL)
 SDL-dev32
-SDL2-dev
-SDL2_image-dev
+include(devpkg-SDL2)
+include(devpkg-SDL2_image)
 SmartXbar-dev
 Sphinx
 Vulkan-Headers-data

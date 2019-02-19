@@ -43,7 +43,7 @@ PyYAML-legacypython
 Pygments
 R
 include(devpkg-R)
-SDL-dev
+include(devpkg-SDL)
 Sphinx
 Sphinx-python
 Vulkan-Headers-dev

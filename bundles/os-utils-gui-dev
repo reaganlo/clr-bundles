@@ -30,7 +30,7 @@ ModemManager-dev32
 NetworkManager-dev
 Pygments
 include(devpkg-R)
-SDL-dev
+include(devpkg-SDL)
 Sphinx
 Thunar-dev
 Vulkan-Headers-dev
