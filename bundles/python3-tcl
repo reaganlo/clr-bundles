@@ -1,0 +1,15 @@
+# [TITLE]: python3-tcl
+# [DESCRIPTION]: Python 3 TCL/TK support
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(python3-basic)
+
+# start of custom additions
+include(tcl-basic)
+python3-tcl
+# end of custom additions
+
+# main package
+python3-tcl
