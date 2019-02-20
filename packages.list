@@ -101,4 +101,5 @@ bcc # BPF Compiler Collection (BCC)
 jupyter # Jupyter metapackage. Install all the Jupyter components in one go.
 akonadi # No detailed summary available
 kamera # No detailed summary available
-okular # No detailed summary available 
+okular # No detailed summary available
+nautilus # Default file manager for GNOME 

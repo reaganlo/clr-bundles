@@ -149,7 +149,7 @@ gnome-tweaks
 gnome-user-docs
 gnome-video-effects
 gvfs
-nautilus
+include(nautilus)
 yelp
 
 # nice to have when using desktop

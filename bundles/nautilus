@@ -1,0 +1,15 @@
+# [TITLE]: nautilus
+# [DESCRIPTION]: Default file manager for GNOME
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libX11client)
+include(libglib)
+
+# start of custom additions
+include(gnome-base-libs)
+# end of custom additions
+
+# main package
+nautilus

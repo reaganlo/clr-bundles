@@ -39,7 +39,7 @@ grantleetheme
 include(gwenview)
 kalarm
 kalarmcal
-kamera
+include(kamera)
 kapidox
 kapptemplate
 include(kate)
@@ -144,7 +144,7 @@ mailimporter
 marble
 messagelib
 modemmanager-qt
-okular
+include(okular)
 oxygen
 oxygen-icons5
 palapeli
