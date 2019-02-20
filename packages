@@ -63,6 +63,8 @@ libnl # Low level firewall tools
 libxslt # XML documentation processing tools
 linux-dev # programs for developing Linux
 linux-lts-dev # programs for developing Linux LTS version
+linux-iot-lts2018-dev # programs for developing Linux iot LTS 2018 version
+linux-iot-lts2018-sos-dev # programs for developing Linux iot SOS LTS 2018 version
 lm-sensors # Read various system sensors, sometimes using scary methods
 ltp # Linux Test Project
 lz4 # tools to compress and decompress lz4 files
