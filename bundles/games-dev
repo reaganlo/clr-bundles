@@ -57,7 +57,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -110,11 +110,11 @@ dconf-dev
 dejagnu
 desktop-file-utils
 dhcp
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -368,7 +368,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 include(devpkg-lua)
 m4
@@ -489,7 +489,7 @@ procps-ng-bin
 protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
-include(pygobject)
+pygobject
 python-core
 python-dev
 python3
@@ -518,7 +518,7 @@ speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-include(strace)
+strace
 include(subversion)
 systemd-bin
 include(devpkg-systemd)
@@ -544,7 +544,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32

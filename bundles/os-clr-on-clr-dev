@@ -28,6 +28,8 @@ LVM2-dev
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
+LuaJIT
+LuaJIT-dev
 Mako
 Mako-legacypython
 Mako-python
@@ -46,6 +48,7 @@ include(devpkg-R)
 include(devpkg-SDL)
 Sphinx
 Sphinx-python
+Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -98,7 +101,7 @@ bats
 include(bc)
 bdftopcf
 beignet-dev
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -141,6 +144,7 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
+cmrt-dev
 colorama
 colord-dev
 commonmark
@@ -178,15 +182,15 @@ defusedxml
 dejagnu
 desktop-file-utils
 dhcp
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(docutils)
+docutils
 docutils-python
 include(dosfstools)
 double-conversion-dev
-include(doxygen)
+doxygen
 dulwich
 e2fsprogs
 e2fsprogs-data
@@ -228,7 +232,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 freetype
 include(devpkg-freetype)
@@ -275,7 +279,10 @@ glibc-libc32
 glibc-locale
 glibc-staticdev
 glibc-utils
+glslang-bin
+glslang-dev
 glu-dev
+glu-dev32
 gmime
 gmime-dev
 gmp-dev
@@ -294,7 +301,7 @@ golang-github-cpuguy83-go-md2man
 googletest-dev
 gperf
 gperftools-dev
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -327,6 +334,7 @@ hunspell-dev
 hwloc-dev
 hypothesis-legacypython
 hypothesis-python
+icu4c
 include(devpkg-icu4c)
 icu4c-dev32
 idna
@@ -381,6 +389,7 @@ kiconthemes-dev
 kio-dev
 kirigami2-dev
 kitemviews-dev
+kiwisolver
 kjobwidgets-dev
 kmod
 kmod-bin
@@ -540,7 +549,7 @@ libvorbis-dev32
 libwebp-dev
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
-include(libxml2)
+libxml2
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
@@ -557,8 +566,9 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
+llvm-lib
 lmdb-dev
 lua
 include(devpkg-lua)
@@ -620,12 +630,13 @@ numactl
 numactl-dev
 numpy
 oath-toolkit-dev
+ocl-icd-dev
 octave-dev
 onig-dev
 open-iscsi
 open-isns-dev
 openal-soft-dev
-include(openblas)
+openblas
 openexr-dev
 openjade-dev
 openjdk
@@ -654,6 +665,7 @@ parted-dev
 include(patch)
 pbr
 pbr-legacypython
+pciutils
 pciutils-dev
 pcre
 include(devpkg-pcre)
@@ -744,10 +756,12 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-include(plzip)
+plzip
 pmdk-dev
 polkit-dev
 polkit-qt-dev
+poppler
+poppler-dev
 include(devpkg-popt)
 postgresql-dev
 ppp-dev
@@ -773,7 +787,7 @@ pycparser-legacypython
 pycparser-python
 pycurl
 pyflakes-python
-include(pygobject)
+pygobject
 pyparsing
 pytest
 pytest-runner
@@ -781,11 +795,15 @@ pytest-timeout
 pytest-xdist
 python
 python-core
+python-dateutil
 python-dateutil-legacypython-legacypython
 python-dev
 python-magic
+python-mimeparse
 python-mock
 python-rpm
+python-subunit
+python-tcl
 python-toml
 python3
 python3-core
@@ -855,7 +873,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
-include(strace)
+strace
 subunit-dev
 include(subversion)
 swig
@@ -881,7 +899,7 @@ testtools
 tevent-dev
 tevent-python3
 include(texinfo)
-include(texlive)
+texlive
 thin-provisioning-tools
 tiff-dev
 tk
@@ -910,7 +928,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 vim
 virtualenv
@@ -932,6 +950,7 @@ xmlsec1-dev
 xmlto
 include(devpkg-xorgproto)
 xorgproto-dev32
+xset
 xtrans-dev
 xtrans-dev32
 include(xz)
