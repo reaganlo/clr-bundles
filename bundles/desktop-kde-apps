@@ -8,11 +8,8 @@ include(desktop-kde-libs)
 include(perl-basic)
 include(qt-basic)
 
-# temporary for user compatibility
-include(desktop-kde-games)
 
-
-akonadi
+include(akonadi)
 akonadi-calendar
 akonadi-calendar-tools
 akonadi-contacts

@@ -1,0 +1,22 @@
+# [TITLE]: akonadi
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(kde-frameworks5)
+include(qt-basic)
+include(libstdcpp)
+
+# start of custom additions
+akonadi-calendar
+akonadi-calendar-tools
+akonadi-contacts
+akonadi-mime
+akonadi-notes
+akonadi-search
+akonadiconsole
+# end of custom additions
+
+# main package
+akonadi
