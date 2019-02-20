@@ -102,5 +102,6 @@ jupyter # Jupyter metapackage. Install all the Jupyter components in one go.
 akonadi # No detailed summary available
 kamera # No detailed summary available
 okular # No detailed summary available
-nautilus # Default file manager for GNOME 
+nautilus # Default file manager for GNOME
 glibc-locale # Various UTF-8 language definitions
+Sphinx # Free open-source SQL full-text search engine. 

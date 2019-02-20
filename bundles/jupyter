@@ -8,6 +8,8 @@ include(python3-basic)
 
 # start of custom additions
 include(libglib)
+include(Sphinx)
+
 jupyter
 jupyterlab
 jupyterlab_launcher

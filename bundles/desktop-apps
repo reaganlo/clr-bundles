@@ -11,6 +11,8 @@ include(xemacs)
 # apps low level deps
 glib-bin
 glib-config
+
+# python specific deps
 python-zeep
 requests
 requests-ntlm

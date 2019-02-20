@@ -7,6 +7,8 @@ include(git)
 include(package-utils)
 include(python2-basic)
 include(web-server-basic)
+include(Sphinx)
+
 koji
 koji-extras
 mash

@@ -8,6 +8,7 @@ include(diffutils)
 include(git)
 include(package-utils)
 include(sudo)
+include(Sphinx)
 
 # common requirements
 include(make)

@@ -6,6 +6,7 @@
 
 include(python3-basic)
 include(qt-basic)
+include(Sphinx)
 
 # Modeling tools
 openscad

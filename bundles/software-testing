@@ -6,6 +6,7 @@
 
 include(perl-basic)
 include(python-basic)
+include(Sphinx)
 
 
 bats

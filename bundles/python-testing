@@ -5,6 +5,7 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(cloud-api)
 include(python3-basic)
+include(Sphinx)
 
 #
 # For the test suites
