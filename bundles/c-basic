@@ -28,7 +28,7 @@ include(flex)
 gcc
 gcc-dev
 glibc-dev
-glibc-locale
+include(glibc-locale)
 glibc-utils
 gmp-dev
 gmp-doc

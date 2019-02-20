@@ -64,7 +64,7 @@ include(devpkg-glib)
 glib-dev32
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-utils
 gmp-dev
 gmp-gmpxx

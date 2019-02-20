@@ -86,7 +86,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev

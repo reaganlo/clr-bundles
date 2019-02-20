@@ -4,4 +4,4 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 
-glibc-locale
+include(glibc-locale)

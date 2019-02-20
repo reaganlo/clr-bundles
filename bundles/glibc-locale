@@ -1,0 +1,12 @@
+# [TITLE]: glibc-locale
+# [DESCRIPTION]: Various language definitions
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+glibc-locale

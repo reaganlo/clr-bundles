@@ -25,7 +25,7 @@ gcc-libstdc++32
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-utils
 gmp-dev
 gmp-doc
