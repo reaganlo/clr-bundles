@@ -8,6 +8,9 @@ include(python3-basic)
 
 # start of custom additions
 include(libstdcpp)
+include(libX11client)
+include(openblas)
+include(libglib)
 # end of custom additions
 
 # main package
