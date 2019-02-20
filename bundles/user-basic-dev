@@ -75,7 +75,7 @@ bash-completion-dev
 bats
 include(bc)
 beignet-dev
-binutils
+include(binutils)
 binutils-dev
 include(bison)
 bison-dev
@@ -140,14 +140,14 @@ dbus-dev32
 dbus-glib-dev
 dejagnu
 desktop-file-utils
-diffutils
+include(diffutils)
 dnsmasq
-docbook-utils
+include(docbook-utils)
 docbook-xml
-docutils
+include(docutils)
 docutils-python
 include(dosfstools)
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -230,7 +230,7 @@ gobject-introspection-dev
 googletest-dev
 gperf
 gperftools-dev
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -399,7 +399,7 @@ libusb-dev
 libuser-dev
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
-libxml2
+include(libxml2)
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
@@ -408,7 +408,7 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-llvm)
 lmdb-dev
 include(devpkg-lua)
@@ -455,7 +455,7 @@ oath-toolkit-dev
 onig-dev
 open-iscsi
 open-isns-dev
-openblas
+include(openblas)
 openjdk
 openjdk9
 openjdk9-dev
@@ -618,7 +618,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
-strace
+include(strace)
 subunit-dev
 include(subversion)
 swig
@@ -640,7 +640,7 @@ testscenarios
 testtools
 tevent-dev
 include(texinfo)
-texlive
+include(texlive)
 thin-provisioning-tools
 tiff-dev
 tk
@@ -664,7 +664,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 vim
 virtualenv
