@@ -5,6 +5,7 @@
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 
 include(python3-basic)
+include(python3-tcl)
 include(openblas)
 include(cloud-api)
 include(Sphinx)
