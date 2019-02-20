@@ -99,4 +99,6 @@ openblas # The OpenBLAS linear algebra package
 binutils # various development tools to manage binary executable code
 bcc # BPF Compiler Collection (BCC)
 jupyter # Jupyter metapackage. Install all the Jupyter components in one go.
-akonadi # No detailed summary available 
+akonadi # No detailed summary available
+kamera # No detailed summary available
+okular # No detailed summary available 
