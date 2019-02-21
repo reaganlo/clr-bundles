@@ -10,7 +10,7 @@ include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions
-
+include(perl-basic)
 # end of custom additions
 
 # main package
