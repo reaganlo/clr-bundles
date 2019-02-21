@@ -33,7 +33,7 @@ include(eog)
 exo
 faba-icon-theme
 include(firefox)
-flatpak
+include(flatpak)
 font-bitstream-type1
 fontconfig
 garcon
@@ -43,7 +43,7 @@ geany-plugins
 glib-networking-lib
 gnome-icon-theme
 gnome-themes-standard
-graphviz
+include(graphviz)
 gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine

@@ -112,4 +112,6 @@ konversation # No detailed summary available
 konqueror # KDE File Manager & Web Browser
 kcalc # No detailed summary available
 ceph # Ceph Base Package
-polkit # Application development toolkit for controlling system-wide privileges 
+polkit # Application development toolkit for controlling system-wide privileges
+flatpak #  Use flatpak packages, or build them
+graphviz # Library for parsing graphs in xdot format 

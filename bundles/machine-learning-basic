@@ -50,7 +50,7 @@ gflags-dev
 glog-dev
 glibc-lib-avx2
 googletest-dev
-graphviz
+include(graphviz)
 h5py
 hdf5-dev
 hdf5-dev

@@ -28,7 +28,7 @@ include(evolution)
 evolution-ews
 include(file-roller)
 include(firefox)
-flatpak
+include(flatpak)
 include(gedit)
 include(gnome-calculator)
 include(gnome-characters)
@@ -42,7 +42,7 @@ include(gnome-screenshot)
 include(gnome-system-monitor)
 include(gnome-todo)
 include(gnome-weather)
-graphviz
+include(graphviz)
 graphviz-extras
 include(gvim)
 include(libva-utils)

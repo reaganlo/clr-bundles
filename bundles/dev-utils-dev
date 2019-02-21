@@ -130,7 +130,7 @@ go
 gobject-introspection-dev
 googletest-dev
 gperf
-graphviz
+include(graphviz)
 grep
 groff
 gsl-dev

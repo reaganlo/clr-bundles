@@ -82,7 +82,7 @@ gnu-efi
 gnu-efi-dev
 go
 gperf
-graphviz
+include(graphviz)
 grep
 groff
 gtk-doc

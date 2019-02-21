@@ -101,7 +101,7 @@ gobject-introspection-dev
 golang-github-cpuguy83-go-md2man
 gperf
 gpgme-dev
-graphviz
+include(graphviz)
 grep
 groff
 gtk+-dev

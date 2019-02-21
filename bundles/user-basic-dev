@@ -213,7 +213,7 @@ include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
-graphviz
+include(graphviz)
 graphviz-extras
 grep
 groff

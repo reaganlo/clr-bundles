@@ -85,7 +85,7 @@ gnu-efi
 gnu-efi-dev
 gnutls-dev
 gperf
-graphviz
+include(graphviz)
 grep
 groff
 gtk-doc

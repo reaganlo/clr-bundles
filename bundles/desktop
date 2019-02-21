@@ -138,7 +138,7 @@ gnome-shell-impatience
 
 # Applications
 evolution-data-server
-flatpak
+include(flatpak)
 gnome-bluetooth
 gnome-calendar
 include(gnome-characters)

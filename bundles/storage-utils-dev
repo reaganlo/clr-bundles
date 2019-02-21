@@ -108,7 +108,7 @@ gnupg
 gnutls-dev
 gperf
 gpgme-dev
-graphviz
+include(graphviz)
 grep
 groff
 gtk+-dev

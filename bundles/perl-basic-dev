@@ -72,7 +72,7 @@ gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 gperf
-graphviz
+include(graphviz)
 grep
 groff
 gtk-doc
