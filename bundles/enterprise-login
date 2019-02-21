@@ -6,4 +6,4 @@
 include(libstdcpp)
 
 krb5
-samba
+include(samba)

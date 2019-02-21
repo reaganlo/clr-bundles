@@ -5,6 +5,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(smartmontools)
 include(libglib)
+include(samba)
 
 LVM2
 LVM2-extras
