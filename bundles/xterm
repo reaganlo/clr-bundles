@@ -1,0 +1,15 @@
+# [TITLE]: xterm
+# [DESCRIPTION]: The basic X.Org terminal program desktop launcher
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libX11client)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+xterm

@@ -1,0 +1,14 @@
+# [TITLE]: zsh
+# [DESCRIPTION]: Z Shell, an interactive shell and powerful command-line interpreter for scripting language
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+zsh

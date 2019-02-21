@@ -116,4 +116,15 @@ polkit # Application development toolkit for controlling system-wide privileges
 flatpak #  Use flatpak packages, or build them
 graphviz # Library for parsing graphs in xdot format
 samba # SMB Fileserver and AD Domain server
-yakuake # No detailed summary available 
+yakuake # No detailed summary available
+thunderbird # Email client
+mutt # The mutt mail client
+texinfo # unix style documentation tooling
+openldap # ldap tools
+postgresql # Database
+fio # Flexible I/O tester
+libxslt # XML documentation processing tools
+dovecot # Security focused IMAP and POP3 email server
+fwupdate # Firmware update tool
+xterm # The basic X.Org terminal program desktop launcher
+zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language 
