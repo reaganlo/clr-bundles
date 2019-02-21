@@ -9,4 +9,4 @@ clr-fwupd-hooks
 fwupd
 include(fwupdate)
 libsoup
-polkit
+include(polkit)

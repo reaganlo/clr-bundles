@@ -1,0 +1,16 @@
+# [TITLE]: polkit
+# [DESCRIPTION]: Application development toolkit for controlling system-wide privileges
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libglib)
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+polkit

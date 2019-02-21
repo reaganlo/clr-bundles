@@ -12,7 +12,7 @@ include(xfsprogs)
 
 LVM2
 LVM2-extras
-ceph
+include(ceph)
 ceph-deploy
 ceph-extras
 glusterfs

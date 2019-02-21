@@ -46,7 +46,7 @@ katomic
 kbackup
 kblog
 kcachegrind
-kcalc
+include(kcalc)
 kcalcore
 kcalutils
 kcharselect
@@ -93,7 +93,7 @@ kmouth
 kmplot
 knotes
 kolourpaint
-konqueror
+include(konqueror)
 include(konsole)
 kontactinterface
 include(konversation)

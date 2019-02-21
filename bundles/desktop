@@ -86,7 +86,7 @@ NetworkManager-vpnc
 dconf
 #groupcheck
 PackageKit
-polkit
+include(polkit)
 pulseaudio
 openconnect
 systemd-extras

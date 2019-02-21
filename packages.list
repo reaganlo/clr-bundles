@@ -108,4 +108,8 @@ Sphinx # Free open-source SQL full-text search engine.
 python3-tcl # TCL/TK support for python
 spectacle # KDE screenshot capture utility
 syndication # RSS/Atom parser library
-konversation # No detailed summary available 
+konversation # No detailed summary available
+konqueror # KDE File Manager & Web Browser
+kcalc # No detailed summary available
+ceph # Ceph Base Package
+polkit # Application development toolkit for controlling system-wide privileges 

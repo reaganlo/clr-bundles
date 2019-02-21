@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libX11client)
+include(ceph)
 bridge-utils
 dmidecode
 dnsmasq
@@ -13,6 +14,6 @@ gettext
 iptables
 libvirt
 nftables
-polkit
+include(polkit)
 qemu
 qemu-extras
