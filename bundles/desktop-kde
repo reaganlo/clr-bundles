@@ -105,6 +105,7 @@ plasma-pa
 plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
+include(polkit)
 powerdevil
 print-manager
 pulseaudio
