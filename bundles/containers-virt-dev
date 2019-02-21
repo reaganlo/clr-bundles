@@ -26,7 +26,7 @@ bash
 bash-completion-dev
 bats
 include(bc)
-binutils
+include(binutils)
 binutils-dev
 include(bison)
 bison-dev
@@ -54,10 +54,10 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
@@ -89,7 +89,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -220,7 +220,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procps-ng
-pygobject
+include(pygobject)
 python-dev
 python3
 python3-core
@@ -235,7 +235,7 @@ sed
 shadow
 shared-mime-info
 include(devpkg-sqlite-autoconf)
-strace
+include(strace)
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -255,7 +255,7 @@ include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 include(which)
 xmlto

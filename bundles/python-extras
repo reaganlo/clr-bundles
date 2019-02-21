@@ -45,7 +45,7 @@ pytest-rerunfailures
 python-dateutil
 python-tabulate
 python-tappy
-python3-tcl
+include(python3-tcl)
 python-zeep
 python-zstandard
 requests

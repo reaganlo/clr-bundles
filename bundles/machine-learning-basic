@@ -89,7 +89,7 @@ scipy-python
 six
 smart_open
 snappy-dev
-Sphinx
+include(Sphinx)
 swig
 tbb-dev
 tflearn

@@ -14,7 +14,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
 include(devpkg-SDL)
-Sphinx
+include(Sphinx)
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Tools
@@ -36,7 +36,7 @@ bash-completion-dev
 bats
 include(bc)
 beignet-dev
-binutils
+include(binutils)
 binutils-dev
 include(bison)
 bison-dev
@@ -76,11 +76,11 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-docutils
-doxygen
+include(docutils)
+include(doxygen)
 dwarves-dev
 e2fsprogs
 include(devpkg-e2fsprogs)
@@ -117,7 +117,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -229,7 +229,7 @@ include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-lua)
 m4
 include(make)
@@ -249,7 +249,7 @@ nose
 nss-altfiles
 numactl-dev
 onig-dev
-openblas
+include(openblas)
 openjdk9
 openjdk9-dev
 include(devpkg-openmpi)
@@ -352,7 +352,7 @@ source-highlight
 source-highlight-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
-strace
+include(strace)
 subunit-dev
 include(subversion)
 swig
@@ -369,7 +369,7 @@ testresources
 testscenarios
 testtools
 include(texinfo)
-texlive
+include(texlive)
 thin-provisioning-tools
 tiff-dev
 tk
@@ -384,7 +384,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
-valgrind
+include(valgrind)
 valgrind-dev
 vim
 wget

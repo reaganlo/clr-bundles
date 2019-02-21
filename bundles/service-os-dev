@@ -29,7 +29,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
-binutils
+include(binutils)
 binutils-dev
 include(bison)
 bison-dev
@@ -61,10 +61,10 @@ dbus-dev32
 dbus-glib-dev
 dejagnu
 desktop-file-utils
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
@@ -97,7 +97,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -241,7 +241,7 @@ shared-mime-info
 six
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
-strace
+include(strace)
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -263,7 +263,7 @@ util-linux-dev32
 util-linux-extras
 util-macros-dev
 util-macros-dev32
-valgrind
+include(valgrind)
 valgrind-dev
 include(which)
 xmlto
