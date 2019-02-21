@@ -107,13 +107,16 @@ pkgconfig(glm)	devpkg-glm
 pkgconfig(gtk+-2.0)	devpkg-gtk
 pkgconfig(libarchive)	devpkg-libarchive
 pkgconfig(libcurl)	devpkg-curl
+pkgconfig(libip4tc)	devpkg-iptables
 pkgconfig(libffi)	devpkg-libffi
 pkgconfig(libjpeg)	devpkg-libjpeg-turbo
 pkgconfig(LLVMSPIRVLib)	devpkg-llvm
 pkgconfig(liblzma)	devpkg-xz
 pkgconfig(libR)	devpkg-R
 pkgconfig(libva)	devpkg-libva
+pkgconfig(libvirt)	devpkg-libvirt
 pkgconfig(libxslt)	devpkg-libxslt
+pkgconfig(libwebp)	devpkg-libwebp
 pkgconfig(lua)	devpkg-lua
 pkgconfig(mozjs-52)	devpkg-mozjs52
 pkgconfig(mozjs-60)	devpkg-mozjs60
@@ -124,7 +127,9 @@ pkgconfig(opencv)	devpkg-opencv
 pkgconfig(openssl)	devpkg-openssl
 pkgconfig(libssl)	devpkg-openssl
 pkgconfig(libcrypto)	devpkg-openssl
+pkgconfig(opus)	devpkg-opus
 pkgconfig(popt)	devpkg-popt
+pkgconfig(pygobject-3.0)	devpkg-pygobject
 pkgconfig(Qt5Core)	devpkg-qtbase
 pkgconfig(Qt5WebEngine)	devpkg-qtwebengine
 pkgconfig(Qt5Gui)	devpkg-qtbase
