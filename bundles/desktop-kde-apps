@@ -145,4 +145,5 @@ include(spectacle)
 svgpart
 include(syndication)
 telepathy-qt
+yakuake
 zeroconf-ioslave
