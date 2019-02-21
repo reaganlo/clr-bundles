@@ -115,4 +115,5 @@ ceph # Ceph Base Package
 polkit # Application development toolkit for controlling system-wide privileges
 flatpak #  Use flatpak packages, or build them
 graphviz # Library for parsing graphs in xdot format
-samba # SMB Fileserver and AD Domain server 
+samba # SMB Fileserver and AD Domain server
+yakuake # No detailed summary available 
