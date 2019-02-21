@@ -16,6 +16,7 @@ harfbuzz
 libarchive
 libcurl
 libdrm
+libip4tc
 libffi
 libjpeg
 LLVMSPIRVLib
@@ -23,7 +24,9 @@ liblzma
 libpng
 libR
 libva
+libvirt
 libxslt
+libwebp
 lua
 mozjs-52
 mozjs-60
@@ -32,12 +35,15 @@ ogg
 ompi
 opencv
 openssl
+opus
 popt
+pygobject-3.0
 Qt5Core
 Qt5WebEngine
 Qt5Svg
 Qt5UiTools
 Qt5Widgets
+Qt5UiTools
 readline
 SDL2_gfx
 SDL2_image
