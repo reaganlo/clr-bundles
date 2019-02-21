@@ -1,0 +1,18 @@
+# [TITLE]: spectacle
+# [DESCRIPTION]: KDE screenshot capture utility
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(kde-frameworks5)
+include(qt-basic)
+include(libX11client)
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+spectacle

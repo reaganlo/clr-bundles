@@ -1,0 +1,16 @@
+# [TITLE]: syndication
+# [DESCRIPTION]: RSS/Atom parser library
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(qt-basic)
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+syndication

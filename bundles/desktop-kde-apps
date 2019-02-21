@@ -96,7 +96,7 @@ kolourpaint
 konqueror
 include(konsole)
 kontactinterface
-konversation
+include(konversation)
 kpimtextedit
 kpkpass
 kqtquickcharts
@@ -141,8 +141,8 @@ poxml
 prison
 qqc2-desktop-style
 qrencode
-spectacle
+include(spectacle)
 svgpart
-syndication
+include(syndication)
 telepathy-qt
 zeroconf-ioslave

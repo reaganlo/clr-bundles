@@ -104,5 +104,8 @@ kamera # No detailed summary available
 okular # No detailed summary available
 nautilus # Default file manager for GNOME
 glibc-locale # Various UTF-8 language definitions
-Sphinx # Free open-source SQL full-text search engine. 
+Sphinx # Free open-source SQL full-text search engine.
 python3-tcl # TCL/TK support for python
+spectacle # KDE screenshot capture utility
+syndication # RSS/Atom parser library
+konversation # No detailed summary available 
