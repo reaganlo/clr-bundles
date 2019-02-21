@@ -57,7 +57,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -110,11 +110,11 @@ dconf-dev
 dejagnu
 desktop-file-utils
 dhcp
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -176,7 +176,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glu-dev
@@ -220,7 +220,7 @@ icu4c-dev32
 include(intltool)
 intltool-dev
 iptables
-iptables-dev
+include(devpkg-iptables)
 iptables-dev32
 irrlicht-dev
 iso-codes-dev
@@ -356,7 +356,7 @@ libusb-dev32
 libvdpau-dev
 libvorbis-dev
 libvorbis-dev32
-libwebp-dev
+include(devpkg-libwebp)
 libwebp-dev32
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -368,7 +368,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 include(devpkg-lua)
 m4
@@ -410,7 +410,7 @@ openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
-opus-dev
+include(devpkg-opus)
 orc
 include(devpkg-orc)
 orc-dev32
@@ -489,7 +489,7 @@ procps-ng-bin
 protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
-include(pygobject)
+pygobject
 python-core
 python-dev
 python3
@@ -518,7 +518,7 @@ speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-include(strace)
+strace
 include(subversion)
 systemd-bin
 include(devpkg-systemd)
@@ -544,7 +544,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32

@@ -69,7 +69,7 @@ ocl-icd
 ocl-icd-dev
 include(openblas)
 include(devpkg-openssl)
-opus-dev
+include(devpkg-opus)
 p7zip
 include(patch)
 pbzip2

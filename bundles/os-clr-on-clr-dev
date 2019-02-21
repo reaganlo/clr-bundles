@@ -101,7 +101,7 @@ bats
 include(bc)
 bdftopcf
 beignet-dev
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -182,15 +182,15 @@ defusedxml
 dejagnu
 desktop-file-utils
 dhcp
-include(diffutils)
+diffutils
 dnsmasq
-include(docbook-utils)
+docbook-utils
 docbook-xml
-include(docutils)
+docutils
 docutils-python
 include(dosfstools)
 double-conversion-dev
-include(doxygen)
+doxygen
 dulwich
 e2fsprogs
 e2fsprogs-data
@@ -232,7 +232,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 freetype
 include(devpkg-freetype)
@@ -276,7 +276,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 glslang-bin
@@ -301,7 +301,7 @@ golang-github-cpuguy83-go-md2man
 googletest-dev
 gperf
 gperftools-dev
-include(gpgme)
+gpgme
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -347,7 +347,7 @@ ipaddress-legacypython
 ipaddress-python
 include(iproute2)
 iptables
-iptables-dev
+include(devpkg-iptables)
 iptables-dev32
 ipython
 isa-l-dev
@@ -546,10 +546,10 @@ libusb-dev
 libuser-dev
 libvorbis-dev
 libvorbis-dev32
-libwebp-dev
+include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
-include(libxml2)
+libxml2
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
@@ -566,7 +566,7 @@ linecache2-python
 links
 linux-firmware-wifi
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 llvm-lib
 lmdb-dev
@@ -636,7 +636,7 @@ onig-dev
 open-iscsi
 open-isns-dev
 openal-soft-dev
-include(openblas)
+openblas
 openexr-dev
 openjade-dev
 openjdk
@@ -650,7 +650,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
-opus-dev
+include(devpkg-opus)
 orc
 include(devpkg-orc)
 orc-dev32
@@ -756,7 +756,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
-include(plzip)
+plzip
 pmdk-dev
 polkit-dev
 polkit-qt-dev
@@ -787,7 +787,7 @@ pycparser-legacypython
 pycparser-python
 pycurl
 pyflakes-python
-include(pygobject)
+pygobject
 pyparsing
 pytest
 pytest-runner
@@ -873,7 +873,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification
 startup-notification-dev
-include(strace)
+strace
 subunit-dev
 include(subversion)
 swig
@@ -899,7 +899,7 @@ testtools
 tevent-dev
 tevent-python3
 include(texinfo)
-include(texlive)
+texlive
 thin-provisioning-tools
 tiff-dev
 tk
@@ -928,7 +928,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 vim
 virtualenv
