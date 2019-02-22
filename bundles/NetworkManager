@@ -1,0 +1,17 @@
+# [TITLE]: NetworkManager
+# [DESCRIPTION]: System for maintaining active network connection
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libglib)
+
+# start of custom additions
+NetworkManager-openconnect
+NetworkManager-vpnc
+NetworkManager-openvpn
+# end of custom additions
+
+# main package
+NetworkManager
