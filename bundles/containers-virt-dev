@@ -26,7 +26,7 @@ bash
 bash-completion-dev
 bats
 include(bc)
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -54,10 +54,10 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-include(diffutils)
-include(docbook-utils)
+diffutils
+docbook-utils
 docbook-xml
-include(doxygen)
+doxygen
 e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
@@ -89,7 +89,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-staticdev
 glibc-utils
 gmp-dev
@@ -104,7 +104,7 @@ gobject-introspection-dev
 golang-github-cpuguy83-go-md2man
 gperf
 gpgme-dev
-include(graphviz)
+graphviz
 grep
 groff
 gtk+-dev
@@ -178,7 +178,7 @@ libusb-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 libxml2-dev32
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
 lz4-dev
@@ -220,7 +220,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procps-ng
-include(pygobject)
+pygobject
 python-dev
 python3
 python3-core
@@ -235,7 +235,7 @@ sed
 shadow
 shared-mime-info
 include(devpkg-sqlite-autoconf)
-include(strace)
+strace
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -244,7 +244,7 @@ systemd-extras
 systemd-lib
 tar
 tcl
-include(texinfo)
+texinfo
 thin-provisioning-tools
 tk
 include(tzdata)
@@ -255,7 +255,7 @@ include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(which)
 xmlto

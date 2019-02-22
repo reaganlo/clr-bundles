@@ -15,7 +15,7 @@ Linux-PAM-dev32
 Mako-legacypython
 Mako-python
 include(devpkg-SDL)
-include(Sphinx)
+Sphinx
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -42,7 +42,7 @@ automake-dev
 bash-completion-dev
 bats
 bdftopcf
-include(binutils)
+binutils
 binutils-dev
 include(bison)
 bison-dev
@@ -87,11 +87,11 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-include(diffutils)
-include(docbook-utils)
+diffutils
+docbook-utils
 docbook-xml
 double-conversion-dev
-include(doxygen)
+doxygen
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -116,7 +116,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
-include(fonttools)
+fonttools
 freeglut-dev
 include(devpkg-freetype)
 freetype-dev32
@@ -150,7 +150,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-include(glibc-locale)
+glibc-locale
 glibc-utils
 glu-dev
 gmp-dev
@@ -165,7 +165,7 @@ googletest-dev
 gperf
 include(devpkg-graphite)
 graphite-dev32
-include(graphviz)
+graphviz
 graphviz-extras
 grep
 groff
@@ -297,10 +297,10 @@ include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
-include(libxslt)
+libxslt
 libxslt-bin
 linux-libc-headers
-include(llvm)
+llvm
 include(devpkg-llvm)
 lz4-dev
 m4
@@ -425,7 +425,7 @@ speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-include(strace)
+strace
 include(subversion)
 systemd-bin
 include(devpkg-systemd)
@@ -435,7 +435,7 @@ systemd-lib
 tar
 tcl
 tcl-dev
-include(texinfo)
+texinfo
 thin-provisioning-tools
 tiff-dev
 tk-dev
@@ -449,7 +449,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-include(valgrind)
+valgrind
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32
