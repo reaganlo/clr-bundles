@@ -9,7 +9,7 @@ include(python3-basic)
 include(libstdcpp)
 
 # start of custom additions
-include(lib-glib)
+include(libglib)
 include(openldap)
 include(libxslt)
 
