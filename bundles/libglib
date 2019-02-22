@@ -3,6 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(libstdcpp)
 
 glib-lib
 icu4c-lib
