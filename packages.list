@@ -129,4 +129,5 @@ fwupdate # Firmware update tool
 xterm # The basic X.Org terminal program desktop launcher
 zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
 latte-dock # A dock based on Plasma Frameworks
-blender # A 3D Modelling And Rendering Package 
+blender # A 3D Modelling And Rendering Package
+iptables # Shared Xtables code for extensions and iproute2 

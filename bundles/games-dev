@@ -219,7 +219,7 @@ include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
 intltool-dev
-iptables
+include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 irrlicht-dev

@@ -282,7 +282,7 @@ intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
 intltool-dev
-iptables
+include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 iso-codes-dev

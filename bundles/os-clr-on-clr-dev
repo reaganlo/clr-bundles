@@ -361,7 +361,7 @@ ipaddress
 ipaddress-legacypython
 ipaddress-python
 include(iproute2)
-iptables
+include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 ipython

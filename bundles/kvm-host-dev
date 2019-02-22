@@ -229,7 +229,7 @@ intltool-dev
 ipaddress
 ipaddress-legacypython
 ipaddress-python
-iptables
+include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 ipython

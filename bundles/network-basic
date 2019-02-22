@@ -19,7 +19,7 @@ include(curl)
 dpdk
 ebtables
 ipset
-iptables
+include(iptables)
 iptraf
 iputils
 include(irssi)
