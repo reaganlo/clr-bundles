@@ -1,10 +1,17 @@
 # [TITLE]: blender
 # [DESCRIPTION]: A 3D Modelling And Rendering Package
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
-include(python3-basic)
+
+include(libX11client)
 include(libstdcpp)
 
-blender
+# start of custom additions
 blender-extras
+include(python3-basic)
+# end of custom additions
+
+# main package
+blender
