@@ -127,4 +127,5 @@ libxslt # XML documentation processing tools
 dovecot # Security focused IMAP and POP3 email server
 fwupdate # Firmware update tool
 xterm # The basic X.Org terminal program desktop launcher
-zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language 
+zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
+latte-dock # A dock based on Plasma Frameworks 
