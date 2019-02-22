@@ -18,7 +18,7 @@ autogen
 automake
 automake-dev
 bash-completion-dev
-binutils
+include(binutils)
 include(bison)
 bison-dev
 buildreq-cmake
@@ -38,10 +38,10 @@ db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 include(devpkg-e2fsprogs)
 include(devpkg-elfutils)
@@ -71,7 +71,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-utils
 gmp-dev
 gmp-dev32
@@ -80,7 +80,7 @@ gnu-efi
 gnu-efi-dev
 gnutls-dev
 gperf
-graphviz
+include(graphviz)
 grep
 groff
 gtk-doc
@@ -141,7 +141,7 @@ libunistring-dev32
 libunwind-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
-libxslt
+include(libxslt)
 libxslt-bin
 linux-libc-headers
 m4
@@ -183,7 +183,7 @@ ruby
 sed
 shadow
 slang-dev
-strace
+include(strace)
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -191,14 +191,14 @@ systemd-extras
 systemd-lib
 tar
 tcl
-texinfo
+include(texinfo)
 thin-provisioning-tools
 include(unzip)
 util-linux
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-valgrind
+include(valgrind)
 valgrind-dev
 include(which)
 xmlto

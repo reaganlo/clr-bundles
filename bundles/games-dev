@@ -32,7 +32,7 @@ include(devpkg-SDL_gfx)
 include(devpkg-SDL_image)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
-Sphinx
+include(Sphinx)
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -57,7 +57,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
-binutils
+include(binutils)
 binutils-dev
 include(bison)
 bison-dev
@@ -110,11 +110,11 @@ dconf-dev
 dejagnu
 desktop-file-utils
 dhcp
-diffutils
+include(diffutils)
 dnsmasq
-docbook-utils
+include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -176,7 +176,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-staticdev
 glibc-utils
 glu-dev
@@ -196,7 +196,7 @@ googletest-dev
 gperf
 include(devpkg-graphite)
 graphite-dev32
-graphviz
+include(graphviz)
 graphviz-extras
 grep
 groff
@@ -363,12 +363,12 @@ libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
 libxml2-python
-libxslt
+include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-llvm)
 include(devpkg-lua)
 m4
@@ -489,7 +489,7 @@ procps-ng-bin
 protobuf-dev
 pulseaudio-dev
 pulseaudio-dev32
-pygobject
+include(pygobject)
 python-core
 python-dev
 python3
@@ -518,7 +518,7 @@ speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-strace
+include(strace)
 include(subversion)
 systemd-bin
 include(devpkg-systemd)
@@ -529,7 +529,7 @@ systemd-lib32
 tar
 tcl
 tcl-dev
-texinfo
+include(texinfo)
 thin-provisioning-tools
 tiff-dev
 tk-dev
@@ -544,7 +544,7 @@ util-macros-dev
 util-macros-dev32
 vala
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 include(devpkg-wayland)
 wayland-dev32

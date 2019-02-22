@@ -12,7 +12,7 @@ Jinja2
 LVM2-dev
 Linux-PAM-dev
 Linux-PAM-dev32
-Sphinx
+include(Sphinx)
 acl-dev
 acl-dev32
 asciidoc
@@ -24,7 +24,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
-binutils
+include(binutils)
 include(bison)
 bison-dev
 buildreq-cmake
@@ -54,10 +54,10 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-diffutils
-docbook-utils
+include(diffutils)
+include(docbook-utils)
 docbook-xml
-doxygen
+include(doxygen)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -97,7 +97,7 @@ glib-dev32
 glibc-bin
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-utils
 gmime
 gmime-dev
@@ -111,11 +111,11 @@ gnutls-dev
 gobject-introspection
 gobject-introspection-dev
 gperf
-gpgme
+include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
 graphite-dev32
-graphviz
+include(graphviz)
 grep
 groff
 gtk-doc
@@ -192,7 +192,7 @@ libunwind-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 libxml2-dev32
-libxslt
+include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(devpkg-lua)
@@ -211,7 +211,7 @@ nettle-lib
 nettle-lib32
 notmuch-dev
 nss-altfiles
-openblas
+include(openblas)
 openldap-dev
 include(openssl)
 include(devpkg-openssl)
@@ -254,7 +254,7 @@ six
 six-legacypython
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
-strace
+include(strace)
 swig
 systemd-bin
 include(devpkg-systemd)
@@ -266,7 +266,7 @@ talloc-dev
 tar
 tcl
 tcl-dev
-texinfo
+include(texinfo)
 thin-provisioning-tools
 tk-dev
 tokyocabinet-dev
@@ -280,7 +280,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala
-valgrind
+include(valgrind)
 valgrind-dev
 include(which)
 xapian-core-dev

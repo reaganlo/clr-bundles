@@ -21,7 +21,7 @@ Mako-python
 MarkupSafe
 PasteDeploy
 PasteDeploy-python
-Sphinx
+include(Sphinx)
 Sphinx-python
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -61,7 +61,7 @@ bats
 beautifulsoup4
 beautifulsoup4-python
 beignet-dev
-binutils
+include(binutils)
 binutils-dev
 include(bison)
 bison-dev
@@ -117,12 +117,12 @@ include(devpkg-dbus)
 dbus-dev32
 dejagnu
 desktop-file-utils
-diffutils
+include(diffutils)
 dnsmasq
-docbook-utils
+include(docbook-utils)
 docbook-xml
 include(dosfstools)
-doxygen
+include(doxygen)
 dulwich
 e2fsprogs
 e2fsprogs-data
@@ -186,7 +186,7 @@ glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
-glibc-locale
+include(glibc-locale)
 glibc-staticdev
 glibc-utils
 glu-dev
@@ -204,7 +204,7 @@ gperftools-dev
 gradle
 include(devpkg-graphite)
 graphite-dev32
-graphviz
+include(graphviz)
 graphviz-extras
 grep
 groff
@@ -346,12 +346,12 @@ libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
 libxml2-python
-libxslt
+include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
 linecache2
 linux-libc-headers
-llvm
+include(llvm)
 include(devpkg-llvm)
 logilab-common
 include(devpkg-lua)
@@ -499,7 +499,7 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-strace
+include(strace)
 include(subversion)
 systemd
 systemd-bin
@@ -514,7 +514,7 @@ testrepository
 testresources
 testscenarios
 testtools
-texinfo
+include(texinfo)
 thin-provisioning-tools
 tiff-dev
 tk-dev
@@ -535,7 +535,7 @@ util-linux-extras
 util-macros-dev
 util-macros-dev32
 vala-dev
-valgrind
+include(valgrind)
 valgrind-dev
 virtualenv
 waitress
