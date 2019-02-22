@@ -595,6 +595,9 @@ R-yaml
 R-zCompositions
 R-zip
 R-zoo
+R-rjags
+R-here
+
 
 #
 # 3rd party libraries
