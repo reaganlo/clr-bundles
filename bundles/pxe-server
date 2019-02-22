@@ -3,11 +3,12 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+include(iptables)
+include(nginx)
 include(python3-basic)
 dhcp
 dnsmasq
 grub
 ipxe
-include(nginx)
 uwsgi
 wol
