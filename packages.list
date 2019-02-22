@@ -131,4 +131,5 @@ zsh # Z Shell, an interactive shell and powerful command-line interpreter for sc
 latte-dock # A dock based on Plasma Frameworks
 blender # A 3D Modelling And Rendering Package
 iptables # Shared Xtables code for extensions and iproute2
-NetworkManager # System for maintaining active network connection 
+NetworkManager # System for maintaining active network connection
+boinc-client # volunteer computing and grid computing 
