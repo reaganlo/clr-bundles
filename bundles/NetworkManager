@@ -12,6 +12,7 @@ NetworkManager-openconnect
 NetworkManager-vpnc
 NetworkManager-openvpn
 include(libX11client)
+include(openldap)
 # end of custom additions
 
 # main package
