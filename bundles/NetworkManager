@@ -11,6 +11,7 @@ include(libglib)
 NetworkManager-openconnect
 NetworkManager-vpnc
 NetworkManager-openvpn
+include(libX11client)
 # end of custom additions
 
 # main package
