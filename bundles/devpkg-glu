@@ -1,9 +1,10 @@
-# [TITLE]: devpkg-libpciaccess
-# [DESCRIPTION]: All content for pkgconfig file libpciaccess.pc
+# [TITLE]: devpkg-glu
+# [DESCRIPTION]: All content for pkgconfig file glu.pc
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
+include(devpkg-mesa)
 
-libpciaccess-dev
+glu-dev

@@ -1,0 +1,15 @@
+# [TITLE]: devpkg-gjs
+# [DESCRIPTION]: All content for pkgconfig file gjs.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-cairo)
+include(devpkg-glib)
+include(devpkg-gobject-introspection)
+include(devpkg-gtk3)
+include(devpkg-libffi)
+include(devpkg-mozjs60)
+
+gjs-dev
