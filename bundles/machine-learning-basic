@@ -40,7 +40,7 @@ bazel
 beignet
 beignet-dev
 bokeh
-boost-dev
+include(devpkg-boost)
 cycler-python
 eigen-dev
 fann-dev

@@ -84,7 +84,7 @@ binutils-dev
 include(bison)
 bison-dev
 boost
-boost-dev
+include(devpkg-boost)
 bridge-utils
 bsdiff-dev
 btrfs-progs-dev

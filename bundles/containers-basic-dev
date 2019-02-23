@@ -26,7 +26,7 @@ bats
 include(binutils)
 include(bison)
 bison-dev
-boost-dev
+include(devpkg-boost)
 btrfs-progs-dev
 buildreq-cmake
 buildreq-configure

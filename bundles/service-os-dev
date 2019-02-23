@@ -33,7 +33,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-boost-dev
+include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-distutils23

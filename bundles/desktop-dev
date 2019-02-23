@@ -79,7 +79,7 @@ binutils-dev
 include(bison)
 bison-dev
 include(devpkg-bluez)
-boost-dev
+include(devpkg-boost)
 brotli-dev
 btrfs-progs-dev
 buildreq-cmake

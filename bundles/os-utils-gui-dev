@@ -65,7 +65,7 @@ binutils-dev
 include(bison)
 bison-dev
 include(devpkg-bluez)
-boost-dev
+include(devpkg-boost)
 bridge-utils
 brotli-dev
 buildreq-cmake

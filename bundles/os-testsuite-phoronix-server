@@ -20,7 +20,7 @@ autoconf-data
 include(bc)
 include(bison)
 bndl-lamp-basic
-boost-dev
+include(devpkg-boost)
 bzip2-dev
 bzip2-dev
 clinfo

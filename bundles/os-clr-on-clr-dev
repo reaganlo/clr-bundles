@@ -115,7 +115,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 boost
-boost-dev
+include(devpkg-boost)
 bridge-utils
 bsdiff-dev
 btrfs-progs-dev

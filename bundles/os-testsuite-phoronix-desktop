@@ -34,7 +34,7 @@ include(bc)
 beignet
 beignet-dev
 include(bison)
-boost-dev
+include(devpkg-boost)
 bzip2-dev
 bzip2-dev
 include(devpkg-cairo)

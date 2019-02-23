@@ -65,7 +65,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
-boost-dev
+include(devpkg-boost)
 bridge-utils
 buildreq-cmake
 buildreq-configure

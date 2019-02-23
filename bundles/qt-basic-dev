@@ -47,7 +47,7 @@ binutils-dev
 include(bison)
 bison-dev
 include(devpkg-bluez)
-boost-dev
+include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
