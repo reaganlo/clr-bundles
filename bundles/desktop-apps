@@ -7,25 +7,12 @@ include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
 
-include(xemacs)
-# apps low level deps
-glib-bin
-glib-config
-
-# python specific deps
-python-zeep
-requests
-requests-ntlm
-
-# apps
+# included apps
 include(baobab)
 include(cheese)
-dconf-editor
 include(eog)
-eog-plugins
 include(evince)
 include(evolution)
-evolution-ews
 include(file-roller)
 include(firefox)
 include(flatpak)
@@ -43,11 +30,26 @@ include(gnome-system-monitor)
 include(gnome-todo)
 include(gnome-weather)
 include(graphviz)
-graphviz-extras
 include(gvim)
 include(libva-utils)
+include(seahorse)
+include(totem)
+include(xemacs)
+
+# apps low level deps
+glib-bin
+glib-config
+
+# python specific deps
+python-zeep
+requests
+requests-ntlm
+
+# apps
+dconf-editor
+eog-plugins
+evolution-ews
+graphviz-extras
 libyami-utils
 pavucontrol
-include(seahorse)
 simple-scan
-include(totem)

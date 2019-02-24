@@ -3,37 +3,40 @@
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+include(alsa-utils)
 include(cryptography)
+include(darktable)
+include(darktable)
+include(eog)
+include(firefox)
+include(flatpak)
 include(fonts-basic)
+include(graphviz)
+include(gvim)
 include(openssl)
 include(perl-basic)
 include(python3-basic)
-include(wpa_supplicant)
-include(xfce4-desktop)
-include(xemacs)
-include(darktable)
 include(thunderbird)
+include(thunderbird)
+include(wpa_supplicant)
 include(x11-server)
+include(xemacs)
+include(xfce4-desktop)
 
 FreeRDP
 Thunar
 Vertex-theme
 alsa-plugins-lib
-include(alsa-utils)
 arc-theme
 bash-completion
 clear-font
 clr-desktop-defaults
 clr-wallpapers
-include(darktable)
 dbus-extras
 desktop-file-utils
 elementary-xfce
-include(eog)
 exo
 faba-icon-theme
-include(firefox)
-include(flatpak)
 font-bitstream-type1
 fontconfig
 garcon
@@ -43,12 +46,10 @@ geany-plugins
 glib-networking-lib
 gnome-icon-theme
 gnome-themes-standard
-include(graphviz)
 gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine
 gtk3
-include(gvim)
 hexchat
 hicolor-icon-theme
 iceauth
@@ -76,7 +77,6 @@ pulseaudio-bin
 shared-mime-info
 systemd-extras
 thunar-volman
-include(thunderbird)
 tigervnc
 vim-data
 virt-viewer
