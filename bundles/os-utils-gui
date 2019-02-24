@@ -85,7 +85,6 @@ xclip
 xcursor-themes
 xdg-user-dirs
 xdg-utils
-include(xemacs)
 xf86-input-evdev
 xf86-input-synaptics
 xfce4-screenshooter

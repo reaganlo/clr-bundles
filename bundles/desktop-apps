@@ -51,4 +51,3 @@ pavucontrol
 include(seahorse)
 simple-scan
 include(totem)
-include(xemacs)
