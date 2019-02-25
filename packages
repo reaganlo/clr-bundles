@@ -74,7 +74,6 @@ ncdu # curses disk space usage management tool
 nfs-utils # Server and client tooling for network file systems (NFS)
 nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
 openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
-p11-kit # Load and enumerate PKCS#11 modules for cryptography
 parallel # shell tool for executing jobs in parallel using one or more computers
 patch # updates text files according to instructions contained in a separate file
 pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory

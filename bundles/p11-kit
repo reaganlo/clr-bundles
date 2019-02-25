@@ -1,0 +1,14 @@
+# [TITLE]: p11-kit
+# [DESCRIPTION]: Load and enumerate PKCS
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+include(findutils)
+# end of custom additions
+
+# main package
+p11-kit

@@ -134,4 +134,5 @@ iptables # Shared Xtables code for extensions and iproute2
 NetworkManager # System for maintaining active network connection
 boinc-client # volunteer computing and grid computing
 conky # No detailed summary available
-Babel # Internationalization utilities 
+Babel # Internationalization utilities
+p11-kit # Load and enumerate PKCS 
