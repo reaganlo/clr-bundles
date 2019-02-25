@@ -144,7 +144,7 @@ fcgi-dev
 file-dev
 include(flex)
 flex-dev
-font-bitstream-type1
+xorg-fonts
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
