@@ -1,0 +1,16 @@
+# [TITLE]: developer-gpu
+# [DESCRIPTION]: Tools and libraries for GPU application development
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [MAINTAINER]: Caio Marcelo de Oliveira Filho <caio.oliveira@intel.com>
+include(devpkg-mesa)
+include(libX11client)
+include(qt-basic)
+SPIRV-Headers-dev
+SPIRV-Tools-dev
+Vulkan-Headers-dev
+Vulkan-Loader-dev
+Vulkan-ValidationLayers-dev
+glslang-bin
+renderdoc
+waffle-dev
