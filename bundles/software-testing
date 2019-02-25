@@ -7,7 +7,7 @@
 include(perl-basic)
 include(python-basic)
 include(Sphinx)
-
+include(python-testing)
 
 bats
 check
