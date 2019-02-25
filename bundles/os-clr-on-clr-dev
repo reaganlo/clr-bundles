@@ -24,7 +24,7 @@ Cython
 Cython-legacypython
 Jinja2
 LVM2
-LVM2-dev
+include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -69,8 +69,8 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
 appstream-dev
-apr-dev
-apr-util-dev
+include(devpkg-apr)
+include(devpkg-apr-util)
 argcomplete
 argon2-dev
 argparse
@@ -92,7 +92,7 @@ attr-dev32
 attrs
 attrs-legacypython
 attrs-python
-audit-dev
+include(devpkg-audit)
 autoconf
 autoconf213
 autogen
@@ -155,10 +155,10 @@ cmake
 cmocka-dev
 cmrt-dev
 colorama
-colord-dev
+include(devpkg-colord)
 commonmark
 compat-enchant-soname1-dev
-compat-fuse-soname2-dev
+include(devpkg-compat-fuse-soname2)
 contextlib2
 coreutils
 cov-core-python
@@ -228,12 +228,12 @@ expect
 extra-cmake-modules
 extras
 fcgi-dev
-fftw-dev
+include(devpkg-fftw)
 include(file)
 file-dev
 filelock
 fixtures
-flac-dev
+include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
@@ -245,7 +245,7 @@ include(devpkg-fontconfig)
 fontconfig-dev32
 fontforge
 include(fonttools)
-freeglut-dev
+include(devpkg-freeglut)
 freetype
 include(devpkg-freetype)
 freetype-dev32
@@ -295,7 +295,7 @@ glibc-staticdev
 glibc-utils
 glslang-bin
 glslang-dev
-glu-dev
+include(devpkg-glu)
 glu-dev32
 gmime
 gmime-dev
@@ -307,10 +307,10 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnupg
-gnutls-dev
+include(devpkg-gnutls)
 go
 gobject-introspection
-gobject-introspection-dev
+include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
 googletest-dev
 gperf
@@ -346,7 +346,7 @@ httpd-data
 httpd-dev
 httpd-extras
 hunspell-dev
-hwloc-dev
+include(devpkg-hwloc)
 hypothesis-legacypython
 hypothesis-python
 icu4c
@@ -373,7 +373,7 @@ itstool
 jansson-dev
 jaraco.functools
 jemalloc-dev
-json-c-dev
+include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
@@ -472,7 +472,7 @@ include(devpkg-libepoxy)
 libepoxy-dev32
 libevdev-dev
 libevdev-dev32
-libevent-dev
+include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
@@ -489,7 +489,7 @@ libgudev-dev
 libgudev-dev32
 libgusb-dev
 include(devpkg-libical)
-libidn-dev
+include(devpkg-libidn)
 libidn-dev32
 libidn2-dev
 libidn2-dev32
@@ -535,8 +535,8 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libsafec-dev
-libsamplerate-dev
-libseccomp-dev
+include(devpkg-libsamplerate)
+include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
 libsndfile-dev
@@ -546,7 +546,7 @@ include(devpkg-libsoup)
 libsoup-dev32
 libssh2-dev
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libthai-dev
 libthai-dev32
@@ -557,7 +557,7 @@ libtool-dev
 libtool-dev32
 libunistring-dev
 libunistring-dev32
-libunwind-dev
+include(devpkg-libunwind)
 libunwind-dev32
 libusb-dev
 libuser-dev
@@ -624,7 +624,7 @@ ndg_httpsclient
 net-tools
 netbase
 nettle
-nettle-dev
+include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
@@ -674,7 +674,7 @@ orc
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)
-p11-kit-dev
+include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
 pacrunner-dev
@@ -794,7 +794,7 @@ procps-ng-bin
 protobuf-dev
 psutil
 ptyprocess
-pulseaudio-dev
+include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
 py-python

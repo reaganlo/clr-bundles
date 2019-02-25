@@ -21,7 +21,7 @@ Cython
 Cython-legacypython
 Jinja2
 LVM2
-LVM2-dev
+include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -47,7 +47,7 @@ acl-dev
 acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
-apr-dev
+include(devpkg-apr)
 asciidoc
 asn1crypto
 asn1crypto-legacypython
@@ -64,7 +64,7 @@ attr-dev
 attr-dev32
 attrs-legacypython
 attrs-python
-audit-dev
+include(devpkg-audit)
 autoconf
 autoconf213
 autogen
@@ -117,9 +117,9 @@ cheroot
 clear-font
 clr-rpm-config
 cmake
-colord-dev
+include(devpkg-colord)
 compat-enchant-soname1-dev
-compat-fuse-soname2-dev
+include(devpkg-compat-fuse-soname2)
 coreutils
 cov-core-python
 coverage
@@ -226,7 +226,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
-glu-dev
+include(devpkg-glu)
 gmime
 gmime-dev
 gmp-dev
@@ -237,10 +237,10 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnupg
-gnutls-dev
+include(devpkg-gnutls)
 go
 gobject-introspection
-gobject-introspection-dev
+include(devpkg-gobject-introspection)
 googletest-dev
 gperf
 gperftools-dev
@@ -267,7 +267,7 @@ harfbuzz-dev32
 help2man
 hostname
 hunspell-dev
-hwloc-dev
+include(devpkg-hwloc)
 hypothesis-legacypython
 hypothesis-python
 include(devpkg-icu4c)
@@ -290,7 +290,7 @@ iso-codes-dev
 iso8601
 jansson-dev
 jaraco.functools
-json-c-dev
+include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
@@ -348,7 +348,7 @@ include(devpkg-libepoxy)
 libepoxy-dev32
 libevdev-dev
 libevdev-dev32
-libevent-dev
+include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
@@ -361,7 +361,7 @@ libgpg-error-dev
 libgpg-error-dev32
 libgudev-dev
 libgusb-dev
-libidn-dev
+include(devpkg-libidn)
 libidn-dev32
 libidn2-dev
 libidn2-dev32
@@ -396,13 +396,13 @@ librsvg
 librsvg-dev
 librsvg-dev32
 libsafec-dev
-libseccomp-dev
+include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsoup)
 libsoup-dev32
 libssh2-dev
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libthai-dev
 libthai-dev32
@@ -411,7 +411,7 @@ libtool
 libtool-dev
 libunistring-dev
 libunistring-dev32
-libunwind-dev
+include(devpkg-libunwind)
 libunwind-dev32
 libusb-dev
 libuser-dev
@@ -458,7 +458,7 @@ ndg_httpsclient
 net-tools
 netbase
 nettle
-nettle-dev
+include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
@@ -493,7 +493,7 @@ openssl-dev32
 openssl-lib32
 include(devpkg-orc)
 include(p11-kit)
-p11-kit-dev
+include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
 pacrunner-dev

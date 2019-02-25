@@ -12,7 +12,7 @@ include(libX11client)
 
 Babel
 M2Crypto
-apr-util-dev
+include(devpkg-apr-util)
 debtcollector
 elixir
 funcsigs

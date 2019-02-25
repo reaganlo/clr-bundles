@@ -9,7 +9,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
-LVM2-dev
+include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Pygments
@@ -25,7 +25,7 @@ include(devpkg-alsa-lib)
 asciidoc
 attr-dev
 attr-dev32
-audit-dev
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -60,7 +60,7 @@ cffi
 check-dev
 clr-rpm-config
 cmake
-compat-fuse-soname2-dev
+include(devpkg-compat-fuse-soname2)
 coreutils
 include(cpio)
 cppcheck
@@ -125,9 +125,9 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
-gnutls-dev
+include(devpkg-gnutls)
 go
-gobject-introspection-dev
+include(devpkg-gobject-introspection)
 googletest-dev
 gperf
 include(graphviz)
@@ -142,7 +142,7 @@ guile-dev
 include(gzip)
 help2man
 hostname
-hwloc-dev
+include(devpkg-hwloc)
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
@@ -150,7 +150,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 iso8601
-json-c-dev
+include(devpkg-json-c)
 include(kbd)
 keyutils-dev
 kmod
@@ -180,7 +180,7 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
-libevent-dev
+include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
@@ -191,7 +191,7 @@ libgfortran-compat-soname3
 libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
-libidn-dev
+include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libjpeg-turbo)
 libmicrohttpd-dev
@@ -210,15 +210,15 @@ include(devpkg-libpng)
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
-libseccomp-dev
+include(devpkg-libseccomp)
 libseccomp-dev32
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libtool
 libtool-dev
 libunistring-dev
-libunwind-dev
+include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libxkbcommon)
 libxml2-bin

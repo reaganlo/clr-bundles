@@ -9,7 +9,7 @@ include(os-core-dev)
 CUnit-dev
 CUnit-dev32
 Cython
-LVM2-dev
+include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -95,9 +95,9 @@ gmp-lib32
 gnu-efi
 gnu-efi-dev
 gnupg
-gnutls-dev
+include(devpkg-gnutls)
 go
-gobject-introspection-dev
+include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
 gperf
 gpgme-dev
@@ -116,7 +116,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-json-c-dev
+include(devpkg-json-c)
 include(kbd)
 keyutils-dev
 kmod
@@ -135,7 +135,7 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
-libevent-dev
+include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
@@ -143,7 +143,7 @@ libgcrypt-dev
 libgcrypt-dev32
 libgpg-error-dev
 libgpg-error-dev32
-libidn-dev
+include(devpkg-libidn)
 libidn-dev32
 libidn2-dev
 libidn2-dev32
@@ -158,17 +158,17 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libpwquality-dev
-libseccomp-dev
+include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libtool
 libtool-dev
 libunistring-dev
 libunistring-dev32
-libunwind-dev
+include(devpkg-libunwind)
 libusb-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
@@ -187,7 +187,7 @@ ncurses-dev32
 net-tools
 netbase
 nettle
-nettle-dev
+include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
@@ -199,7 +199,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(p11-kit)
-p11-kit-dev
+include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
 include(devpkg-pcre)

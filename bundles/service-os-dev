@@ -9,7 +9,7 @@ include(service-os)
 CUnit-dev
 CUnit-dev32
 Cython
-LVM2-dev
+include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -124,7 +124,7 @@ ipaddress
 include(devpkg-iptables)
 iptables-dev32
 iso8601
-json-c-dev
+include(devpkg-json-c)
 include(kbd)
 keyutils-dev
 kmod
@@ -141,7 +141,7 @@ libcap-dev32
 libcap-ng-dev
 libcap-ng-dev32
 libcgroup-dev
-libevent-dev
+include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
@@ -152,7 +152,7 @@ libgfortran-compat-soname3
 libgfortran-compat-soname4
 libgpg-error-dev
 libgpg-error-dev32
-libidn-dev
+include(devpkg-libidn)
 libidn-dev32
 libmicrohttpd-dev
 libmnl-dev
@@ -165,14 +165,14 @@ libnftnl-dev
 libnftnl-dev32
 include(devpkg-libpciaccess)
 libpwquality-dev
-libseccomp-dev
+include(devpkg-libseccomp)
 libseccomp-dev32
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libtool
 libtool-dev
-libunwind-dev
+include(devpkg-libunwind)
 libusb-dev
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)

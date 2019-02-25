@@ -11,7 +11,7 @@ CUnit-dev
 CUnit-dev32
 Cython
 GConf-dev
-LVM2-dev
+include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT-dev
@@ -86,7 +86,7 @@ clear-font
 clr-rpm-config
 include(devpkg-clutter)
 cmake
-colord-dev
+include(devpkg-colord)
 compat-curl-gnutls-soname4-dev
 compat-libpng-soname12-dev
 compat-libva-soname1-dev
@@ -128,9 +128,9 @@ include(devpkg-expat)
 expat-dev32
 expect
 extra-cmake-modules
-fftw-dev
+include(devpkg-fftw)
 file-dev
-flac-dev
+include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
@@ -140,7 +140,7 @@ font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
-freeglut-dev
+include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
@@ -166,7 +166,7 @@ ghostscript
 ghostscript-dev
 git
 gjs
-gjs-dev
+include(devpkg-gjs)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -179,7 +179,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-staticdev
 glibc-utils
-glu-dev
+include(devpkg-glu)
 glu-dev32
 gmp-dev
 gmp-dev32
@@ -188,10 +188,10 @@ gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
-gnutls-dev
+include(devpkg-gnutls)
 gnutls-dev32
 gobject-introspection
-gobject-introspection-dev
+include(devpkg-gobject-introspection)
 googletest-dev
 gperf
 include(devpkg-graphite)
@@ -226,7 +226,7 @@ irrlicht-dev
 iso-codes-dev
 itstool
 jansson-dev
-json-c-dev
+include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
@@ -280,7 +280,7 @@ include(devpkg-libepoxy)
 libepoxy-dev32
 libevdev-dev
 libevdev-dev32
-libevent-dev
+include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
@@ -293,7 +293,7 @@ libgudev-dev
 libgudev-dev32
 libgusb-dev
 include(devpkg-libical)
-libidn-dev
+include(devpkg-libidn)
 libidn-dev32
 libidn2-dev
 libidn2-dev32
@@ -330,8 +330,8 @@ libqmi-dev
 librsvg
 librsvg-dev
 librsvg-dev32
-libsamplerate-dev
-libseccomp-dev
+include(devpkg-libsamplerate)
+include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
 libsndfile-dev
@@ -340,7 +340,7 @@ include(devpkg-libsoup)
 libsoup-dev32
 libspatialindex-dev
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libthai-dev
 libthai-dev32
@@ -350,7 +350,7 @@ libtool-dev
 libtool-dev32
 libunistring-dev
 libunistring-dev32
-libunwind-dev
+include(devpkg-libunwind)
 libusb-dev
 libusb-dev32
 libvdpau-dev
@@ -388,7 +388,7 @@ ncurses-dev32
 net-tools
 netbase
 nettle
-nettle-dev
+include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
@@ -415,7 +415,7 @@ orc
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)
-p11-kit-dev
+include(devpkg-p11-kit)
 p11-kit-dev32
 include(devpkg-pango)
 pango-dev32
@@ -487,7 +487,7 @@ ppp-dev
 procps-ng
 procps-ng-bin
 protobuf-dev
-pulseaudio-dev
+include(devpkg-pulseaudio)
 pulseaudio-dev32
 include(pygobject)
 python-core

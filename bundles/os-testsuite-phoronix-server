@@ -28,9 +28,9 @@ cmake
 include(devpkg-curl)
 dialog
 dmidecode
-fftw-dev
+include(devpkg-fftw)
 include(fio)
-flac-dev
+include(devpkg-flac)
 include(flex)
 gflags-dev
 glibc-staticdev
@@ -38,12 +38,12 @@ glibc-lib-avx2
 glog-dev
 gmp-dev
 gnupg
-hwloc-dev
+include(devpkg-hwloc)
 jemalloc-dev
 jemalloc-dev
 libaio-dev
 libassuan-dev
-libevent-dev
+include(devpkg-libevent)
 libgcrypt-dev
 libgfortran-avx
 libgpg-error-dev

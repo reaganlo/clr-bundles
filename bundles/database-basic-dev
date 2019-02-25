@@ -8,7 +8,7 @@ include(dev-utils)
 include(os-core-dev)
 CUnit-dev
 Cython
-LVM2-dev
+include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 acl-dev
@@ -81,7 +81,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
-gnutls-dev
+include(devpkg-gnutls)
 gperf
 include(graphviz)
 grep
@@ -99,7 +99,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 jemalloc-dev
-json-c-dev
+include(devpkg-json-c)
 include(kbd)
 keyutils-dev
 kmod
@@ -131,14 +131,14 @@ libnfnetlink-dev32
 libnftnl-dev
 libnftnl-dev32
 libpwquality-dev
-libseccomp-dev
+include(devpkg-libseccomp)
 libseccomp-dev32
 libstdc++
-libtasn1-dev
+include(devpkg-libtasn1)
 libtasn1-dev32
 libtool
 libtool-dev
-libunwind-dev
+include(devpkg-libunwind)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 include(libxslt)

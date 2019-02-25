@@ -17,7 +17,7 @@ fakeroot
 i2c-tools
 include(intltool)
 graphite
-hwloc-dev
+include(devpkg-hwloc)
 include(llvm)
 mariadb-dev
 libXaw-dev
