@@ -5,7 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 include(libglib)
-
+include(NetworkManager)
 
 linux-firmware-wifi
 NetworkManager-bin

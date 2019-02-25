@@ -6,6 +6,8 @@
 include(libX11client)
 include(p11-kit)
 include(perl-basic)
+include(NetworkManager)
+
 minetest
 minetest_game
 scummvm
