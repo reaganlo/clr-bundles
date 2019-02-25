@@ -111,6 +111,7 @@ print-manager
 pulseaudio
 sddm
 sddm-autostart
+sddm-kcm
 solid
 sonnet
 systemd-extras
