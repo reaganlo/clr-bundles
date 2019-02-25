@@ -3,6 +3,8 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Mario Alfredo Carrillo Arevalo <mario.alfredo.c.arevalo@intel.com>
+include(libstdcpp)
+
 gstreamer
 gst-plugins-base
 gst-plugins-good
