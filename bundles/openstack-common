@@ -10,7 +10,7 @@ include(openblas)
 include(libstdcpp)
 include(libX11client)
 
-Babel
+include(Babel)
 M2Crypto
 include(devpkg-apr-util)
 debtcollector

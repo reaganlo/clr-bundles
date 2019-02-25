@@ -1,14 +1,15 @@
-# [TITLE]: Sphinx
-# [DESCRIPTION]: Free open-source SQL full-text search engine.
+# [TITLE]: Babel
+# [DESCRIPTION]: Internationalization utilities
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
 
 # start of custom additions
-include(Babel)
+
 # end of custom additions
 
 # main package
-Sphinx
+Babel

@@ -15,7 +15,7 @@ include(os-core-dev)
 include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
-Babel
+include(Babel)
 Babel-legacypython
 CUnit
 CUnit-dev
