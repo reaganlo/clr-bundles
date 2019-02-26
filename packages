@@ -84,8 +84,10 @@ patch # updates text files according to instructions contained in a separate fil
 pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
 pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
 quagga # zebra and related routing tools
+rclone # rclone is a command-line program to sync files and directories to and from various network and cloud providers
 rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
 redis-native # key-value database
+restic # restic is a backup program that supports multiple cloud storage providers
 rrdtool # Round Robin Database and graphing tool for time-series data.
 rsyslog # Rocket-fast system for log processing
 scons # python build system
