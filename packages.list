@@ -135,4 +135,5 @@ NetworkManager # System for maintaining active network connection
 boinc-client # volunteer computing and grid computing
 conky # No detailed summary available
 Babel # Internationalization utilities
-p11-kit # Load and enumerate PKCS 
+p11-kit # Load and enumerate PKCS
+ssocr # OCR for 7-segment displays 

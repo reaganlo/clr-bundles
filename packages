@@ -87,7 +87,6 @@ rebootmgr # Performs scheduled or immediate system reboots after the kernel or c
 redis-native # key-value database
 rsyslog # Rocket-fast system for log processing
 scons # python build system
-ssocr # OCR for 7-segment displays
 subversion # Version Control System
 sudo # allows a user to run a program as another user
 sysstat # utilities for monitoring system performance and usage activity
