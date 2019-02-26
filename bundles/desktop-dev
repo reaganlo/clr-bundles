@@ -370,6 +370,7 @@ kmod
 kmod-dev
 kmod-dev32
 krb5-dev
+kyotocabinet-dev
 lcms2-dev
 ldb-dev
 lensfun-dev
@@ -883,6 +884,7 @@ xkbcomp-bin
 xkbcomp-dev
 xkeyboard-config-dev
 xmlto
+xorg-fonts
 xorg-server
 include(devpkg-xorg-server)
 include(devpkg-xorgproto)

@@ -44,7 +44,6 @@ cracklib-dev
 cryptsetup-dev
 include(devpkg-curl)
 datefudge
-db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu

@@ -71,7 +71,6 @@ cscope
 ctags
 include(devpkg-curl)
 db
-db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu

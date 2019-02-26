@@ -187,6 +187,7 @@ dbus
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+dbus-extras
 dbus-glib-dev
 dbus-glib-dev32
 defusedxml
@@ -237,7 +238,6 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
-xorg-fonts
 font-util-dev
 font-util-dev32
 fontconfig-data
@@ -516,6 +516,7 @@ libnftnl-dev
 libnftnl-dev32
 libnl-dev
 libnl-dev32
+libnotify-dev
 include(devpkg-libogg)
 libogg-dev32
 libpcap-dev
@@ -607,6 +608,7 @@ meson
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
+mobile-broadband-provider-info-dev
 mock
 more-itertools
 mozjs-dev
@@ -981,6 +983,7 @@ xfsprogs-dev
 xkeyboard-config-dev
 xmlsec1-dev
 xmlto
+xorg-fonts
 include(devpkg-xorgproto)
 xorgproto-dev32
 xset

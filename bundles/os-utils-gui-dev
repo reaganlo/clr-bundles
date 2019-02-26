@@ -732,6 +732,7 @@ xkbcomp-bin
 xkbcomp-dev
 xkeyboard-config-dev
 xmlto
+xorg-fonts
 xorg-server
 include(devpkg-xorg-server)
 include(devpkg-xorgproto)

@@ -179,7 +179,6 @@ fcgi-dev
 file-dev
 include(flex)
 flex-dev
-xorg-fonts
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
@@ -721,6 +720,7 @@ xfsprogs-dev
 xkeyboard-config-dev
 xmlsec1-dev
 xmlto
+xorg-fonts
 include(devpkg-xorgproto)
 xorgproto-dev32
 xtrans-dev

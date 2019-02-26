@@ -81,7 +81,6 @@ curl-dev32
 cyrus-sasl-dev
 datefudge
 db
-db-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -109,7 +108,6 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
-xorg-fonts
 font-util-dev
 font-util-dev32
 fontconfig-data
@@ -461,6 +459,7 @@ include(devpkg-xcb-proto)
 xdg-utils
 xkeyboard-config-dev
 xmlto
+xorg-fonts
 include(devpkg-xorgproto)
 xorgproto-dev32
 xtrans-dev
