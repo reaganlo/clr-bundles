@@ -22,6 +22,7 @@ acpica-unix2 # Intel ACPI utilities
 alsa-utils # alsa management tools
 axel # Download accelerator
 bc # basic calculator, an arbitrary-precision calculator language
+bcache-tools # bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk
 bison # bison development tool
 cabextract # Manipulate CAB archives
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
