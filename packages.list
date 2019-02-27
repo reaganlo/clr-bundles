@@ -202,4 +202,20 @@ ccache # cache compilations to avoid redoing the same computation and speed proj
 kbd # library to manage the Linux keymaps
 nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
 nfs-utils # Server and client tooling for network file systems (NFS)
-bison # bison development tool 
+bison # bison development tool
+bc # basic calculator, an arbitrary-precision calculator language
+dfu-util # Device Firmware Upgrade Utilities
+htop # interactive text-mode process viewer
+iftop # display bandwidth usage on an interface
+intltool # internationalization tool for develops
+lm-sensors # Read various system sensors, sometimes using scary methods
+pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
+ipmitool # Manage IPMI functions of a local or remote system
+global # GNU GLOBAL source code tagging system
+axel # Download accelerator
+bcache-tools # bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk
+dtc # Device Tree Compiler, to describe non-discoverable hardware
+goaccess # Real-time web log analyzer
+casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
+cabextract # Manipulate CAB archives
+redis-native # key-value database 

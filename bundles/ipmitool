@@ -1,0 +1,14 @@
+# [TITLE]: ipmitool
+# [DESCRIPTION]: Manage IPMI functions of a local or remote system
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+ipmitool

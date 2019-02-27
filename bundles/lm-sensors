@@ -1,0 +1,14 @@
+# [TITLE]: lm-sensors
+# [DESCRIPTION]: Read various system sensors, sometimes using scary methods
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+lm-sensors

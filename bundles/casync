@@ -1,0 +1,14 @@
+# [TITLE]: casync
+# [DESCRIPTION]: Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+casync

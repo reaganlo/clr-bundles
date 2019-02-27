@@ -17,26 +17,10 @@
 #
 # This file should remain sorted.
 #
-axel # Download accelerator
-bc # basic calculator, an arbitrary-precision calculator language
-bcache-tools # bcache is a way to pair a fast SSD with a slow HDD to create a hybrid disk
-cabextract # Manipulate CAB archives
-casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
-dfu-util # Device Firmware Upgrade Utilities
-dtc # Device Tree Compiler, to describe non-discoverable hardware
-global # GNU GLOBAL source code tagging system
-goaccess # Real-time web log analyzer
-htop # interactive text-mode process viewer
 iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
-iftop # display bandwidth usage on an interface
-intltool # internationalization tool for develops
-ipmitool # Manage IPMI functions of a local or remote system
 kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
 linux-dev # programs for developing Linux
 linux-lts-dev # programs for developing Linux LTS version
 linux-iot-lts2018-dev # programs for developing Linux iot LTS 2018 version
 linux-iot-lts2018-sos-dev # programs for developing Linux iot SOS LTS 2018 version
-lm-sensors # Read various system sensors, sometimes using scary methods
-pmdk # Persistent Memory Development Kit tools and libraries for working with non-volatile memory
-redis-native # key-value database
 weston-extras # Utilities and tools for the Wayland graphics compositor
