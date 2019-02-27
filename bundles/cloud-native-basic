@@ -17,6 +17,7 @@ cri-o
 cri-tools
 ebtables
 firecracker
+helm
 ksonnet
 kubernetes
 runc
