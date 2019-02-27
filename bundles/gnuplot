@@ -1,0 +1,18 @@
+# [TITLE]: gnuplot
+# [DESCRIPTION]: Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(qt-basic)
+include(libX11client)
+include(libglib)
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+gnuplot
