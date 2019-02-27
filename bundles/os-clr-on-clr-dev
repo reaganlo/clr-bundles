@@ -198,6 +198,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt-python
 include(docutils)
 docutils-python
 include(dosfstools)
@@ -605,6 +606,7 @@ memkind-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
@@ -995,6 +997,8 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
+yarg
+yarg-python
 include(yasm)
 zc.lockfile
 include(zip)

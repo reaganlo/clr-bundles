@@ -99,6 +99,7 @@ curl-dev32
 cyrus-sasl-dev
 datefudge
 db
+dbus
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -149,6 +150,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcr-dev
 include(gdb)
 gdb-dev
 gdbm-dev
@@ -186,6 +188,7 @@ gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
+gnupg
 include(devpkg-gnutls)
 gnutls-dev32
 gobject-introspection
@@ -217,6 +220,7 @@ include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
 intltool-dev
+include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
@@ -369,12 +373,16 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 include(devpkg-lua)
+lz4-dev
 m4
 include(make)
 include(devpkg-mesa)
 mesa-dev32
 meson
 mobile-broadband-provider-info
+mobile-broadband-provider-info-dev
+mozjs-dev
+include(devpkg-mozjs52)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -390,6 +398,7 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
+network-manager-applet-dev
 newt-dev
 nghttp2-dev
 nghttp2-dev32
@@ -399,7 +408,9 @@ nss-altfiles
 include(devpkg-nss)
 nss-lib32
 octave-dev
+onig-dev
 openal-soft-dev
+openconnect-dev
 openjade-dev
 openjdk
 openjdk9
@@ -415,6 +426,7 @@ orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
+pacrunner-dev
 include(devpkg-pango)
 pango-dev32
 include(patch)
@@ -511,6 +523,7 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
+slang-dev
 speex-dev
 speexdsp-dev
 sqlite-autoconf

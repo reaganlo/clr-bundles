@@ -353,6 +353,7 @@ mediasdk-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mpc-dev

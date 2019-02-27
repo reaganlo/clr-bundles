@@ -23,7 +23,7 @@ include(vlc)
 #
 
 FreeRDP
-Remmina
+include(Remmina)
 chrome-gnome-shell
 geany
 geany-plugins

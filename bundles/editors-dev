@@ -71,7 +71,6 @@ git
 glib-bin
 include(devpkg-glib)
 glib-dev32
-glibc-bin
 glibc-dev32
 glibc-libc32
 include(glibc-locale)

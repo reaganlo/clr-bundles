@@ -480,6 +480,7 @@ mediasdk-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info

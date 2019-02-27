@@ -120,6 +120,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt-python
 include(dosfstools)
 include(doxygen)
 dulwich
@@ -561,6 +562,8 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
+yarg
+yarg-python
 include(yasm)
 zc.lockfile
 include(devpkg-zlib)

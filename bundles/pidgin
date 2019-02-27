@@ -12,7 +12,7 @@ include(gnome-base-libs)
 pidgin-sipe
 appstream
 FreeRDP
-Remmina
+include(Remmina)
 gstreamer
 gst-plugins-base
 gst-plugins-good

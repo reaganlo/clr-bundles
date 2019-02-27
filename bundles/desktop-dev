@@ -566,6 +566,7 @@ include(devpkg-mesa)
 mesa-dev32
 meson
 metacity-dev
+mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info

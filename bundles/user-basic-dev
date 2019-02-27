@@ -152,6 +152,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt-python
 include(docutils)
 include(dosfstools)
 include(doxygen)
@@ -731,6 +732,8 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
+yarg
+yarg-python
 include(yasm)
 zc.lockfile
 zlib
