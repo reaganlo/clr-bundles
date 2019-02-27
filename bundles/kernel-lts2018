@@ -1,0 +1,13 @@
+# [TITLE]: kernel-lts2018
+# [DESCRIPTION]: Run the lts2018 native kernel
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
+include(bootloader)
+console-autostart
+init-rdahead-extras
+irqbalance
+linux-firmware
+linux-firmware-extras
+linux-lts2018
+mcelog
