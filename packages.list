@@ -137,4 +137,5 @@ conky # No detailed summary available
 Babel # Internationalization utilities
 p11-kit # Load and enumerate PKCS
 ssocr # OCR for 7-segment displays
-Remmina # remote desktop client written in GTK+ 
+Remmina # remote desktop client written in GTK+
+rrdtool # Round Robin Database and graphing tool for time-series data. 
