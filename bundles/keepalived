@@ -1,0 +1,14 @@
+# [TITLE]: keepalived
+# [DESCRIPTION]: strong & robust keepalive facility for the Linux Virtual Server project
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+keepalived

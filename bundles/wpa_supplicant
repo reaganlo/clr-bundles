@@ -1,0 +1,14 @@
+# [TITLE]: wpa_supplicant
+# [DESCRIPTION]: backend component controlling the wireless connections
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+wpa_supplicant

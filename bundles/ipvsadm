@@ -1,0 +1,14 @@
+# [TITLE]: ipvsadm
+# [DESCRIPTION]: Virtual Server admin tool used to set up, maintain or inspect the virtual server table in the Linux kernel
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+ipvsadm

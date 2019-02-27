@@ -1,0 +1,14 @@
+# [TITLE]: tmux
+# [DESCRIPTION]: terminal multiplexer (similar to screen)
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+tmux

@@ -1,0 +1,14 @@
+# [TITLE]: keychain
+# [DESCRIPTION]: manage SSH and GPG keys
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+keychain

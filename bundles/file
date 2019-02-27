@@ -1,0 +1,14 @@
+# [TITLE]: file
+# [DESCRIPTION]: program for recognizing the type of data contained in a computer file
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+file

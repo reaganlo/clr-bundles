@@ -1,0 +1,14 @@
+# [TITLE]: nginx
+# [DESCRIPTION]: HTTP server, reverse proxy, IMAP/POP3 proxy server
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+nginx

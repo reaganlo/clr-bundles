@@ -1,0 +1,14 @@
+# [TITLE]: pwgen
+# [DESCRIPTION]: generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+pwgen

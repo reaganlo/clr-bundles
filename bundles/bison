@@ -1,0 +1,14 @@
+# [TITLE]: bison
+# [DESCRIPTION]: bison development tool
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+bison

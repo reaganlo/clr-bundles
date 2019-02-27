@@ -138,4 +138,68 @@ Babel # Internationalization utilities
 p11-kit # Load and enumerate PKCS
 ssocr # OCR for 7-segment displays
 Remmina # remote desktop client written in GTK+
-rrdtool # Round Robin Database and graphing tool for time-series data. 
+rrdtool # Round Robin Database and graphing tool for time-series data.
+restic # restic is a backup program that supports multiple cloud storage providers
+sysstat # utilities for monitoring system performance and usage activity
+which # locate executables in the system
+yasm # assembler
+zip # create ZIP archives
+zstd # realtime data compression/decompression tool
+tmux # terminal multiplexer (similar to screen)
+pwgen # generates passwords which are designed to be easily memorized by humans, while being as secure as possible.
+rclone # rclone is a command-line program to sync files and directories to and from various network and cloud providers
+subversion # Version Control System
+unzip # list, test, or extract files from a ZIP archive
+lz4 # tools to compress and decompress lz4 files
+ltp # Linux Test Project
+less # the less page
+nasm # assembler
+ncdu # curses disk space usage management tool
+logrotate # manages the automatic rotation and compression of log files
+gdb # GNU debugger
+joe # Text editor
+jq # lightweight and flexible command-line JSON processor
+libnl # Low level firewall tools
+make # build automation tool
+parallel # shell tool for executing jobs in parallel using one or more computers
+rsyslog # Rocket-fast system for log processing
+sudo # allows a user to run a program as another user
+unison # bidirectional file synchronization tool
+xz # data compression/decompression tool
+wpa_supplicant # backend component controlling the wireless connections
+scons # python build system
+musl # musl compiler toolchain
+keepalived # strong & robust keepalive facility for the Linux Virtual Server project
+flex # flex development tool
+fossil # Fossil is a simple, high-reliability, distributed software configuration management system
+file # program for recognizing the type of data contained in a computer file
+fuse # fuse filesystem support
+gzip # lossless data compression/decompression utility
+httpd # Apache HyperText Transfer Protocol (HTTP) Server daemon
+hwloc # hardware affinity tools
+inotify-tools # monitor for file system events
+keychain # manage SSH and GPG keys
+mtd-utils # memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
+mtr # Poll a remote server and see how the latency and performance changes over time
+tzdata # timezone database
+rebootmgr # Performs scheduled or immediate system reboots after the kernel or critical OS components change.
+openssl # Toolkit for Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+libarchive # various archiving tools
+ethtool # Utility for displaying and modifying some parameters of network interface controller
+findutils # basic directory searching utilities e.g. find, xargs, and locate
+iproute2 # utilities for controlling TCP / IP networking and traffic control
+ipvsadm # Virtual Server admin tool used to set up, maintain or inspect the virtual server table in the Linux kernel
+quagga # zebra and related routing tools
+patch # updates text files according to instructions contained in a separate file
+alsa-utils # alsa management tools
+acl # Tools to manipulate filesystem acls
+cloc # Count lines of code for many programming languages
+curl # Transfer data to/from a URL
+cpio # File archiver utility
+dosfstools # (V)FAT manipulation tools
+acpica-unix2 # Intel ACPI utilities
+ccache # cache compilations to avoid redoing the same computation and speed project build times
+kbd # library to manage the Linux keymaps
+nginx # HTTP server, reverse proxy, IMAP/POP3 proxy server
+nfs-utils # Server and client tooling for network file systems (NFS)
+bison # bison development tool 

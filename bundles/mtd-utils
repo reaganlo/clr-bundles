@@ -1,0 +1,14 @@
+# [TITLE]: mtd-utils
+# [DESCRIPTION]: memory (usually flash) device utilities exposing an interface between hardware drivers and upper system layers
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+mtd-utils

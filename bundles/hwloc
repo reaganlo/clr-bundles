@@ -1,0 +1,15 @@
+# [TITLE]: hwloc
+# [DESCRIPTION]: hardware affinity tools
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libX11client)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+hwloc

@@ -1,0 +1,14 @@
+# [TITLE]: patch
+# [DESCRIPTION]: updates text files according to instructions contained in a separate file
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+patch

@@ -1,0 +1,14 @@
+# [TITLE]: parallel
+# [DESCRIPTION]: shell tool for executing jobs in parallel using one or more computers
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+parallel

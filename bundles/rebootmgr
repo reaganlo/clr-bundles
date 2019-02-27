@@ -1,0 +1,15 @@
+# [TITLE]: rebootmgr
+# [DESCRIPTION]: Performs scheduled or immediate system reboots after the kernel or critical OS components change.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+include(libglib)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+rebootmgr

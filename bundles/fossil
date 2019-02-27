@@ -1,0 +1,14 @@
+# [TITLE]: fossil
+# [DESCRIPTION]: Fossil is a simple, high-reliability, distributed software configuration management system
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+fossil

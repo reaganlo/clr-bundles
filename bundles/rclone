@@ -1,0 +1,14 @@
+# [TITLE]: rclone
+# [DESCRIPTION]: rclone is a command-line program to sync files and directories to and from various network and cloud providers
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+rclone
