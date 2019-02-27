@@ -219,4 +219,5 @@ goaccess # Real-time web log analyzer
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 cabextract # Manipulate CAB archives
 redis-native # key-value database
-gnuplot # Plotting package which outputs to X11, PostScript, PNG, GIF, and others 
+gnuplot # Plotting package which outputs to X11, PostScript, PNG, GIF, and others
+neomutt # No detailed summary available 
