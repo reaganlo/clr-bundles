@@ -1,0 +1,15 @@
+# [TITLE]: s3fs-fuse
+# [DESCRIPTION]: Mount Amazon S3 buckets using FUSE
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+s3fs-fuse
