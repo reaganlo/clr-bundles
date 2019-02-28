@@ -221,4 +221,5 @@ cabextract # Manipulate CAB archives
 redis-native # key-value database
 gnuplot # Plotting package which outputs to X11, PostScript, PNG, GIF, and others
 neomutt # No detailed summary available
-notmuch # Notmuch is not much of an email program 
+notmuch # Notmuch is not much of an email program
+pass # A CLI password manager
