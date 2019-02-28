@@ -9,6 +9,8 @@ include(computer-vision-models)
 include(python-extras)
 include(python-data-science)
 include(python2-basic)
+include(machine-learning-tensorflow)
+
 #
 # Key ML frameworks and tools
 #

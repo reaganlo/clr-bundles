@@ -24,3 +24,4 @@ Keras
 horovod
 protobuf-python
 termcolor
+tensorflow-estimator
