@@ -1,17 +1,16 @@
-# [TITLE]: neomutt
-# [DESCRIPTION]: mutt mail client fork with additional features
+# [TITLE]: notmuch
+# [DESCRIPTION]: Notmuch is not much of an email program
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(libglib)
+include(libstdcpp)
 
 # start of custom additions
-include(libglib)
-include(openldap)
-include(gpgme)
-include(notmuch)
+
 # end of custom additions
 
 # main package
-neomutt
+notmuch
