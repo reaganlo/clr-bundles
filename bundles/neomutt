@@ -7,7 +7,9 @@
 
 
 # start of custom additions
-
+include(libglib)
+include(openldap)
+include(gpgme)
 # end of custom additions
 
 # main package
