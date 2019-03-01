@@ -53,8 +53,6 @@ hexchat
 hicolor-icon-theme
 iceauth
 intel-gmmlib
-#needed till compat automatically adds dependency
-compat-intel-gmmlib-soname1
 intel-hybrid-driver
 intel-media-driver
 libnotify-bin
@@ -64,6 +62,7 @@ libva-intel-driver
 linux-firmware-extras
 linux-firmware-wifi
 mediasdk
+mediasdk-extras
 mesa-demos
 mkfontdir
 mkfontscale

@@ -102,8 +102,6 @@ gst-plugins-base
 gsound
 gstreamer
 gstreamer-vaapi
-#needed till compat automatically adds dependency
-compat-intel-gmmlib-soname1
 intel-gmmlib
 intel-hybrid-driver
 intel-media-driver
@@ -111,6 +109,7 @@ libva
 libva-intel-driver
 libyami
 mediasdk
+mediasdk-extras
 
 
 # gnome-flashback for vnc/software rendering support

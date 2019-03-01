@@ -24,12 +24,11 @@ gst-plugins-good
 gstreamer
 gstreamer-vaapi
 intel-gmmlib
-#needed till compat automatically adds dependency
-compat-intel-gmmlib-soname1
 intel-media-driver
 libva
 libva-intel-driver
 mediasdk
+mediasdk-extras
 include(v4l-utils)
 
 # User tools
