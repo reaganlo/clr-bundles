@@ -93,6 +93,7 @@ SDL_ttf
 shared-mime-info
 systemd
 sqlite3
+tbb
 x11
 xcb
 xcb-proto
