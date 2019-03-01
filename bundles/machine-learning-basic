@@ -91,7 +91,7 @@ smart_open
 snappy-dev
 include(Sphinx)
 swig
-tbb-dev
+include(devpkg-tbb)
 tflearn
 tqdm
 wheel

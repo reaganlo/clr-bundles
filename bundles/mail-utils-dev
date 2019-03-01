@@ -209,7 +209,6 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
-notmuch-dev
 nss-altfiles
 include(openblas)
 openldap-dev

@@ -471,7 +471,7 @@ systemd-extras
 systemd-lib
 taglib-dev
 tar
-tbb-dev
+include(devpkg-tbb)
 tcl
 tcl-dev
 include(texinfo)
