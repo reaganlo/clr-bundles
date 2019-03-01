@@ -225,3 +225,4 @@ notmuch # Notmuch is not much of an email program
 pass # A CLI password manager
 mono # Mono Runtime
 s3fs-fuse # Mount Amazon S3 buckets using FUSE
+ddd # graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python 
