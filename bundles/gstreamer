@@ -1,17 +1,19 @@
-# [TITLE]: rhythmbox
-# [DESCRIPTION]: Music playback and management application
+# [TITLE]: gstreamer
+# [DESCRIPTION]: Streaming media framework
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(libX11client)
 include(libglib)
-include(gstreamer)
 
 # start of custom additions
-
+gstreamer-vaapi
+gst-plugins-ugly
+gst-plugins-bad
+gst-plugins-good
+gst-plugins-base
 # end of custom additions
 
 # main package
-rhythmbox
+gstreamer

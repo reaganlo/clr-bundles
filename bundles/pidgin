@@ -2,11 +2,12 @@
 # [DESCRIPTION]: Multi-protocol instant messagging client
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 
 include(libX11client)
 include(libglib)
-include(gnome-base-libs)
+include(gstreamer)
 
 # start of custom additions
 pidgin-sipe
