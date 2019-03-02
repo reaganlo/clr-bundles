@@ -100,7 +100,7 @@ gst-plugins-bad
 gst-plugins-good
 gst-plugins-base
 gsound
-gstreamer
+include(gstreamer)
 gstreamer-vaapi
 intel-gmmlib
 intel-hybrid-driver

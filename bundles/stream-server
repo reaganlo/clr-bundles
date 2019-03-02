@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Mario Alfredo Carrillo Arevalo <mario.alfredo.c.arevalo@intel.com>
 include(libstdcpp)
+include(gstreamer)
 
 gstreamer
 gst-plugins-base

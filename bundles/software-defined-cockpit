@@ -5,6 +5,7 @@
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(libX11client)
 include(wpa_supplicant)
+include(gstreamer)
 
 # Audio
 alsa-lib

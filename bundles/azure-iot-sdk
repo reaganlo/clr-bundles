@@ -7,6 +7,7 @@
 include(p11-kit)
 include(python3-basic)
 include(libstdcpp)
+include(gstreamer)
 
 azure-iot-sdk
 gst-plugins-bad
