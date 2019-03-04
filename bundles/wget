@@ -1,0 +1,14 @@
+# [TITLE]: wget
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+wget
