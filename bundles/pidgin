@@ -15,7 +15,7 @@ pidgin-sipe
 appstream
 FreeRDP
 include(Remmina)
-gstreamer
+include(gstreamer)
 gst-plugins-base
 gst-plugins-good
 # end of custom additions

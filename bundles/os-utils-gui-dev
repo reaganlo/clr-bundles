@@ -101,7 +101,6 @@ include(devpkg-colord)
 colord-gtk-dev
 compat-enchant-soname1-dev
 include(devpkg-compat-fuse-soname2)
-compat-intel-gmmlib-soname1-dev
 coreutils
 cppcheck
 cracklib-dev

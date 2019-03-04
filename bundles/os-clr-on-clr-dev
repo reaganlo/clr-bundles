@@ -204,7 +204,6 @@ docutils-python
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
-dulwich
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -276,7 +275,6 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
-gevent
 gflags-dev
 ghostscript
 ghostscript-dev
@@ -949,7 +947,6 @@ include(tzdata)
 unittest2
 unittest2-legacypython
 include(unzip)
-urllib3
 usbredir-dev
 userspace-rcu-dev
 util-linux

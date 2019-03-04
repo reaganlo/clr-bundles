@@ -22,7 +22,7 @@ ias
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
-gstreamer
+include(gstreamer)
 gstreamer-vaapi
 intel-gmmlib
 intel-media-driver

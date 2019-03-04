@@ -123,7 +123,6 @@ docbook-xml
 docopt-python
 include(dosfstools)
 include(doxygen)
-dulwich
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -171,7 +170,6 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
-gevent
 gflags-dev
 ghostscript
 ghostscript-dev
@@ -524,7 +522,6 @@ traceback2
 include(tzdata)
 unittest2
 include(unzip)
-urllib3
 usbredir-dev
 util-linux
 util-linux-bin
@@ -561,7 +558,6 @@ include(devpkg-xz)
 xz-dev32
 yajl-dev
 yajl-lib
-yaml-dev
 yarg
 yarg-python
 include(yasm)

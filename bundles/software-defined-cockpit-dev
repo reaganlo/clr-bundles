@@ -19,7 +19,9 @@ Mako-python
 include(devpkg-SDL)
 SDL-dev32
 include(devpkg-SDL2)
+SDL2-dev32
 include(devpkg-SDL2_image)
+SDL2_image-dev32
 SmartXbar-dev
 include(Sphinx)
 Vulkan-Headers-data
@@ -83,7 +85,6 @@ cmake
 cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
-compat-intel-gmmlib-soname1-dev
 coreutils
 cppcheck
 cracklib-dev

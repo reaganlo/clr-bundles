@@ -6,7 +6,7 @@
 include(libstdcpp)
 include(gstreamer)
 
-gstreamer
+include(gstreamer)
 gst-plugins-base
 gst-plugins-good
 gst-plugins-bad

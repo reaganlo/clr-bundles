@@ -15,6 +15,7 @@ include(devpkg-LVM2)
 LibRaw-dev
 Linux-PAM-dev
 Linux-PAM-dev32
+LuaJIT-dev
 Mako
 Mako-legacypython
 Mako-python
@@ -27,7 +28,9 @@ include(devpkg-R)
 include(devpkg-SDL)
 SDL-dev32
 include(devpkg-SDL2)
+SDL2-dev32
 include(devpkg-SDL2_image)
+SDL2_image-dev32
 include(Sphinx)
 Vulkan-Headers-data
 Vulkan-Headers-dev
@@ -127,7 +130,6 @@ compat-enchant-soname1-dev
 include(devpkg-compat-fuse-soname2)
 compat-gegl-dev
 compat-gtksourceview-soname3-dev
-compat-intel-gmmlib-soname1-dev
 coreutils
 coverage
 cppcheck
