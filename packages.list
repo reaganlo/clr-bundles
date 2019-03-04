@@ -229,3 +229,4 @@ ddd # graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python
 gparted # A Partition Magic clone, frontend to GNU Parted
 gstreamer # Streaming media framework
 vlc # The vlc media player
+wget # No detailed summary available
