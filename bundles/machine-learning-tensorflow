@@ -25,3 +25,4 @@ horovod
 protobuf-python
 termcolor
 tensorflow-estimator
+tensorflow-probability
