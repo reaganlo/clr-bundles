@@ -17,6 +17,7 @@ libva-intel-driver
 intel-media-driver
 intel-gmmlib
 libva
+include(libX11client)
 # end of custom additions
 
 # main package
