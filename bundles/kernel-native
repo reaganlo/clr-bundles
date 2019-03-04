@@ -8,6 +8,6 @@ console-autostart
 init-rdahead-extras
 irqbalance
 linux
-linux-firmware
-linux-firmware-extras
+include(linux-firmware)
+include(linux-firmware-extras)
 mcelog

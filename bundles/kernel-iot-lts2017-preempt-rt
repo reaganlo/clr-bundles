@@ -6,6 +6,6 @@
 include(bootloader)
 console-autostart
 irqbalance
-linux-firmware
+include(linux-firmware)
 linux-iot-lts2017-preempt-rt
 mcelog

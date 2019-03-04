@@ -26,8 +26,8 @@ e2fsprogs-extras
 gptfdisk-bin
 iputils
 include(less)
-linux-firmware-extras
-linux-firmware-wifi
+include(linux-firmware-extras)
+include(linux-firmware-wifi)
 nano
 parted-bin
 qemu-extras

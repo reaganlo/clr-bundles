@@ -550,7 +550,7 @@ libxslt-bin
 include(devpkg-libxslt)
 libyami-dev
 links
-linux-firmware-wifi
+include(linux-firmware-wifi)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

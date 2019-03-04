@@ -464,7 +464,7 @@ libxslt-bin
 include(devpkg-libxslt)
 include(lightdm)
 links
-linux-firmware-wifi
+include(linux-firmware-wifi)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

@@ -48,8 +48,8 @@ libinput
 libmtp
 libnotify
 librsvg
-linux-firmware-extras
-linux-firmware-wifi
+include(linux-firmware-extras)
+include(linux-firmware-wifi)
 mutter
 orca
 pango

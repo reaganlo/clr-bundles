@@ -580,7 +580,7 @@ linecache2
 linecache2-legacypython
 linecache2-python
 links
-linux-firmware-wifi
+include(linux-firmware-wifi)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

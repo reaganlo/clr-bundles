@@ -368,7 +368,7 @@ libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
-linux-firmware-wifi
+include(linux-firmware-wifi)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

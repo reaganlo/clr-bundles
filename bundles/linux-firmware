@@ -1,0 +1,6 @@
+# [TITLE]: linux-firmware
+# [DESCRIPTION]: Firmware for kernel drivers
+# [STATUS]: WIP
+# [CAPABILITIES]: 
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+linux-firmware

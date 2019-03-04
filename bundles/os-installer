@@ -17,8 +17,8 @@ ister
 ister-extras
 include(kbd)
 include(less)
-linux-firmware-extras
-linux-firmware-wifi
+include(linux-firmware-extras)
+include(linux-firmware-wifi)
 nano
 netifaces-python3
 parted-bin

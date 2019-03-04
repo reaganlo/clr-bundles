@@ -7,7 +7,7 @@ include(bootloader)
 console-autostart
 init-rdahead-extras
 irqbalance
-linux-firmware
-linux-firmware-extras
+include(linux-firmware)
+include(linux-firmware-extras)
 linux-preempt-rt
 mcelog

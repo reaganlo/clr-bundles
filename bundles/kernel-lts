@@ -5,7 +5,7 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
 console-autostart
-linux-firmware
+include(linux-firmware)
 linux-lts
 mcelog
 vbox-integration

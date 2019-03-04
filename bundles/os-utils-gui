@@ -59,8 +59,8 @@ libnotify-bin
 librsvg
 libva
 libva-intel-driver
-linux-firmware-extras
-linux-firmware-wifi
+include(linux-firmware-extras)
+include(linux-firmware-wifi)
 mediasdk
 mediasdk-extras
 mesa-demos

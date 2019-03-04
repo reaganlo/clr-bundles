@@ -7,7 +7,7 @@ include(libstdcpp)
 include(libglib)
 include(NetworkManager)
 
-linux-firmware-wifi
+include(linux-firmware-wifi)
 NetworkManager-bin
 NetworkManager-config
 NetworkManager-data
