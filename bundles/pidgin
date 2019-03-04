@@ -10,6 +10,7 @@ include(libglib)
 include(gstreamer)
 
 # start of custom additions
+include(gnome-base-libs)
 pidgin-sipe
 appstream
 FreeRDP
