@@ -40,6 +40,6 @@ rsync
 tcpdump
 traceroute
 include(weechat)
-wget
+include(wget)
 whois
 include(znc)

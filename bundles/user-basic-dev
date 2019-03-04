@@ -708,7 +708,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wget
+include(wget)
 include(which)
 xapian-core-dev
 xcb-proto

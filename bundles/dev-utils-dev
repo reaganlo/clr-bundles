@@ -385,7 +385,7 @@ util-macros-dev32
 include(valgrind)
 valgrind-dev
 vim
-wget
+include(wget)
 include(which)
 xmlto
 include(xz)
