@@ -11,7 +11,7 @@ include(libglib)
 include(lib-openssl)
 
 # start of custom additions
-
+include(python3-basic)
 # end of custom additions
 
 # main package
