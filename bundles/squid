@@ -2,12 +2,14 @@
 # [DESCRIPTION]: HTTP caching proxy
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(openldap)
 include(libstdcpp)
 
 # start of custom additions
-
+include(perl-basic)
 # end of custom additions
 
 # main package
