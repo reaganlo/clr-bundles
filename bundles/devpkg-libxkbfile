@@ -1,10 +1,11 @@
-# [TITLE]: devpkg-libxkbcommon
-# [DESCRIPTION]: All content for pkgconfig file libxkbcommon.pc
+# [TITLE]: devpkg-libxkbfile
+# [DESCRIPTION]: All content for pkgconfig file libxkbfile.pc
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
 include(devpkg-libX11)
+include(devpkg-xorgproto)
 
-libxkbcommon-dev
+libxkbfile-dev

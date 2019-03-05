@@ -1,5 +1,5 @@
-# [TITLE]: devpkg-libxkbcommon
-# [DESCRIPTION]: All content for pkgconfig file libxkbcommon.pc
+# [TITLE]: devpkg-xcb-util-cursor
+# [DESCRIPTION]: All content for pkgconfig file xcb-util-cursor.pc
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
@@ -7,4 +7,4 @@
 include(devpkg-base)
 include(devpkg-libX11)
 
-libxkbcommon-dev
+xcb-util-cursor-dev
