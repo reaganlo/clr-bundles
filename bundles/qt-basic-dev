@@ -107,7 +107,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
-font-util-dev
+include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
@@ -158,7 +158,7 @@ gnu-efi-dev
 include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
-googletest-dev
+include(devpkg-googletest)
 gperf
 include(devpkg-graphite)
 graphite-dev32
@@ -166,11 +166,11 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsl-dev
+include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 gtk3-dev32
 guile
@@ -195,7 +195,7 @@ keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
-krb5-dev
+include(devpkg-krb5)
 lcms2-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -233,10 +233,10 @@ libffi-dev32
 include(devpkg-libfontenc)
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
-libgudev-dev
-libgusb-dev
+include(devpkg-libgudev)
+include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 libidn2-dev
@@ -286,7 +286,7 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
-libusb-dev
+include(devpkg-libusb)
 libvorbis-dev
 libvorbis-dev32
 include(devpkg-libwebp)

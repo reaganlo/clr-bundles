@@ -9,5 +9,3 @@ include(devpkg-elfutils)
 include(devpkg-glib)
 
 gstreamer-dev
-
-

@@ -49,7 +49,7 @@ include(fio)
 include(devpkg-flac)
 include(flex)
 include(devpkg-freeglut)
-gflags-dev
+include(devpkg-gflags)
 include(gimp)
 glibc-staticdev
 glibc-lib-avx2
@@ -71,7 +71,7 @@ libassuan-dev
 include(devpkg-libevent)
 libgcrypt-dev
 libgfortran-avx
-libgpg-error-dev
+include(devpkg-libgpg-error)
 include(devpkg-libjpeg-turbo)
 libksba-dev
 libnl-dev

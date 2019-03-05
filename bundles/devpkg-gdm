@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-gdm
+# [DESCRIPTION]: All content for pkgconfig file gdm.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+
+gdm-dev

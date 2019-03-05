@@ -113,7 +113,7 @@ grep
 groff
 gtk+-dev
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 guile
 include(gzip)
 hostname
@@ -133,7 +133,7 @@ keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
-krb5-dev
+include(devpkg-krb5)
 ldb-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -152,7 +152,7 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
 libidn-dev32
@@ -181,7 +181,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
-libusb-dev
+include(devpkg-libusb)
 libuser-dev
 include(devpkg-libxkbcommon)
 include(libxml2)

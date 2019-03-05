@@ -1,0 +1,12 @@
+# [TITLE]: devpkg-gcr
+# [DESCRIPTION]: All content for pkgconfig file gcr.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+include(devpkg-glib)
+include(devpkg-gtk3)
+include(devpkg-p11-kit)
+
+gcr-dev

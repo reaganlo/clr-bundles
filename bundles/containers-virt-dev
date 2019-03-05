@@ -74,7 +74,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcr-dev
+include(devpkg-gcr)
 gdb-dev
 gettext
 gettext-bin
@@ -108,7 +108,7 @@ grep
 groff
 gtk+-dev
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
 include(gzip)
@@ -143,7 +143,7 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
 libidn-dev32
@@ -173,7 +173,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
-libusb-dev
+include(devpkg-libusb)
 include(devpkg-libxkbcommon)
 include(devpkg-libxml2)
 libxml2-dev32

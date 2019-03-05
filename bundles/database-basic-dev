@@ -86,7 +86,7 @@ include(graphviz)
 grep
 groff
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 guile
 include(gzip)
 hdf5-dev
@@ -117,7 +117,7 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libjpeg-turbo)
 libmicrohttpd-dev

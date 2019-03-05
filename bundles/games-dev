@@ -10,7 +10,7 @@ include(perl-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
-GConf-dev
+include(devpkg-GConf)
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -133,7 +133,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
-font-util-dev
+include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
@@ -149,7 +149,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
-gcr-dev
+include(devpkg-gcr)
 include(gdb)
 gdb-dev
 gdbm-dev
@@ -157,7 +157,7 @@ gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
-geoclue-dev
+include(devpkg-geoclue)
 gettext
 gettext-bin
 gettext-dev
@@ -192,7 +192,7 @@ include(devpkg-gnutls)
 gnutls-dev32
 gobject-introspection
 include(devpkg-gobject-introspection)
-googletest-dev
+include(devpkg-googletest)
 gperf
 include(devpkg-graphite)
 graphite-dev32
@@ -200,14 +200,14 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-gsl-dev
+include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+-dev
 gtk+-dev32
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 gtk3-dev32
 guile
@@ -236,7 +236,7 @@ keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
-krb5-dev
+include(devpkg-krb5)
 lcms2-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -288,11 +288,11 @@ libffi-dev32
 include(devpkg-libfontenc)
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
-libgudev-dev
+include(devpkg-libgudev)
 libgudev-dev32
-libgusb-dev
+include(devpkg-libgusb)
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32
@@ -352,7 +352,7 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
-libusb-dev
+include(devpkg-libusb)
 libusb-dev32
 libvdpau-dev
 libvorbis-dev

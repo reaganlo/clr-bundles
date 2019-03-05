@@ -43,13 +43,13 @@ bokeh
 include(devpkg-boost)
 cycler-python
 eigen-dev
-fann-dev
+include(devpkg-fann)
 funcsigs
 gensim
-gflags-dev
+include(devpkg-gflags)
 glog-dev
 glibc-lib-avx2
-googletest-dev
+include(devpkg-googletest)
 include(graphviz)
 h5py
 hdf5-dev

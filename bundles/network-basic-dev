@@ -50,7 +50,7 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
-compat-enchant-soname1-dev
+include(devpkg-compat-enchant-soname1)
 coreutils
 cracklib-dev
 cryptsetup-dev
@@ -113,7 +113,7 @@ include(graphviz)
 grep
 groff
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 guile
 include(gzip)
 hostname
@@ -132,7 +132,7 @@ keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
-krb5-dev
+include(devpkg-krb5)
 include(devpkg-libX11)
 libX11-dev32
 libabigail
@@ -150,7 +150,7 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
 libidn-dev32

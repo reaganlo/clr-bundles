@@ -100,7 +100,7 @@ glibc-libc32
 include(glibc-locale)
 glibc-utils
 gmime
-gmime-dev
+include(devpkg-gmime)
 gmp-dev
 gmp-dev32
 gmp-lib32
@@ -119,7 +119,7 @@ include(graphviz)
 grep
 groff
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 guile
 include(gzip)
 include(devpkg-harfbuzz)
@@ -139,7 +139,7 @@ keyutils-dev
 kmod
 kmod-dev
 kmod-dev32
-krb5-dev
+include(devpkg-krb5)
 include(devpkg-libX11)
 libX11-dev32
 include(devpkg-libXScrnSaver)
@@ -160,7 +160,7 @@ libgcrypt-dev32
 libgfortran-avx
 libgfortran-compat-soname3
 libgfortran-compat-soname4
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
 libidn-dev32

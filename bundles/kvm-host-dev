@@ -169,7 +169,7 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
-gflags-dev
+include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
@@ -194,7 +194,7 @@ gnu-efi-dev
 include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
-googletest-dev
+include(devpkg-googletest)
 gperf
 gperftools-dev
 gradle
@@ -205,7 +205,7 @@ graphviz-extras
 grep
 groff
 gtk-doc
-gtk-doc-dev
+include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 gtk3-dev32
 guile
@@ -243,7 +243,7 @@ kmod
 kmod-bin
 kmod-dev
 kmod-dev32
-krb5-dev
+include(devpkg-krb5)
 lazy-object-proxy
 lcms2-dev
 leveldb-dev
@@ -286,10 +286,10 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgpg-error-dev
+include(devpkg-libgpg-error)
 libgpg-error-dev32
-libgudev-dev
-libgusb-dev
+include(devpkg-libgudev)
+include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 libidn2-dev
@@ -335,7 +335,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
-libusb-dev
+include(devpkg-libusb)
 include(devpkg-libvirt)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
