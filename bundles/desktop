@@ -86,7 +86,7 @@ dconf
 #groupcheck
 PackageKit
 include(polkit)
-pulseaudio
+include(pulseaudio)
 openconnect
 systemd-extras
 udisks2

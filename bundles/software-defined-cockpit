@@ -11,7 +11,7 @@ include(gstreamer)
 alsa-lib
 alsa-plugins
 include(alsa-utils)
-pulseaudio
+include(pulseaudio)
 AVB-AudioModules
 SmartXbar
 

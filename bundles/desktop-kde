@@ -108,7 +108,7 @@ plasma-workspace-wallpapers
 include(polkit)
 powerdevil
 print-manager
-pulseaudio
+include(pulseaudio)
 sddm
 sddm-autostart
 sddm-kcm

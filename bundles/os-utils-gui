@@ -70,7 +70,7 @@ moka-icon-theme
 openconnect
 pavucontrol
 powerline-fonts
-pulseaudio
+include(pulseaudio)
 pulseaudio-bin
 shared-mime-info
 systemd-extras

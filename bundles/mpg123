@@ -8,6 +8,7 @@ include(libstdcpp)
 
 # start of custom additions
 include(libglib)
+include(pulseaudio)
 # end of custom additions
 
 # main package
