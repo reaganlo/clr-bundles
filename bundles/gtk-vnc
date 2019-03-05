@@ -10,7 +10,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions
-
+include(pulseaudio)
 # end of custom additions
 
 # main package
