@@ -5,6 +5,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 include(python3-basic)
+include(libX11client)
 
 cups
 cups-filters
