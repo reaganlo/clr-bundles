@@ -9,7 +9,7 @@ include(libglib)
 include(libX11client)
 
 # start of custom additions
-
+include(gstreamer)
 # end of custom additions
 
 # main package
