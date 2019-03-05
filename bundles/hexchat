@@ -12,6 +12,7 @@ include(lib-openssl)
 
 # start of custom additions
 include(python3-basic)
+include(os-core-webproxy)
 # end of custom additions
 
 # main package
