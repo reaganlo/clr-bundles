@@ -6,6 +6,7 @@
 include(git)
 include(libstdcpp)
 include(libglib)
+include(libX11client)
 
 flatpak
 flatpak-builder
