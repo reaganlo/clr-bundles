@@ -235,3 +235,12 @@ azure-iot-sdk # Libraries to support building IoT applications on Azure
 cryptography # Encrypt, decrypt, sign and verify objects
 git # git SCM tool
 synergy # Keyboard and mouse sharing across networks
+quassel # Quassel IRC
+hexchat # Header and path for HexChat plugins
+geany # A fast and lightweight IDE using GTK+
+tigervnc # A TigerVNC remote display system
+virt-viewer # Virtual Machine Viewer
+spice-gtk # SPICE Client GLib 2.0 library
+vinagre # No detailed summary available
+x11vnc # No detailed summary available
+gtk-vnc # A GTK2 widget for VNC clients 

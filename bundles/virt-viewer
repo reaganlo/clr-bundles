@@ -1,0 +1,16 @@
+# [TITLE]: virt-viewer
+# [DESCRIPTION]: Virtual Machine Viewer
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libglib)
+include(libX11client)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+virt-viewer

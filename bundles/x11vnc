@@ -1,0 +1,16 @@
+# [TITLE]: x11vnc
+# [DESCRIPTION]: No detailed summary available
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libX11client)
+include(lib-openssl)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+x11vnc

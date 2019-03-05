@@ -2,7 +2,15 @@
 # [DESCRIPTION]: Quassel IRC
 # [STATUS]: Active
 # [CAPABILITIES]: Quassel IRC client
+# [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include(libX11client)
+
 include(qt-basic)
+include(libstdcpp)
+
+# start of custom additions
 quassel-extras
+# end of custom additions
+
+# main package
+quassel

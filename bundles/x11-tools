@@ -7,7 +7,7 @@ include(libX11client)
 include(perl-basic)
 
 setxkbmap
-x11vnc
+include(x11vnc)
 xauth
 xclip
 xdotool

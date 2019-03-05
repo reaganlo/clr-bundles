@@ -40,7 +40,7 @@ faba-icon-theme
 fontconfig
 garcon
 gdk-pixbuf
-geany
+include(geany)
 geany-plugins
 glib-networking-lib
 gnome-icon-theme
@@ -49,7 +49,7 @@ gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine
 gtk3
-hexchat
+include(hexchat)
 hicolor-icon-theme
 iceauth
 intel-gmmlib
@@ -75,10 +75,10 @@ pulseaudio-bin
 shared-mime-info
 systemd-extras
 thunar-volman
-tigervnc
+include(tigervnc)
 vim-data
-virt-viewer
-x11vnc
+include(virt-viewer)
+include(x11vnc)
 xclip
 xcursor-themes
 xdg-user-dirs

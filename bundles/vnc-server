@@ -5,5 +5,5 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop)
 include(openssh-server)
-tigervnc
+include(tigervnc)
 tigervnc-extras

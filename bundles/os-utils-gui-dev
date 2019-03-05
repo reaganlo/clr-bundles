@@ -662,7 +662,7 @@ six
 speex-dev
 speexdsp-dev
 spice-dev
-spice-gtk
+include(spice-gtk)
 spice-gtk-dev
 spice-protocol-dev
 sqlite-autoconf

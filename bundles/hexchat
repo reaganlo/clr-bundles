@@ -1,0 +1,18 @@
+# [TITLE]: hexchat
+# [DESCRIPTION]: Header and path for HexChat plugins
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libX11client)
+include(gnome-base-libs)
+include(libglib)
+include(lib-openssl)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+hexchat
