@@ -8,6 +8,7 @@
 
 # start of custom additions
 tigervnc-extras
+include(libX11client)
 # end of custom additions
 
 # main package
