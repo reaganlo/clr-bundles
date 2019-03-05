@@ -7,7 +7,7 @@
 
 
 # start of custom additions
-
+include(linux-firmware-wifi)
 # end of custom additions
 
 # main package
