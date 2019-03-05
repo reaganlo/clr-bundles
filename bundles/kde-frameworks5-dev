@@ -86,7 +86,6 @@ curl-dev32
 cyrus-sasl-dev
 datefudge
 db
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -143,7 +142,7 @@ gettext-bin
 gettext-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32

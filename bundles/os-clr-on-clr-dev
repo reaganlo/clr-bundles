@@ -168,7 +168,7 @@ include(cpio)
 cppcheck
 cppunit-dev
 cracklib-dev
-cryptography
+include(cryptography)
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
@@ -184,7 +184,6 @@ datefudge
 db
 db-dev
 dbus
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -278,7 +277,7 @@ gettext-dev
 gflags-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 gjs
 glib-bin
 include(devpkg-glib)
@@ -580,7 +579,7 @@ linecache2
 linecache2-legacypython
 linecache2-python
 links
-include(linux-firmware-wifi)
+linux-firmware-wifi
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

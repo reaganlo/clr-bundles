@@ -100,7 +100,7 @@ cov-core-python
 coverage
 coverage-python
 cracklib-dev
-cryptography
+include(cryptography)
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
@@ -111,7 +111,6 @@ curl-dev32
 cyrus-sasl-dev
 datefudge
 db
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -173,7 +172,7 @@ gettext-dev
 gflags-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32

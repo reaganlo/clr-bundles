@@ -79,7 +79,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -176,6 +176,7 @@ nss-altfiles
 include(openblas)
 include(openssl)
 include(devpkg-openssl)
+openssl-dev32
 include(p11-kit)
 include(patch)
 pbr
@@ -243,5 +244,6 @@ xtrans-dev
 xtrans-dev32
 include(xz)
 include(devpkg-xz)
+xz-dev32
 include(devpkg-zlib)
 zlib-dev32

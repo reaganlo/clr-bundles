@@ -90,7 +90,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -292,6 +292,7 @@ xtrans-dev
 xtrans-dev32
 include(xz)
 include(devpkg-xz)
+xz-dev32
 include(yasm)
 zlib
 include(devpkg-zlib)

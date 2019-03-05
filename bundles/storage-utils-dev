@@ -88,7 +88,7 @@ gettext-bin
 gettext-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32

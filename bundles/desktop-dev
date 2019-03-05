@@ -134,7 +134,7 @@ coreutils
 coverage
 cppcheck
 cracklib-dev
-cryptography
+include(cryptography)
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
@@ -150,7 +150,6 @@ datefudge
 db
 db-dev
 dbus
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -244,7 +243,7 @@ gfbgraph-dev
 ghostscript
 ghostscript-dev
 gimp-dev
-git
+include(git)
 gjs
 include(devpkg-gjs)
 glib-bin
@@ -550,7 +549,7 @@ libxslt-bin
 include(devpkg-libxslt)
 libyami-dev
 links
-include(linux-firmware-wifi)
+linux-firmware-wifi
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
@@ -775,7 +774,6 @@ qpdf-dev
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-qtdeclarative)
-include(devpkg-qtsvg)
 rdma-core-dev
 include(devpkg-readline)
 readline-dev32

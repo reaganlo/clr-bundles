@@ -113,7 +113,6 @@ datefudge
 db
 db-dev
 dbus
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -194,7 +193,7 @@ gettext-bin
 gettext-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 gjs
 include(devpkg-gjs)
 include(devpkg-glew)
@@ -464,7 +463,7 @@ libxslt-bin
 include(devpkg-libxslt)
 include(lightdm)
 links
-include(linux-firmware-wifi)
+linux-firmware-wifi
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

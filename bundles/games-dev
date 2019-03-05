@@ -100,7 +100,6 @@ cyrus-sasl-dev
 datefudge
 db
 dbus
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -164,7 +163,7 @@ gettext-bin
 gettext-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 gjs
 include(devpkg-gjs)
 glib-bin
@@ -368,7 +367,7 @@ libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
-include(linux-firmware-wifi)
+linux-firmware-wifi
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)

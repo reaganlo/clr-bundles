@@ -76,7 +76,7 @@ gdb-dev
 gettext
 gettext-bin
 gettext-dev
-git
+include(git)
 gjs
 glib-bin
 include(devpkg-glib)

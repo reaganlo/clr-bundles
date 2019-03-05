@@ -67,7 +67,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -166,6 +166,7 @@ nettle-lib32
 nss-altfiles
 include(openssl)
 include(devpkg-openssl)
+openssl-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32

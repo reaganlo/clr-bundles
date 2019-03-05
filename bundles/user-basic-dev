@@ -128,7 +128,7 @@ include(cpio)
 cppcheck
 cppunit-dev
 cracklib-dev
-cryptography
+include(cryptography)
 cryptography-legacypython
 cryptography_vectors
 cryptsetup-dev
@@ -142,7 +142,6 @@ cyrus-sasl-dev
 datefudge
 db
 db-dev
-dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-glib-dev
@@ -211,7 +210,7 @@ gettext-dev
 gflags-dev
 ghostscript
 ghostscript-dev
-git
+include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
