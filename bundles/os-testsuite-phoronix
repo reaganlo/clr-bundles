@@ -73,7 +73,7 @@ jemalloc-dev
 jemalloc-dev
 libXpm
 include(devpkg-libXv)
-libXvMC-dev
+include(devpkg-libXvMC)
 libXxf86dga
 libaio-dev
 libassuan-dev

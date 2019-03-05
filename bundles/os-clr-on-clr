@@ -53,7 +53,7 @@ include(devpkg-libxcb)
 include(devpkg-libXdamage)
 include(devpkg-libXfixes)
 libxshmfence-dev
-libXvMC-dev
+include(devpkg-libXvMC)
 include(devpkg-libXxf86vm)
 libzip-dev
 memkind

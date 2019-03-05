@@ -260,7 +260,7 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-util-macros-dev
+include(devpkg-util-macros)
 util-macros-dev32
 include(valgrind)
 valgrind-dev
