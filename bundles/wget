@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
+include(lib-openssl)
 
 # start of custom additions
 include(findutils)

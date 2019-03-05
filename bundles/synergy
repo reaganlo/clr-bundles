@@ -1,8 +1,18 @@
 # [TITLE]: synergy
 # [DESCRIPTION]: Keyboard and mouse sharing across networks
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
 include(qt-basic)
+include(libX11client)
+include(lib-openssl)
+include(libstdcpp)
+
+# start of custom additions
 include(postgresql)
+# end of custom additions
+
+# main package
 synergy

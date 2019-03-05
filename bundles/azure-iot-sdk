@@ -1,14 +1,20 @@
 # [TITLE]: azure-iot-sdk
 # [DESCRIPTION]: Libraries to support building IoT applications on Azure
-# [STATUS]: WIP
+# [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
-include(p11-kit)
 include(python3-basic)
+include(lib-openssl)
 include(libstdcpp)
-include(gstreamer)
 
-azure-iot-sdk
+# start of custom additions
+include(p11-kit)
+include(gstreamer)
 gst-plugins-bad
 gst-plugins-good
+# end of custom additions
+
+# main package
+azure-iot-sdk

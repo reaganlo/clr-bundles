@@ -2,10 +2,12 @@
 # [DESCRIPTION]: Internet Relay Chat (IRC) client program
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(perl-basic)
 include(libglib)
+include(lib-openssl)
 
 # start of custom additions
 

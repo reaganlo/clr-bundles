@@ -2,8 +2,10 @@
 # [DESCRIPTION]: Clam AntiVirus is an anti-virus toolkit for Unix
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(lib-openssl)
 include(libstdcpp)
 
 # start of custom additions

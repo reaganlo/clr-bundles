@@ -231,3 +231,7 @@ gstreamer # Streaming media framework
 vlc # The vlc media player
 wget # No detailed summary available
 pulseaudio # PulseAudio Simplified Synchronous Client Interface
+azure-iot-sdk # Libraries to support building IoT applications on Azure
+cryptography # Encrypt, decrypt, sign and verify objects
+git # git SCM tool
+synergy # Keyboard and mouse sharing across networks

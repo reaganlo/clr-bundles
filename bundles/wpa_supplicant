@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(lib-openssl)
 
 # start of custom additions
 include(linux-firmware-wifi)

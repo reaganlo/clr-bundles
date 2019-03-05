@@ -2,9 +2,11 @@
 # [DESCRIPTION]: IRC network bouncer
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)
+include(lib-openssl)
 
 # start of custom additions
 
