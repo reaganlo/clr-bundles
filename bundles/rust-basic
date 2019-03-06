@@ -8,5 +8,4 @@ include(p11-kit)
 include(libstdcpp)
 include(binutils)
 
-cargo
 rustc
