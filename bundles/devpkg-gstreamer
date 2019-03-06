@@ -7,5 +7,6 @@
 include(devpkg-base)
 include(devpkg-elfutils)
 include(devpkg-glib)
+include(libglib)
 
 gstreamer-dev

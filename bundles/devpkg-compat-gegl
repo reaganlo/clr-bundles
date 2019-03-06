@@ -7,5 +7,6 @@
 include(devpkg-base)
 include(devpkg-babl)
 include(devpkg-glib)
+include(libglib)
 
 compat-gegl-dev

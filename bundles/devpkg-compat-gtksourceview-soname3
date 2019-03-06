@@ -6,6 +6,7 @@
 
 include(devpkg-base)
 include(devpkg-glib)
+include(libglib)
 include(devpkg-gtk3)
 include(devpkg-libxml2)
 

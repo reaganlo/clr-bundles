@@ -6,6 +6,7 @@
 
 include(devpkg-base)
 include(devpkg-glib)
+include(libglib)
 include(devpkg-gstreamer)
 include(devpkg-orc)
 

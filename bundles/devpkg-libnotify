@@ -6,6 +6,8 @@
 
 include(devpkg-base)
 include(devpkg-gdk-pixbuf)
+include(libX11client)
 include(devpkg-glib)
+include(libglib)
 
 libnotify-dev

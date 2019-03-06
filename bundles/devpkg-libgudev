@@ -6,5 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-glib)
+include(libglib)
 
 libgudev-dev

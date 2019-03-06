@@ -7,6 +7,7 @@
 include(devpkg-base)
 include(devpkg-gcr)
 include(devpkg-glib)
+include(libglib)
 include(devpkg-gnome-online-accounts)
 include(devpkg-json-glib)
 include(devpkg-liboauth)

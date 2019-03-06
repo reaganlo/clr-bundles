@@ -7,6 +7,7 @@
 include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-glib)
+include(libglib)
 include(devpkg-gobject-introspection)
 include(devpkg-gtk3)
 include(devpkg-libffi)
