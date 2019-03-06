@@ -42,7 +42,6 @@ buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
-cargo
 clr-rpm-config
 coreutils
 cracklib-dev

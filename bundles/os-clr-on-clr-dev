@@ -137,7 +137,6 @@ ca-certs
 cached-property
 include(devpkg-cairo)
 cairo-dev32
-cargo
 include(ccache)
 ceph-dev
 certifi
@@ -862,6 +861,7 @@ rpm-common
 rpm-dev
 ruby
 rust-std32
+rustc
 samba-dev
 sbc-dev
 sbc-dev32

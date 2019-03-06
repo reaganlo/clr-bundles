@@ -79,7 +79,6 @@ bzip2-dev
 ca-certs
 include(devpkg-cairo)
 cairo-dev32
-cargo
 check-dev
 check-dev32
 clear-font
@@ -513,6 +512,7 @@ rest-dev32
 rpm-build
 ruby
 rust-std32
+rustc
 s2tc-dev
 sbc-dev
 sbc-dev32

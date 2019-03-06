@@ -85,7 +85,6 @@ ca-certs
 include(devpkg-cairo)
 cairo-dev32
 include(devpkg-cairomm)
-cargo
 cffi
 check
 check-dev
@@ -264,7 +263,6 @@ gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
-hexchat-dev
 hostname
 hunspell-dev
 ibus-dev
@@ -647,6 +645,7 @@ rest-dev32
 rpm-build
 ruby
 rust-std32
+rustc
 sassc
 sbc-dev
 sbc-dev32

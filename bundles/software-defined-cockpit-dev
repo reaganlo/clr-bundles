@@ -74,7 +74,6 @@ bzip2-dev
 ca-certs
 include(devpkg-cairo)
 cairo-dev32
-cargo
 cffi
 check-dev
 check-dev32
@@ -446,6 +445,7 @@ rest-dev32
 rpm-build
 ruby
 rust-std32
+rustc
 sbc-dev
 sbc-dev32
 include(scons)

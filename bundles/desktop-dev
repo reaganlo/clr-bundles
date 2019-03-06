@@ -103,7 +103,6 @@ cached-property
 include(devpkg-cairo)
 cairo-dev32
 include(devpkg-cairomm)
-cargo
 caribou-dev
 certifi
 cffi
@@ -166,7 +165,6 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(docutils)
-double-conversion-dev
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -358,7 +356,6 @@ iso8601
 isodate
 itstool
 jansson-dev
-jemalloc-dev
 include(jq)
 include(devpkg-json-c)
 json-c-dev32
@@ -561,7 +558,6 @@ lzo-dev
 m4
 include(make)
 man-db
-mariadb-dev
 mediasdk-dev
 include(devpkg-mesa)
 mesa-dev32
@@ -623,7 +619,6 @@ openal-soft-dev32
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
-openjade-dev
 openjdk
 openjdk9
 openjdk9-dev
@@ -681,7 +676,6 @@ perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-IO-stringy
-perl-IPC-Run
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
@@ -730,7 +724,6 @@ poppler-data-dev
 poppler-dev
 poppler-extras
 include(devpkg-popt)
-postgresql-dev
 ppp-dev
 pretend
 procps-ng
@@ -786,6 +779,7 @@ rpm-dev
 ruby
 ruby-dev
 rust-std32
+rustc
 samba-dev
 sane-backends-dev
 sassc
