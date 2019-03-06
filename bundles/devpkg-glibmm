@@ -6,6 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-glib)
-include(devpkg-libsigc+)
+include(devpkg-libsigcplusplus)
 
 glibmm-dev

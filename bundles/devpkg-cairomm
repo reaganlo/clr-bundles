@@ -6,6 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-cairo)
-include(devpkg-libsigc+)
+include(devpkg-libsigcplusplus)
 
 cairomm-dev

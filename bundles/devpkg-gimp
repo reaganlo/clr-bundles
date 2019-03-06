@@ -6,6 +6,6 @@
 
 include(devpkg-base)
 include(devpkg-gdk-pixbuf)
-include(devpkg-gtk)
+include(devpkg-gtkplus)
 
 gimp-dev

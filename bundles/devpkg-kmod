@@ -1,0 +1,9 @@
+# [TITLE]: devpkg-kmod
+# [DESCRIPTION]: All content for pkgconfig file kmod.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+kmod-dev

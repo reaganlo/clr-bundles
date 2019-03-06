@@ -1,0 +1,9 @@
+# [TITLE]: devpkg-libtirpc
+# [DESCRIPTION]: All content for pkgconfig file libtirpc.pc
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(devpkg-base)
+
+libtirpc-dev
