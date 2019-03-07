@@ -19,7 +19,7 @@ include(intltool)
 graphite
 include(devpkg-hwloc)
 include(llvm)
-mariadb-dev
+include(devpkg-mariadb)
 libXaw-dev
 memcached
 moreutils

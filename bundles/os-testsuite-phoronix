@@ -34,8 +34,8 @@ include(devpkg-SDL_image)
 include(devpkg-SDL_mixer)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
-acl-dev
-attr-dev
+include(devpkg-acl)
+include(devpkg-attr)
 autoconf
 autoconf-data
 include(bc)
@@ -62,7 +62,7 @@ include(devpkg-gflags)
 include(gimp)
 glibc-staticdev
 glibc-lib-avx2
-glog-dev
+include(devpkg-glog)
 include(devpkg-glu)
 gmp-dev
 gnupg
@@ -76,14 +76,14 @@ include(devpkg-libXv)
 include(devpkg-libXvMC)
 libXxf86dga
 libaio-dev
-libassuan-dev
+include(devpkg-libassuan)
 include(devpkg-libevent)
 libgcrypt-dev
 libgfortran-avx
 include(devpkg-libgpg-error)
 include(devpkg-libjpeg-turbo)
 libksba-dev
-libnl-dev
+include(devpkg-libnl)
 include(devpkg-libogg)
 include(devpkg-libpng)
 libtool
@@ -126,7 +126,7 @@ SuiteSparse
 SuiteSparse-dev
 include(devpkg-sqlite-autoconf)
 tcl
-tiff-dev
+include(devpkg-tiff)
 time
 include(unzip)
 x11perf

@@ -47,7 +47,7 @@ include(devpkg-fann)
 funcsigs
 gensim
 include(devpkg-gflags)
-glog-dev
+include(devpkg-glog)
 glibc-lib-avx2
 include(devpkg-googletest)
 include(graphviz)
@@ -73,7 +73,7 @@ openjdk-dev
 pandas
 Pillow
 posix_ipc
-protobuf-c-dev
+include(devpkg-protobuf-c)
 protobuf-dev
 protobuf-python
 pydot

@@ -55,7 +55,7 @@ include(devpkg-libXfixes)
 libxshmfence-dev
 include(devpkg-libXvMC)
 include(devpkg-libXxf86vm)
-libzip-dev
+include(devpkg-libzip)
 memkind
 memkind-dev
 include(devpkg-mesa)
@@ -64,7 +64,7 @@ ncurses-data-rare
 p7zip
 pep8
 pesign
-pmdk-dev
+include(devpkg-pmdk)
 pycodestyle
 pycurl
 pyliblzma
@@ -79,7 +79,7 @@ rpm-common
 sbsigntools
 include(scons)
 six
-telemetrics-client-dev
+include(devpkg-telemetrics-client)
 urlgrabber
 include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
