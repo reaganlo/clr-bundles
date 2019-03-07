@@ -12,3 +12,4 @@ include(linux-firmware)
 include(linux-firmware-extras)
 linux-lts2018
 mcelog
+vbox-integration
