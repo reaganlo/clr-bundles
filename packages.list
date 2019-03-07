@@ -243,4 +243,5 @@ virt-viewer # Virtual Machine Viewer
 spice-gtk # SPICE Client GLib 2.0 library
 vinagre # No detailed summary available
 x11vnc # No detailed summary available
-gtk-vnc # A GTK2 widget for VNC clients 
+gtk-vnc # A GTK2 widget for VNC clients
+gjs # JS bindings for GObjects

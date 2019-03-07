@@ -7,3 +7,4 @@ include(libstdcpp)
 
 glib-lib
 icu4c-lib
+glib-bin

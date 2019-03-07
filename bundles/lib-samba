@@ -1,5 +1,5 @@
-# [TITLE]: samba
-# [DESCRIPTION]: SMB Fileserver and AD Domain server
+# [TITLE]: lib-samba
+# [DESCRIPTION]: helper libraries for accessing samba shares
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
@@ -8,9 +8,8 @@
 
 # start of custom additions
 include(libstdcpp)
-include(openldap)
-include(lib-samba)
 # end of custom additions
 
 # main package
-samba
+samba-lib
+samba-extras

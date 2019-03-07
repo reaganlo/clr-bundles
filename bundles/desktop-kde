@@ -12,7 +12,7 @@ include(qt-basic)
 include(x11-tools)
 include(x11-server)
 include(fuse)
-
+include(lib-samba)
 #
 # main bits
 #

@@ -3,6 +3,8 @@
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
+include(libglib)
+
 tpm2-abrmd
 tpm2-tools
 tpm2-tss

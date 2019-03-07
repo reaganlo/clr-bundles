@@ -6,7 +6,7 @@
 
 include(libglib)
 include(libX11client)
-
+include(gjs)
 # start of custom additions
 
 # end of custom additions

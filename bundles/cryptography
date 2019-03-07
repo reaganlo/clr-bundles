@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssl)
+include(libglib)
+
 ca-certs
 gnupg
 gnutls
