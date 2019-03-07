@@ -6,6 +6,7 @@
 include(p11-kit)
 include(libstdcpp)
 include(openblas)
+include(libglib)
 
 glibc-lib-avx2
 # nose is needed for numpy

@@ -10,6 +10,7 @@ include(libX11client)
 include(libglib)
 include(gstreamer)
 include(libstdcpp)
+include(lib-samba)
 
 # start of custom additions
 

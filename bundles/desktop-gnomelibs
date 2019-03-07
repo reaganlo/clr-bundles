@@ -6,6 +6,7 @@
 include(libX11client)
 include(perl-basic)
 include(lib-samba)
+include(lib-imageformat)
 
 accountsservice-lib
 gtk3-lib

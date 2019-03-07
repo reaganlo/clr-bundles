@@ -5,6 +5,8 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(sudo)
 include(which)
+include(libglib)
+
 compute-image-packages
 e2fsprogs-extras
 gsutil

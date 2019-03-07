@@ -2,10 +2,12 @@
 # [DESCRIPTION]: Process viewer and system monitor
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
 include(libglib)
+include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions

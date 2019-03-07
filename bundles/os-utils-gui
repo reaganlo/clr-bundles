@@ -22,6 +22,7 @@ include(wpa_supplicant)
 include(x11-server)
 include(xemacs)
 include(xfce4-desktop)
+include(lib-imageformat)
 
 FreeRDP
 Thunar

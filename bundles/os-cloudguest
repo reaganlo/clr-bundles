@@ -6,6 +6,8 @@
 include(ethtool)
 include(openssh-server)
 include(sudo)
+include(libglib)
+
 micro-config-drive
 e2fsprogs-bin
 glib-lib

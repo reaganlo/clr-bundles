@@ -7,6 +7,7 @@ include(libX11client)
 include(p11-kit)
 include(perl-basic)
 include(NetworkManager)
+include(lib-imageformat)
 
 include(minetest)
 scummvm

@@ -6,6 +6,7 @@
 
 include(qt-basic)
 include(kde-frameworks5)
+include(lib-imageformat)
 
 attica-lib
 baloo-lib

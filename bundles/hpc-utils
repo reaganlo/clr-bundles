@@ -7,6 +7,7 @@ include(libstdcpp)
 
 # rdma-core-extra pulls in perl
 include(perl-basic)
+include(libglib)
 
 dapl
 infiniband-diags

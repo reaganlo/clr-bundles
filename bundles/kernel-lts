@@ -6,6 +6,8 @@
 include(bootloader)
 console-autostart
 include(linux-firmware)
+include(libglib)
+
 linux-lts
 mcelog
 vbox-integration

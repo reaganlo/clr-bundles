@@ -2,11 +2,13 @@
 # [DESCRIPTION]: Edit and paint images
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)
 include(qt-basic)
 include(libX11client)
+include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions

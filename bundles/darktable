@@ -2,14 +2,16 @@
 # [DESCRIPTION]: Photography workflow application
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
+include(lib-imageformat)
 include(libglib)
 include(libstdcpp)
 
 # start of custom additions
-
+include(lib-imageformat)
 # end of custom additions
 
 # main package

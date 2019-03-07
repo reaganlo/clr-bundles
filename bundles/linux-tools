@@ -8,6 +8,7 @@
 # start of custom additions
 include(perl-basic)
 include(binutils)
+include(libglib)
 # end of custom additions
 
 # main package

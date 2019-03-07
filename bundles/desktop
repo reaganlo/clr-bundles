@@ -9,6 +9,8 @@ include(desktop-apps)
 include(desktop-gnomelibs)
 include(desktop-assets)
 include(desktop-locales)
+include(lib-imageformat)
+
 # the UI should provide a basic sysadmin experience
 include(openssl)
 include(sysadmin-basic)

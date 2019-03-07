@@ -8,6 +8,7 @@
 include(kde-frameworks5)
 include(qt-basic)
 include(libX11client)
+include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions

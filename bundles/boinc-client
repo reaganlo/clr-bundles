@@ -9,6 +9,7 @@ include(libX11client)
 include(libglib)
 include(lib-openssl)
 include(libstdcpp)
+include(lib-imageformat)
 
 # start of custom additions
 

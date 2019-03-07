@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(bootloader)
+include(libglib)
 console-autostart
 init-rdahead-extras
 irqbalance

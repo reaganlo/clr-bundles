@@ -1,14 +1,20 @@
-# [TITLE]: weechat
-# [DESCRIPTION]: Internet Relay Chat (IRC) client
+# [TITLE]: lib-imageformat
+# [DESCRIPTION]: helpers for reading images
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 
 # start of custom additions
 include(libstdcpp)
-include(libglib)
 # end of custom additions
 
-# main package
-weechat
+# main packages
+
+librsvg-lib
+exiv2-lib
+libpng-lib
+libjpeg-turbo-lib
+libwebp-lib
+tiff-lib
