@@ -4,13 +4,15 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+console-autostart
 include(bootloader)
 include(libglib)
-console-autostart
-init-rdahead-extras
-irqbalance
 include(linux-firmware)
 include(linux-firmware-extras)
-linux-lts2017
+init-rdahead-extras
+irqbalance
 mcelog
 vbox-integration
+
+# kernel package
+linux-lts2017

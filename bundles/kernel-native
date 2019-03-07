@@ -4,12 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+console-autostart
 include(bootloader)
 include(libglib)
-console-autostart
-init-rdahead-extras
-irqbalance
-linux
 include(linux-firmware)
 include(linux-firmware-extras)
+init-rdahead-extras
+irqbalance
 mcelog
+
+# kernel package
+linux

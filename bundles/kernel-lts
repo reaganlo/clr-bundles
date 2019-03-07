@@ -4,11 +4,16 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-include(bootloader)
-console-autostart
-include(linux-firmware)
-include(libglib)
 
-linux-lts
+console-autostart
+include(bootloader)
+include(libglib)
+include(linux-firmware)
+include(linux-firmware-extras)
+init-rdahead-extras
+irqbalance
 mcelog
 vbox-integration
+
+# kernel package
+linux-lts
