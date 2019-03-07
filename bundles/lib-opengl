@@ -1,0 +1,15 @@
+# [TITLE]: lib-opengl
+# [DESCRIPTION]: helpers for 3d graphics
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+
+# start of custom additions
+# end of custom additions
+
+# main packages
+
+mesa
+libdrm-lib

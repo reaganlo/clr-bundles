@@ -8,6 +8,7 @@
 
 # start of custom additions
 include(libstdcpp)
+include(lib-opengl)
 # end of custom additions
 
 # main packages
