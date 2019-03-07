@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Various tools and plugins to set up TSN/TCC
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(network-basic)
 

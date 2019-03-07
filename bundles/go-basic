@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Build and run go language programs
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(git)
 include(p11-kit)

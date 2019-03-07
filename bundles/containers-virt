@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run container applications from Dockerhub in lightweight virtual machines
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
 firecracker

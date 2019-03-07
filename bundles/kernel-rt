@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run the native kernel with preempt_rt patchset
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(bootloader)
 console-autostart

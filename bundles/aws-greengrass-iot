@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Libraries to support building IoT applications on AWS Greengrass
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Daniel Castellanos <luis.daniel.castellanos@intel.com>
 include(python-extras)
 include(python2-basic)

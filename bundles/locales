@@ -2,6 +2,7 @@
 # [DESCRIPTION]: basic system translations
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 
 include(glibc-locale)

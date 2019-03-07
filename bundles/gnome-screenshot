@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Take screenshots of the whole desktop, the currently focused window or an area of the screen
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

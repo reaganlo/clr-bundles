@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Improve user experience with a common set of prebuilt perl libraries
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(perl-basic)
 

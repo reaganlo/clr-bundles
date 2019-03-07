@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run the hyperv specific LTS kernel
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
 console-autostart

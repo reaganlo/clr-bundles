@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Deep learning models for computer vision
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 include(machine-learning-tensorflow)
 

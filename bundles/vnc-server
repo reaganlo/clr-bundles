@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Enable the host to be a vnc desktop server
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop)
 include(openssh-server)

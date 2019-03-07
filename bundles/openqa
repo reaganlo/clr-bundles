@@ -2,6 +2,7 @@
 # [DESCRIPTION]: OpenQA infrastructure
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(kvm-host)
 include(perl-extras)

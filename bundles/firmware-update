@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Update the system's firmware
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(cryptography)
 include(libX11client)

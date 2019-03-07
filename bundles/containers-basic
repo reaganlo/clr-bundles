@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run container applications from Dockerhub
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(git)
 include(iproute2)

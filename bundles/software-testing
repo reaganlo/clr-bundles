@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Software to run or create test suites
 # [STATUS]: Active
 # [CAPABILITIES]: Test runners
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(perl-basic)

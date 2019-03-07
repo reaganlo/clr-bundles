@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Enable the host to be managed remotely by configuration management tools
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(openssh-server)
 include(python3-basic)

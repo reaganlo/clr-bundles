@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Provides minimal functionality for core testing functions
 # [STATUS]: Active
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(acl)
 include(cpio)

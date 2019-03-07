@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Tools useful when running under X11
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(libX11client)
 include(perl-basic)

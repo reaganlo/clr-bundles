@@ -2,6 +2,7 @@
 # [DESCRIPTION]: The python data-science stack; the best of http://pydata.org
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(cloud-api)

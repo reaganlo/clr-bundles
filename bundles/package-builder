@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Minimal bundle for building packages via Clearlinux common tooling
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: California Sullivan <california.l.sullivan@intel.com>
 include(curl)
 include(diffutils)

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Applications to support amateur radio operations
 # [STATUS]: Active
 # [CAPABILITIES]: rig control, satellite tracking, packet radio
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(desktop-gnomelibs)

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Educational applications for the primary school level
 # [STATUS]: Active
 # [CAPABILITIES]: learning
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(desktop-gnomelibs)

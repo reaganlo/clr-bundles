@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Network packet capture and analysis
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(postgresql)
 include(qt-basic)

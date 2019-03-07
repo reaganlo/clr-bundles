@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Provides basic suite for running the Clear Linux for iA Updater
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
 include(os-core-webproxy)

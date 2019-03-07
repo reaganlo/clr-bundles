@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Lua programming language
 # [STATUS]: Active
 # [CAPABILITIES]: Lua, LuaJIT, and Luarocks
+# [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 lua
 lua52

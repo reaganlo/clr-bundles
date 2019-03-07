@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Provides minimal functionality for automotive testing functions
 # [STATUS]: WIP
 # [CAPABILITIES]: Network utilities, USB utilities, and various utilities
+# [TAGS]:
 # [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com
 include(os-testsuite)
 include(os-testsuite-graphics)

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Images and Icons for the desktop
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 include(fonts-basic)

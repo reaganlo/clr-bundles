@@ -2,6 +2,7 @@
 # [DESCRIPTION]: mercurial SCM tool
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Sean V Kelley <sean.v.kelley@linux.intel.com>
 include(python2-basic)
 include(python3-basic)

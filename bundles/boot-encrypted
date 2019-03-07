@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Enable booting encrypted root partition, swap, or other partitions
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(bootloader-extras)
 LVM2

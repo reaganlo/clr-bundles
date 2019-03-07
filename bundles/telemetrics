@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run telemetrics client
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
 clr-debug-info
 swupd-probe

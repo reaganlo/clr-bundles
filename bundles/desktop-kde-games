@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Games for the desktop from the KDE ecosystem
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(desktop-kde-libs)

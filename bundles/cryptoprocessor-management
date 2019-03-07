@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Manage the Trusted Platform Module (TPM)
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
 include(libglib)
 

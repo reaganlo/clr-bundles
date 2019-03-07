@@ -2,6 +2,7 @@
 # [DESCRIPTION]: The ansible tool for host management
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Salvador Teran <salvador.teran.ochoa@intel.com>
 include(ipmitool)
 include(python3-basic)

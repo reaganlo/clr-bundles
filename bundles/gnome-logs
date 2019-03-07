@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Log viewer for the systemd journal
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)

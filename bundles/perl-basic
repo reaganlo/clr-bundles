@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run perl language programs
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 perl
 perl-doc

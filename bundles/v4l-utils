@@ -2,6 +2,7 @@
 # [DESCRIPTION]: video4linux tools
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

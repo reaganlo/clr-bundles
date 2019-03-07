@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Build machine learning applications
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
 include(cloud-api)

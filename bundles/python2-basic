@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run legacy python language programs
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
 include(libstdcpp)

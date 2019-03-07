@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Build and run 32bit C/C++ language programs
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 autoconf
 autoconf213

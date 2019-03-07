@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run a storage server
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 
 # unfortunately, ceph is still too much legacy

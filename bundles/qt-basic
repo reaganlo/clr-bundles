@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run programs that use the Qt runtime
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(fonts-basic)
 include(libX11client)

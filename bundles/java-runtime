@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run java language programs
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(libX11client)
 openjdk

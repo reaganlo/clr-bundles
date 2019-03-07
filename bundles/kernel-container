@@ -2,5 +2,6 @@
 # [DESCRIPTION]: Run the container specific kernel
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Jose Lamego <jose.a.lamego@intel.com>
 filesystem

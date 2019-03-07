@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Improve the user experience with a common set of prebuilt R libraries (stan components)
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 include(R-datasets)

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Virtualization Management tool
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

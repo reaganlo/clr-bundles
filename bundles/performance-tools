@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run performance and power measurements
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(ethtool)
 include(iproute2)

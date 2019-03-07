@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run the Intel "PK" kernel, an enterprise-style kernel with backports, plus PREEMPT_RT support
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(bootloader)
 console-autostart

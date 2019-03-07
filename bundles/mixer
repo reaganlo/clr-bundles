@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Create Clear Linux releases
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Rodrigo Chiossi <rodrigo.chiossi@intel.com>
 include(containers-basic)
 include(git)

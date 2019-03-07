@@ -2,5 +2,6 @@
 # [DESCRIPTION]: Run performance and power measurements
 # [STATUS]: Deprecated
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 filesystem

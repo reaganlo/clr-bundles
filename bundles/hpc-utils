@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Provide userspace management programs for various HPC related programs.
 # [STATUS]: WIP
 # [CAPABILITIES]: Manage RDMA and IB devices.
+# [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libstdcpp)
 

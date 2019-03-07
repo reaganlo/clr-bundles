@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Firmware and tools for basic wifi support
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 include(libglib)

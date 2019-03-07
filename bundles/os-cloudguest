@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run any initialization processes required of a generic cloud guest VM
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Julio Montes <julio.montes@intel.com>
 include(ethtool)
 include(openssh-server)

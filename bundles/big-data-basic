@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Tools and frameworks for big data management
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(R-basic)
 include(java-basic)

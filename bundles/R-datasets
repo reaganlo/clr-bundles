@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Large datasets for R
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(R-basic)
 

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Improve user experience with a common set of prebuilt python libraries for testing
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(cloud-api)
 include(python3-basic)

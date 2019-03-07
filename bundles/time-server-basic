@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run an NTP server
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 chrony
 linuxptp

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Common KDE Frameworks 5 libraries
 # [STATUS]: WIP
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(qt-basic)
 

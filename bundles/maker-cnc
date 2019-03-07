@@ -2,6 +2,7 @@
 # [DESCRIPTION]: CNC carving tools for Makers
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(inkscape)
 include(python-extras)

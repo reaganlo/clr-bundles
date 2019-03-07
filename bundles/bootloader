@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Loads kernel from disk and boots the system
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 clr-boot-manager
 shim

@@ -2,6 +2,7 @@
 # [DESCRIPTION]: Run the Intel "PK" kernel, and enterprise-style kernel with backports
 # [STATUS]: Active
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(bootloader)
 console-autostart
