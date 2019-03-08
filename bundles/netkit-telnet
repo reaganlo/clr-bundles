@@ -1,0 +1,15 @@
+# [TITLE]: netkit-telnet
+# [DESCRIPTION]: telnet client
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+netkit-telnet
