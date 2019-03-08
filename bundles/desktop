@@ -34,7 +34,7 @@ include(fuse)
 gdk-pixbuf
 geoclue
 geocode-glib
-gjs
+include(gjs)
 glib-bin
 glib-config
 glib-networking

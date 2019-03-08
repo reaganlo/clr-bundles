@@ -1,8 +1,8 @@
 # [TITLE]: games-dev
 # [DESCRIPTION]: All packages required to build the games bundle.
 # [STATUS]: Active
-# [CAPABILITIES]: Makes you forget about work, for a little bit
 # [TAGS]:
+# [CAPABILITIES]: Makes you forget about work, for a little bit
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(dev-utils)
 include(games)
@@ -164,7 +164,7 @@ gettext-dev
 ghostscript
 ghostscript-dev
 include(git)
-gjs
+include(gjs)
 include(devpkg-gjs)
 glib-bin
 include(devpkg-glib)
@@ -519,6 +519,7 @@ sbc-dev
 sbc-dev32
 include(scons)
 sed
+setuptools
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
@@ -580,3 +581,4 @@ xz-dev32
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
+include(devpkg-zstd)

@@ -1,8 +1,8 @@
 # [TITLE]: python-basic-dev
 # [DESCRIPTION]: All packages required to build the python-basic bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(dev-utils)
 include(os-core-dev)

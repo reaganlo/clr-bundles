@@ -1,8 +1,8 @@
 # [TITLE]: service-os-dev
 # [DESCRIPTION]: All packages required to build the service-os bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(dev-utils)
 include(os-core-dev)

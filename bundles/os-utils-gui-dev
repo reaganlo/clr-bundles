@@ -1,8 +1,8 @@
 # [TITLE]: os-utils-gui-dev
 # [DESCRIPTION]: All packages required to build the os-utils-gui bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -196,7 +196,7 @@ gettext-dev
 ghostscript
 ghostscript-dev
 include(git)
-gjs
+include(gjs)
 include(devpkg-gjs)
 include(devpkg-glew)
 glib-bin

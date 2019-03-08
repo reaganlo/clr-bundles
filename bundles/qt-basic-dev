@@ -1,8 +1,8 @@
 # [TITLE]: qt-basic-dev
 # [DESCRIPTION]: All packages required to build the qt-basic bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(dev-utils)
 include(os-core-dev)

@@ -1,8 +1,8 @@
 # [TITLE]: os-clr-on-clr-dev
 # [DESCRIPTION]: All packages required to build the os-clr-on-clr bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(dev-utils-dev)
@@ -263,7 +263,7 @@ include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
-gjs
+include(gjs)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -756,7 +756,6 @@ pkg-config-dev
 pluggy
 pluggy-python
 include(plzip)
-include(devpkg-pmdk)
 polkit-dev
 polkit-qt-dev
 poppler
@@ -890,7 +889,6 @@ tcl
 tcl-dev
 tdb-dev
 tdb-python3
-include(devpkg-telemetrics-client)
 testrepository
 testresources
 testscenarios

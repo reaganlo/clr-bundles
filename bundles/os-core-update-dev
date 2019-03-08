@@ -1,8 +1,8 @@
 # [TITLE]: os-core-update-dev
 # [DESCRIPTION]: All packages required to build the os-core-update bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -45,6 +45,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 datefudge
+db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -74,6 +75,7 @@ gcc-libgcc32
 gcc-libstdc++32
 include(gdb)
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -199,6 +201,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procps-ng
+procps-ng-bin
 python-dev
 python3
 python3-core
@@ -208,9 +211,12 @@ readline-dev32
 rpm-build
 ruby
 sed
+setuptools
 shadow
 shared-mime-info
 slang-dev
+sqlite-autoconf
+include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
 include(devpkg-systemd)
@@ -219,8 +225,10 @@ systemd-extras
 systemd-lib
 tar
 tcl
+tcl-dev
 include(texinfo)
 thin-provisioning-tools
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux

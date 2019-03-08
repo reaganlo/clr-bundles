@@ -1,8 +1,8 @@
 # [TITLE]: containers-basic-dev
 # [DESCRIPTION]: All packages required to build the containers-basic bundle.
 # [STATUS]: Active
-# [CAPABILITIES]:
 # [TAGS]:
+# [CAPABILITIES]:
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
 include(dev-utils)
@@ -47,6 +47,7 @@ cri-containerd-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 datefudge
+db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -74,11 +75,12 @@ gcc-libgcc32
 gcc-libstdc++32
 include(devpkg-gcr)
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
 include(git)
-gjs
+include(gjs)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -212,6 +214,7 @@ pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procps-ng
+procps-ng-bin
 include(pygobject)
 python-dev
 python3
@@ -223,8 +226,10 @@ readline-dev32
 rpm-build
 ruby
 sed
+setuptools
 shadow
 shared-mime-info
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
 swig
@@ -235,9 +240,11 @@ systemd-extras
 systemd-lib
 tar
 tcl
+tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tk
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux
