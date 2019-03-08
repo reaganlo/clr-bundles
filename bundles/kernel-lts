@@ -1,19 +1,10 @@
 # [TITLE]: kernel-lts
-# [DESCRIPTION]: Run the lts native kernel
+# [DESCRIPTION]: Run the latest longterm native kernel
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
-console-autostart
-include(bootloader)
-include(libglib)
-include(linux-firmware)
-include(linux-firmware-extras)
-init-rdahead-extras
-irqbalance
-mcelog
-vbox-integration
+# This is a meta-bundle which include the latest longterm native kernel
+include(kernel-lts2018)
 
-# kernel package
-linux-lts
