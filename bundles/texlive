@@ -8,6 +8,8 @@
 include(libX11client)
 include(libstdcpp)
 include(ruby-basic)
+include(python3-basic)
+
 # start of custom additions
 
 # end of custom additions

@@ -5,6 +5,6 @@
 # [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
-
+include(lib-openssl)
 nodejs
 nodejs-doc

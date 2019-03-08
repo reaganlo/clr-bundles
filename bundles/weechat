@@ -9,6 +9,7 @@
 # start of custom additions
 include(libstdcpp)
 include(libglib)
+include(lib-openssl)
 # end of custom additions
 
 # main package

@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+include(lib-openssl)
+
 perl
 perl-doc
 perl-Config-General

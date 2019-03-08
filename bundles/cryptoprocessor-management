@@ -5,6 +5,7 @@
 # [TAGS]:
 # [MAINTAINER]: Shirley, Zhao <shirley.zhao@intel.com>
 include(libglib)
+include(lib-openssl)
 
 tpm2-abrmd
 tpm2-tools
