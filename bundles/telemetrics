@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
+include(findutils)
+
 clr-debug-info
 swupd-probe
 swupd-probe-autostart
