@@ -10,7 +10,6 @@ include(python-extras)
 
 # common cad/cam tools
 include(inkscape)
-openscad
 
 
 # common maker libraries for low level hw access

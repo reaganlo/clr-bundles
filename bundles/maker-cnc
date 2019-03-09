@@ -14,7 +14,7 @@ include(maker-basic)
 dmap2gcode
 F-Engrave
 FreeCAD
-openscad
+include(openscad)
 pycam
 
 

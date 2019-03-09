@@ -11,7 +11,7 @@ include(Sphinx)
 include(maker-basic)
 
 # Modeling tools
-openscad
+include(openscad)
 
 # Slicers
 Cura
