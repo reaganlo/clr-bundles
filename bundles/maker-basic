@@ -1,0 +1,22 @@
+# [TITLE]: maker-basic
+# [DESCRIPTION]: Basic tools for makers and experimenters
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(libX11client)
+include(python-extras)
+
+
+# common cad/cam tools
+include(inkscape)
+openscad
+
+
+# common maker libraries for low level hw access
+libusb
+libusb-compat
+pyusb
+usbutils
+libftdi1
+minicom

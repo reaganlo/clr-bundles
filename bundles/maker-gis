@@ -6,5 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(Babel)
 include(desktop-kde-libs)
+include(maker-basic)
 
 QGIS
