@@ -14,7 +14,6 @@ include(inkscape)
 
 # common maker libraries for low level hw access
 libusb
-libusb-compat
 pyusb
 usbutils
 libftdi1
