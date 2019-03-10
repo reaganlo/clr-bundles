@@ -12,9 +12,11 @@ include(php-basic)
 include(games)
 include(python3-basic)
 include(python2-basic)
+include(python-extras)
 include(devpkg-qtbase)
 include(nasm)
 include(hardware-gpu)
+include(libstdcpp)
 
 include(yasm)
 SDL
