@@ -14,6 +14,8 @@ include(python3-basic)
 include(python2-basic)
 include(devpkg-qtbase)
 include(nasm)
+include(hardware-gpu)
+
 include(yasm)
 SDL
 include(devpkg-SDL)
