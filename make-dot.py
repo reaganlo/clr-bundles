@@ -29,10 +29,12 @@ def build_bundle_dictionary():
                             bundlepackages = packagepattern.findall(bundledef)
                             bundledict[bundlename] = Bundle(bundlename, bundlestatus, bundleincludes, bundlepackages)
         with open('packages', 'r') as package_file:
+                re_strip_comment = re.compile("#.*$")
                 for line in package_file:
-                        if line[0] == "#":
-                                continue
+                        line = re_strip_comment.sub("", line)
                         line = line.strip()
+                        if not line:
+                            continue
                         bundledict[line] = Bundle(line, 'Active', [], line)
         return bundledict
 
