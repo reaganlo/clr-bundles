@@ -649,7 +649,7 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qtbase)
-qtbase-extras
+include(qt-core)
 include(devpkg-qtdeclarative)
 include(devpkg-rdma-core)
 include(devpkg-readline)

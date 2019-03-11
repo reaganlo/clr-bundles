@@ -1,0 +1,8 @@
+# [TITLE]: qt-core
+# [DESCRIPTION]: Run programs that use the core Qt runtime components only
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+
+qtbase-extras

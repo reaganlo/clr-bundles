@@ -768,7 +768,7 @@ pywbem
 qemu
 include(devpkg-qpdf)
 include(devpkg-qtbase)
-qtbase-extras
+include(qt-core)
 include(devpkg-qtdeclarative)
 include(devpkg-rdma-core)
 include(devpkg-readline)

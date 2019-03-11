@@ -8,7 +8,7 @@
 include(libstdcpp)
 
 # start of custom additions
-qtbase-extras
+include(qt-core)
 # end of custom additions
 
 # main package

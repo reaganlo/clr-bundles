@@ -6,6 +6,7 @@
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(fonts-basic)
 include(libX11client)
+include(qt-core)
 
 qt3d
 qtbase

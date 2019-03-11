@@ -378,7 +378,7 @@ python3-dev
 qemu
 include(devpkg-qt3d)
 include(devpkg-qtbase)
-qtbase-extras
+include(qt-core)
 qtcharts-dev
 qtconnectivity-dev
 qtdatavis3d-dev
