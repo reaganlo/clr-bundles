@@ -16,7 +16,6 @@ clr-find-bundle
 clr-hardware-files
 clr-service-restart-bin
 clr-update-triggers
-clr-user-bundles
 efibootmgr-bin
 findutils-bin
 gzip-bin
