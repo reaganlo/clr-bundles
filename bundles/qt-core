@@ -4,5 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+include(libstdcpp)
+include(libglib)
 
 qtbase-extras
