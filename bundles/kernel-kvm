@@ -8,3 +8,4 @@ include(bootloader)
 console-autostart
 linux-kvm
 #memshrinker
+qemu-extras
