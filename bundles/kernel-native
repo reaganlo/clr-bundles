@@ -4,6 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+include(hardware-uefi)
+
 console-autostart
 include(bootloader)
 include(libglib)
