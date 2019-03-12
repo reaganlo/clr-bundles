@@ -11,6 +11,7 @@ include(lib-imageformat)
 
 # start of custom additions
 include(NetworkManager)
+include(gstreamer)
 # end of custom additions
 
 # main package
