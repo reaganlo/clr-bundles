@@ -345,6 +345,7 @@ librepo
 librsvg-2.0
 libsasl2
 libsass
+libsctp
 libseccomp
 libsecret-1
 libsecret-unstable
