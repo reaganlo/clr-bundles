@@ -19,8 +19,6 @@
 #
 iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
 kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
-linux-dev # programs for developing Linux
-linux-lts-dev # programs for developing Linux LTS version
 linux-iot-lts2018-dev # programs for developing Linux iot LTS 2018 version
 linux-iot-lts2018-sos-dev # programs for developing Linux iot SOS LTS 2018 version
 weston-extras # Utilities and tools for the Wayland graphics compositor

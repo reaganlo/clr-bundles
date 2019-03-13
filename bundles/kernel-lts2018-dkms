@@ -1,0 +1,10 @@
+# [TITLE]: kernel-lts2018-dkms
+# [DESCRIPTION]: Support module building/loading via DKMS in LTS2018 kernel
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
+include(c-basic)
+include(linux-lts2018-dev)
+clr-ignore-mod-sig
+dkms

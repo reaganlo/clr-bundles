@@ -4,7 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include(c-basic)
-include(linux-lts-dev)
-clr-ignore-mod-sig
-dkms
+include(kernel-lts2018-dkms)
