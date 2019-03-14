@@ -1,0 +1,19 @@
+# [TITLE]: webkitgtk
+# [DESCRIPTION]: Legacy Web content engine for GTK+ 3
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(libX11client)
+include(libglib)
+include(gstreamer)
+include(libstdcpp)
+include(lib-imageformat)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+webkitgtk
