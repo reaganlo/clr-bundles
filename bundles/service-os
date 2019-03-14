@@ -8,7 +8,7 @@
 # Boot Software
 include(bootloader)
 include(linux-firmware)
-linux-firmware-ipu4
+linux-firmware-ipu
 linux-iot-lts2018-sos
 mcelog
 
