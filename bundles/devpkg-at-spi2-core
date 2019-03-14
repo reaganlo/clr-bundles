@@ -9,5 +9,7 @@ include(devpkg-base)
 include(devpkg-dbus)
 include(devpkg-glib)
 include(libglib)
+include(devpkg-libX11)
+include(devpkg-libXtst)
 
 at-spi2-core-dev

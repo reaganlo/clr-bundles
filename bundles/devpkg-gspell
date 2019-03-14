@@ -6,7 +6,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-compat-enchant-soname1)
+include(devpkg-enchant)
 include(devpkg-glib)
 include(libglib)
 include(devpkg-gtk3)

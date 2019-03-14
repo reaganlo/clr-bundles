@@ -5,6 +5,7 @@ pkgconfig(atk)	devpkg-atk
 pkgconfig(gobject-2.0)	devpkg-glib
 pkgconfig(glib-2.0)	devpkg-glib
 pkgconfig(libpcre)	devpkg-pcre
+pkgconfig(libffi)	devpkg-libffi
 pkgconfig(audit)	devpkg-audit
 pkgconfig(bigreqsproto)	devpkg-xorgproto
 pkgconfig(blkid)	devpkg-util-linux
@@ -87,14 +88,17 @@ pkgconfig(evolution-shell-3.0)	devpkg-evolution
 pkgconfig(gtk+-3.0)	devpkg-gtk3
 pkgconfig(atk-bridge-2.0)	devpkg-at-spi2-atk
 pkgconfig(atspi-2)	devpkg-at-spi2-core
+pkgconfig(xtst)	devpkg-libXtst
+pkgconfig(recordproto)	devpkg-xorgproto
 pkgconfig(libebackend-1.2)	devpkg-evolution-data-server
 pkgconfig(libedataserver-1.2)	devpkg-evolution-data-server
 pkgconfig(gmodule-2.0)	devpkg-glib
 pkgconfig(libsecret-1)	devpkg-libsecret
 pkgconfig(libxml-2.0)	devpkg-libxml2
 pkgconfig(libsoup-2.4)	devpkg-libsoup
-pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(sqlite3)	devpkg-sqlite-autoconf
+pkgconfig(libpsl)	devpkg-libpsl
+pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(nss)	devpkg-nss
 pkgconfig(nspr)	devpkg-nspr
 pkgconfig(libedataserverui-1.2)	devpkg-evolution-data-server
@@ -106,6 +110,9 @@ pkgconfig(webkit2gtk-4.0)	devpkg-webkitgtk
 pkgconfig(javascriptcoregtk-4.0)	devpkg-webkitgtk
 pkgconfig(gnome-desktop-3.0)	devpkg-gnome-desktop
 pkgconfig(gsettings-desktop-schemas)	devpkg-gsettings-desktop-schemas
+pkgconfig(xkeyboard-config)	devpkg-xkeyboard-config
+pkgconfig(iso-codes)	devpkg-iso-codes
+pkgconfig(libseccomp)	devpkg-libseccomp
 pkgconfig(libemail-engine)	devpkg-evolution
 pkgconfig(ext2fs)	devpkg-e2fsprogs
 pkgconfig(com_err)	devpkg-e2fsprogs
@@ -168,7 +175,6 @@ pkgconfig(gimpthumb-2.0)	devpkg-gimp
 pkgconfig(gimpui-2.0)	devpkg-gimp
 pkgconfig(gjs-1.0)	devpkg-gjs
 pkgconfig(gobject-introspection-1.0)	devpkg-gobject-introspection
-pkgconfig(libffi)	devpkg-libffi
 pkgconfig(gthread-2.0)	devpkg-glib
 pkgconfig(mozjs-60)	devpkg-mozjs60
 pkgconfig(glesv1_cm)	devpkg-mesa
@@ -204,7 +210,7 @@ pkgconfig(grilo-plugins-0.3)	devpkg-grilo-plugins
 pkgconfig(gsl)	devpkg-gsl
 pkgconfig(gsound)	devpkg-gsound
 pkgconfig(gspell-1)	devpkg-gspell
-pkgconfig(enchant)	devpkg-compat-enchant-soname1
+pkgconfig(enchant-2)	devpkg-enchant
 pkgconfig(gssrpc)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mit-krb5)	devpkg-krb5
@@ -246,7 +252,6 @@ pkgconfig(atkmm-1.6)	devpkg-atkmm
 pkgconfig(gtk+-unix-print-3.0)	devpkg-gtk3
 pkgconfig(gtksourceview-3.0)	devpkg-compat-gtksourceview-soname3
 pkgconfig(gtkspell3-3.0)	devpkg-gtkspell3
-pkgconfig(enchant-2)	devpkg-enchant
 pkgconfig(gtk+-unix-print-2.0)	devpkg-gtkplus
 pkgconfig(gtk+-wayland-3.0)	devpkg-gtk3
 pkgconfig(gtk+-x11-2.0)	devpkg-gtkplus
@@ -357,11 +362,6 @@ pkgconfig(libmlx5)	devpkg-rdma-core
 pkgconfig(libmpg123)	devpkg-mpg123
 pkgconfig(libmspack)	devpkg-libmspack
 pkgconfig(libmtp)	devpkg-libmtp
-pkgconfig(libmutter-3)	devpkg-mutter
-pkgconfig(mutter-clutter-3)	devpkg-mutter
-pkgconfig(xtst)	devpkg-libXtst
-pkgconfig(recordproto)	devpkg-xorgproto
-pkgconfig(mutter-cogl-3)	devpkg-mutter
 pkgconfig(libmypaint)	devpkg-libmypaint
 pkgconfig(libnautilus-extension)	devpkg-nautilus
 pkgconfig(libndctl)	devpkg-ndctl
@@ -426,7 +426,6 @@ pkgconfig(libprocps)	devpkg-procps-ng
 pkgconfig(libprofiler)	devpkg-gperftools
 pkgconfig(libprotobuf-c)	devpkg-protobuf-c
 pkgconfig(libproxy-1.0)	devpkg-pacrunner
-pkgconfig(libpsl)	devpkg-libpsl
 pkgconfig(libpulse)	devpkg-pulseaudio
 pkgconfig(libpulse-mainloop-glib)	devpkg-pulseaudio
 pkgconfig(libpulse-simple)	devpkg-pulseaudio
@@ -442,7 +441,7 @@ pkgconfig(libssl)	devpkg-openssl
 pkgconfig(librsvg-2.0)	devpkg-librsvg
 pkgconfig(libsasl2)	devpkg-cyrus-sasl
 pkgconfig(libsass)	devpkg-libsass
-pkgconfig(libseccomp)	devpkg-libseccomp
+pkgconfig(libsctp)	devpkg-lksctp-tools
 pkgconfig(libsecret-unstable)	devpkg-libsecret
 pkgconfig(libsflow)	devpkg-openvswitch
 pkgconfig(libsmbios_c)	devpkg-libsmbios
@@ -489,7 +488,6 @@ pkgconfig(libv4l2rds)	devpkg-v4l-utils
 pkgconfig(libva)	devpkg-libva
 pkgconfig(libva-drm)	devpkg-libva
 pkgconfig(libva-glx)	devpkg-libva
-pkgconfig(libvala-0.42)	devpkg-vala
 pkgconfig(libva-wayland)	devpkg-libva
 pkgconfig(libva-x11)	devpkg-libva
 pkgconfig(libvirt)	devpkg-libvirt
@@ -592,7 +590,6 @@ pkgconfig(xft)	devpkg-libXft
 pkgconfig(xkbcommon-x11)	devpkg-libxkbcommon
 pkgconfig(xkbcomp)	devpkg-xkbcomp
 pkgconfig(xkbfile)	devpkg-libxkbfile
-pkgconfig(xkeyboard-config)	devpkg-xkeyboard-config
 pkgconfig(xmlsec1)	devpkg-xmlsec1
 pkgconfig(xmlsec1-nss)	devpkg-xmlsec1
 pkgconfig(xmlsec1-openssl)	devpkg-xmlsec1
