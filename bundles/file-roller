@@ -10,6 +10,7 @@ include(libglib)
 
 # start of custom additions
 include(lib-imageformat)
+include(gstreamer)
 # end of custom additions
 
 # main package
