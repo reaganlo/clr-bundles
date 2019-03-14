@@ -1,8 +1,8 @@
 # [TITLE]: desktop-dev
 # [DESCRIPTION]: All packages required to build the desktop bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop)
 include(dev-utils)
@@ -20,6 +20,7 @@ LuaJIT-dev
 Mako
 Mako-legacypython
 Mako-python
+Markdown
 ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
@@ -150,6 +151,7 @@ datefudge
 db
 db-dev
 dbus
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -269,6 +271,7 @@ gmp-lib32
 include(devpkg-gnome-autoar)
 include(devpkg-gnome-bluetooth)
 gnome-common-dev
+gnome-control-center-dev
 include(devpkg-gnome-desktop)
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
@@ -319,6 +322,8 @@ gtk3-bin
 include(devpkg-gtk3)
 gtk3-dev32
 include(devpkg-gtkmm3)
+gtksourceview
+gtksourceview-dev
 include(devpkg-gtkspell3)
 guile
 include(devpkg-gutenprint)
@@ -352,7 +357,7 @@ include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 ipython
-iso-codes-dev
+include(devpkg-iso-codes)
 iso8601
 isodate
 itstool
@@ -448,6 +453,7 @@ include(devpkg-libgudev)
 libgudev-dev32
 include(devpkg-libgusb)
 include(devpkg-libgweather)
+libhandy-dev
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32
@@ -768,7 +774,7 @@ pywbem
 qemu
 include(devpkg-qpdf)
 include(devpkg-qtbase)
-include(qt-core)
+qtbase-extras
 include(devpkg-qtdeclarative)
 include(devpkg-rdma-core)
 include(devpkg-readline)

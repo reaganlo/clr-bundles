@@ -1,8 +1,8 @@
 # [TITLE]: sysadmin-basic-dev
 # [DESCRIPTION]: All packages required to build the sysadmin-basic bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -53,7 +53,6 @@ cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 datefudge
-db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -270,7 +269,6 @@ pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procps-ng
-procps-ng-bin
 include(devpkg-procps-ng)
 protobuf-dev
 python
@@ -290,8 +288,6 @@ shadow
 shared-mime-info
 six
 slang-dev
-sqlite-autoconf
-include(devpkg-sqlite-autoconf)
 include(strace)
 systemd
 systemd-bin
@@ -301,10 +297,8 @@ systemd-extras
 systemd-lib
 tar
 tcl
-tcl-dev
 include(texinfo)
 thin-provisioning-tools
-tk-dev
 include(tzdata)
 include(unzip)
 usbutils-dev

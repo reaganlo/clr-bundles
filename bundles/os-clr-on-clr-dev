@@ -1,8 +1,8 @@
 # [TITLE]: os-clr-on-clr-dev
 # [DESCRIPTION]: All packages required to build the os-clr-on-clr bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(dev-utils-dev)
@@ -173,6 +173,7 @@ datefudge
 db
 db-dev
 dbus
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -310,9 +311,7 @@ groff
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
-gstreamer-dev32
 gtk+-dev
-gtk+-dev32
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -348,7 +347,7 @@ include(devpkg-iptables)
 iptables-dev32
 ipython
 isa-l-dev
-iso-codes-dev
+include(devpkg-iso-codes)
 iso8601
 isodate
 itstool
@@ -445,6 +444,7 @@ include(devpkg-libcroco)
 libcroco-dev32
 include(devpkg-libdatrie)
 libdatrie-dev32
+libdbusmenu-dev
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
@@ -475,6 +475,7 @@ libidn2-dev32
 include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
+libkipi-dev
 libksba-dev
 libmbim-dev
 include(devpkg-libmicrohttpd)
@@ -579,6 +580,7 @@ makedepend
 man-db
 include(devpkg-mariadb)
 mccabe-python
+media-player-info
 memkind-dev
 include(devpkg-mesa)
 mesa-dev32
@@ -744,6 +746,7 @@ perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pexpect
+phonon-dev
 php
 php-dev
 pigz
@@ -809,7 +812,7 @@ pytz
 pytz-legacypython
 qemu
 include(devpkg-qtbase)
-include(qt-core)
+qtbase-extras
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtmultimedia-dev
@@ -834,6 +837,7 @@ ruby
 rust-std32
 rustc
 samba-dev
+sassc
 sbc-dev
 sbc-dev32
 sbsigntools

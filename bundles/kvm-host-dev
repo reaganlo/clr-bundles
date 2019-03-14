@@ -1,8 +1,8 @@
 # [TITLE]: kvm-host-dev
 # [DESCRIPTION]: All packages required to build the kvm-host bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(kvm-host)
@@ -83,7 +83,7 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
-db
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -186,7 +186,7 @@ include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 isa-l-dev
-iso-codes-dev
+include(devpkg-iso-codes)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
@@ -369,7 +369,6 @@ polkit-dev
 include(devpkg-popt)
 prettytable
 procps-ng
-procps-ng-bin
 protobuf-dev
 psutil
 pyparsing
@@ -388,6 +387,7 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 ruby
+sassc
 include(scons)
 sed
 setuptools
@@ -400,7 +400,6 @@ spice
 spice-dev
 spice-protocol
 spice-protocol-dev
-sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
@@ -417,7 +416,6 @@ tcl-dev
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
-tk-dev
 tox
 tox-python
 include(tzdata)
@@ -430,6 +428,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev

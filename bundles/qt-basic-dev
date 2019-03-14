@@ -1,8 +1,8 @@
 # [TITLE]: qt-basic-dev
 # [DESCRIPTION]: All packages required to build the qt-basic bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -82,6 +82,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -185,7 +186,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-iso-codes-dev
+include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -310,6 +311,8 @@ meson
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
+mozjs-dev
+include(devpkg-mozjs52)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -378,7 +381,7 @@ python3-dev
 qemu
 include(devpkg-qt3d)
 include(devpkg-qtbase)
-include(qt-core)
+qtbase-extras
 qtcharts-dev
 qtconnectivity-dev
 qtdatavis3d-dev
@@ -409,6 +412,7 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 ruby
+sassc
 sbc-dev
 sbc-dev32
 include(scons)
@@ -447,6 +451,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev

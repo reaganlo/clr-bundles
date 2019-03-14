@@ -1,8 +1,8 @@
 # [TITLE]: software-defined-cockpit-dev
 # [DESCRIPTION]: All packages required to build the software-defined-cockpit bundle.
 # [STATUS]: WIP
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -95,6 +95,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
@@ -211,7 +212,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-iso-codes-dev
+include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -356,6 +357,8 @@ meson
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
+mozjs-dev
+include(devpkg-mozjs52)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
@@ -430,7 +433,7 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qtbase)
-include(qt-core)
+qtbase-extras
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtmultimedia-dev
@@ -447,6 +450,7 @@ rpm-build
 ruby
 rust-std32
 rustc
+sassc
 sbc-dev
 sbc-dev32
 include(scons)
@@ -488,6 +492,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev

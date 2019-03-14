@@ -1,8 +1,8 @@
 # [TITLE]: service-os-dev
 # [DESCRIPTION]: All packages required to build the service-os bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -203,7 +203,6 @@ include(patch)
 pbr
 include(devpkg-pcre)
 pcre-dev32
-perl
 perl-XML-Parser
 pesign
 pigz

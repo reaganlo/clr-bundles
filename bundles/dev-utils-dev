@@ -1,8 +1,8 @@
 # [TITLE]: dev-utils-dev
 # [DESCRIPTION]: All packages required to build the dev-utils bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(os-core-dev)
@@ -333,7 +333,7 @@ python3
 python3-core
 python3-dev
 include(devpkg-qtbase)
-include(qt-core)
+qtbase-extras
 include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32

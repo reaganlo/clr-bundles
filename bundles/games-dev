@@ -1,8 +1,8 @@
 # [TITLE]: games-dev
 # [DESCRIPTION]: All packages required to build the games bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]: Makes you forget about work, for a little bit
+# [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(dev-utils)
 include(games)
@@ -100,6 +100,7 @@ include(devpkg-cyrus-sasl)
 datefudge
 db
 dbus
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dbus-extras
@@ -224,7 +225,7 @@ include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 irrlicht-dev
-iso-codes-dev
+include(devpkg-iso-codes)
 itstool
 jansson-dev
 include(devpkg-json-c)
@@ -515,11 +516,11 @@ ruby
 rust-std32
 rustc
 s2tc-dev
+sassc
 sbc-dev
 sbc-dev32
 include(scons)
 sed
-setuptools
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)

@@ -1,8 +1,8 @@
 # [TITLE]: go-basic-dev
 # [DESCRIPTION]: All packages required to build the go-basic bundle.
 # [STATUS]: Active
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(dev-utils)
 include(go-basic)

@@ -1,8 +1,8 @@
 # [TITLE]: kde-frameworks5-dev
 # [DESCRIPTION]: All packages required to build the kde-frameworks5 bundle.
 # [STATUS]: WIP
-# [TAGS]:
 # [CAPABILITIES]:
+# [TAGS]:
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(dev-utils)
 include(kde-frameworks5)
@@ -87,6 +87,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -103,6 +104,7 @@ e2fsprogs-dev32
 e2fsprogs-extras
 include(devpkg-elfutils)
 elfutils-dev32
+include(devpkg-exiv2)
 include(devpkg-expat)
 expat-dev32
 expect
@@ -179,9 +181,6 @@ groff
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
-gstreamer-dev32
-gtk+-dev
-gtk+-dev32
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -198,7 +197,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
-iso-codes-dev
+include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -275,7 +274,6 @@ include(devpkg-libassuan)
 libatomic_ops-dev
 libc6
 libc6-dev
-include(devpkg-libcanberra)
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -283,6 +281,7 @@ libcap-ng-dev32
 include(devpkg-libcgroup)
 include(devpkg-libdatrie)
 libdatrie-dev32
+libdbusmenu-dev
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
@@ -369,6 +368,7 @@ include(devpkg-lz4)
 m4
 include(make)
 include(devpkg-mariadb)
+media-player-info
 include(devpkg-mesa)
 mesa-dev32
 meson
@@ -454,7 +454,7 @@ python3-core
 python3-dev
 qemu
 include(devpkg-qtbase)
-include(qt-core)
+qtbase-extras
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
 qtmultimedia-dev
@@ -469,6 +469,7 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 ruby
+sassc
 sbc-dev
 sbc-dev32
 include(scons)
@@ -494,6 +495,7 @@ include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
+taglib-dev
 tar
 tcl
 tcl-dev
@@ -511,6 +513,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
