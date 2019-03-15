@@ -13,6 +13,7 @@ Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
+PyYAML
 include(devpkg-acl)
 acl-dev32
 include(devpkg-attr)
