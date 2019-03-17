@@ -6,6 +6,7 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(x11-server)
 include(fonts-basic)
+include(qt-basic)
 
 # base + lxqt
 libsysstat
