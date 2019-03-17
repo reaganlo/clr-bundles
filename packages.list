@@ -249,3 +249,6 @@ cronie # No detailed summary available
 openscad # The programmers solid 3D CAD modeller
 minicom # No detailed summary available
 webkitgtk # Legacy Web content engine for GTK+ 3
+bijiben # Write out notes, every detail matters
+fontforge # Outline and bitmap font editor
+qemu-guest-additions # A lightweight multi-platform, multi-architecture disassembly framework 
