@@ -11,6 +11,8 @@ include(bootloader)
 include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
+include(qemu-guest-additions)
+
 init-rdahead-extras
 irqbalance
 mcelog
