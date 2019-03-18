@@ -11,7 +11,6 @@ AVB-AudioModules-dev
 CUnit-dev
 CUnit-dev32
 Cython
-Cython-legacypython
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -131,7 +130,7 @@ font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
-fontforge
+include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 include(devpkg-freetype)
@@ -411,6 +410,7 @@ perl-IPC-Run
 perl-XML-Parser
 php
 pigz
+pip
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
@@ -516,7 +516,6 @@ xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
-yaml-dev
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32

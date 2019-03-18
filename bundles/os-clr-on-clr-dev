@@ -82,6 +82,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -230,7 +231,7 @@ font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
-fontforge
+include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 freetype

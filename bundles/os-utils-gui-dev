@@ -166,7 +166,7 @@ font-util-dev32
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
-fontforge
+include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 include(devpkg-freetype)
@@ -223,6 +223,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
 include(devpkg-gnome-bluetooth)
+gnome-control-center-dev
 include(devpkg-gnome-desktop)
 gnome-icon-theme-dev
 include(devpkg-gnome-online-accounts)

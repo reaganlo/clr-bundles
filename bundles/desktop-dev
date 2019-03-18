@@ -206,7 +206,7 @@ fontconfig
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
-fontforge
+include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 include(devpkg-freetype)
