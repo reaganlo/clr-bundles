@@ -29,7 +29,7 @@ lxqt-themes
 
 # core apps
 libfm-qt
-pacmanfm-qt
+pcmanfm-qt
 
 # misc session stuff
 xdg-utils
