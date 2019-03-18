@@ -1,5 +1,5 @@
-# [TITLE]: os-cloudguest-vmware
-# [DESCRIPTION]: Run any initialization processes required for VMWare VMs
+# [TITLE]: os-cloudguest-kvm
+# [DESCRIPTION]: Run any initialization processes required for qemu-kvm
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [TAGS]:
