@@ -528,8 +528,8 @@ pkgconfig(Qt5Qml)	devpkg-qtdeclarative
 pkgconfig(Qt5Network)	devpkg-qtbase
 pkgconfig(Qt5Quick)	devpkg-qtdeclarative
 pkgconfig(Qt5WebEngineCore)	devpkg-qtwebengine
-pkgconfig(Qt5WebChannel)	devpkg-qtwebchannel
 pkgconfig(Qt5Positioning)	devpkg-qtlocation
+pkgconfig(Qt5WebChannel)	devpkg-qtwebchannel
 pkgconfig(readline)	devpkg-readline
 pkgconfig(samplerate)	devpkg-libsamplerate
 pkgconfig(SDL2_gfx)	devpkg-SDL2_gfx
