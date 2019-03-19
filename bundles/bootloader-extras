@@ -6,4 +6,5 @@
 # [MAINTAINER]: Hernandez Gutierrez, Josue David <josue.d.hernandez.gutierrez@intel.com>
 clr-init
 linux-cpio
-linux-lts-cpio
+linux-lts2018-cpio
+linux-lts2017-cpio
