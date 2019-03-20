@@ -51,6 +51,7 @@ cups-dev
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
+db
 db-dev
 include(devpkg-dbus)
 dbus-dev32
