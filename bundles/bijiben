@@ -10,6 +10,8 @@ include(libglib)
 include(webkitgtk)
 
 # start of custom additions
+include(NetworkManager)
+include(perl)
 
 # end of custom additions
 
