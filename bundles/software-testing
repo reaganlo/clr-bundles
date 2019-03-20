@@ -13,6 +13,7 @@ include(python-testing)
 bats
 check
 cmocka
+cmocka-dev
 glog
 googletest
 perl-TAP-Harness-Archive
