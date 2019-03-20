@@ -1,0 +1,17 @@
+# [TITLE]: sqlite-autoconf
+# [DESCRIPTION]: SQL database engine
+# [STATUS]: Active
+# [CAPABILITIES]: Manipulate .sqlite databases.
+# [TAGS]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+sqlite-autoconf
+vsqlite
+

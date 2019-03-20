@@ -1,0 +1,16 @@
+# [TITLE]: mariadb
+# [DESCRIPTION]: MariaDB Connector/C dynamic library/Database daemon
+# [STATUS]: Active
+# [CAPABILITIES]: Maintain an mysql compatible database.
+# [TAGS]:
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+mariadb
+mariadb-doc
