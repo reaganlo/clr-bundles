@@ -11,7 +11,7 @@ include(webkitgtk)
 
 # start of custom additions
 include(NetworkManager)
-include(perl)
+include(perl-basic)
 
 # end of custom additions
 
