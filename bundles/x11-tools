@@ -28,6 +28,7 @@ xrdb
 xrdp
 xrestop
 xscreensaver
+xsel
 xset
 xsetroot
 include(xterm)
