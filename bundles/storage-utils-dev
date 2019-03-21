@@ -259,7 +259,7 @@ sed
 setuptools
 shadow
 shared-mime-info
-sqlite-autoconf
+include(sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 startup-notification
 include(devpkg-startup-notification)

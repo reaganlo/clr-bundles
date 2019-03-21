@@ -252,7 +252,7 @@ shadow
 shared-mime-info
 six
 six-legacypython
-sqlite-autoconf
+include(sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 include(strace)
 swig

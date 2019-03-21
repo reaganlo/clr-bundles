@@ -529,7 +529,7 @@ six
 slang-dev
 speex-dev
 speexdsp-dev
-sqlite-autoconf
+include(sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)

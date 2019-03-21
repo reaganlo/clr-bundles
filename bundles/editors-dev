@@ -245,7 +245,7 @@ setuptools-legacypython
 setuptools-python
 shadow
 slang-dev
-sqlite-autoconf
+include(sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin

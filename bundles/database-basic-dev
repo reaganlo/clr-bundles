@@ -33,6 +33,7 @@ buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 cffi
@@ -118,6 +119,9 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libjpeg-turbo)
@@ -147,7 +151,6 @@ linux-libc-headers
 include(devpkg-lz4)
 m4
 include(make)
-include(devpkg-mariadb)
 mpc-dev
 mpfr-dev
 include(nasm)
@@ -158,18 +161,15 @@ nss-altfiles
 openjade-dev
 openjdk9
 openjdk9-dev
-include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(p11-kit)
 include(patch)
-pbr
 include(devpkg-pcre)
 perl
 perl-IPC-Run
 pigz
-pip
 pkg-config
 pkg-config-dev
 pluggy-python
@@ -190,7 +190,7 @@ setuptools
 setuptools-legacypython
 setuptools-python
 shadow
-sqlite-autoconf
+include(sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
@@ -204,6 +204,7 @@ tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tk-dev
+unixODBC-dev
 include(unzip)
 util-linux
 util-linux-bin
@@ -212,7 +213,6 @@ util-linux-dev32
 util-linux-extras
 include(valgrind)
 valgrind-dev
-vsqlite-dev
 include(which)
 xmlto
 include(xz)

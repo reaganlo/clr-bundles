@@ -96,6 +96,7 @@ expect
 extras
 include(flex)
 flex-dev
+include(devpkg-fontconfig)
 include(devpkg-freetype)
 gawk
 gc-dev
@@ -104,6 +105,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gdal-dev
 gdb-dev
 gdbm-dev
 gettext
@@ -192,6 +194,7 @@ include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
 libidn-dev32
+include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -350,7 +353,7 @@ shared-mime-info
 slang-dev
 source-highlight
 source-highlight-dev
-sqlite-autoconf
+include(sqlite-autoconf)
 include(devpkg-sqlite-autoconf)
 include(strace)
 include(devpkg-subunit)
