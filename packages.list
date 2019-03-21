@@ -253,4 +253,3 @@ bijiben # Write out notes, every detail matters
 fontforge # Outline and bitmap font editor
 qemu-guest-additions # A lightweight multi-platform, multi-architecture disassembly framework
 mariadb # MariaDB Connector/C dynamic library
-sqlite-autoconf # SQL database engine

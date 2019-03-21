@@ -310,7 +310,7 @@ shared-mime-info
 six
 six-legacypython
 sortedcontainers
-include(sqlite-autoconf)
+include(sqlite)
 include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin

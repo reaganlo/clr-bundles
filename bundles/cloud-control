@@ -22,5 +22,5 @@ botocore
 docker
 openssh
 psmisc
-include(sqlite-autoconf)
+include(sqlite)
 xorriso

@@ -210,7 +210,7 @@ setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info
-include(sqlite-autoconf)
+include(sqlite)
 include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin

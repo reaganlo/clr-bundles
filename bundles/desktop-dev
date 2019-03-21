@@ -810,7 +810,7 @@ speex-dev
 speexdsp-dev
 spice-dev
 spice-protocol-dev
-include(sqlite-autoconf)
+include(sqlite)
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(devpkg-startup-notification)

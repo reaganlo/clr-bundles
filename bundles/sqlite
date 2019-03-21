@@ -12,6 +12,6 @@ include(libstdcpp)
 # end of custom additions
 
 # main package
-include(sqlite-autoconf)
+sqlite-autoconf
 vsqlite
 

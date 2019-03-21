@@ -353,7 +353,7 @@ shared-mime-info
 slang-dev
 source-highlight
 source-highlight-dev
-include(sqlite-autoconf)
+include(sqlite)
 include(devpkg-sqlite-autoconf)
 include(strace)
 include(devpkg-subunit)
