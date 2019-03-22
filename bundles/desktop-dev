@@ -730,7 +730,6 @@ pluggy-python
 ply
 polkit-dev
 poppler
-poppler-data-dev
 poppler-dev
 poppler-extras
 include(devpkg-popt)

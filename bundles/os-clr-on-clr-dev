@@ -323,6 +323,7 @@ include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
+hdf5-dev
 help2man
 hostname
 httpd-data
@@ -918,6 +919,7 @@ typing
 include(tzdata)
 unittest2
 unittest2-legacypython
+unixODBC-dev
 include(unzip)
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
