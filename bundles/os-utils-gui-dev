@@ -685,7 +685,7 @@ spice-dev
 include(spice-gtk)
 spice-gtk-dev
 spice-protocol-dev
-include(sqlite)
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(devpkg-startup-notification)

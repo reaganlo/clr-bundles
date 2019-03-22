@@ -239,7 +239,7 @@ setuptools-python
 shadow
 shared-mime-info
 six
-include(sqlite)
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin

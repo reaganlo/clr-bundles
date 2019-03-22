@@ -464,7 +464,7 @@ include(devpkg-shared-mime-info)
 six
 speex-dev
 speexdsp-dev
-include(sqlite)
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)

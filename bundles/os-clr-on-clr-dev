@@ -872,7 +872,7 @@ spice
 spice-dev
 spice-protocol
 spice-protocol-dev
-include(sqlite)
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification

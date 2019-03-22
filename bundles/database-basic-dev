@@ -190,7 +190,7 @@ setuptools
 setuptools-legacypython
 setuptools-python
 shadow
-include(sqlite)
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
 systemd-bin
