@@ -13,4 +13,4 @@ include(lib-openssl)
 
 # main package
 samba-lib
-samba-extras
+#samba-extras
