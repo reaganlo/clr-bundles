@@ -17,5 +17,5 @@ include(ceph)
 ceph-deploy
 ceph-extras
 glusterfs
-parted
+include(parted)
 pip-legacypython

@@ -32,7 +32,7 @@ ntfs-3g
 nvme-cli
 open-iscsi
 opensm
-parted
+include(parted)
 include(pmdk)
 rdma-core
 rpcbind
