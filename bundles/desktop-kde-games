@@ -12,9 +12,11 @@ include(qt-basic)
 
 blinken
 bomber
+bovo
 granatier
 kanagram
 kapman
+katomic
 kblackbox
 kblocks
 kbounce
@@ -58,6 +60,7 @@ libkdegames
 libkleo
 libkmahjongg
 libksieve
+lskat
 marble
 palapeli
 parley

@@ -23,7 +23,6 @@ analitza
 include(ark)
 artikulate
 bluez-qt
-bovo
 calendarsupport
 cantata
 cyrus-sasl
@@ -43,7 +42,6 @@ include(kamera)
 kapidox
 kapptemplate
 include(kate)
-katomic
 kbackup
 kblog
 kcachegrind
@@ -127,7 +125,6 @@ libkomparediff2
 libkscreen
 libksieve
 lokalize
-lskat
 mailcommon
 mailimporter
 messagelib
