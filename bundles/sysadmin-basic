@@ -66,6 +66,7 @@ mosh
 motd-update
 nano
 ncurses
+neofetch
 nmap-extras
 numactl
 include(parallel)
