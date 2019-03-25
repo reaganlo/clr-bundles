@@ -254,4 +254,4 @@ fontforge # Outline and bitmap font editor
 qemu-guest-additions # A lightweight multi-platform, multi-architecture disassembly framework
 mariadb # MariaDB Connector/C dynamic library
 calc # Arbitrary precision console calculator
-parted # The GNU disk partition manipulation program 
+parted # The GNU disk partition manipulation program
