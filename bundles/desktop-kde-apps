@@ -41,7 +41,7 @@ kalarmcal
 include(kamera)
 kapidox
 kapptemplate
-kleopatra
+include(kleopatra)
 include(kate)
 kbackup
 kblog

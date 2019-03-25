@@ -255,3 +255,4 @@ qemu-guest-additions # A lightweight multi-platform, multi-architecture disassem
 mariadb # MariaDB Connector/C dynamic library
 calc # Arbitrary precision console calculator
 parted # The GNU disk partition manipulation program
+kleopatra # Certificate Manager and Unified Crypto GUI 
