@@ -406,6 +406,7 @@ kwindowsystem-dev
 kxmlgui-dev
 include(devpkg-lcms2)
 ldb-dev
+ldb-extras
 include(less)
 leveldb-dev
 include(devpkg-libX11)

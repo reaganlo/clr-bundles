@@ -99,6 +99,7 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+cmocka-dev
 include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
@@ -261,6 +262,7 @@ kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
 ldb-dev
+ldb-extras
 include(less)
 leveldb-dev
 include(devpkg-libX11)
@@ -588,15 +590,18 @@ systemd-extras
 systemd-lib
 talloc
 talloc-dev
+talloc-python3
 tar
 tcl
 tcl-dev
 tdb-dev
+tdb-python3
 testrepository
 testresources
 testscenarios
 testtools
 tevent-dev
+tevent-python3
 include(texinfo)
 include(texlive)
 thin-provisioning-tools

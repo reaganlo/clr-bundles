@@ -43,6 +43,7 @@ check-dev
 check-dev32
 cifs-utils-dev
 clr-rpm-config
+cmocka-dev
 include(devpkg-compat-fuse-soname2)
 coreutils
 cracklib-dev
@@ -52,7 +53,6 @@ include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
 db
-db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -137,6 +137,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 ldb-dev
+ldb-extras
 include(devpkg-libX11)
 libX11-dev32
 libabigail
@@ -226,7 +227,6 @@ openssl-lib32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
-include(devpkg-parted)
 include(patch)
 pbr
 include(devpkg-pcre)
@@ -271,11 +271,14 @@ systemd-dev32
 systemd-extras
 systemd-lib
 talloc-dev
+talloc-python3
 tar
 tcl
 tcl-dev
 tdb-dev
+tdb-python3
 tevent-dev
+tevent-python3
 include(texinfo)
 thin-provisioning-tools
 tk-dev

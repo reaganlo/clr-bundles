@@ -310,6 +310,7 @@ kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
 ldb-dev
+ldb-extras
 lensfun-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -442,6 +443,7 @@ libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
 libtheora-dev
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 libtool-dev32
@@ -700,12 +702,15 @@ systemd-extras
 systemd-lib
 taglib-dev
 talloc-dev
+talloc-python3
 tar
 tcl
 tcl-dev
 tdb-dev
+tdb-python3
 telepathy-glib-dev
 tevent-dev
+tevent-python3
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
