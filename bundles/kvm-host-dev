@@ -187,6 +187,7 @@ include(devpkg-iptables)
 iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
+include(joe)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)

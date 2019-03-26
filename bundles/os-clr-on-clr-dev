@@ -356,6 +356,7 @@ isodate
 itstool
 jansson-dev
 jemalloc-dev
+include(joe)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)

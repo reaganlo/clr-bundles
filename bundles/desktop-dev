@@ -47,6 +47,7 @@ adwaita-icon-theme-dev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
+appstream
 appstream-glib
 include(devpkg-appstream-glib)
 include(devpkg-apr)

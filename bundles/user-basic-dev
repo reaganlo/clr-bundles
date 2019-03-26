@@ -248,6 +248,7 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 jansson-dev
+include(joe)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
