@@ -217,6 +217,7 @@ python3
 python3-core
 python3-dev
 include(devpkg-qtbase)
+qtbase-extras
 include(devpkg-readline)
 readline-dev32
 rpm-build
