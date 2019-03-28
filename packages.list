@@ -256,4 +256,5 @@ mariadb # MariaDB Connector/C dynamic library
 calc # Arbitrary precision console calculator
 parted # The GNU disk partition manipulation program
 kleopatra # Certificate Manager and Unified Crypto GUI
-iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader 
+iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
+kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel 

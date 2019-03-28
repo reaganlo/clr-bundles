@@ -1,0 +1,14 @@
+# [TITLE]: kernel-install
+# [DESCRIPTION]: installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+
+# start of custom additions
+
+# end of custom additions
+
+# main package
+kernel-install
