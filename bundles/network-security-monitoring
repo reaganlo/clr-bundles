@@ -12,3 +12,4 @@ include(network-monitor-node)
 
 include(nmap)
 include(wireshark)
+ndpi
