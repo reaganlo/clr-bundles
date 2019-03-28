@@ -113,6 +113,7 @@ include(devpkg-popt)
 pth-dev
 python3-dev
 include(scons)
+selenium
 snappy-dev
 include(devpkg-sqlite-autoconf)
 tcl
