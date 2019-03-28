@@ -38,6 +38,7 @@ include(devpkg-atk)
 atk-dev32
 include(devpkg-attr)
 attr-dev32
+include(devpkg-audit)
 autoconf
 autoconf213
 autogen
