@@ -6,10 +6,11 @@
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(python3-basic)
+include(curl)
 include(lib-openssl)
 include(libstdcpp)
 
-# start of custom additions
+# start of custom additions (edits outside this area will be removed automatically)
 include(p11-kit)
 include(gstreamer)
 gst-plugins-bad

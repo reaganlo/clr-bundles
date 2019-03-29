@@ -232,7 +232,6 @@ vlc # The vlc media player
 wget # No detailed summary available
 pulseaudio # PulseAudio Simplified Synchronous Client Interface
 azure-iot-sdk # Libraries to support building IoT applications on Azure
-cryptography # Encrypt, decrypt, sign and verify objects
 git # git SCM tool
 synergy # Keyboard and mouse sharing across networks
 quassel # Quassel IRC
@@ -258,4 +257,6 @@ parted # The GNU disk partition manipulation program
 kleopatra # Certificate Manager and Unified Crypto GUI
 iasimage # for creating Intel Automotive Service (IAS) images, a binary file format understood by Intel© Slim Bootloader
 kernel-install # installs kernel, initrd, kernel config and system map and creates a bootloader entry for the new kernel
-iotop # Per process I/O bandwidth monitor 
+iotop # Per process I/O bandwidth monitor
+audio #
+cryptography # Encrypt, decrypt, sign and verify objects

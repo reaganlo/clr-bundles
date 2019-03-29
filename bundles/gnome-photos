@@ -9,7 +9,7 @@ include(libX11client)
 include(libglib)
 include(lib-imageformat)
 
-# start of custom additions
+# start of custom additions (edits outside this area will be removed automatically)
 include(NetworkManager)
 include(gstreamer)
 # end of custom additions
