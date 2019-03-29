@@ -19,6 +19,7 @@ glances
 gperf
 include(htop)
 ioping
+include(iotop)
 iptraf
 latencytop
 linux-extra
