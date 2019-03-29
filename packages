@@ -19,4 +19,3 @@
 #
 linux-iot-lts2018-dev # programs for developing Linux iot LTS 2018 version
 linux-iot-lts2018-sos-dev # programs for developing Linux iot SOS LTS 2018 version
-weston-extras # Utilities and tools for the Wayland graphics compositor
