@@ -406,6 +406,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
 include(subversion)
+swig
 systemd
 systemd-bin
 include(devpkg-systemd)
