@@ -149,6 +149,7 @@ gnome-software
 gnome-terminal
 gnome-tweaks
 gnome-user-docs
+gnome-user-docs-doc
 gnome-video-effects
 gvfs
 include(nautilus)
