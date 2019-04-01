@@ -16,6 +16,7 @@ include(machine-learning-tensorflow)
 # Key ML frameworks and tools
 #
 
+clinfo
 darkflow
 dldt
 dldt-dev
