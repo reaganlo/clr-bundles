@@ -12,6 +12,7 @@ include(libglib)
 include(python3-basic)
 include(desktop-gnomelibs)
 include(gjs)
+include(gstreamer)
 # end of custom additions
 
 # main package
