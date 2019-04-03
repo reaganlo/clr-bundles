@@ -22,7 +22,7 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cython
-Cython-legacypython
+deprecated-Cython-legacypython
 Jinja2
 LVM2
 include(devpkg-LVM2)

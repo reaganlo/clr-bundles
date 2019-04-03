@@ -27,7 +27,7 @@ tensorflow
 
 deprecated-boto3-legacypython
 deprecated-botocore-legacypython
-docutils-legacypython
+deprecated-docutils-legacypython
 futures-legacypython
 jmespath-legacypython
 mkl-dnn-dev
