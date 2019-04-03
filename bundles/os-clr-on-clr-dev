@@ -582,7 +582,6 @@ include(make)
 makedepend
 man-db
 include(devpkg-mariadb)
-mccabe-python
 media-player-info
 memkind-dev
 include(devpkg-mesa)
@@ -621,7 +620,6 @@ nodejs
 nodejs-dev
 nose
 nose-legacypython
-nose-python
 nosexcover
 npth-dev
 include(devpkg-nspr)
@@ -676,7 +674,6 @@ pcre-dev32
 include(devpkg-pcre2)
 pecan
 pep8
-pep8-python
 perl
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
@@ -776,7 +773,6 @@ procps-ng
 procps-ng-bin
 protobuf-dev
 psutil
-ptyprocess
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
@@ -789,7 +785,6 @@ pycparser
 pycparser-legacypython
 pycparser-python
 pycurl
-pyflakes-python
 include(pygobject)
 pyparsing
 pytest

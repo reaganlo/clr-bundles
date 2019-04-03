@@ -281,6 +281,7 @@ include(devpkg-gnome-panel)
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
+gnome-terminal-doc
 include(devpkg-gnome-video-effects)
 gnu-efi
 gnu-efi-dev
