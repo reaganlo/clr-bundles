@@ -260,3 +260,4 @@ kernel-install # installs kernel, initrd, kernel config and system map and creat
 iotop # Per process I/O bandwidth monitor
 audio #
 cryptography # Encrypt, decrypt, sign and verify objects
+man-pages # No detailed summary available 
