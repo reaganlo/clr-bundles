@@ -59,7 +59,7 @@ lsacpi
 lshw
 lsof
 man-db
-man-pages
+include(man-pages)
 mc
 include(minicom)
 mosh
