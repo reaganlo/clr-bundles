@@ -18,11 +18,11 @@ acl-dev32
 acrn-hypervisor-dev
 asciidoc
 asn1crypto
-asn1crypto-legacypython
+deprecated-asn1crypto-legacypython
 asn1crypto-python
 include(devpkg-attr)
 attr-dev32
-attrs-legacypython
+deprecated-attrs-legacypython
 attrs-python
 autoconf
 autogen
@@ -48,7 +48,7 @@ bzip2
 bzip2-dev
 ca-certs
 cffi
-cffi-legacypython
+deprecated-cffi-legacypython
 check-dev
 clr-rpm-config
 coreutils

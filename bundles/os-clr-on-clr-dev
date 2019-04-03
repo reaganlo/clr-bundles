@@ -17,7 +17,7 @@ include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 include(Babel)
-Babel-legacypython
+deprecated-Babel-legacypython
 CUnit
 CUnit-dev
 CUnit-dev32
@@ -71,7 +71,7 @@ argon2-dev
 argparse
 asciidoc
 asn1crypto
-asn1crypto-legacypython
+deprecated-asn1crypto-legacypython
 asn1crypto-python
 aspell
 aspell-dev
@@ -86,7 +86,7 @@ include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
-attrs-legacypython
+deprecated-attrs-legacypython
 attrs-python
 include(devpkg-audit)
 autoconf
@@ -135,7 +135,7 @@ include(ccache)
 ceph-dev
 certifi
 cffi
-cffi-legacypython
+deprecated-cffi-legacypython
 cffi-python
 check
 check-dev
@@ -159,7 +159,7 @@ cppcheck
 cppunit-dev
 cracklib-dev
 include(cryptography)
-cryptography-legacypython
+deprecated-cryptography-legacypython
 cryptography_vectors
 include(devpkg-cryptsetup)
 cscope

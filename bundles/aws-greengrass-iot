@@ -10,7 +10,7 @@ include(cloud-api)
 
 awscli
 boto3
-boto3-legacypython
+deprecated-boto3-legacypython
 numpy
 numpy-legacypython
 opencv-legacypython

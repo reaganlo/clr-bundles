@@ -25,8 +25,8 @@ tensorflow
 
 # support packages
 
-boto3-legacypython
-botocore-legacypython
+deprecated-boto3-legacypython
+deprecated-botocore-legacypython
 docutils-legacypython
 futures-legacypython
 jmespath-legacypython
