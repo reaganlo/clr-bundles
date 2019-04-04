@@ -1,0 +1,16 @@
+# [TITLE]: elasticsearch
+# [DESCRIPTION]: A powerful open source search and analytics engine.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]:
+# [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
+
+include(java-runtime)
+
+# start of custom additions (edits outside this area will be removed
+automatically)
+
+# end of custom additions
+
+# main package
+elasticsearch

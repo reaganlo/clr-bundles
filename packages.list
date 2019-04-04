@@ -261,3 +261,4 @@ iotop # Per process I/O bandwidth monitor
 audio #
 cryptography # Encrypt, decrypt, sign and verify objects
 man-pages # No detailed summary available 
+elasticsearch # Powerful open source search and analytics engine
