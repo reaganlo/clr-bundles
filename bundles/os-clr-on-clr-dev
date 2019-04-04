@@ -183,7 +183,6 @@ deprecated-hypothesis-legacypython
 deprecated-ipaddress-legacypython
 deprecated-nose-legacypython
 deprecated-pyasn1-legacypython
-deprecated-pycairo-dev
 deprecated-pycparser-legacypython
 deprecated-pytz-legacypython
 deprecated-setuptools_scm-legacypython
@@ -527,7 +526,6 @@ include(devpkg-librsvg)
 librsvg-dev32
 libsafec-dev
 include(devpkg-libsamplerate)
-libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
@@ -786,6 +784,7 @@ py
 py-python
 pyOpenSSL
 pyasn1
+pycairo-dev
 pycparser
 pycparser-python
 pycurl
