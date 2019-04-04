@@ -7,8 +7,7 @@
 
 include(java-runtime)
 
-# start of custom additions (edits outside this area will be removed
-automatically)
+# start of custom additions (edits outside this area will be removed automatically)
 
 # end of custom additions
 
