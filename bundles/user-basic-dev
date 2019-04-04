@@ -19,6 +19,7 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cython
+Jinja2
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -119,8 +120,6 @@ include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
 dejagnu
-deprecated-Cython-legacypython
-deprecated-Mako-legacypython
 deprecated-six-legacypython
 desktop-file-utils
 include(diffutils)

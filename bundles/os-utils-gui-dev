@@ -124,7 +124,6 @@ include(devpkg-dbus-glib)
 dbus-glib-dev32
 dconf-dev
 dejagnu
-deprecated-Mako-legacypython
 desktop-file-utils
 dhcp
 include(diffutils)

@@ -86,8 +86,6 @@ dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-deprecated-Cython-legacypython
-deprecated-Mako-legacypython
 desktop-file-utils
 include(diffutils)
 dnsmasq

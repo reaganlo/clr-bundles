@@ -9,6 +9,7 @@ include(mail-utils)
 include(os-core-dev)
 CUnit-dev
 Cython
+Jinja2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
@@ -157,6 +158,9 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
@@ -207,6 +211,7 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nss-altfiles
+include(openblas)
 openldap-dev
 include(openssl)
 include(devpkg-openssl)

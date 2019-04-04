@@ -83,7 +83,6 @@ dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-deprecated-Mako-legacypython
 desktop-file-utils
 include(diffutils)
 include(docbook-utils)

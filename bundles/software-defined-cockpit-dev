@@ -97,7 +97,6 @@ include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
 dejagnu
-deprecated-Mako-legacypython
 desktop-file-utils
 include(diffutils)
 dlt-daemon-dev
