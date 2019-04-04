@@ -308,7 +308,7 @@ setuptools-python
 shadow
 shared-mime-info
 six
-six-legacypython
+deprecated-six-legacypython
 sortedcontainers
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)

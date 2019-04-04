@@ -26,7 +26,7 @@ include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
-Mako-legacypython
+deprecated-Mako-legacypython
 Mako-python
 Pygments
 include(devpkg-SDL)
@@ -565,7 +565,7 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
-six-legacypython
+deprecated-six-legacypython
 slang-dev
 snappy-dev
 sortedcontainers

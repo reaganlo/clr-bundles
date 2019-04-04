@@ -18,7 +18,7 @@ Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT-dev
 Mako
-Mako-legacypython
+deprecated-Mako-legacypython
 Mako-python
 Markdown
 ModemManager-dev
@@ -337,7 +337,7 @@ harfbuzz-dev32
 help2man
 hostname
 hunspell-dev
-hypothesis-legacypython
+deprecated-hypothesis-legacypython
 hypothesis-python
 ibus-dev
 icon-naming-utils-dev
@@ -353,7 +353,7 @@ intel-media-driver-dev
 include(intltool)
 intltool-dev
 ipaddress
-ipaddress-legacypython
+deprecated-ipaddress-legacypython
 ipaddress-python
 include(iproute2)
 include(iptables)
@@ -752,11 +752,11 @@ py-python
 pyOpenSSL
 pyaml
 pyasn1
-pyasn1-legacypython
+deprecated-pyasn1-legacypython
 pycairo
 pycairo-dev
 pycparser
-pycparser-legacypython
+deprecated-pycparser-legacypython
 pycparser-python
 include(pygobject)
 include(devpkg-pygobject)

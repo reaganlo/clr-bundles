@@ -12,6 +12,6 @@ awscli
 boto3
 deprecated-boto3-legacypython
 numpy
-numpy-legacypython
+deprecated-numpy-legacypython
 opencv-legacypython
 opencv-python

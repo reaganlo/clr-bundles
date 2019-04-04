@@ -24,7 +24,7 @@ gtk3
 gtkglext
 potrace
 pycairo
-pycairo-legacypython
+deprecated-pycairo-legacypython
 pygtk
 pygtk-legacypython
 pygtkglext

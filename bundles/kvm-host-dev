@@ -17,7 +17,7 @@ include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
-Mako-legacypython
+deprecated-Mako-legacypython
 Mako-python
 include(Sphinx)
 Sphinx-python

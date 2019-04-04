@@ -16,7 +16,7 @@ include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT-dev
-Mako-legacypython
+deprecated-Mako-legacypython
 Mako-python
 ModemManager-dev
 ModemManager-dev32

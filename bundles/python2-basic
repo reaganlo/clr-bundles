@@ -11,8 +11,8 @@ include(libglib)
 
 glibc-lib-avx2
 # nose is needed for numpy
-nose-legacypython
-numpy-legacypython
+deprecated-nose-legacypython
+deprecated-numpy-legacypython
 enum34-legacypython
 pip-legacy
 pip-legacypython
@@ -20,4 +20,4 @@ python-core
 python-dev
 setuptools-legacy
 setuptools-legacypython
-six-legacypython
+deprecated-six-legacypython

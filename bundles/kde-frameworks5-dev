@@ -14,7 +14,7 @@ Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
-Mako-legacypython
+deprecated-Mako-legacypython
 Mako-python
 include(devpkg-SDL)
 include(Sphinx)

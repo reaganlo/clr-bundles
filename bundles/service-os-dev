@@ -113,7 +113,7 @@ include(devpkg-gtk-doc)
 guile
 include(gzip)
 hostname
-hypothesis-legacypython
+deprecated-hypothesis-legacypython
 hypothesis-python
 include(devpkg-icu4c)
 icu4c-dev32
@@ -217,7 +217,7 @@ procps-ng
 procps-ng-bin
 py
 pycparser
-pycparser-legacypython
+deprecated-pycparser-legacypython
 pyparsing
 pytest
 python-core

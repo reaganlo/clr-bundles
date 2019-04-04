@@ -20,7 +20,7 @@ LibVNCServer-dev
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako
-Mako-legacypython
+deprecated-Mako-legacypython
 Mako-python
 Markdown
 ModemManager-dev
@@ -649,7 +649,7 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pyparsing
-pyparsing-legacypython
+deprecated-pyparsing-legacypython
 python
 python-core
 python-dev
