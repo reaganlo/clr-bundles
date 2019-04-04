@@ -14,4 +14,3 @@ include(libstdcpp)
 # main package
 sqlite-autoconf
 vsqlite
-
