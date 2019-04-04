@@ -18,11 +18,9 @@ acl-dev32
 acrn-hypervisor-dev
 asciidoc
 asn1crypto
-deprecated-asn1crypto-legacypython
 asn1crypto-python
 include(devpkg-attr)
 attr-dev32
-deprecated-attrs-legacypython
 attrs-python
 autoconf
 autogen
@@ -37,7 +35,6 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -48,7 +45,6 @@ bzip2
 bzip2-dev
 ca-certs
 cffi
-deprecated-cffi-legacypython
 check-dev
 clr-rpm-config
 coreutils
@@ -113,7 +109,6 @@ include(devpkg-gtk-doc)
 guile
 include(gzip)
 hostname
-deprecated-hypothesis-legacypython
 hypothesis-python
 include(devpkg-icu4c)
 icu4c-dev32
@@ -200,7 +195,6 @@ openssl-lib32
 include(p11-kit)
 packaging
 include(patch)
-pbr
 include(devpkg-pcre)
 pcre-dev32
 perl-XML-Parser
@@ -217,7 +211,6 @@ procps-ng
 procps-ng-bin
 py
 pycparser
-deprecated-pycparser-legacypython
 pyparsing
 pytest
 python-core

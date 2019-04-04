@@ -35,7 +35,6 @@ include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -62,6 +61,7 @@ include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
 dejagnu
+deprecated-six-legacypython
 desktop-file-utils
 include(diffutils)
 include(docbook-utils)
@@ -308,7 +308,6 @@ setuptools-python
 shadow
 shared-mime-info
 six
-deprecated-six-legacypython
 sortedcontainers
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)

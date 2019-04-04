@@ -160,6 +160,7 @@ libnftnl-dev32
 include(devpkg-libpng)
 libpng-dev32
 libpwquality-dev
+libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)

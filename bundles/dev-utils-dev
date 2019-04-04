@@ -47,7 +47,6 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -237,7 +236,6 @@ m4
 include(make)
 makedepend
 man-db
-man-pages-dev
 include(devpkg-mesa)
 include(devpkg-metrics-discovery)
 mpc-dev
@@ -336,7 +334,6 @@ python3
 python3-core
 python3-dev
 include(devpkg-qtbase)
-qtbase-extras
 include(devpkg-qttools)
 include(devpkg-readline)
 readline-dev32

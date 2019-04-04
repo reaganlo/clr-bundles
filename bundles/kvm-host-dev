@@ -11,13 +11,11 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cython
-deprecated-Cython-legacypython
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
-deprecated-Mako-legacypython
 Mako-python
 include(Sphinx)
 Sphinx-python
@@ -88,6 +86,8 @@ dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
+deprecated-Cython-legacypython
+deprecated-Mako-legacypython
 desktop-file-utils
 include(diffutils)
 dnsmasq

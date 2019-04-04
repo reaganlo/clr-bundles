@@ -185,7 +185,6 @@ include(devpkg-lz4)
 m4
 include(make)
 man-db
-man-pages-dev
 mpc-dev
 mpfr-dev
 include(devpkg-ncurses)

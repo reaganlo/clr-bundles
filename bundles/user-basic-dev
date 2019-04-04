@@ -19,14 +19,11 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cython
-deprecated-Cython-legacypython
-Jinja2
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
-deprecated-Mako-legacypython
 Mako-python
 Pygments
 include(devpkg-SDL)
@@ -78,7 +75,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -123,6 +119,9 @@ include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
 dejagnu
+deprecated-Cython-legacypython
+deprecated-Mako-legacypython
+deprecated-six-legacypython
 desktop-file-utils
 include(diffutils)
 dnsmasq
@@ -565,7 +564,6 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
-deprecated-six-legacypython
 slang-dev
 snappy-dev
 sortedcontainers
@@ -591,6 +589,7 @@ systemd-extras
 systemd-lib
 talloc
 talloc-dev
+talloc-extras
 talloc-python3
 tar
 tcl

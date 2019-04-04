@@ -14,7 +14,6 @@ Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
-deprecated-Mako-legacypython
 Mako-python
 include(devpkg-SDL)
 include(Sphinx)
@@ -56,7 +55,6 @@ include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -91,6 +89,7 @@ dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
+deprecated-Mako-legacypython
 desktop-file-utils
 include(diffutils)
 include(docbook-utils)

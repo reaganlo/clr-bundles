@@ -9,11 +9,9 @@ include(os-core-dev)
 include(python-basic)
 CUnit-dev
 Cython
-Jinja2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
-include(Sphinx)
 include(devpkg-acl)
 acl-dev32
 asciidoc
@@ -31,7 +29,6 @@ bison-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-meson
@@ -134,9 +131,6 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libmicrohttpd)
@@ -174,7 +168,6 @@ include(devpkg-ncurses)
 ncurses-dev32
 netbase
 nss-altfiles
-include(openblas)
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32

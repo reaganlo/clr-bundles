@@ -18,7 +18,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT-dev
 Mako
-deprecated-Mako-legacypython
 Mako-python
 Markdown
 ModemManager-dev
@@ -53,7 +52,6 @@ include(devpkg-appstream-glib)
 include(devpkg-apr)
 asciidoc
 asn1crypto
-deprecated-asn1crypto-legacypython
 asn1crypto-python
 aspell
 aspell-dev
@@ -64,10 +62,10 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 include(devpkg-atkmm)
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
-deprecated-attrs-legacypython
 attrs-python
 include(devpkg-audit)
 autoconf
@@ -92,7 +90,6 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -110,7 +107,6 @@ include(devpkg-cairomm)
 caribou-dev
 certifi
 cffi
-deprecated-cffi-legacypython
 cffi-python
 check
 check-dev
@@ -138,7 +134,6 @@ coverage
 cppcheck
 cracklib-dev
 include(cryptography)
-deprecated-cryptography-legacypython
 cryptography_vectors
 include(devpkg-cryptsetup)
 cssselect
@@ -162,6 +157,8 @@ dbus-glib-dev32
 dconf-dev
 defusedxml
 dejagnu
+deprecated-Mako-legacypython
+deprecated-pycairo-dev
 desktop-file-utils
 dhcp
 dhcp-dev
@@ -183,7 +180,6 @@ elfutils-dev32
 emacs
 include(devpkg-enchant)
 enum34
-enum34-legacypython
 eog-dev
 include(devpkg-evolution-data-server)
 include(devpkg-evolution)
@@ -337,7 +333,6 @@ harfbuzz-dev32
 help2man
 hostname
 hunspell-dev
-deprecated-hypothesis-legacypython
 hypothesis-python
 ibus-dev
 icon-naming-utils-dev
@@ -353,7 +348,6 @@ intel-media-driver-dev
 include(intltool)
 intltool-dev
 ipaddress
-deprecated-ipaddress-legacypython
 ipaddress-python
 include(iproute2)
 include(iptables)
@@ -581,6 +575,7 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
+more-itertools-python
 mozjs-dev
 include(devpkg-mozjs52)
 mozjs60
@@ -752,11 +747,9 @@ py-python
 pyOpenSSL
 pyaml
 pyasn1
-deprecated-pyasn1-legacypython
 pycairo
 pycairo-dev
 pycparser
-deprecated-pycparser-legacypython
 pycparser-python
 include(pygobject)
 include(devpkg-pygobject)
@@ -764,6 +757,7 @@ pygobject-python
 pylint
 pyparsing
 pytest
+pytest-python
 python
 python-core
 python-dev
@@ -829,6 +823,7 @@ systemd-extras
 systemd-lib
 taglib-dev
 talloc-dev
+talloc-extras
 talloc-python3
 tar
 tcl

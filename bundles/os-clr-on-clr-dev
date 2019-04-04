@@ -17,12 +17,10 @@ include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 include(Babel)
-deprecated-Babel-legacypython
 CUnit
 CUnit-dev
 CUnit-dev32
 Cython
-deprecated-Cython-legacypython
 Jinja2
 LVM2
 include(devpkg-LVM2)
@@ -32,17 +30,14 @@ Linux-PAM-dev32
 LuaJIT
 LuaJIT-dev
 Mako
-deprecated-Mako-legacypython
 Mako-python
 Markdown
 MarkupSafe
-deprecated-MarkupSafe-legacypython
 MarkupSafe-python3
 ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
 PyYAML
-deprecated-PyYAML-legacypython
 Pygments
 R
 include(devpkg-R)
@@ -71,7 +66,6 @@ argon2-dev
 argparse
 asciidoc
 asn1crypto
-deprecated-asn1crypto-legacypython
 asn1crypto-python
 aspell
 aspell-dev
@@ -82,11 +76,11 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+atomicwrites-python
 include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
-deprecated-attrs-legacypython
 attrs-python
 include(devpkg-audit)
 autoconf
@@ -117,7 +111,6 @@ buildreq-cmake
 buildreq-configure
 buildreq-cpan
 buildreq-distutils
-buildreq-distutils23
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -135,7 +128,6 @@ include(ccache)
 ceph-dev
 certifi
 cffi
-deprecated-cffi-legacypython
 cffi-python
 check
 check-dev
@@ -159,7 +151,6 @@ cppcheck
 cppunit-dev
 cracklib-dev
 include(cryptography)
-deprecated-cryptography-legacypython
 cryptography_vectors
 include(devpkg-cryptsetup)
 cscope
@@ -181,6 +172,11 @@ include(devpkg-dbus-glib)
 dbus-glib-dev32
 defusedxml
 dejagnu
+deprecated-Cython-legacypython
+deprecated-Mako-legacypython
+deprecated-pycairo-dev
+deprecated-setuptools_scm-legacypython
+deprecated-six-legacypython
 desktop-file-utils
 dhcp
 include(diffutils)
@@ -207,7 +203,6 @@ emacs
 include(devpkg-enchant)
 entrypoints
 enum34
-enum34-legacypython
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -221,6 +216,7 @@ include(file)
 file-dev
 filelock
 fixtures
+fixtures-python
 include(devpkg-flac)
 flac-dev32
 include(flex)
@@ -330,7 +326,6 @@ httpd-dev
 httpd-extras
 hunspell-dev
 include(devpkg-hwloc)
-deprecated-hypothesis-legacypython
 hypothesis-python
 icu4c
 include(devpkg-icu4c)
@@ -341,7 +336,6 @@ imagesize
 include(intltool)
 intltool-dev
 ipaddress
-deprecated-ipaddress-legacypython
 ipaddress-python
 include(iproute2)
 include(iptables)
@@ -520,6 +514,7 @@ include(devpkg-librsvg)
 librsvg-dev32
 libsafec-dev
 include(devpkg-libsamplerate)
+libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
@@ -562,7 +557,6 @@ libxslt-bin
 include(devpkg-libxslt)
 include(devpkg-libzip)
 linecache2
-deprecated-linecache2-legacypython
 linecache2-python
 links
 linux-firmware-wifi
@@ -592,6 +586,7 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 mock
+more-itertools-python
 mozjs-dev
 include(devpkg-mozjs52)
 mpc-dev
@@ -619,7 +614,6 @@ ninja
 nodejs
 nodejs-dev
 nose
-deprecated-nose-legacypython
 nosexcover
 npth-dev
 include(devpkg-nspr)
@@ -779,15 +773,13 @@ py
 py-python
 pyOpenSSL
 pyasn1
-deprecated-pyasn1-legacypython
-pycairo-dev
 pycparser
-deprecated-pycparser-legacypython
 pycparser-python
 pycurl
 include(pygobject)
 pyparsing
 pytest
+pytest-python
 pytest-runner
 pytest-timeout
 pytest-xdist
@@ -806,7 +798,6 @@ python3
 python3-core
 python3-dev
 pytz
-deprecated-pytz-legacypython
 qemu
 include(devpkg-qtbase)
 qtbase-extras
@@ -846,12 +837,10 @@ setuptools
 setuptools-legacypython
 setuptools-python
 setuptools_scm
-deprecated-setuptools_scm-legacypython
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
-deprecated-six-legacypython
 slang-dev
 smmap2
 snappy-dev
@@ -862,6 +851,12 @@ sortedcontainers
 source-highlight
 speex-dev
 speexdsp-dev
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-htmlhelp
+sphinxcontrib-jsmath
+sphinxcontrib-qthelp
+sphinxcontrib-serializinghtml
 sphinxcontrib-websupport
 spice
 spice-dev
@@ -884,6 +879,7 @@ systemd-extras
 systemd-lib
 talloc
 talloc-dev
+talloc-extras
 talloc-python3
 tar
 tcl
@@ -894,6 +890,7 @@ testrepository
 testresources
 testscenarios
 testtools
+testtools-python
 tevent-dev
 tevent-python3
 include(texinfo)
@@ -907,12 +904,11 @@ tornado
 tox
 tox-python
 traceback2
-deprecated-traceback2-legacypython
 traceback2-python
 typing
 include(tzdata)
 unittest2
-deprecated-unittest2-legacypython
+unittest2-python
 unixODBC-dev
 include(unzip)
 include(devpkg-usbredir)

@@ -12,5 +12,5 @@ apache-hadoop
 apache-kafka
 apache-spark
 apache-zookeeper
-elasticsearch
+include(elasticsearch)
 scala

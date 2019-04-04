@@ -16,7 +16,6 @@ include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT-dev
-deprecated-Mako-legacypython
 Mako-python
 ModemManager-dev
 ModemManager-dev32
@@ -108,6 +107,7 @@ include(devpkg-dbus-glib)
 dbus-glib-dev32
 dconf-dev
 dejagnu
+deprecated-Mako-legacypython
 desktop-file-utils
 dhcp
 include(diffutils)
