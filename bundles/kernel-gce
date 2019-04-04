@@ -1,5 +1,5 @@
 # [TITLE]: kernel-gce
-# [DESCRIPTION]: Run the kvm specific kernel
+# [DESCRIPTION]: Run the GCE specific kernel
 # [STATUS]: WIP
 # [CAPABILITIES]:
 # [TAGS]:
