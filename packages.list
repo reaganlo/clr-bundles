@@ -262,4 +262,5 @@ audio #
 cryptography # Encrypt, decrypt, sign and verify objects
 man-pages # No detailed summary available
 elasticsearch # Powerful open source search and analytics engine
-dnf # The dnf tool for mixer use 
+dnf # The dnf tool for mixer use
+julia # High-level, high-performance, dynamic programming language 
