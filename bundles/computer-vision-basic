@@ -21,6 +21,7 @@ darkflow
 dldt
 dldt-dev
 dldt-extras
+intel-compute-runtime
 tensorflow
 
 # support packages
