@@ -30,7 +30,7 @@ include(geany)
 geany-plugins
 include(gimp)
 gmic
-gphoto2
+include(gphoto2)
 fwupd
 include(hexchat)
 libssh

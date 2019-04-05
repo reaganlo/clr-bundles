@@ -141,6 +141,7 @@ gnome-shell-impatience
 # Applications
 evolution-data-server
 include(flatpak)
+include(gimp)
 gnome-bluetooth
 gnome-calendar
 include(gnome-characters)
