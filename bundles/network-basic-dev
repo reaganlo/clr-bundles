@@ -79,6 +79,8 @@ expat-dev32
 expect
 include(flex)
 flex-dev
+include(devpkg-fontconfig)
+include(devpkg-freetype)
 gawk
 gcc
 gcc-dev
