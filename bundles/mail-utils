@@ -9,5 +9,4 @@ imapfilter
 fetchmail
 msmtp
 include(notmuch)
-include(offlineimap)
 procmail
