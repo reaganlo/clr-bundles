@@ -15,12 +15,16 @@ mcelog
 # Thermal control
 include(thermal_daemon)
 
-# User Software
-acrn-hypervisor
-runc
-
 #
 # The package below is a python script
 #
 include(python3-basic)
 include(iasimage)
+
+# User Software
+acrn-hypervisor
+runc
+
+openvswitch-bin
+# openvswithc python files
+openvswitch-extras
