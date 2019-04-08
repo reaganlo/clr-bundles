@@ -2,21 +2,19 @@
 # [DESCRIPTION]: All packages required to build the mail-utils bundle.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Developer Tools
+# [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
 CUnit-dev
 Cython
-Jinja2
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
-asciidoc
 include(devpkg-attr)
 attr-dev32
 autoconf
@@ -31,7 +29,6 @@ bison-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -39,8 +36,6 @@ buildreq-kde
 buildreq-meson
 bzip2
 bzip2-dev
-include(devpkg-cairo)
-cairo-dev32
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -48,12 +43,9 @@ include(devpkg-cryptsetup)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
-db
-db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
-deprecated-six-legacypython
 desktop-file-utils
 include(diffutils)
 include(docbook-utils)
@@ -67,17 +59,10 @@ e2fsprogs-extras
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
-include(devpkg-expat)
-expat-dev32
 expect
 file-dev
 include(flex)
 flex-dev
-fontconfig-data
-include(devpkg-fontconfig)
-fontconfig-dev32
-include(devpkg-freetype)
-freetype-dev32
 gawk
 gcc
 gcc-dev
@@ -109,13 +94,9 @@ gnu-efi
 gnu-efi-dev
 gnupg
 include(devpkg-gnutls)
-gobject-introspection
-include(devpkg-gobject-introspection)
 gperf
 include(gpgme)
 gpgme-dev
-include(devpkg-graphite)
-graphite-dev32
 include(graphviz)
 grep
 groff
@@ -123,28 +104,19 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(gzip)
-include(devpkg-harfbuzz)
-harfbuzz-dev32
 hostname
-include(devpkg-icu4c)
-icu4c-dev32
 idna
 include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
-json-c-dev32
 include(kbd)
 keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
-include(devpkg-libX11)
-libX11-dev32
-include(devpkg-libXScrnSaver)
-include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libassuan)
@@ -158,9 +130,6 @@ include(devpkg-libffi)
 libffi-dev32
 libgcrypt-dev
 libgcrypt-dev32
-libgfortran-avx
-libgfortran-compat-soname3
-libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 include(devpkg-libidn)
@@ -176,9 +145,6 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
-include(devpkg-libpng)
-libpng-dev32
-include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -211,7 +177,6 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nss-altfiles
-include(openblas)
 openldap-dev
 include(openssl)
 include(devpkg-openssl)
@@ -220,21 +185,15 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
-pbr
 include(devpkg-pcre)
 pcre-dev32
 perl-XML-Parser
 pigz
-pip
 pkg-config
 pkg-config-dev
 include(devpkg-popt)
 procmail
 procps-ng
-procps-ng-bin
-py
-pytest
-python-core
 python-dev
 python3
 python3-core
@@ -246,14 +205,8 @@ readline-dev32
 rpm-build
 ruby
 sed
-setuptools
-setuptools-legacypython
-setuptools-python
 shadow
 shared-mime-info
-six
-sqlite-autoconf
-include(devpkg-sqlite-autoconf)
 include(strace)
 swig
 systemd-bin
@@ -268,7 +221,6 @@ tcl
 tcl-dev
 include(texinfo)
 thin-provisioning-tools
-tk-dev
 tokyocabinet-dev
 include(tzdata)
 include(unzip)
@@ -277,20 +229,11 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-include(devpkg-util-macros)
-util-macros-dev32
 vala
 include(valgrind)
 valgrind-dev
 include(which)
 include(devpkg-xapian-core)
-xcb-proto
-include(devpkg-xcb-proto)
-xmlto
-include(devpkg-xorgproto)
-xorgproto-dev32
-include(devpkg-xtrans)
-xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

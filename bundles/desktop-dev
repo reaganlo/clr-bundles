@@ -288,6 +288,7 @@ gobject-introspection-data
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 include(devpkg-graphite)
