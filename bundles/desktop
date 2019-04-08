@@ -76,8 +76,6 @@ cups
 cups-filters
 cups-pk-helper
 dhcp
-fwupd
-include(fwupdate)
 ghostscript
 gutenprint
 gnome-online-accounts

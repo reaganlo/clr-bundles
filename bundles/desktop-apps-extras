@@ -31,7 +31,6 @@ geany-plugins
 include(gimp)
 gmic
 include(gphoto2)
-fwupd
 include(hexchat)
 libssh
 pidgin-sipe
