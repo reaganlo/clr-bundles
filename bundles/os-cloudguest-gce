@@ -7,6 +7,7 @@
 include(sudo)
 include(which)
 include(libglib)
+include(lib-openssl)
 
 compute-image-packages
 e2fsprogs-extras
