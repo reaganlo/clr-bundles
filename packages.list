@@ -266,3 +266,4 @@ dnf # The dnf tool for mixer use
 julia # High-level, high-performance, dynamic programming language
 gphoto2 # Command line interface to libgphoto2
 libreoffice # LibreOffice - Free Office Suite
+gtkwave # A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files 
