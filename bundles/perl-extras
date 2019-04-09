@@ -28,6 +28,7 @@ perl-Audio-FLAC-Header
 perl-Audio-Musepack
 perl-Audio-Scan
 perl-Audio-Wav
+perl-Authen-SASL
 perl-B-Hooks-EndOfScope
 perl-B-Keywords
 perl-BSD-Resource
