@@ -271,3 +271,4 @@ syslinux # Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE
 MuseScore # Free music composition and notation software
 net-tools # Basic Networking Tools
 procps-ng # Library to control and query process state 
+memcached # A high performance multithreaded event-based key/value cache store
