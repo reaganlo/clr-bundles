@@ -14,12 +14,14 @@ include(x11-tools)
 include(x11-server)
 include(fuse)
 include(lib-samba)
+include(hardware-bluetooth)
 #
 # main bits
 #
 
 #  https://download.kde.org/stable/plasma/5.13.4/
 
+accountsservice
 attica
 baloo
 baloo-widgets
@@ -107,6 +109,7 @@ plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
 include(polkit)
+polkit-kde-agent
 powerdevil
 print-manager
 include(pulseaudio)
