@@ -7,18 +7,22 @@
 include(curl)
 include(iproute2)
 include(kbd)
+include(less)
+include(libstdcpp)
+include(linux-firmware-extras)
+include(linux-firmware-wifi)
 include(locales)
 include(openssh-server)
 include(telemetrics)
 include(tzdata)
 include(wpa_supplicant)
-include(libstdcpp)
 
 LVM2
 LVM2-extras
 bind-utils
 btrfs-progs
 clr-installer
+cpio-bin
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
@@ -26,10 +30,10 @@ dosfstools-bin
 e2fsprogs-extras
 gptfdisk-bin
 iputils
-include(less)
-include(linux-firmware-extras)
-include(linux-firmware-wifi)
 nano
 parted-bin
 qemu-extras
+squashfs-tools-bin
+syslinux-data
 xfsprogs-bin
+xorriso-bin
