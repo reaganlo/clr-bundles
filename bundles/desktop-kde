@@ -33,6 +33,7 @@ drkonqi
 include(dolphin)
 dolphin-plugins
 exiv2
+gdk-pixbuf
 include(gpgme)
 kactivitymanagerd
 karchive
