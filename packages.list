@@ -268,3 +268,4 @@ gphoto2 # Command line interface to libgphoto2
 libreoffice # LibreOffice - Free Office Suite
 gtkwave # A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
 syslinux # Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE network
+MuseScore # Free music composition and notation software
