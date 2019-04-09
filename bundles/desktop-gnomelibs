@@ -30,7 +30,6 @@ alsa-plugins-lib
 gdk-pixbuf-lib
 libsoup-lib
 libva-lib
-libjpeg-turbo-soname8
 colord-lib
 webkitgtk-lib
 libpeas-lib
