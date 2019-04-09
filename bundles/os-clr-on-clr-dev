@@ -61,7 +61,6 @@ appdirs
 appstream-dev
 include(devpkg-apr)
 include(devpkg-apr-util)
-argcomplete
 argon2-dev
 argparse
 asciidoc
@@ -138,7 +137,6 @@ include(devpkg-clutter)
 cmake
 cmocka-dev
 include(devpkg-cmrt)
-colorama
 include(devpkg-colord)
 commonmark
 include(devpkg-compat-enchant-soname1)
@@ -214,7 +212,6 @@ include(devpkg-enchant)
 entrypoints
 enum34
 enum34-legacypython
-execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
 expat-dev32
@@ -794,7 +791,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-timeout
-pytest-xdist
 python
 python-core
 python-dateutil

@@ -36,6 +36,7 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-kde
 buildreq-meson
+buildreq-qmake
 bzip2
 bzip2-dev
 cffi
