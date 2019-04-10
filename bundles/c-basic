@@ -28,6 +28,7 @@ cmake-dev
 include(flex)
 gcc
 gcc-dev
+chrpath
 glibc-dev
 include(glibc-locale)
 glibc-utils
