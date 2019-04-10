@@ -14,6 +14,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-attr)
 attr-dev32
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -140,6 +141,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 include(devpkg-libxkbcommon)
+libxkbcommon-dev32
 include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
@@ -169,6 +171,7 @@ perl-XML-Parser
 pigz
 pkg-config
 pkg-config-dev
+polkit-dev
 include(devpkg-popt)
 procps-ng
 include(devpkg-procps-ng)

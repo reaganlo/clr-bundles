@@ -222,6 +222,7 @@ libunistring-dev
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libxkbcommon)
+libxkbcommon-dev32
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
@@ -321,6 +322,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
+polkit-dev
 include(devpkg-popt)
 include(devpkg-postgresql)
 processor-trace-dev

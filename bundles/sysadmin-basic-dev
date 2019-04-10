@@ -21,6 +21,7 @@ aspell
 aspell-dev
 include(devpkg-attr)
 attr-dev32
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -176,6 +177,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 include(devpkg-libusb)
 include(devpkg-libxkbcommon)
+libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
 include(libxslt)
@@ -266,6 +268,7 @@ perl-namespace-clean
 pigz
 pkg-config
 pkg-config-dev
+polkit-dev
 include(devpkg-popt)
 procps-ng
 include(devpkg-procps-ng)

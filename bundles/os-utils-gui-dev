@@ -415,7 +415,6 @@ libpciaccess-dev32
 include(devpkg-libpeas)
 include(devpkg-libpng)
 libpng-dev32
-include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32

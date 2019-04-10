@@ -34,6 +34,7 @@ include(devpkg-atk)
 atk-dev32
 include(devpkg-attr)
 attr-dev32
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -258,7 +259,6 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
-include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32

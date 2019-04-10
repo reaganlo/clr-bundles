@@ -22,6 +22,7 @@ asn1crypto-python
 include(devpkg-attr)
 attr-dev32
 attrs-python
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -35,6 +36,7 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -97,6 +99,8 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
@@ -170,6 +174,7 @@ libtool-dev
 include(devpkg-libunwind)
 include(devpkg-libusb)
 include(devpkg-libxkbcommon)
+libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
 include(libxslt)
@@ -197,6 +202,7 @@ packaging
 include(patch)
 include(devpkg-pcre)
 pcre-dev32
+perl
 perl-XML-Parser
 pesign
 pigz
@@ -204,6 +210,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
+polkit-dev
 include(devpkg-popt)
 pretend
 processor-trace-dev

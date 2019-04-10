@@ -21,6 +21,7 @@ include(devpkg-apr)
 aspell-dev
 include(devpkg-attr)
 attr-dev32
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -186,6 +187,7 @@ libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
 include(devpkg-libxkbcommon)
+libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
 include(libxslt)
@@ -287,6 +289,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 pluggy-python
+polkit-dev
 include(devpkg-popt)
 procps-ng
 procps-ng-bin

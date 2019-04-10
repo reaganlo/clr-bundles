@@ -18,6 +18,7 @@ acl-dev32
 asciidoc
 include(devpkg-attr)
 attr-dev32
+include(devpkg-audit)
 autoconf
 autogen
 automake
@@ -190,6 +191,7 @@ include(devpkg-libunwind)
 include(devpkg-libusb)
 include(devpkg-libuser)
 include(devpkg-libxkbcommon)
+libxkbcommon-dev32
 include(libxml2)
 include(devpkg-libxml2)
 libxml2-dev32
@@ -292,6 +294,7 @@ pip
 pkg-config
 pkg-config-dev
 pluggy-python
+polkit-dev
 include(devpkg-popt)
 procps-ng
 procps-ng-bin

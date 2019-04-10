@@ -510,7 +510,6 @@ libpciaccess-dev32
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
-include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
