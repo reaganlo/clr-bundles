@@ -25,6 +25,7 @@ cxxfilt
 deap
 distro
 docopt
+epydoc
 flake8
 flake8-blind-except
 flake8-class-newline
