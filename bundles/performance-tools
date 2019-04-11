@@ -29,12 +29,12 @@ include(linux-tools)
 ltrace
 msr-tools
 net-snmp
-net-tools
+include(net-tools)
 nicstat
 numatop
 open-lldp
 include(powertop)
-procps-ng
+include(procps-ng)
 psstop
 #
 # EVIL THIS PULLS IN PYTHON

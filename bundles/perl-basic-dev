@@ -220,7 +220,7 @@ pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
-procps-ng
+include(procps-ng)
 python-dev
 python3
 python3-core

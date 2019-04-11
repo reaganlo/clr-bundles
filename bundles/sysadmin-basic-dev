@@ -191,7 +191,7 @@ mpc-dev
 mpfr-dev
 include(devpkg-ncurses)
 ncurses-dev32
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -201,6 +201,7 @@ nettle-lib32
 nss-altfiles
 numactl-dev
 onig-dev
+openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -270,7 +271,7 @@ pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
-procps-ng
+include(procps-ng)
 include(devpkg-procps-ng)
 protobuf-dev
 python
@@ -291,6 +292,7 @@ shared-mime-info
 six
 slang-dev
 include(strace)
+swig
 systemd
 systemd-bin
 include(devpkg-systemd)

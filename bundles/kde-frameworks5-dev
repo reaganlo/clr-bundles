@@ -22,6 +22,7 @@ Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
+Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
@@ -383,7 +384,7 @@ include(nasm)
 nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -440,7 +441,7 @@ poppler-dev
 poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
-procps-ng
+include(procps-ng)
 procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)

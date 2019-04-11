@@ -22,7 +22,7 @@ include(devpkg-hwloc)
 include(llvm)
 include(devpkg-mariadb)
 libXaw-dev
-memcached
+include(memcached)
 moreutils
 pandoc
 ruby

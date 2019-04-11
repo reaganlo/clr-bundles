@@ -211,7 +211,7 @@ include(devpkg-multipath-tools)
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -296,7 +296,7 @@ pkg-config-dev
 pluggy-python
 polkit-dev
 include(devpkg-popt)
-procps-ng
+include(procps-ng)
 procps-ng-bin
 pycparser
 python

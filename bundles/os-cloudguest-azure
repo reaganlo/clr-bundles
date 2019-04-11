@@ -17,6 +17,6 @@ e2fsprogs-bin
 e2fsprogs-extras
 kexec-tools
 linux-tools-hyperv
-net-tools
+include(net-tools)
 include(parted)
 swupd-client-extras

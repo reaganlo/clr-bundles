@@ -24,7 +24,7 @@ iso8601
 jsonschema
 include(keepalived)
 keystoneauth1
-memcached
+include(memcached)
 monotonic
 msgpack-python
 multipath-tools

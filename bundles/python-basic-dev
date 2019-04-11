@@ -193,7 +193,7 @@ pkg-config-dev
 pluggy-python
 polkit-dev
 include(devpkg-popt)
-procps-ng
+include(procps-ng)
 procps-ng-bin
 py
 pycparser

@@ -26,6 +26,7 @@ bison-dev
 buildreq-cmake
 buildreq-configure
 buildreq-distutils3
+buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
@@ -152,7 +153,7 @@ mpc-dev
 mpfr-dev
 include(devpkg-ncurses)
 ncurses-dev32
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -160,6 +161,7 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nss-altfiles
+openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
@@ -173,7 +175,7 @@ pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
-procps-ng
+include(procps-ng)
 include(devpkg-procps-ng)
 python-dev
 python3
@@ -187,6 +189,7 @@ sed
 shadow
 slang-dev
 include(strace)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

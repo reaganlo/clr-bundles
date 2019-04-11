@@ -51,6 +51,7 @@ Vulkan-Loader-dev32
 Vulkan-Tools
 Whoosh
 Z3-dev
+Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
@@ -606,7 +607,7 @@ include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
 ndg_httpsclient
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -770,7 +771,7 @@ pretend
 prettytable
 processor-trace-dev
 procmail
-procps-ng
+include(procps-ng)
 procps-ng-bin
 protobuf-dev
 psutil

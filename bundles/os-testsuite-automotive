@@ -10,6 +10,6 @@ coreutils
 iputils
 iw
 libcap-bin
-net-tools
+include(net-tools)
 psmisc
 usbutils

@@ -20,6 +20,7 @@ Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Tools
 Z3-dev
+Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
@@ -326,7 +327,7 @@ polkit-dev
 include(devpkg-popt)
 include(devpkg-postgresql)
 processor-trace-dev
-procps-ng
+include(procps-ng)
 procps-ng-bin
 protobuf-dev
 pycparser

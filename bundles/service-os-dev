@@ -214,7 +214,7 @@ polkit-dev
 include(devpkg-popt)
 pretend
 processor-trace-dev
-procps-ng
+include(procps-ng)
 procps-ng-bin
 py
 pycparser

@@ -76,7 +76,7 @@ pciutils-data
 pciutils-doc
 pigz
 include(powertop)
-procps-ng
+include(procps-ng)
 psmisc
 pv
 screen

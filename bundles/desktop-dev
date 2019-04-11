@@ -39,6 +39,7 @@ Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
+Z3-dev32
 accountsservice-dev
 include(devpkg-acl)
 acl-dev32
@@ -598,7 +599,7 @@ include(devpkg-ndctl)
 ndg_httpsclient
 net-snmp
 net-snmp-dev
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -733,7 +734,7 @@ poppler-extras
 include(devpkg-popt)
 ppp-dev
 pretend
-procps-ng
+include(procps-ng)
 procps-ng-bin
 protobuf-dev
 psmisc

@@ -24,6 +24,7 @@ Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
 Z3-dev
+Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
@@ -315,7 +316,7 @@ mtdev-dev32
 include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
-net-tools
+include(net-tools)
 netbase
 nettle
 include(devpkg-nettle)
@@ -367,7 +368,7 @@ pkg-config-dev
 polkit-dev
 include(devpkg-popt)
 prettytable
-procps-ng
+include(procps-ng)
 protobuf-dev
 psutil
 pyparsing

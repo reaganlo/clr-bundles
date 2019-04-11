@@ -27,7 +27,7 @@ iputils
 include(irssi)
 iw
 links
-net-tools
+include(net-tools)
 nftables
 nmap-extras
 openconnect
