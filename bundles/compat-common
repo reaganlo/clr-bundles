@@ -1,0 +1,10 @@
+# [TITLE]: compat-common
+# [DESCRIPTION]: Common legacy compatibility libraries
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities
+# [MAINTAINER]: William Douglas <william.douglas@intel.com>
+
+compat-readline-soname5
+ncurses-compat
+compat-fuse-soname2
