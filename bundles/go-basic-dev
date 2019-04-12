@@ -31,12 +31,14 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils3
 buildreq-golang
 buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
+check-dev
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -65,6 +67,7 @@ gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -79,6 +82,8 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
+gmp-gmpxx
+gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
@@ -101,6 +106,7 @@ keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
+include(less)
 include(devpkg-libX11)
 libX11-dev32
 libabigail
@@ -131,6 +137,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+include(devpkg-libpipeline)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -164,6 +171,7 @@ include(p11-kit)
 include(patch)
 include(devpkg-pcre)
 include(devpkg-pcre2)
+perl
 perl-Error
 perl-XML-Parser
 pigz

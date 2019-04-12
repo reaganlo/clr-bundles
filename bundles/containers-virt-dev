@@ -33,6 +33,7 @@ include(devpkg-boost)
 btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -42,6 +43,7 @@ buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
+check-dev
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -75,6 +77,7 @@ gcc-libgcc32
 gcc-libstdc++32
 include(devpkg-gcr)
 gdb-dev
+gdbm-dev
 gettext
 gettext-bin
 gettext-dev
@@ -92,6 +95,8 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -158,6 +163,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
 libpwquality-dev
@@ -210,6 +216,7 @@ include(patch)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+perl
 perl-Error
 perl-XML-Parser
 pigz

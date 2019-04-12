@@ -312,6 +312,7 @@ include(devpkg-lcms2)
 ldb-dev
 ldb-extras
 lensfun-dev
+include(less)
 include(devpkg-libX11)
 libX11-dev32
 libX11-lib
@@ -414,6 +415,7 @@ include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpeas)
+include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
 libpsl-dev32
@@ -449,6 +451,7 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
+libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
 include(devpkg-libvirt)
@@ -480,6 +483,7 @@ linux-firmware-wifi
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
+llvm-dev32
 lmdb-dev
 include(devpkg-lua)
 lxml

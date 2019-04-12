@@ -381,6 +381,7 @@ include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
+llvm-dev32
 lmdb-dev
 include(devpkg-lua)
 include(devpkg-lz4)

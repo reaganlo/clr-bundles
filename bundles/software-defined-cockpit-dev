@@ -329,6 +329,7 @@ libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
+libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
 libvorbis-dev
@@ -344,6 +345,7 @@ libxslt-bin
 linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
+llvm-dev32
 include(devpkg-lz4)
 m4
 include(make)

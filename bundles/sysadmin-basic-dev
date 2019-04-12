@@ -272,7 +272,6 @@ pkg-config-dev
 polkit-dev
 include(devpkg-popt)
 include(procps-ng)
-include(devpkg-procps-ng)
 protobuf-dev
 python
 python-core
