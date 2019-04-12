@@ -6,5 +6,5 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(lib-openssl)
 openssh
-openssh-extras
+openssh-server-extras
 tallow
