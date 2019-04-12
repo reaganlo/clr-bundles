@@ -23,6 +23,7 @@ perl-HTTP-Date
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-IO-HTML
+perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-Params-Validate
 perl-Test-Simple
