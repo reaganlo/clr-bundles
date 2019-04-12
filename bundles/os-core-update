@@ -22,7 +22,6 @@ gzip-bin
 pacrunner
 pigz-bin
 swupd-client
-swupd-client-extras
 swupd-overdue
 tar-bin
 xz-bin
