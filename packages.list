@@ -274,4 +274,5 @@ procps-ng # Library to control and query process state
 memcached # A high performance multithreaded event-based key/value cache store
 dpdk # Data Plane Development Kit core
 openvswitch # Open vSwitch Kernel Modules
-xemacs # Highly customizable text editor, gui build. 
+xemacs # Highly customizable text editor, gui build.
+nginx-mainline # Lightweight HTTP server and IMAP/POP3 proxy server, mainline release 
