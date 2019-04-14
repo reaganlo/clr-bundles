@@ -24,7 +24,6 @@ ipset
 include(iptables)
 iptraf
 iputils
-include(irssi)
 iw
 links
 include(net-tools)
