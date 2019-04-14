@@ -273,4 +273,5 @@ net-tools # Basic Networking Tools
 procps-ng # Library to control and query process state
 memcached # A high performance multithreaded event-based key/value cache store
 dpdk # Data Plane Development Kit core
-openvswitch # Open vSwitch Kernel Modules 
+openvswitch # Open vSwitch Kernel Modules
+xemacs # Highly customizable text editor, gui build. 
