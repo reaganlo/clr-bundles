@@ -18,7 +18,7 @@ bridge-utils
 connect-proxy
 conntrack-tools
 include(curl)
-dpdk
+include(dpdk)
 ebtables
 ipset
 include(iptables)
@@ -33,7 +33,7 @@ openconnect
 opensm
 openssh
 openvpn
-openvswitch
+include(openvswitch)
 pacrunner
 rdma-core
 redsocks
