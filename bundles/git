@@ -13,6 +13,7 @@ include(less)
 hub
 include(p11-kit)
 man-db
+include(libstdcpp)
 # end of custom additions
 
 # main package
