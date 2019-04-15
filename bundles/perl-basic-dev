@@ -179,6 +179,7 @@ perl-IO-HTML-dev
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-LWP-MediaTypes
+perl-LWP-MediaTypes-dev
 perl-LWP-Protocol-https
 perl-LWP-Protocol-https-dev
 perl-MRO-Compat

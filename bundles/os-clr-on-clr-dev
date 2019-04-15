@@ -77,7 +77,6 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 atomicwrites-python
-include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -397,6 +396,7 @@ kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 knotifications-dev
+kpackage-dev
 kparts-dev
 kplotting-dev
 include(devpkg-krb5)
@@ -695,6 +695,9 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
+perl-ExtUtils-Config
+perl-ExtUtils-Helpers
+perl-ExtUtils-InstallPaths
 perl-File-Listing
 perl-File-Slurp
 perl-HTML-Parser
@@ -714,6 +717,7 @@ perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
 perl-Module-Build
+perl-Module-Build-Tiny
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA

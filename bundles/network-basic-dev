@@ -18,7 +18,6 @@ include(Sphinx)
 include(devpkg-acl)
 acl-dev32
 include(devpkg-apr)
-aspell-dev
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -51,7 +50,6 @@ check-dev
 check-dev32
 clr-rpm-config
 cmake
-include(devpkg-compat-enchant-soname1)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -60,14 +58,12 @@ datefudge
 db
 include(devpkg-dbus)
 dbus-dev32
-include(devpkg-dbus-glib)
 dejagnu
 desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(doxygen)
-dpdk-dev
 e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
@@ -120,7 +116,6 @@ include(devpkg-gtk-doc)
 guile
 include(gzip)
 hostname
-hunspell-dev
 include(devpkg-icu4c)
 icu4c-dev32
 include(intltool)
@@ -193,7 +188,6 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
-include(devpkg-lua)
 include(devpkg-lz4)
 lzo-dev
 m4
@@ -212,7 +206,6 @@ nettle-lib32
 include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
-nodejs-dev
 nss-altfiles
 include(devpkg-nss)
 openconnect-dev
@@ -222,7 +215,6 @@ include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
 openvpn-dev
-include(devpkg-openvswitch)
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -282,8 +274,6 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
-php
-php-dev
 pigz
 include(devpkg-pkcs11-helper)
 pkg-config

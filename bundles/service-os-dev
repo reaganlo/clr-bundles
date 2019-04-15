@@ -13,6 +13,7 @@ Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
+include(Sphinx)
 include(devpkg-acl)
 acl-dev32
 acrn-hypervisor-dev
@@ -92,6 +93,7 @@ include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32
@@ -197,6 +199,7 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
+include(devpkg-openvswitch)
 include(p11-kit)
 packaging
 include(patch)
@@ -239,6 +242,7 @@ setuptools-python
 shadow
 shared-mime-info
 six
+sortedcontainers
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)

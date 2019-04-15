@@ -42,7 +42,6 @@ include(devpkg-alsa-lib)
 include(devpkg-apr)
 asciidoc
 aspell
-aspell-dev
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -97,7 +96,6 @@ clr-rpm-config
 cmake
 cmocka-dev
 include(devpkg-colord)
-include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 coreutils
 include(cpio)
@@ -116,7 +114,6 @@ db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
-include(devpkg-dbus-glib)
 dejagnu
 desktop-file-utils
 include(diffutils)
@@ -227,7 +224,6 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
-hunspell-dev
 include(devpkg-hwloc)
 include(devpkg-icu4c)
 icu4c-dev32
@@ -414,7 +410,6 @@ include(nfs-utils)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
-nodejs-dev
 nose
 include(devpkg-nspr)
 nss-altfiles
