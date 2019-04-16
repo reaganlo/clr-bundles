@@ -1,0 +1,16 @@
+# [TITLE]: php-extras
+# [DESCRIPTION]: Various nonstandard PHP extensions
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities, Programming Languages
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(php-basic)
+
+php-imagick
+php-mailparse
+php-redis
+php-timezonedb
+php-xdebug
+php-yaml
+php-zip
