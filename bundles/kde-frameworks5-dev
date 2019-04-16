@@ -464,6 +464,7 @@ qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 qtwebsockets-dev
+qtx11extras-dev
 include(devpkg-readline)
 readline-dev32
 include(devpkg-rest)

@@ -755,6 +755,7 @@ xcursorgen
 xdg-desktop-portal
 include(devpkg-xdg-desktop-portal)
 xdg-utils
+include(xemacs)
 xf86-input-evdev-dev
 xf86-input-synaptics-dev
 xfce4-panel-dev

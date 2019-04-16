@@ -378,6 +378,7 @@ kcrash-dev
 kdbusaddons-dev
 kded-dev
 kdesignerplugin-dev
+kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring
@@ -822,6 +823,7 @@ qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 qtwebsockets-dev
+qtx11extras-dev
 include(devpkg-rdma-core)
 re2c
 include(devpkg-readline)
@@ -951,6 +953,7 @@ xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-utils
+include(xemacs)
 xfsprogs-dev
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlsec1)
