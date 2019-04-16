@@ -6,5 +6,7 @@
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 include(x11-server)
 awesome-wm
+dejavu-fonts
 feh
 rxvt-unicode
+xscreensaver
