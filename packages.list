@@ -276,3 +276,4 @@ dpdk # Data Plane Development Kit core
 openvswitch # Open vSwitch Kernel Modules
 xemacs # Highly customizable text editor, gui build.
 nginx-mainline # Lightweight HTTP server and IMAP/POP3 proxy server, mainline release 
+haproxy # Reliable, high performance TCP/HTTP load balancer.
