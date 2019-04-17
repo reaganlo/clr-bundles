@@ -719,6 +719,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+tpm2-tss-dev
 include(tzdata)
 include(devpkg-uhttpmock)
 include(unzip)

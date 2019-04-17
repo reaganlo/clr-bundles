@@ -847,6 +847,7 @@ tk-dev
 tornado
 totem-pl-parser-dev
 tox
+tpm2-tss-dev
 tracker-dev
 include(tzdata)
 udisks2-dev
