@@ -14,6 +14,7 @@ clr-boot-manager-services
 clr-bundles
 clr-find-bundle
 clr-hardware-files
+clr-one-shot-updates
 clr-service-restart-bin
 clr-update-triggers
 efibootmgr-bin
