@@ -1,8 +1,8 @@
 # [TITLE]: dpdk
-# [DESCRIPTION]: Data Plane Development Kit core
+# [DESCRIPTION]: Data Plane Development Kit core.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools, network
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 
