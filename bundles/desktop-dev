@@ -485,7 +485,6 @@ include(devpkg-libnotify)
 include(devpkg-liboauth)
 include(devpkg-libogg)
 libogg-dev32
-include(devpkg-libosinfo)
 include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
@@ -763,6 +762,7 @@ python
 python-core
 python-dev
 python-mock
+python-mock-python
 python-pocketlint
 python-polib
 python3

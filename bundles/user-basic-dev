@@ -52,6 +52,7 @@ include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
 autoconf
+autoconf-archive-dev
 autoconf213
 autogen
 automake
@@ -111,6 +112,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
+db-dev
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32

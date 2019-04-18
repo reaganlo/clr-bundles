@@ -28,6 +28,7 @@ acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appstream-dev
+appstream-glib
 asciidoc
 aspell-dev
 assimp-dev
@@ -270,7 +271,6 @@ include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
 include(devpkg-libassuan)
-libatomic_ops-dev
 libc6
 libc6-dev
 include(devpkg-libcap)

@@ -54,6 +54,7 @@ include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
 autoconf
+autoconf-archive-dev
 autogen
 automake
 automake-dev
@@ -87,6 +88,7 @@ clear-font
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+cmocka-dev
 include(devpkg-colord)
 compat-curl-gnutls-soname4-dev
 compat-libpng-soname12-dev
@@ -100,6 +102,7 @@ curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
+db-dev
 dbus
 dbus-broker
 include(devpkg-dbus)
@@ -264,7 +267,6 @@ libXxf86dga-dev
 include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
-libatomic_ops-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
@@ -524,6 +526,7 @@ sbc-dev
 sbc-dev32
 include(scons)
 sed
+setuptools
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)

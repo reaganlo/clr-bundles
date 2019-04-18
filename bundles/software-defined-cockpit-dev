@@ -35,6 +35,7 @@ acl-dev32
 acrn-hypervisor-dev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
+appstream-glib
 asciidoc
 assimp-dev
 include(devpkg-at-spi2-atk)
@@ -246,7 +247,6 @@ libXvMC-dev32
 include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
-libatomic_ops-dev
 libavtp-dev
 libc6
 libc6-dev

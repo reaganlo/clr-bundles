@@ -60,6 +60,7 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
 appstream-dev
+appstream-glib
 include(devpkg-apr)
 include(devpkg-apr-util)
 argon2-dev
@@ -83,6 +84,7 @@ attrs
 attrs-python
 include(devpkg-audit)
 autoconf
+autoconf-archive-dev
 autoconf213
 autogen
 automake
@@ -805,6 +807,7 @@ python-dev
 python-magic
 python-mimeparse
 python-mock
+python-mock-python
 python-rpm
 python-subunit
 python-toml
