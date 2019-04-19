@@ -298,6 +298,7 @@ include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
 libepoxy-dev32
+libev-dev
 include(devpkg-libevdev)
 libevdev-dev32
 include(devpkg-libevent)

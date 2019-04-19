@@ -247,6 +247,7 @@ libXvMC-dev32
 include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
+libatomic_ops-dev
 libavtp-dev
 libc6
 libc6-dev
@@ -263,6 +264,7 @@ include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
 libepoxy-dev32
+libev-dev
 include(devpkg-libevdev)
 libevdev-dev32
 include(devpkg-libevent)

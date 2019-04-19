@@ -160,6 +160,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+libev-dev
 include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)

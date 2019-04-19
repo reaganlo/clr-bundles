@@ -215,6 +215,7 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
 libaio-dev
+libatomic_ops-dev
 libc6-dev
 include(devpkg-libcap)
 libcap-dev32

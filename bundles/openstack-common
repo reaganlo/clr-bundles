@@ -19,7 +19,7 @@ elixir
 funcsigs
 functools32
 futures
-haproxy
+include(haproxy)
 iso8601
 jsonschema
 include(keepalived)
