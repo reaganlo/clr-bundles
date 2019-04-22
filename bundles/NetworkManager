@@ -17,4 +17,4 @@ include(openldap)
 # end of custom additions
 
 # main package
-include(NetworkManager-basic)
+NetworkManager
