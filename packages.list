@@ -277,4 +277,5 @@ openvswitch # Open vSwitch Kernel Modules
 xemacs # Highly customizable text editor, gui build.
 nginx-mainline # Lightweight HTTP server and IMAP/POP3 proxy server, mainline release
 haproxy # Reliable, high performance TCP/HTTP load balancer.
-supertuxkart # Kart racing game featuring Tux and his friends 
+supertuxkart # Kart racing game featuring Tux and his friends
+audacious-plugins # Music player for Gtk/GNOME
