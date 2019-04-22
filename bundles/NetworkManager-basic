@@ -11,4 +11,4 @@ include(libglib)
 include(wpa_supplicant)
 
 # main package
-NetworkManager
+include(NetworkManager)

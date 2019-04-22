@@ -29,6 +29,9 @@ include(devpkg-R)
 include(devpkg-SDL)
 SDL-dev32
 include(devpkg-SDL2)
+SDL2-dev32
+include(devpkg-SDL2_image)
+SDL2_image-dev32
 include(Sphinx)
 Thunar-dev
 Vulkan-Headers-data
@@ -242,6 +245,7 @@ include(devpkg-googletest)
 gperf
 include(gpgme)
 gpgme-dev
+graphene-dev
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)

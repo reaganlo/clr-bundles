@@ -225,6 +225,7 @@ perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pigz
+pip
 pkg-config
 pkg-config-dev
 pluggy-python

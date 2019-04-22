@@ -171,6 +171,7 @@ include(devpkg-pcre)
 perl
 perl-IPC-Run
 pigz
+pip
 pkg-config
 pkg-config-dev
 pluggy-python
