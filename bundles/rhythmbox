@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Music playback and management application.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Graphics and Multimedia, application
+# [TAGS]: Multimedia and Graphics, application
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
