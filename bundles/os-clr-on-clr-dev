@@ -224,7 +224,6 @@ fcgi-dev
 include(devpkg-fftw)
 include(file)
 file-dev
-filelock
 fixtures
 fixtures-python
 include(devpkg-flac)

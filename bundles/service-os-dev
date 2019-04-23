@@ -37,7 +37,6 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
-buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -101,8 +100,6 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 gmp-dev
-gmp-gmpxx
-gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
 go
@@ -206,7 +203,6 @@ packaging
 include(patch)
 include(devpkg-pcre)
 pcre-dev32
-perl
 perl-XML-Parser
 pesign
 pigz
