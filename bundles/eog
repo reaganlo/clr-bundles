@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Eye of GNOME for image viewing and cataloging.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Graphics and Multimedia
+# [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
