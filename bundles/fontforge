@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Outline and bitmap font editor.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Graphics and Multimedia, Tools and Utilities
+# [TAGS]: Multimedia and Graphics, Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(python3-basic)
