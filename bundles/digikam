@@ -2,7 +2,7 @@
 # [DESCRIPTION]: An advanced digital photo management application.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Graphics and Multimedia
+# [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)
