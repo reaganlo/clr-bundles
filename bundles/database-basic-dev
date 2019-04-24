@@ -33,7 +33,6 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-meson
-buildreq-qmake
 bzip2
 bzip2-dev
 cffi
@@ -134,6 +133,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+include(devpkg-libpng)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -206,6 +206,7 @@ tcl
 tcl-dev
 include(texinfo)
 thin-provisioning-tools
+include(devpkg-tiff)
 tk-dev
 unixODBC-dev
 include(unzip)
