@@ -7,4 +7,5 @@
 
 compat-readline-soname5
 ncurses-compat
+ncurses-compat-lib
 compat-fuse-soname2
