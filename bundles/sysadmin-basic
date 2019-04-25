@@ -48,7 +48,7 @@ include(gzip)
 hdparm
 hostname
 include(htop)
-iperf
+include(iperf)
 include(kbd)
 include(kernel-install)
 kmod
