@@ -144,7 +144,7 @@ include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
 libffi-dev32
-libgcrypt-dev
+include(devpkg-libgcrypt)
 libgcrypt-dev32
 libgfortran-avx
 libgfortran-compat-soname3

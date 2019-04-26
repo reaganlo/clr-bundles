@@ -45,7 +45,7 @@ jemalloc-dev
 libaio-dev
 include(devpkg-libassuan)
 include(devpkg-libevent)
-libgcrypt-dev
+include(devpkg-libgcrypt)
 libgfortran-avx
 include(devpkg-libgpg-error)
 include(devpkg-libjpeg-turbo)
