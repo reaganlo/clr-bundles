@@ -1,8 +1,8 @@
 # [TITLE]: elasticsearch
-# [DESCRIPTION]: A powerful open source search and analytics engine.
+# [DESCRIPTION]: A powerful open source search and analytics engine based on the Lucene library.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Data Science
 # [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
 
 include(java-runtime)
