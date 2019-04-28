@@ -10,3 +10,6 @@ include(glmark2)
 libXcursor-lib
 piglit
 shared-mime-info
+xwdrun
+mutter
+gnome-session
