@@ -633,6 +633,7 @@ perl-XML-Simple
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+pexpect
 php
 pigz
 pip
@@ -657,6 +658,7 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pyparsing
+pytest
 python
 python-core
 python-dev

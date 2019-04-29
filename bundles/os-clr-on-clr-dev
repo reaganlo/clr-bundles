@@ -768,6 +768,7 @@ pkg-config
 pkg-config-dev
 pluggy
 pluggy-python
+ply
 include(plzip)
 polkit-dev
 polkit-qt-dev

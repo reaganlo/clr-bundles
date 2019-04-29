@@ -318,6 +318,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+pexpect
 php-dev
 pigz
 pip
@@ -332,6 +333,7 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 pycparser
+pytest
 python-core
 python-dev
 python3

@@ -615,6 +615,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
 nose
+not-ffmpeg-dev
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -718,6 +719,7 @@ perl-XML-Simple
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+pexpect
 php
 pigz
 pip

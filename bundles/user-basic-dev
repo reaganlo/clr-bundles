@@ -504,6 +504,7 @@ perl-XML-Parser
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
+pexpect
 php
 php-dev
 pigz
@@ -514,6 +515,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 pluggy-python
+ply
 polkit-dev
 include(devpkg-popt)
 include(devpkg-postgresql)
@@ -526,6 +528,7 @@ protobuf-dev
 psutil
 pycparser
 pyparsing
+pytest
 python
 python-core
 python-dev

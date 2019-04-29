@@ -302,6 +302,7 @@ include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
 pluggy-python
+ply
 polkit-dev
 include(devpkg-popt)
 include(procps-ng)
