@@ -34,9 +34,3 @@ systemd
 systemd-lib
 tzdata-minimal
 util-linux-bin
-
-
-#
-# Make sure networking always starts
-#
-systemd-networkd-autostart-extras
