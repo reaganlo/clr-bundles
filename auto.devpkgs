@@ -544,5 +544,6 @@ xv
 xvmc
 xxf86misc
 xxf86vm
+yaml-cpp
 zlib
 zstd
