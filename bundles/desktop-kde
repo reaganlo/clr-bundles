@@ -97,7 +97,7 @@ libksysguard
 include(libxslt)
 milou
 ModemManager
-include(NetworkManager)
+include(NetworkManager-extras)
 NetworkManager-openconnect
 oxygen
 phonon

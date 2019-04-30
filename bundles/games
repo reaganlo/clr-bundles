@@ -7,7 +7,7 @@
 include(libX11client)
 include(p11-kit)
 include(perl-basic)
-include(NetworkManager)
+include(NetworkManager-extras)
 include(lib-imageformat)
 include(lib-opengl)
 include(os-core-legacy)

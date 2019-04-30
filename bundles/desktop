@@ -80,7 +80,7 @@ ghostscript
 gutenprint
 gnome-online-accounts
 ModemManager
-include(NetworkManager)
+include(NetworkManager-extras)
 network-manager-applet
 NetworkManager-openconnect
 NetworkManager-vpnc
