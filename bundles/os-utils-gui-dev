@@ -579,6 +579,7 @@ pbr
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcsc-lite-dev
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable

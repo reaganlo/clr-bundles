@@ -30,7 +30,7 @@ dosfstools-bin
 e2fsprogs-extras
 gptfdisk-bin
 iputils
-jq
+include(jq)
 nano
 parted-bin
 qemu-extras

@@ -199,7 +199,6 @@ include(patch)
 include(devpkg-pcre)
 perl-IPC-Run
 perl-XML-Parser
-php
 php-dev
 pigz
 pip
