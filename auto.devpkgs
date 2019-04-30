@@ -11,6 +11,7 @@ cairo
 clutter-1.0
 cogl-1.0
 colord
+cpprestsdk
 dbus-1
 devmapper
 dri3proto
