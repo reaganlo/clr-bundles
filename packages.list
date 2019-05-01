@@ -280,3 +280,4 @@ haproxy # Reliable, high performance TCP/HTTP load balancer.
 supertuxkart # Kart racing game featuring Tux and his friends
 audacious # Music player for Gtk/GNOME
 iperf # A widely used tool for network performance measurement
+columbiad # A full screen app chooser for HTPCs
