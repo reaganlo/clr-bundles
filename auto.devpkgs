@@ -454,6 +454,7 @@ SDL_ttf
 shared-mime-info
 sqlite3
 systemd
+talloc
 tbb
 x11
 x11-xcb
