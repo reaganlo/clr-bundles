@@ -14,4 +14,5 @@ bash-doc
 bash-extras
 bash-locales
 fish
+pcre-extras
 include(zsh)
