@@ -218,7 +218,7 @@ systemd-dev32
 systemd-extras
 systemd-lib
 talloc
-talloc-dev
+include(devpkg-talloc)
 tar
 tcl
 tcl-dev

@@ -583,7 +583,7 @@ systemd-dev32
 systemd-extras
 systemd-lib
 talloc
-talloc-dev
+include(devpkg-talloc)
 talloc-extras
 talloc-python3
 tar
