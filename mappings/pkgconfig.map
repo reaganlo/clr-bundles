@@ -546,6 +546,7 @@ pkgconfig(SDL_net)	devpkg-SDL_net
 pkgconfig(SDL_ttf)	devpkg-SDL_ttf
 pkgconfig(shared-mime-info)	devpkg-shared-mime-info
 pkgconfig(systemd)	devpkg-systemd
+pkgconfig(talloc)	devpkg-talloc
 pkgconfig(xapian-core)	devpkg-xapian-core
 pkgconfig(xcb-atom)	devpkg-libX11
 pkgconfig(xcb-aux)	devpkg-libX11
