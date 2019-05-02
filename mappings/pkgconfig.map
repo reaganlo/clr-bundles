@@ -20,7 +20,6 @@ pkgconfig(harfbuzz)	devpkg-harfbuzz
 pkgconfig(graphite2)	devpkg-graphite
 pkgconfig(expat)	devpkg-expat
 pkgconfig(egl)	devpkg-mesa
-pkgconfig(libdrm)	devpkg-libdrm
 pkgconfig(x11)	devpkg-libX11
 pkgconfig(xproto)	devpkg-xorgproto
 pkgconfig(kbproto)	devpkg-xorgproto
@@ -39,6 +38,7 @@ pkgconfig(xcb-glx)	devpkg-libX11
 pkgconfig(xcb-dri2)	devpkg-libX11
 pkgconfig(xxf86vm)	devpkg-libX11
 pkgconfig(xf86vidmodeproto)	devpkg-xorgproto
+pkgconfig(libdrm)	devpkg-libdrm
 pkgconfig(gl)	devpkg-mesa
 pkgconfig(xcb-shm)	devpkg-libX11
 pkgconfig(xcb-render)	devpkg-libX11
