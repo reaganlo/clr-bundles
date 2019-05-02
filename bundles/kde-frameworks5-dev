@@ -273,7 +273,6 @@ include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
 include(devpkg-libassuan)
-libatomic_ops-dev
 libc6
 libc6-dev
 include(devpkg-libcap)
@@ -368,7 +367,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lz4)
 m4

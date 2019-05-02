@@ -216,7 +216,6 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 libabigail
 libaio-dev
-libatomic_ops-dev
 libc6-dev
 include(devpkg-libcap)
 libcap-dev32
@@ -290,6 +289,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+include(devpkg-libva)
 libvorbis-dev
 libvorbis-dev32
 include(devpkg-libwebp)
@@ -301,7 +301,6 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lz4)
 m4

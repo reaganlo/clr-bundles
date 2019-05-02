@@ -367,6 +367,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libuser)
+include(devpkg-libva)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(libxml2)
@@ -379,7 +380,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -447,6 +447,7 @@ pbr
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
+pcre2
 include(devpkg-pcre2)
 pecan
 perl

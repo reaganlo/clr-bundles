@@ -268,7 +268,6 @@ libXxf86dga-dev
 include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
-libatomic_ops-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
@@ -361,6 +360,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
 libusb-dev32
+include(devpkg-libva)
 libvdpau-dev
 libvorbis-dev
 libvorbis-dev32
@@ -377,7 +377,6 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 include(devpkg-lz4)
