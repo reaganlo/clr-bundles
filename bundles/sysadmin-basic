@@ -79,6 +79,7 @@ include(powertop)
 include(procps-ng)
 psmisc
 pv
+scowl
 screen
 sed
 setserial
