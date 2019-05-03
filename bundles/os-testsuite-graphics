@@ -4,12 +4,18 @@
 # [CAPABILITIES]: Graphics Benchmarking testing, UI interaction testing, and various file utilities
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com>
+include(glmark2)
+
 clear-font
 gdk-pixbuf
-include(glmark2)
+glib
+gnome-session
 libXcursor-lib
+mutter
 piglit
 shared-mime-info
+xf86-input-libinput
+xkbcomp
+xkeyboard-config
+xorg-server
 xwdrun
-mutter
-gnome-session
