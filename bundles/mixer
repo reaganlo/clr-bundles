@@ -26,5 +26,5 @@ mixer-tools
 nosync
 pyliblzma
 python-rpm
-python-toml
+toml
 rpm

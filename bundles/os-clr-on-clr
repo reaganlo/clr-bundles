@@ -72,7 +72,7 @@ pyliblzma
 pyOpenSSL
 python-magic
 python-rpm
-python-toml
+toml
 python-zeep
 requests-ntlm
 rpm

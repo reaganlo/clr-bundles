@@ -23,7 +23,7 @@ include(binutils)
 chardet
 gnupg
 pycurl
-python-toml
+toml
 urllib3
 
 # koji command line utility
