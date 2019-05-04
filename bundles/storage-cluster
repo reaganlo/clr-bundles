@@ -5,9 +5,6 @@
 # [TAGS]: Tools and Utilities, Data Science, Python, storage
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 
-# unfortunately, ceph is still too much legacy
-include(python2-basic)
-
 include(python3-basic)
 include(xfsprogs)
 
