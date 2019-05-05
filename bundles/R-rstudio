@@ -14,4 +14,4 @@ include(libstdcpp)
 # end of custom additions
 
 # main package
-R-rstudio
+#R-rstudio
