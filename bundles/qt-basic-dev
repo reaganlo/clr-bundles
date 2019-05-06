@@ -384,10 +384,12 @@ qemu
 include(devpkg-qt3d)
 include(devpkg-qtbase)
 qtbase-extras
+qtbase-staticdev
 qtcharts-dev
 qtconnectivity-dev
 qtdatavis3d-dev
 include(devpkg-qtdeclarative)
+qtdeclarative-staticdev
 qtgamepad-dev
 qtimageformats-dev
 include(devpkg-qtlocation)

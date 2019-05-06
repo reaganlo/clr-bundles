@@ -79,6 +79,7 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 atomicwrites-python
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -170,6 +171,7 @@ dbus
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
+dbus-extras
 include(devpkg-dbus-glib)
 dbus-glib-dev32
 defusedxml
@@ -213,7 +215,6 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
-entrypoints
 enum34
 enum34-legacypython
 execnet
@@ -510,6 +511,7 @@ include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
 libnl-dev32
+include(devpkg-libnotify)
 include(devpkg-libogg)
 libogg-dev32
 include(devpkg-libpcap)
@@ -602,6 +604,7 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
+mobile-broadband-provider-info-dev
 mock
 more-itertools-python
 mozjs-dev
@@ -819,7 +822,6 @@ python-mock
 python-mock-python
 python-rpm
 python-subunit
-toml
 python3
 python3-core
 python3-dev
@@ -827,8 +829,10 @@ pytz
 qemu
 include(devpkg-qtbase)
 qtbase-extras
+qtbase-staticdev
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
+qtdeclarative-staticdev
 qtmultimedia-dev
 qtsensors-dev
 qtserialport-dev
@@ -864,6 +868,7 @@ setuptools
 setuptools-legacypython
 setuptools-python
 setuptools_scm
+setuptools_scm-python
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)

@@ -39,6 +39,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -63,6 +64,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -144,6 +146,7 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
+include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
@@ -205,6 +208,7 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
+jsoncpp-dev
 kactivities-dev
 karchive-dev
 kauth
@@ -337,6 +341,7 @@ libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
 libsoup-dev32
+include(devpkg-libsrtp)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -369,6 +374,7 @@ linux-libc-headers
 include(llvm)
 llvm-dev32
 include(devpkg-lz4)
+lzo-dev
 m4
 include(make)
 include(devpkg-mariadb)
@@ -413,6 +419,7 @@ openldap-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
+openssl-lib32
 include(devpkg-opus)
 orc
 include(devpkg-orc)
@@ -453,7 +460,10 @@ procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
+py
 pycparser
+pytest
+python
 python-core
 python-dev
 python3
@@ -462,15 +472,21 @@ python3-dev
 qemu
 include(devpkg-qtbase)
 qtbase-extras
+qtbase-staticdev
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
+qtdeclarative-staticdev
+include(devpkg-qtlocation)
 qtmultimedia-dev
+qtquickcontrols2-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
+include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev
+re2-dev
 include(devpkg-readline)
 readline-dev32
 include(devpkg-rest)
@@ -488,6 +504,8 @@ setuptools-python
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
+six
+snappy-dev
 solid-dev
 sonnet-dev
 speex-dev
@@ -537,6 +555,7 @@ xdg-utils
 include(devpkg-xkeyboard-config)
 xmlto
 xorg-fonts
+include(devpkg-xorg-server)
 include(devpkg-xorgproto)
 xorgproto-dev32
 include(devpkg-xtrans)

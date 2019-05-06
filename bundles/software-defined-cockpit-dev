@@ -436,8 +436,10 @@ python3-dev
 qemu
 include(devpkg-qtbase)
 qtbase-extras
+qtbase-staticdev
 qtconnectivity-dev
 include(devpkg-qtdeclarative)
+qtdeclarative-staticdev
 qtmultimedia-dev
 qtsensors-dev
 qtserialport-dev

@@ -197,6 +197,7 @@ gdk-pixbuf-dev32
 geany-dev
 geany-plugins-dev
 include(devpkg-geoclue)
+include(devpkg-geocode-glib)
 gettext
 gettext-bin
 gettext-dev
@@ -252,6 +253,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsettings-desktop-schemas)
 include(devpkg-gsl)
 gst-plugins-bad
@@ -388,6 +390,7 @@ include(devpkg-libgsystem)
 include(devpkg-libgudev)
 libgudev-dev32
 include(devpkg-libgusb)
+include(devpkg-libgweather)
 include(devpkg-libical)
 include(devpkg-libidn)
 libidn-dev32
