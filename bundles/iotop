@@ -1,8 +1,8 @@
 # [TITLE]: iotop
-# [DESCRIPTION]: Per process I/O bandwidth monitor
+# [DESCRIPTION]: Per process I/O bandwidth monitor.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 
