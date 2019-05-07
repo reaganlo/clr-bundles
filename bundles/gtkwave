@@ -1,8 +1,8 @@
 # [TITLE]: gtkwave
-# [DESCRIPTION]: A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
+# [DESCRIPTION]: A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libglib)
