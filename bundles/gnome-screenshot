@@ -1,8 +1,8 @@
 # [TITLE]: gnome-screenshot
-# [DESCRIPTION]: Take screenshots of the whole desktop, the currently focused window or an area of the screen
+# [DESCRIPTION]: Take screenshots of the desktop or a window and save it to a file.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Multimedia and Graphics
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)
