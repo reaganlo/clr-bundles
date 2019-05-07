@@ -1,8 +1,8 @@
 # [TITLE]: gnome-logs
-# [DESCRIPTION]: Log viewer for the systemd journal
+# [DESCRIPTION]: Log viewer for the systemd journal.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)
