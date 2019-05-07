@@ -12,7 +12,9 @@ include(lib-imageformat)
 include(lib-opengl)
 include(os-core-legacy)
 
+include(extremetuxracer)
 include(minetest)
+include(supertuxkart)
 scummvm
 
 # 32 bit client support for 32 bit games
