@@ -36,6 +36,7 @@ exiv2
 gdk-pixbuf
 glib-bin
 include(gpgme)
+gsettings-desktop-schemas
 kactivitymanagerd
 karchive
 kauth
