@@ -1,8 +1,8 @@
 # [TITLE]: hardware-gpu
-# [DESCRIPTION]: Firmware and tools for GPU support
+# [DESCRIPTION]: Firmware and tools for GPU support.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Developer Tools, hardware
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 include(libglib)
