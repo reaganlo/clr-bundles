@@ -171,7 +171,6 @@ dbus
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
-dbus-extras
 include(devpkg-dbus-glib)
 dbus-glib-dev32
 defusedxml
@@ -511,7 +510,6 @@ include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
 libnl-dev32
-include(devpkg-libnotify)
 include(devpkg-libogg)
 libogg-dev32
 include(devpkg-libpcap)
@@ -604,7 +602,6 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
-mobile-broadband-provider-info-dev
 mock
 more-itertools-python
 mozjs-dev

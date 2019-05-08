@@ -14,5 +14,5 @@ network-manager-applet
 include(libX11client)
 include(openldap)
 linux-firmware-wifi
-wpa_supplicant
+include(wpa_supplicant)
 ModemManager
