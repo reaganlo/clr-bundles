@@ -32,6 +32,7 @@ include(devpkg-SDL_gfx)
 include(devpkg-SDL_image)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
+SFML-dev
 include(Sphinx)
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -171,6 +172,7 @@ ghostscript-dev
 include(git)
 include(gjs)
 include(devpkg-gjs)
+include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -416,6 +418,7 @@ nss-lib32
 octave-dev
 onig-dev
 openal-soft-dev
+include(openblas)
 openconnect-dev
 openjade-dev
 openjdk
@@ -553,6 +556,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+include(texlive)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
