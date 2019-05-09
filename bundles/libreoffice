@@ -1,8 +1,8 @@
 # [TITLE]: libreoffice
-# [DESCRIPTION]: LibreOffice - Free Office Suite
+# [DESCRIPTION]: Free office productivity suite.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Productivity, application
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(libX11client)
