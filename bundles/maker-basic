@@ -1,8 +1,8 @@
 # [TITLE]: maker-basic
-# [DESCRIPTION]: Basic tools for makers and experimenters
+# [DESCRIPTION]: Basic tools for makers and experimenters.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libX11client)
 include(python-extras)
