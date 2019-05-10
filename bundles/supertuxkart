@@ -1,8 +1,8 @@
 # [TITLE]: supertuxkart
-# [DESCRIPTION]: Kart racing game featuring Tux and his friends
+# [DESCRIPTION]: Kart racing game featuring Tux and his friends.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Games
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)
