@@ -1,8 +1,8 @@
 # [TITLE]: minetestserver
-# [DESCRIPTION]: headless game server for minetest
+# [DESCRIPTION]: A headless game server for minetest.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Games
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libstdcpp)
