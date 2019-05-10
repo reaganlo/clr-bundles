@@ -1,8 +1,8 @@
 # [TITLE]: x11vnc
-# [DESCRIPTION]: A VNC server for real X displays
+# [DESCRIPTION]: A virtual network computing (VNC) server for real X displays.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, network
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)
