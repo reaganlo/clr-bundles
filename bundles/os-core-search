@@ -1,8 +1,8 @@
 # [TITLE]: os-core-search
-# [DESCRIPTION]: Provides swupd search capability
+# [DESCRIPTION]: Provides swupd search capability.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
 # for swupd-search
