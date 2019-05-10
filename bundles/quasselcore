@@ -1,8 +1,8 @@
 # [TITLE]: quasselcore
-# [DESCRIPTION]: Quassel IRC server
+# [DESCRIPTION]: Quassel IRC server.
 # [STATUS]: Active
 # [CAPABILITIES]: Quassel IRC core server
-# [TAGS]:
+# [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libstdcpp)
