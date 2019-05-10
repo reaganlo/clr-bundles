@@ -1,8 +1,8 @@
 # [TITLE]: nginx-mainline
-# [DESCRIPTION]: Lightweight HTTP server and IMAP/POP3 proxy server, mainline release
+# [DESCRIPTION]: Lightweight HTTP server and IMAP/POP3 proxy server, mainline release.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(lib-openssl)
