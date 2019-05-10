@@ -1,8 +1,8 @@
 # [TITLE]: mariadb
-# [DESCRIPTION]: MariaDB Connector/C dynamic library/Database daemon
+# [DESCRIPTION]: MariaDB Connector/C dynamic library/Database daemon.
 # [STATUS]: Active
 # [CAPABILITIES]: Maintain an mysql compatible database.
-# [TAGS]:
+# [TAGS]: Developer Tools, database
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(lib-openssl)
