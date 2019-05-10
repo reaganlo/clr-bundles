@@ -1,8 +1,8 @@
 # [TITLE]: sqlite
-# [DESCRIPTION]: SQL database engine
+# [DESCRIPTION]: SQL database engine with file format that is stable, cross-platform, and backwards compatible.
 # [STATUS]: Active
 # [CAPABILITIES]: Manipulate .sqlite databases.
-# [TAGS]:
+# [TAGS]: Developer Tools, database
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libstdcpp)
