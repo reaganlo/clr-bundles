@@ -1,8 +1,8 @@
 # [TITLE]: minetest
-# [DESCRIPTION]: A Voxel game inspired by minecraft
+# [DESCRIPTION]: A Voxel multi-player game inspired by minecraft.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Games
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libX11client)
