@@ -346,6 +346,7 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lz4)
 m4
@@ -379,6 +380,7 @@ nettle-lib32
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+not-ffmpeg-dev
 nss-altfiles
 octave-dev
 openal-soft-dev

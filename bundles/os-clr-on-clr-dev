@@ -78,6 +78,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+atomicwrites
 atomicwrites-python
 include(devpkg-attica)
 include(devpkg-attr)
@@ -603,6 +604,7 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 mock
+more-itertools
 more-itertools-python
 mozjs-dev
 include(devpkg-mozjs52)
@@ -675,6 +677,7 @@ include(devpkg-pango)
 pango-dev32
 include(devpkg-parted)
 include(patch)
+pathlib2
 pbr
 pbr-legacypython
 pciutils
@@ -961,6 +964,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wcwidth
 include(wget)
 include(which)
 include(devpkg-xapian-core)

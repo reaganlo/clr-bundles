@@ -538,6 +538,7 @@ include(nfs-utils)
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+not-ffmpeg-dev
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
