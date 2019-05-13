@@ -43,6 +43,7 @@ gawk
 gawk-extras
 glibc-bin
 include(glibc-locale)
+gpm
 grep
 include(gzip)
 hdparm
