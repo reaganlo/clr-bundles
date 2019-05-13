@@ -285,4 +285,5 @@ R-rstudio # RStudio is an integrated development environment (IDE) for the R pro
 faas-cli # A serverless functions framework for Docker & Kubernetes
 redshift # Adjust the color temperature of your monitor in the evenings to reduce eye strain
 kdeconnect-kde # No detailed summary available
-fluidsynth # A real-time software synthesizer based on the SoundFont 2 specifications 
+fluidsynth # A real-time software synthesizer based on the SoundFont 2 specifications
+qbittorrent # A BitTorrent client in Qt
