@@ -1,7 +1,7 @@
-# [TITLE]: desktop-i3
-# [DESCRIPTION]: Run the i3 desktop environment.
+# [TITLE]: desktop-enlightenment
+# [DESCRIPTION]: Run the enlightenment desktop environment.
 # [STATUS]: WIP
-# [CAPABILITIES]: Run i3 as gdm session or xinit WM
+# [CAPABILITIES]: Run enlightenment as gdm session
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(x11-server)
