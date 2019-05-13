@@ -7,6 +7,7 @@
 include(libX11client)
 include(p11-kit)
 include(perl-basic)
+include(python3-basic)
 include(NetworkManager-extras)
 include(lib-imageformat)
 include(lib-opengl)
@@ -15,6 +16,7 @@ include(os-core-legacy)
 include(extremetuxracer)
 include(minetest)
 include(supertuxkart)
+lutris
 scummvm
 
 # 32 bit client support for 32 bit games
