@@ -80,7 +80,6 @@ include(devpkg-atk)
 atk-dev32
 atomicwrites
 atomicwrites-python
-include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -257,6 +256,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc8-dev
 include(devpkg-gcr)
 gdal-dev
 include(gdb)
@@ -311,6 +311,7 @@ gperf
 include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
+gpm-dev
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -384,7 +385,6 @@ kcrash-dev
 kdbusaddons-dev
 kded-dev
 kdesignerplugin-dev
-kdoctools
 kdoctools-dev
 kemoticons-dev
 keyring
@@ -459,6 +459,7 @@ libcroco-dev32
 include(devpkg-libdatrie)
 libdatrie-dev32
 libdbusmenu-dev
+libdbusmenu-qt-dev
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)

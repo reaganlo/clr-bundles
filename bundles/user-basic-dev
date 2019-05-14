@@ -160,6 +160,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc8-dev
 gdal-dev
 include(gdb)
 gdb-dev
@@ -207,6 +208,7 @@ gperf
 include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
+gpm-dev
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)

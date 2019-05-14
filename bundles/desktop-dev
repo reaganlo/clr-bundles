@@ -220,6 +220,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc8-dev
 gcr-data
 include(devpkg-gcr)
 include(gdb)

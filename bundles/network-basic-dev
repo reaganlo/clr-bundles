@@ -86,6 +86,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc8-dev
 gdb-dev
 gdbm-dev
 gettext

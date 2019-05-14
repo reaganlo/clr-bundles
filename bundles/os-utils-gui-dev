@@ -186,6 +186,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc8-dev
 include(devpkg-gcr)
 include(gdb)
 gdb-dev
@@ -246,6 +247,7 @@ include(devpkg-googletest)
 gperf
 include(gpgme)
 gpgme-dev
+gpm-dev
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32

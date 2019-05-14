@@ -125,6 +125,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc8-dev
 include(gdb)
 gdb-dev
 gdbm-dev
