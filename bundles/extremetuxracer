@@ -1,8 +1,8 @@
 # [TITLE]: extremetuxracer
-# [DESCRIPTION]: Downhill penguin racing game featuring Tux
+# [DESCRIPTION]: Downhill penguin racing game featuring Tux.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Games
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(libstdcpp)
