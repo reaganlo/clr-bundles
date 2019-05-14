@@ -1,8 +1,8 @@
 # [TITLE]: kdeconnect-kde
-# [DESCRIPTION]: No detailed summary available
+# [DESCRIPTION]: A multi-platform application that enables communication between computer and smartphone.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, network
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(kde-frameworks5)
