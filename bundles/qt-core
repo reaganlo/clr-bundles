@@ -7,4 +7,7 @@
 include(libstdcpp)
 include(libglib)
 
+# For QMimeDatabase class
+shared-mime-info
+
 qtbase-extras
