@@ -310,6 +310,7 @@ qtbase-extras
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
+rpcbind
 rpm-build
 ruby
 samba-dev

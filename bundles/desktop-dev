@@ -293,6 +293,7 @@ gperf
 include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
+gpm-dev
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32

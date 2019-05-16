@@ -52,6 +52,7 @@ docbook-xml
 include(doxygen)
 e2fsprogs
 include(devpkg-elfutils)
+emacs
 include(devpkg-expat)
 expat-dev32
 expect

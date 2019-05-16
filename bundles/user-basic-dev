@@ -549,6 +549,7 @@ readline-dev32
 requests
 include(devpkg-rest)
 rest-dev32
+rpcbind
 rpm-build
 rpm-common
 ruby

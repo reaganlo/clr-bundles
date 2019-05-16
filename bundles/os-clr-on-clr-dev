@@ -323,7 +323,9 @@ groff
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
+gstreamer-dev32
 gtk+-dev
+gtk+-dev32
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -361,7 +363,6 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isodate
-itstool
 jansson-dev
 jemalloc-dev
 include(joe)
@@ -850,6 +851,7 @@ requests
 requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
+rpcbind
 rpm-build
 rpm-common
 rpm-dev

@@ -146,6 +146,7 @@ ebtables
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
+emacs
 include(devpkg-enchant)
 eog-dev
 include(devpkg-evolution-data-server)
