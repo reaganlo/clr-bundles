@@ -186,6 +186,7 @@ libcrypto
 libcryptsetup
 libcupsfilters
 libcurl
+libdaemon
 libdaxctl
 libdazzle-1.0
 libdmmp
