@@ -287,3 +287,4 @@ redshift # Adjust the color temperature of your monitor in the evenings to reduc
 kdeconnect-kde # No detailed summary available
 fluidsynth # A real-time software synthesizer based on the SoundFont 2 specifications
 qbittorrent # A BitTorrent client in Qt
+netdata # Real-time performance monitoring, in the greatest possible detail, over the web 
