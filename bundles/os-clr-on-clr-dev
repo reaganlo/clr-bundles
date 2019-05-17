@@ -21,6 +21,7 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cython
+Django
 Jinja2
 LVM2
 include(devpkg-LVM2)
@@ -108,6 +109,7 @@ include(devpkg-bluez)
 boost
 include(devpkg-boost)
 bridge-utils
+include(devpkg-brotli)
 bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
@@ -201,6 +203,7 @@ docutils-python
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
+dpcontracts
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -415,6 +418,7 @@ kwallet-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
+lark-parser
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -675,6 +679,7 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
 include(devpkg-pacrunner)
+pandas
 include(devpkg-pango)
 pango-dev32
 include(devpkg-parted)
