@@ -790,3 +790,4 @@ R-zoo
 # 3rd party libraries
 #
 eigen
+pandoc
