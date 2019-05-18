@@ -42,3 +42,5 @@ gnome-bluetooth-lib
 tdb-lib
 tracker
 tracker-extras
+pinentry
+pinentry-extras
