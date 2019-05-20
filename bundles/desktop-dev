@@ -11,7 +11,6 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
-include(devpkg-GConf)
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev
@@ -155,6 +154,7 @@ dbus-dev32
 dbus-extras
 include(devpkg-dbus-glib)
 dbus-glib-dev32
+dbus-python-dev
 dconf-dev
 defusedxml
 dejagnu
@@ -220,6 +220,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc7-dev
 gcc8-dev
 gcr-data
 include(devpkg-gcr)
@@ -558,7 +559,6 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)

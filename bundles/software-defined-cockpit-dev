@@ -144,6 +144,7 @@ gcc-dev
 gcc-dev32
 gcc-libgcc32
 gcc-libstdc++32
+gcc7-dev
 gcc8-dev
 include(gdb)
 gdb-dev
@@ -347,7 +348,6 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lz4)
 m4
