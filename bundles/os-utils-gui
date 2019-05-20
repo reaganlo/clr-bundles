@@ -21,7 +21,7 @@ include(thunderbird)
 include(thunderbird)
 include(wpa_supplicant)
 include(x11-server)
-include(xemacs)
+include(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
 

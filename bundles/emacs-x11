@@ -1,6 +1,6 @@
-# [TITLE]: xemacs
-# [DESCRIPTION]: (Deprecated, install emacs-x11)
-# [STATUS]: Deprecated
+# [TITLE]: emacs-x11
+# [DESCRIPTION]: Highly customizable text editor, gui build.
+# [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Productivity, Developer Tools, editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
@@ -14,4 +14,4 @@ include(lib-imageformat)
 # end of custom additions
 
 # main package
-include(emacs-x11)
+emacs-x11
