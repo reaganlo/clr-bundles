@@ -8,4 +8,12 @@ include(Babel)
 include(desktop-kde-libs)
 include(maker-basic)
 
+
+# low level components
+gdal
+geos
+proj
+
+# higher layer pieces
+grass
 QGIS
