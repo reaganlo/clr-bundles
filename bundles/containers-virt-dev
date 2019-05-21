@@ -69,6 +69,7 @@ expect
 file-dev
 include(flex)
 flex-dev
+fltk-dev
 gawk
 gcc
 gcc-dev
@@ -133,6 +134,7 @@ kmod-dev32
 include(less)
 include(devpkg-libX11)
 libX11-dev32
+include(devpkg-libXcursor)
 libabigail
 libaio-dev
 include(devpkg-libassuan)
@@ -152,6 +154,7 @@ include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgpg-error)
 libgpg-error-dev32
+libgpg-error-extras
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)

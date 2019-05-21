@@ -449,6 +449,7 @@ include(devpkg-libgee)
 include(devpkg-libgnomekbd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
+libgpg-error-extras
 include(devpkg-libgphoto2)
 include(devpkg-libgsystem)
 include(devpkg-libgtop)
@@ -895,7 +896,6 @@ xdg-desktop-portal
 include(devpkg-xdg-desktop-portal)
 xdg-user-dirs
 xdg-utils
-include(xemacs)
 include(devpkg-xf86-input-wacom)
 xkbcomp-bin
 include(devpkg-xkbcomp)

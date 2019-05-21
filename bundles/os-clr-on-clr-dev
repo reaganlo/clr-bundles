@@ -242,6 +242,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+fltk-dev
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
@@ -492,6 +493,7 @@ libgfortran-compat-soname3
 libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
+libgpg-error-extras
 include(devpkg-libgudev)
 libgudev-dev32
 include(devpkg-libgusb)
@@ -1009,7 +1011,6 @@ xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-utils
-include(xemacs)
 xfsprogs-dev
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlsec1)

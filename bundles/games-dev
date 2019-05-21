@@ -321,6 +321,7 @@ include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgpg-error)
 libgpg-error-dev32
+libgpg-error-extras
 include(devpkg-libgudev)
 libgudev-dev32
 include(devpkg-libgusb)

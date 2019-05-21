@@ -389,6 +389,7 @@ libgit2-dev
 libglade-dev
 include(devpkg-libgpg-error)
 libgpg-error-dev32
+libgpg-error-extras
 include(devpkg-libgphoto2)
 include(devpkg-libgsystem)
 include(devpkg-libgudev)
@@ -773,7 +774,6 @@ xcursorgen
 xdg-desktop-portal
 include(devpkg-xdg-desktop-portal)
 xdg-utils
-include(xemacs)
 xf86-input-evdev-dev
 xf86-input-synaptics-dev
 xfce4-panel-dev

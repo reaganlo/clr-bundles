@@ -153,6 +153,7 @@ libgfortran-compat-soname3
 libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
+libgpg-error-extras
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libmicrohttpd)
