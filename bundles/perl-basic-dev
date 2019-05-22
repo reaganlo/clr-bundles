@@ -133,6 +133,7 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+m4
 include(make)
 mpc-dev
 mpfr-dev

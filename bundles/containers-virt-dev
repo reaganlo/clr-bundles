@@ -155,6 +155,7 @@ libgcrypt-dev32
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
+libgpg-error-staticdev
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)

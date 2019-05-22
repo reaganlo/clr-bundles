@@ -156,6 +156,7 @@ include(devpkg-libxml2)
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+include(llvm)
 include(devpkg-lua)
 m4
 include(make)
