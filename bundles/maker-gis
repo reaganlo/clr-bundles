@@ -10,17 +10,24 @@ include(maker-basic)
 include(c-basic)
 
 
+
+#
+# Reference stack for GIS at https://live.osgeo.org/en/overview/overview.html
+#
+
 # low level components
 gdal
 geos
 proj
 
+
 # higher layer pieces
 grass
 QGIS
-
+postgis
 
 # core dev compoments
 gdal-dev
 geos-dev
 proj-dev
+CGAL-dev
