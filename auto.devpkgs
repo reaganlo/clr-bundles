@@ -429,6 +429,7 @@ lua
 mozjs-52
 mozjs-60
 mpv
+mraa
 ncurses
 ogg
 ompi
