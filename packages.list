@@ -289,4 +289,5 @@ fluidsynth # A real-time software synthesizer based on the SoundFont 2 specifica
 qbittorrent # A BitTorrent client in Qt
 netdata # Real-time performance monitoring, in the greatest possible detail, over the web
 aria2 # High speed download utility library
-gnome-boxes # Library for reading and writing virtual machine images in the Open Virtualization Format 
+gnome-boxes # Library for reading and writing virtual machine images in the Open Virtualization Format
+testdisk # Recover various partition failures and deleted files
