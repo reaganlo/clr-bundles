@@ -18,13 +18,13 @@ gdk-pixbuf
 hicolor-icon-theme
 include(fonts-basic)
 include(polkit)
+include(x11-server)
 liberation-fonts
 lightdm-gtk-greeter
 paper-icon-theme
 powerline-fonts
 terminus-font
 Vertex-theme
-x11-server
 xcursor-themes
 # end of custom additions
 
