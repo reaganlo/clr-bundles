@@ -10,9 +10,16 @@ include(libglib)
 
 # start of custom additions (edits outside this area will be removed automatically)
 accountsservice
-lightdm-gtk-greeter
+adwaita-icon-theme
+arc-theme
+gdk-pixbuf
+hicolor-icon-theme
 include(polkit)
+lightdm-gtk-greeter
+paper-icon-theme
+Vertex-theme
 x11-server
+xcursor-themes
 # end of custom additions
 
 # main package
