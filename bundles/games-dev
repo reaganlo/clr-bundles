@@ -22,6 +22,7 @@ Markdown
 ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
+PySocks
 PyYAML
 include(devpkg-SDL)
 SDL-dev32
@@ -56,7 +57,6 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
-atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs-python
@@ -76,6 +76,7 @@ bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
 include(devpkg-brotli)
+brotlipy
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -414,7 +415,6 @@ meson
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
-more-itertools-python
 mozjs-dev
 include(devpkg-mozjs52)
 mpc-dev

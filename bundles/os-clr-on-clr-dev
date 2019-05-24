@@ -41,6 +41,7 @@ ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
 Pillow
+PySocks
 PyYAML
 Pygments
 R
@@ -84,7 +85,6 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 atomicwrites
-atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -115,6 +115,7 @@ boost
 include(devpkg-boost)
 bridge-utils
 include(devpkg-brotli)
+brotlipy
 bsdiff-dev
 btrfs-progs-dev
 buildreq-cmake
@@ -621,7 +622,6 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mock
 more-itertools
-more-itertools-python
 mozjs-dev
 include(devpkg-mozjs52)
 mpc-dev
