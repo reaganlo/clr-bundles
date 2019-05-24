@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Graphical debugger front-end; GDB, DBX, Ladebug, JDB, Perl, Python.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Python, perl
+# [TAGS]: Developer Tools, Python, Perl
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

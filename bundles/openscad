@@ -2,7 +2,7 @@
 # [DESCRIPTION]: The programmers solid 3D CAD modeller.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, application
+# [TAGS]: Developer Tools, Applications
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(qt-basic)

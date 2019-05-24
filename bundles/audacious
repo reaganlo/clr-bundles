@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Music player for Gtk/GNOME
 # [STATUS]: Active
 # [CAPABILITIES]: Play MP3, OGG, and FLAC music files
-# [TAGS]: Graphics and Multimedia
+# [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libX11client)

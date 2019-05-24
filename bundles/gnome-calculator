@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Software calculator integrated with the GNOME desktop environment.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Tools and Utilities, application
+# [TAGS]: Productivity, Tools and Utilities, Applications
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)

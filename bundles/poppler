@@ -2,6 +2,6 @@
 # [DESCRIPTION]: PDF rendering library based on xpdf-3.0 code base.
 # [STATUS]: Wip
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, documentation
+# [TAGS]: Tools and Utilities, Documentation
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 poppler

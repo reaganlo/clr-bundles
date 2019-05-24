@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Round Robin Database and graphing tool for time-series data.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Python, database, storage
+# [TAGS]: Tools and Utilities, Python, Databases, Storage
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

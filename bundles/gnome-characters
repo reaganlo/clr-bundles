@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Utility application to find and insert unusual characters.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Other, application
+# [TAGS]: Other, Applications
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libglib)

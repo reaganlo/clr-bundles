@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Python-based documentation tool supporting multiple outputs and programming languages.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, documentation, Python
+# [TAGS]: Developer Tools, Documentation, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

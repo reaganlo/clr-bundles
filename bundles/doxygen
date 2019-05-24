@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Documentation system for C++, Java, IDL, Python, and PHP.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Developer Tools, documentation
+# [TAGS]: Tools and Utilities, Developer Tools, Documentation
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

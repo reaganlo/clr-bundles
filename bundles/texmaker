@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Cross-platfrom LaTeX editor.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, documentation
+# [TAGS]: Tools and Utilities, Documentation
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(qt-basic)

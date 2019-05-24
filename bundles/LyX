@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Document processor and WYSIWYM LaTeX editor.
 # [STATUS]: Wip
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, editor, documentation
+# [TAGS]: Tools and Utilities, editor, Documentation
 # [MAINTAINER]: Humberto Nanni <humberto.nanni@intel.com>
 include(qt-basic)
 include(texlive)
