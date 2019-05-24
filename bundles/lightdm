@@ -12,11 +12,17 @@ include(libglib)
 accountsservice
 adwaita-icon-theme
 arc-theme
+cantarell-fonts
+clear-font
 gdk-pixbuf
 hicolor-icon-theme
+include(fonts-basic)
 include(polkit)
+liberation-fonts
 lightdm-gtk-greeter
 paper-icon-theme
+powerline-fonts
+terminus-font
 Vertex-theme
 x11-server
 xcursor-themes
