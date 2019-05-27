@@ -182,7 +182,7 @@ include(devpkg-libxml2)
 libxml2-dev32
 include(libxslt)
 libxslt-bin
-include(linux-iot-lts2018-dev)
+linux-iot-lts2018-dev
 linux-libc-headers
 m4
 include(make)

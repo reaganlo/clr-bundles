@@ -1006,6 +1006,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
 include(wget)
+wheel
 include(which)
 include(devpkg-xapian-core)
 xcb-proto

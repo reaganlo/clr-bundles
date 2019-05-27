@@ -496,6 +496,7 @@ R-reshape
 R-reshape2
 R-reticulate
 R-rgenoud
+R-rgeos
 R-rgl
 R-rhandsontable
 R-rhub
@@ -578,7 +579,6 @@ R-subselect
 R-superpc
 R-survey
 R-sys
-R-systemfit
 R-taxize
 R-tclust
 R-tensor

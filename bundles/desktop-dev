@@ -830,7 +830,7 @@ include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
-taglib-dev
+include(devpkg-taglib)
 include(devpkg-talloc)
 talloc-extras
 talloc-python3

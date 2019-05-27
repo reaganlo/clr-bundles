@@ -528,7 +528,7 @@ include(devpkg-systemd)
 systemd-dev32
 systemd-extras
 systemd-lib
-taglib-dev
+include(devpkg-taglib)
 tar
 tcl
 tcl-dev
