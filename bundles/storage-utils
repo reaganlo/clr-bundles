@@ -25,6 +25,7 @@ gptfdisk
 ipmctl
 lsscsi
 mdadm
+mtools
 multipath-tools
 ndctl
 include(nfs-utils)
