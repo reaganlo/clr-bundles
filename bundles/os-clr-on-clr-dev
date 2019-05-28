@@ -47,6 +47,7 @@ Pygments
 R
 include(devpkg-R)
 include(devpkg-SDL)
+SFCGAL-dev
 include(Sphinx)
 Sphinx-python
 Vulkan-Headers-data
@@ -279,6 +280,7 @@ gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
+geos-dev
 gettext
 gettext-bin
 gettext-dev
@@ -799,6 +801,7 @@ polkit-dev
 polkit-qt-dev
 poppler
 poppler-dev
+poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 ppp-dev
@@ -808,6 +811,8 @@ processor-trace-dev
 procmail
 include(procps-ng)
 procps-ng-bin
+proj
+proj-dev
 protobuf-dev
 psutil
 ptyprocess
@@ -845,6 +850,7 @@ python3-core
 python3-dev
 pytz
 qemu
+qhull-dev
 qscintilla
 qscintilla-dev
 include(devpkg-qtbase)
@@ -1013,6 +1019,7 @@ xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xdg-utils
+xerces-c-dev
 xfsprogs-dev
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlsec1)

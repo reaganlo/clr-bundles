@@ -634,6 +634,7 @@ R-zeallot
 R-zip
 R-zoo
 include(devpkg-SDL)
+SFCGAL-dev
 include(Sphinx)
 SuiteSparse-dev
 Vulkan-Headers-dev
@@ -986,6 +987,7 @@ nss-altfiles
 nss-bin
 include(devpkg-nss)
 numpy
+ocl-icd-dev
 octave-dev
 onig-dev
 include(openblas)
@@ -1072,10 +1074,12 @@ pkg-config-dev
 pluggy-python
 polkit-dev
 poppler-dev
+poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
+proj
 proj-dev
 protobuf-dev
 pycparser
@@ -1085,6 +1089,7 @@ python3
 python3-core
 python3-dev
 qemu
+qhull-dev
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-readline)
@@ -1153,6 +1158,7 @@ include(which)
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils
+xerces-c-dev
 include(devpkg-xkeyboard-config)
 include(devpkg-xmlsec1)
 xmlto
