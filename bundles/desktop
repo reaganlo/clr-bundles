@@ -43,6 +43,7 @@ gtk+
 gtk3
 ibus
 ibus-libpinyin
+ibus-unikey
 iso-codes
 json-glib
 libcanberra
