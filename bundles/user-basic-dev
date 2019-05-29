@@ -268,6 +268,7 @@ libX11-lib
 libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+libXcursor-dev32
 include(devpkg-libXft)
 libXft-dev32
 include(devpkg-libXmu)
@@ -372,6 +373,7 @@ libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libuser)
 include(devpkg-libva)
+libvdpau-dev
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(libxml2)
@@ -384,6 +386,7 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)

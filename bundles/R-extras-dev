@@ -7,6 +7,7 @@
 include(R-extras)
 include(dev-utils)
 include(os-core-dev)
+CGAL-dev
 CUnit-dev
 CUnit-dev32
 Cython
@@ -715,6 +716,7 @@ include(diffutils)
 include(docbook-utils)
 docbook-xml
 include(docutils)
+double-conversion-dev
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -823,6 +825,7 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-iso-codes)
 iso8601
+jemalloc-dev
 jq-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -842,6 +845,7 @@ libX11-lib
 libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+libXcursor-dev32
 include(devpkg-libXft)
 libXft-dev32
 include(devpkg-libXmu)
@@ -880,6 +884,7 @@ include(devpkg-libevdev)
 libevdev-dev32
 include(devpkg-libevent)
 libevent-dev32
+libfastjson-dev
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
@@ -939,6 +944,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
+libvdpau-dev
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -951,12 +957,14 @@ include(devpkg-libxslt)
 libzmq-dev
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 include(devpkg-lz4)
 m4
 include(make)
 makedepend
+include(devpkg-mariadb)
 include(devpkg-mesa)
 mesa-dev32
 meson
@@ -994,6 +1002,7 @@ include(openblas)
 include(devpkg-openblas)
 openblas-staticdev
 openexr-dev
+openjade-dev
 openjdk
 openjdk9
 openjdk9-dev
@@ -1007,11 +1016,13 @@ openssl-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
+include(devpkg-pacrunner)
 include(devpkg-pango)
 pango-dev32
 include(patch)
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 perl
 perl-B-Hooks-EndOfScope
 perl-Class-Data-Inheritable
@@ -1033,6 +1044,7 @@ perl-HTTP-Negotiate
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
+perl-IPC-Run
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
@@ -1074,12 +1086,10 @@ pkg-config-dev
 pluggy-python
 polkit-dev
 poppler-dev
-poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 include(procps-ng)
 procps-ng-bin
-proj
 proj-dev
 protobuf-dev
 pycparser

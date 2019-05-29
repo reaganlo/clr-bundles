@@ -33,6 +33,7 @@ include(devpkg-SDL2_image)
 SDL2_image-dev32
 include(Sphinx)
 Thunar-dev
+UCD
 Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -330,6 +331,7 @@ libX11-lib
 libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+libXcursor-dev32
 include(devpkg-libXfont)
 include(devpkg-libXfont2)
 include(devpkg-libXft)
@@ -468,6 +470,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
+libvdpau-dev
 include(devpkg-libvirt)
 libvirt-glib-dev
 libvorbis-dev

@@ -33,6 +33,7 @@ SDL2-dev32
 include(devpkg-SDL2_image)
 SDL2_image-dev32
 include(Sphinx)
+UCD
 Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -388,6 +389,7 @@ libX11-lib
 libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+libXcursor-dev32
 include(devpkg-libXfont)
 include(devpkg-libXfont2)
 include(devpkg-libXft)
@@ -539,6 +541,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
+libvdpau-dev
 libvorbis-dev
 libvorbis-dev32
 libvpx-dev
@@ -561,6 +564,7 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)

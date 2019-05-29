@@ -16,6 +16,7 @@ Linux-PAM-dev32
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
+include(acpica-unix2)
 acrn-hypervisor-dev
 asciidoc
 asn1crypto
@@ -85,6 +86,7 @@ gcc-libgcc32
 gcc-libstdc++32
 gcc7-dev
 gcc8-dev
+include(gdb)
 gdb-dev
 gdbm-dev
 gettext
@@ -254,6 +256,7 @@ systemd-lib
 tar
 tcl
 tcl-dev
+telemetrics-client
 include(devpkg-telemetrics-client)
 include(texinfo)
 thin-provisioning-tools

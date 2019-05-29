@@ -17,6 +17,7 @@ include(perl-basic-dev)
 include(storage-utils-dev)
 include(sysadmin-basic-dev)
 include(Babel)
+CGAL-dev
 CUnit
 CUnit-dev
 CUnit-dev32
@@ -441,6 +442,7 @@ libX11-lib
 libX11-lib32
 include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
+libXcursor-dev32
 include(devpkg-libXft)
 libXft-dev32
 include(devpkg-libXmu)
@@ -576,6 +578,7 @@ include(devpkg-libusb)
 include(devpkg-libuser)
 libuv-dev
 include(devpkg-libva)
+libvdpau-dev
 libvorbis-dev
 libvorbis-dev32
 include(devpkg-libwebp)
