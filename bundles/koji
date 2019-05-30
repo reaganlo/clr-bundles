@@ -17,5 +17,3 @@ mod_wsgi
 include(nfs-utils)
 include(postgresql)
 python2-mod_wsgi-legacypython
-#yum
-#yum-metadata-parser
