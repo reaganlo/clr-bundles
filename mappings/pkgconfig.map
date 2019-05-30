@@ -72,6 +72,7 @@ pkgconfig(xinerama)	devpkg-libX11
 pkgconfig(xineramaproto)	devpkg-xorgproto
 pkgconfig(xi)	devpkg-libX11
 pkgconfig(inputproto)	devpkg-xorgproto
+pkgconfig(xcursor)	devpkg-libXcursor
 pkgconfig(wayland-protocols)	devpkg-wayland-protocols
 pkgconfig(xkbcommon)	devpkg-libxkbcommon
 pkgconfig(wayland-cursor)	devpkg-wayland
@@ -580,7 +581,6 @@ pkgconfig(xcb-xtest)	devpkg-libX11
 pkgconfig(xcb-xv)	devpkg-libX11
 pkgconfig(xcb-xvmc)	devpkg-libX11
 pkgconfig(xcmiscproto)	devpkg-xorgproto
-pkgconfig(xcursor)	devpkg-libXcursor
 pkgconfig(xdg-desktop-portal)	devpkg-xdg-desktop-portal
 pkgconfig(xf86bigfontproto)	devpkg-xorgproto
 pkgconfig(xf86dgaproto)	devpkg-xorgproto
