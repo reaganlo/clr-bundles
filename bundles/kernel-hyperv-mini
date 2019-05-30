@@ -1,6 +1,6 @@
 # [TITLE]: kernel-hyperv-mini
 # [DESCRIPTION]: Run the Microsoft Hyper-V mini-os specific kernel.
-# [STATUS]: Deprecated
+# [STATUS]: Pending Delete
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, kernel
 # [MAINTAINER]: William Douglas
