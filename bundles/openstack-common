@@ -18,7 +18,6 @@ debtcollector
 elixir
 funcsigs
 functools32
-futures
 include(haproxy)
 iso8601
 jsonschema
