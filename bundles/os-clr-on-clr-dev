@@ -467,6 +467,7 @@ libatomic_ops-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -695,6 +696,7 @@ p11-kit-dev32
 packaging
 include(devpkg-pacrunner)
 pandas
+pandoc
 include(devpkg-pango)
 pango-dev32
 include(devpkg-parted)

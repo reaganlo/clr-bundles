@@ -359,6 +359,7 @@ libburn-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -581,6 +582,7 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 p7zip
 include(devpkg-pacrunner)
+pandoc
 include(devpkg-pango)
 pango-dev32
 include(devpkg-pangomm)

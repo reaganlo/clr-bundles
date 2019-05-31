@@ -418,6 +418,7 @@ libbytesize-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -659,6 +660,7 @@ p11-kit-dev32
 p7zip
 packaging
 include(devpkg-pacrunner)
+pandoc
 include(devpkg-pango)
 pango-dev32
 include(devpkg-pangomm)

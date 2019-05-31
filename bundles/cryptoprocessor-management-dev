@@ -113,6 +113,7 @@ libabigail
 libaio-dev
 libc6
 libc6-dev
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)

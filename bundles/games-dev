@@ -297,6 +297,7 @@ libaio-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)

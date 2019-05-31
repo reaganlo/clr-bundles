@@ -290,6 +290,7 @@ include(devpkg-libassuan)
 libatomic_ops-dev
 libc6
 libc6-dev
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -446,6 +447,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(devpkg-pacrunner)
+pandoc
 include(devpkg-pango)
 pango-dev32
 include(devpkg-parted)

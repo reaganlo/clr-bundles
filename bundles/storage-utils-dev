@@ -150,6 +150,7 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
 libc6-dev
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -234,6 +235,7 @@ openssl-lib32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
+pandoc
 include(patch)
 pbr
 include(devpkg-pcre)

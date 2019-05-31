@@ -136,6 +136,7 @@ libabigail
 libaio-dev
 libatomic_ops-dev
 libc6-dev
+libcap
 include(devpkg-libcap)
 libcap-dev32
 include(devpkg-libcap-ng)
@@ -212,6 +213,7 @@ openssl-lib32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
+pandoc
 include(patch)
 include(devpkg-pciutils)
 include(devpkg-pcre)
