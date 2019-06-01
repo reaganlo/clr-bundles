@@ -20,7 +20,7 @@ include(binutils)
 expect
 glibc-bin
 openssh
-openssh-server-extras
+openssh-extras-server
 perl
 perl-YAML-Tiny
 rsync
