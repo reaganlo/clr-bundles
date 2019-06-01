@@ -15,5 +15,3 @@ linux-lts2017-cpio
 linux-lts2018-cpio
 linux-mainline-cpio
 
-# firmware
-linux-firmware-i915-cpio
