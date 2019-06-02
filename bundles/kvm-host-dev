@@ -377,6 +377,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
+include(polkit)
 polkit-dev
 include(devpkg-popt)
 prettytable

@@ -110,6 +110,7 @@ bdftopcf
 beignet-dev
 include(binutils)
 binutils-dev
+binwalk
 include(bison)
 bison-dev
 include(devpkg-bluez)
@@ -203,6 +204,7 @@ deprecated-unittest2-legacypython
 desktop-file-utils
 dhcp
 include(diffutils)
+distro
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -385,6 +387,7 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
+jsondiff
 jsonschema-python
 karchive-dev
 kauth
@@ -577,6 +580,7 @@ include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libuser)
+libuv
 libuv-dev
 include(devpkg-libva)
 libvdpau-dev
@@ -802,6 +806,7 @@ pluggy
 pluggy-python
 ply
 include(plzip)
+include(polkit)
 polkit-dev
 polkit-qt-dev
 poppler
@@ -816,6 +821,7 @@ processor-trace-dev
 procmail
 include(procps-ng)
 procps-ng-bin
+progressbar
 proj
 proj-dev
 protobuf-dev
@@ -843,6 +849,7 @@ python-core
 python-dateutil
 python-dateutil-legacypython-legacypython
 python-dev
+python-future
 python-magic
 python-memcached
 python-mimeparse
@@ -854,6 +861,7 @@ python3
 python3-core
 python3-dev
 pytz
+pyxattr
 qemu
 qhull-dev
 qscintilla
