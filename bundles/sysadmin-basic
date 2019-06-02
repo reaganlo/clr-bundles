@@ -48,6 +48,7 @@ include(gzip)
 hdparm
 hostname
 include(htop)
+innoextract
 include(iperf)
 include(kbd)
 include(kernel-install)
