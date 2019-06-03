@@ -292,4 +292,5 @@ aria2 # High speed download utility library
 gnome-boxes # Library for reading and writing virtual machine images in the Open Virtualization Format
 testdisk # Recover various partition failures and deleted files
 zathura # Minimalistic document viewer
-feh # No detailed summary available 
+feh # No detailed summary available
+nim # Imperative, multi-paradigm, compiled programming language
