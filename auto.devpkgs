@@ -423,6 +423,7 @@ libxml-2.0
 libxslt
 libyami
 libzip
+libzmq
 libzstd
 LLVMSPIRVLib
 lua
