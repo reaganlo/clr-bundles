@@ -14,6 +14,18 @@ All bundle files must include a filled-out bundle-header.txt at the top
 of the file. These are used to generate documentation, so be descriptive
 and precise.
 
+Bundles must have a `STATUS` set, it can be of the following types:
+- WIP
+- Active
+- Deprecated
+- Pending-Delete
+
+Where WIP is potentially not functional, Active is functional and has tests
+to validate functionality, Deprecated is going to be replaced and removed,
+Pending-Delete is going to be removed. Generally if something is Deprecated
+after a format bump that includes its replacement has occured the bundle
+will change to Pending-Delete.
+
 In bundle-header `TAGS`, add at least one category to which your bundle applies:
 
 - Data Science
@@ -43,5 +55,4 @@ a dependency graph of the bundles. Run it as so:
 This will output a "dot.svg" file that can be opened with a web browser.
 
 Currently maintained by:
-Robert Nesius <robert.a.nesius@intel.com>
 William Douglas <william.douglas@intel.com>
