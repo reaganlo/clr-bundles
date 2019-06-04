@@ -27,6 +27,8 @@ GConf-lib
 NetworkManager-data
 NetworkManager-lib
 NetworkManager-lib32
+Vulkan-Loader-lib
+Vulkan-Loader-lib32
 acl-lib32
 alsa-lib-lib32
 atk-lib32
