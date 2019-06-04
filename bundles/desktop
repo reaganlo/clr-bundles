@@ -44,6 +44,15 @@ gtk3
 ibus
 ibus-libpinyin
 ibus-unikey
+ibus-chewing
+ibus-hangul
+ibus-kkc
+ibus-m17n
+ibus-rawcode
+ibus-sayura
+ibus-table
+ibus-table-chinese
+ibus-typing-booster
 iso-codes
 json-glib
 libcanberra
@@ -52,6 +61,7 @@ libgweather
 libinput
 libmtp
 libnotify
+libpinyin
 librsvg
 include(linux-firmware-extras)
 include(linux-firmware-wifi)
