@@ -45,6 +45,7 @@ patchutils
 quilt
 rsync
 rt-tests
+scdoc
 source-highlight
 include(strace)
 stress-ng
