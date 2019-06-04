@@ -248,6 +248,7 @@ include(devpkg-gimp)
 include(git)
 include(gjs)
 include(devpkg-gjs)
+glib
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -341,6 +342,7 @@ hostname
 hunspell-dev
 hypothesis-python
 ibus-dev
+ibus-table-dev
 icon-naming-utils-dev
 include(devpkg-icu4c)
 icu4c-dev32
@@ -912,6 +914,7 @@ xf86-video-vesa
 xkbcomp-bin
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
+xmlb-dev
 xmlto
 xorg-fonts
 xorg-server
