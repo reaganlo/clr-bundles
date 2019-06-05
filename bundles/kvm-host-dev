@@ -73,6 +73,8 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+cmd2
+colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 coreutils
@@ -94,6 +96,7 @@ include(docbook-utils)
 docbook-xml
 include(dosfstools)
 include(doxygen)
+dpdk-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -392,6 +395,7 @@ python3
 python3-core
 python3-dev
 qemu
+rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32

@@ -350,6 +350,7 @@ readline-dev32
 rpm-build
 rpm-common
 ruby
+scdoc-dev
 scikit-build
 sed
 setuptools

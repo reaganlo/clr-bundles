@@ -95,7 +95,9 @@ check-dev32
 clear-font
 clr-rpm-config
 cmake
+cmd2
 cmocka-dev
+colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 coreutils
@@ -125,6 +127,7 @@ docbook-xml
 include(docutils)
 include(dosfstools)
 include(doxygen)
+dpdk-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -550,6 +553,7 @@ qemu
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-qttools)
+rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32

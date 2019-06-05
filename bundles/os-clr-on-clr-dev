@@ -150,6 +150,7 @@ clear-font
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+cmd2
 cmocka-dev
 include(devpkg-cmrt)
 colorama
@@ -214,6 +215,7 @@ include(dosfstools)
 double-conversion-dev
 include(doxygen)
 dpcontracts
+dpdk-dev
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -893,6 +895,7 @@ include(devpkg-qtwebchannel)
 qtwebsockets-dev
 qtx11extras-dev
 qtxmlpatterns-dev
+rabbitmq-c-dev
 include(devpkg-rdma-core)
 re2c
 include(devpkg-readline)
