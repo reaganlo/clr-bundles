@@ -40,8 +40,6 @@ include(devpkg-attr)
 autoconf
 autoconf-data
 include(bc)
-beignet
-beignet-dev
 include(bison)
 bndl-lamp-basic
 include(devpkg-boost)

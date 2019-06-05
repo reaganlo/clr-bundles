@@ -36,8 +36,6 @@ include(devpkg-attr)
 autoconf
 autoconf-data
 include(bc)
-beignet
-beignet-dev
 include(bison)
 include(devpkg-boost)
 bzip2-dev

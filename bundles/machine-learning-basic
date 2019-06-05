@@ -38,8 +38,6 @@ aeon
 appdirs
 astroid
 bazel
-beignet
-beignet-dev
 bokeh
 include(devpkg-boost)
 cycler-python
