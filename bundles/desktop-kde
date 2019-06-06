@@ -124,6 +124,7 @@ include(NetworkManager-extras)
 NetworkManager-openconnect
 oxygen
 phonon
+phonon-vlc
 plasma-browser-integration
 plasma-desktop
 plasma-discover
