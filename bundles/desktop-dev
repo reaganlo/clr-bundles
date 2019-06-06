@@ -452,6 +452,9 @@ libgcrypt-dev32
 include(devpkg-libgd)
 include(devpkg-libgdata)
 include(devpkg-libgee)
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 include(devpkg-libgnomekbd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32

@@ -388,6 +388,9 @@ include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgd)
 include(devpkg-libgdata)
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 libgit2-dev
 libglade-dev
 include(devpkg-libgpg-error)
