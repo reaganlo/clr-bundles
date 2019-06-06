@@ -116,6 +116,7 @@ kxmlgui
 libassuan
 libkscreen
 libksysguard
+libmtp
 include(libxslt)
 milou
 ModemManager
