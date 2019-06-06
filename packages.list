@@ -295,4 +295,5 @@ zathura # Minimalistic document viewer
 feh # No detailed summary available
 nim # Imperative, multi-paradigm, compiled programming language
 apache-flink # Powerful distributed stream and batch data processing framework
-xorriso # No detailed summary available 
+xorriso # No detailed summary available
+zoneminder # A camera monitoring and analysis tool
