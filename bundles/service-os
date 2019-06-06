@@ -6,11 +6,7 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
 # Boot Software
-include(bootloader)
-include(linux-firmware)
-linux-firmware-ipu
-linux-iot-lts2018-sos
-mcelog
+include(kernel-iot-lts2018-sos)
 
 # Thermal control
 include(thermal_daemon)
