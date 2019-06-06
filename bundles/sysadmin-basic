@@ -85,8 +85,8 @@ screen
 sed
 setserial
 shadow
-shadow-doc
-shadow-locale
+shadow-man
+shadow-locales
 sharutils
 socat
 stow
