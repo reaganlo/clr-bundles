@@ -294,3 +294,4 @@ testdisk # Recover various partition failures and deleted files
 zathura # Minimalistic document viewer
 feh # No detailed summary available
 nim # Imperative, multi-paradigm, compiled programming language
+apache-flink # Powerful distributed stream and batch data processing framework
