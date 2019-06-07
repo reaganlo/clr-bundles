@@ -130,6 +130,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -143,6 +144,7 @@ ceph-dev
 certifi
 cffi
 cffi-python
+chardet
 check
 check-dev
 check-dev32
@@ -1006,6 +1008,7 @@ unittest2
 unittest2-python
 unixODBC-dev
 include(unzip)
+urllib3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
 util-linux

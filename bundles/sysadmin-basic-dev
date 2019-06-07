@@ -292,6 +292,7 @@ ruby
 sed
 setuptools
 shadow
+shadow-dev
 shared-mime-info
 six
 slang-dev

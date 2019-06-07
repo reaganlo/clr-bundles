@@ -95,6 +95,7 @@ cairo-dev32
 certifi
 cffi
 cffi-python
+chardet
 check-dev
 check-dev32
 clear-font
@@ -408,7 +409,6 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 include(devpkg-lz4)
@@ -619,6 +619,7 @@ tox
 tpm2-tss-dev
 include(tzdata)
 include(unzip)
+urllib3
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

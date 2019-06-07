@@ -385,7 +385,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lz4)
 lzo-dev
@@ -506,6 +505,7 @@ readline-dev32
 include(devpkg-rest)
 rest-dev32
 rpm-build
+rtmpdump-dev
 ruby
 sassc
 sbc-dev

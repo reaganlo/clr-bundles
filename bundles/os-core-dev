@@ -191,6 +191,7 @@ rpm-build
 ruby
 sed
 shadow
+shadow-dev
 slang-dev
 include(strace)
 swig

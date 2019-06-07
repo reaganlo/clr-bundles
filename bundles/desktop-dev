@@ -110,6 +110,7 @@ caribou-dev
 certifi
 cffi
 cffi-python
+chardet
 check
 check-dev
 check-dev32
@@ -156,6 +157,7 @@ dbus-dev32
 dbus-extras
 include(devpkg-dbus-glib)
 dbus-glib-dev32
+dbus-python
 dbus-python-dev
 dconf-dev
 defusedxml
@@ -570,7 +572,6 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -804,6 +805,7 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 rpm-dev
+rtmpdump-dev
 ruby
 ruby-dev
 rust-std32
@@ -874,6 +876,7 @@ include(devpkg-uhttpmock)
 unittest2
 include(unzip)
 upower-dev
+urllib3
 usrbinpython
 util-linux
 util-linux-bin
