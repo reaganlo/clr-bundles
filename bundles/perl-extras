@@ -35,6 +35,7 @@ perl-B-Hooks-OP-Check
 perl-B-Keywords
 perl-BSD-Resource
 perl-Biblio-EndnoteStyle
+perl-Bit-Vector
 perl-Browser-Open
 perl-Business-ISBN
 perl-Business-ISBN-Data
@@ -111,6 +112,7 @@ perl-Curses
 perl-DBD-Pg
 perl-DBD-SQLite
 perl-DBD-SQLite2
+perl-DBD-mysql
 perl-DBI
 perl-DBICx-TestDatabase
 perl-DBIx-Class
@@ -135,10 +137,12 @@ perl-Data-Page
 perl-Data-Password
 perl-Data-Printer
 perl-Data-Random
+perl-Data-Section
 perl-Data-Serializer
 perl-Data-Structure-Util
 perl-Data-Uniqid
 perl-Data-Validate-IP
+perl-Date-Manip
 perl-DateTime
 perl-DateTime-Format-Builder
 perl-DateTime-Format-DateParse
@@ -310,6 +314,7 @@ perl-Inline-C
 perl-JSON
 perl-JSON-MaybeXS
 perl-JSON-RPC
+perl-JSON-XS
 perl-JavaScript-Minifier-XS
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
@@ -485,6 +490,7 @@ perl-Set-Scalar
 perl-Smart-Comments
 perl-Socket-MsgHdr
 perl-Socket6
+perl-Software-License
 perl-Sort-Key
 perl-Sort-Naturally
 perl-Sort-Versions
