@@ -85,4 +85,4 @@ urlgrabber
 include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
 xmlstarlet
-xorriso
+include(xorriso)

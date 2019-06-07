@@ -58,7 +58,7 @@ stevedore
 sysfsutils
 tgt
 watchdogd
-xorriso
+include(xorriso)
 
 # the base openstack components
 barbican

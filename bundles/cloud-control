@@ -23,4 +23,4 @@ docker
 openssh
 psmisc
 include(sqlite)
-xorriso
+include(xorriso)
