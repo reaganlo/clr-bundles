@@ -53,6 +53,7 @@ include(iperf)
 include(kbd)
 include(kernel-install)
 kmod
+ledmon
 include(less)
 libcap-bin
 LS_COLORS
