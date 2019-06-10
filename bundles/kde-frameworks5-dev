@@ -293,7 +293,6 @@ libcap-ng-dev32
 include(devpkg-libcgroup)
 include(devpkg-libdatrie)
 libdatrie-dev32
-libdbusmenu-dev
 libdbusmenu-qt-dev
 include(devpkg-libdrm)
 libdrm-dev32
@@ -498,7 +497,6 @@ include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtwebchannel)
 qtwebsockets-dev
-qtx11extras-dev
 re2-dev
 include(devpkg-readline)
 readline-dev32

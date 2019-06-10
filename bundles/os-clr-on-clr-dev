@@ -421,12 +421,12 @@ kio-dev
 kirigami2-dev
 kitemviews-dev
 kjobwidgets-dev
+kmime-dev
 kmod
 kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 knotifications-dev
-kpackage-dev
 kparts-dev
 kplotting-dev
 include(devpkg-krb5)
@@ -484,7 +484,6 @@ include(devpkg-libcroco)
 libcroco-dev32
 include(devpkg-libdatrie)
 libdatrie-dev32
-libdbusmenu-dev
 libdbusmenu-qt-dev
 include(devpkg-libdrm)
 libdrm-dev32
@@ -796,7 +795,6 @@ perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pexpect
-phonon-dev
 php
 php-dev
 pigz
