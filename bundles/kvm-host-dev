@@ -46,6 +46,7 @@ automake-dev
 babeltrace-dev
 bash-completion-dev
 bats
+include(bc)
 beignet-dev
 include(binutils)
 binutils-dev
@@ -314,6 +315,7 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 include(devpkg-lz4)

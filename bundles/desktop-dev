@@ -572,6 +572,7 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -800,6 +801,7 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 requests
+requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32

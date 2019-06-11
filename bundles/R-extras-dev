@@ -957,6 +957,7 @@ include(devpkg-libxslt)
 include(devpkg-libzmq)
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 include(devpkg-lz4)

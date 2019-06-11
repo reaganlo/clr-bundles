@@ -902,6 +902,7 @@ include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
+requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
