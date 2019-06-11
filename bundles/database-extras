@@ -5,7 +5,7 @@
 # [TAGS]: Tools and Utilities, Databases
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(python3-basic)
+include(database-basic)
+include(lib-opengl)
 
-include(mariadb)
-include(postgresql)
-include(sqlite)
+gdal
