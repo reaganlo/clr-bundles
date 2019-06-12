@@ -9,7 +9,6 @@ include(python3-basic)
 
 # start of custom additions
 include(tcl-basic)
-python3-tcl
 # end of custom additions
 
 # main package
