@@ -24,6 +24,7 @@ boinc-client # volunteer computing and grid computing
 borgbackup # Deduplicating archiver with compression and authenticated encryption.
 cabextract # Manipulate CAB archives
 calc # Arbitrary precision console calculator
+cassandra # A free and open-source, distributed, wide column store, NoSQL database
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 ccache # cache compilations to avoid redoing the same computation and speed project build times
 ceph # Ceph Base Package
