@@ -7,5 +7,7 @@
 include(python3-basic)
 include(database-basic)
 include(lib-opengl)
+include(lib-imageformat)
+include(libX11client)
 
 gdal
