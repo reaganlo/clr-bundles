@@ -291,6 +291,7 @@ rpm-build
 ruby
 sed
 setuptools
+sg3_utils-dev
 shadow
 shadow-dev
 shared-mime-info

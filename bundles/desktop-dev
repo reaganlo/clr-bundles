@@ -822,6 +822,7 @@ sed
 setuptools
 setuptools-legacypython
 setuptools-python
+sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
