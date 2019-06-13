@@ -31,6 +31,8 @@ powerline-fonts
 shared-mime-info
 thunar-volman
 xcursor-themes
+xdg-user-dirs
+xdg-utils
 xfburn
 xfce4-appfinder
 xfce4-dev-tools
