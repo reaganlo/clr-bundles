@@ -228,6 +228,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+libclc-dev
 include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdrm)

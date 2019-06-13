@@ -22,6 +22,7 @@ Markdown
 ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
+Pillow
 PySocks
 PyYAML
 include(devpkg-SDL)
@@ -304,6 +305,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+libclc-dev
 include(devpkg-libcroco)
 libcroco-dev32
 include(devpkg-libdatrie)

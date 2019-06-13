@@ -160,6 +160,7 @@ include(devpkg-colord)
 commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+configparser
 contextlib2
 coreutils
 coverage
@@ -481,6 +482,7 @@ libcap-dev32
 include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
+libclc-dev
 include(devpkg-libcroco)
 libcroco-dev32
 include(devpkg-libdatrie)
@@ -1058,6 +1060,7 @@ yajl-lib
 yaml-dev
 include(yasm)
 include(zip)
+zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
