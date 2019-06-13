@@ -21,6 +21,7 @@ cryptsetup-man
 include(dosfstools)
 e2fsprogs
 e2fsprogs-extras
+f2fs-tools
 gptfdisk
 ipmctl
 lsscsi
