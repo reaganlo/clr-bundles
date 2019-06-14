@@ -721,6 +721,7 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(devpkg-startup-notification)
+stoken-dev
 include(strace)
 include(subversion)
 swig

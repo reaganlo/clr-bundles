@@ -317,6 +317,7 @@ six
 sortedcontainers
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
+stoken-dev
 include(strace)
 systemd-bin
 include(devpkg-systemd)

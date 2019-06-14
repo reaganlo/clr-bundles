@@ -590,6 +590,7 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 startup-notification
 include(devpkg-startup-notification)
+stoken-dev
 include(strace)
 include(devpkg-subunit)
 include(subversion)

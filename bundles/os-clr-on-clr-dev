@@ -966,6 +966,7 @@ sqlite-autoconf-dev32
 sqlparse
 startup-notification
 include(devpkg-startup-notification)
+stoken-dev
 include(strace)
 include(devpkg-subunit)
 include(subversion)

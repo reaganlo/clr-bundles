@@ -109,6 +109,7 @@ compat-curl-gnutls-soname4-dev
 compat-libpng-soname12-dev
 compat-libva-soname1-dev
 coreutils
+coverage
 cracklib-dev
 include(cryptography)
 cryptography_vectors
@@ -447,6 +448,7 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
 nose
+nose-python
 include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)
@@ -600,6 +602,7 @@ speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
+stoken-dev
 include(strace)
 include(subversion)
 swig
