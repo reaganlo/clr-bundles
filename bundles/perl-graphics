@@ -5,6 +5,7 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(perl-basic)
+include(libX11client)
 include(webkitgtk)
 
 perl-Cairo
