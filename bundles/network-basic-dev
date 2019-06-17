@@ -118,6 +118,7 @@ grep
 groff
 gtk-doc
 include(devpkg-gtk-doc)
+include(devpkg-gtk3)
 guile
 include(gzip)
 hostname

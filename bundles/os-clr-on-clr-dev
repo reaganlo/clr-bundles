@@ -149,6 +149,8 @@ check
 check-dev
 check-dev32
 clear-font
+clr-avx-tools
+clr-python-timestamp
 clr-rpm-config
 include(devpkg-clutter)
 cmake
