@@ -4,7 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+include(libglib)
 include(libstdcpp)
-
-krb5
+include(openldap)
+include(python3-basic)
 include(samba)
+
+authconfig
+krb5
+nss-pam-ldapd
+sssd
