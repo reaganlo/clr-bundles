@@ -27,6 +27,7 @@ dwarves
 elfutils
 include(gdb)
 git-extras
+hexedit
 hub
 include(icdiff)
 include(inotify-tools)
