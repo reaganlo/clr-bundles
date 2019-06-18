@@ -38,6 +38,7 @@ bzip2
 bzip2-dev
 cffi
 clr-rpm-config
+cmake
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -53,6 +54,7 @@ include(docbook-utils)
 docbook-xml
 include(doxygen)
 e2fsprogs
+eigen-dev
 include(devpkg-elfutils)
 elfutils-dev32
 include(devpkg-expat)
@@ -155,6 +157,7 @@ ncurses-dev32
 netbase
 nss-altfiles
 include(openblas)
+include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32

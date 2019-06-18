@@ -204,6 +204,7 @@ perl-Sub-Identify
 perl-Test-Fatal
 perl-Test-Needs
 perl-Test-Output
+perl-Test-Pod
 perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
