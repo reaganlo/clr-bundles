@@ -47,6 +47,7 @@ pytest-cov
 pytest-repeat
 pytest-rerunfailures
 python-dateutil
+python-distutils-extra
 python-tabulate
 python-tappy
 include(python3-tcl)
