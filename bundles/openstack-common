@@ -50,7 +50,7 @@ rabbitmq-c
 rabbitmq-server
 radvd
 requests
-rsync
+include(rsync)
 setuptools
 sg3_utils
 six

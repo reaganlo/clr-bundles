@@ -23,6 +23,6 @@ openssh
 openssh-extras-server
 perl
 perl-YAML-Tiny
-rsync
+include(rsync)
 socat
 tpm2-simulator

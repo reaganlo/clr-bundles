@@ -37,7 +37,7 @@ include(openvswitch)
 pacrunner
 rdma-core
 redsocks
-rsync
+include(rsync)
 tcpdump
 traceroute
 include(wget)

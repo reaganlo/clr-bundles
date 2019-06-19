@@ -905,6 +905,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
