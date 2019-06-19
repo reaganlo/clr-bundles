@@ -299,4 +299,5 @@ znc # IRC network bouncer
 zoneminder # A camera monitoring and analysis tool
 zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
 zstd # realtime data compression/decompression tool
-rsync # A fast, versatile, remote (and local) file-copying tool 
+rsync # A fast, versatile, remote (and local) file-copying tool
+okteta # KDE hex editor for viewing and editing the raw data of files 
