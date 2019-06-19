@@ -20,3 +20,4 @@ cri-o
 cri-tools
 docker
 gnupg
+tini
