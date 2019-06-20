@@ -8,6 +8,7 @@
 
 # start of custom additions
 include(libstdcpp)
+mesa-demos
 # end of custom additions
 
 # main packages
