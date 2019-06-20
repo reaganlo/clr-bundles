@@ -205,7 +205,6 @@ tpm2-abrmd-dev
 tpm2-tss-dev
 include(tzdata)
 include(unzip)
-util-linux
 util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32

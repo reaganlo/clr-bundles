@@ -42,6 +42,7 @@ ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
 Pillow
+PyQt5
 PySocks
 PyYAML
 Pygments

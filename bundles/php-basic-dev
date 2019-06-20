@@ -240,7 +240,6 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(unzip)
-util-linux
 util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
