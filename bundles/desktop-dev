@@ -117,6 +117,8 @@ check-dev32
 include(devpkg-cheese)
 chrpath
 clear-font
+clr-bundle-icons
+clr-bundle-screenshots
 clr-rpm-config
 include(devpkg-clutter)
 include(devpkg-clutter-gst)
@@ -250,6 +252,7 @@ include(devpkg-gimp)
 include(git)
 include(gjs)
 include(devpkg-gjs)
+include(devpkg-glew)
 glib
 glib-bin
 include(devpkg-glib)

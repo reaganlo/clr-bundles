@@ -88,6 +88,7 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 atomicwrites
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -301,6 +302,7 @@ ghostscript
 ghostscript-dev
 include(git)
 include(gjs)
+include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32

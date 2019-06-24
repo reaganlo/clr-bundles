@@ -39,6 +39,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -151,6 +152,7 @@ include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
+include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -420,6 +422,7 @@ nettle-lib32
 include(devpkg-nghttp2)
 nghttp2-dev32
 ninja
+nose
 not-ffmpeg-dev
 nss-altfiles
 include(devpkg-nss)

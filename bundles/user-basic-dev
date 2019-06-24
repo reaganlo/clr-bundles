@@ -151,6 +151,7 @@ flex-dev
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
+include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
@@ -180,6 +181,7 @@ include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
+include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32

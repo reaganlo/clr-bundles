@@ -118,6 +118,7 @@ flex-dev
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
+include(devpkg-freeglut)
 include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
@@ -144,6 +145,7 @@ include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
+include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -211,10 +213,14 @@ include(devpkg-libX11)
 libX11-dev32
 libX11-lib
 libX11-lib32
+include(devpkg-libXScrnSaver)
 include(devpkg-libXcursor)
 libXcursor-dev32
 include(devpkg-libXft)
 libXft-dev32
+include(devpkg-libXmu)
+include(devpkg-libXpm)
+include(devpkg-libXres)
 include(devpkg-libXt)
 libXt-dev32
 include(devpkg-libXtst)
@@ -223,6 +229,7 @@ include(devpkg-libXv)
 libXv-dev32
 include(devpkg-libXvMC)
 libXvMC-dev32
+include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
 libatomic_ops-dev
