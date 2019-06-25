@@ -19,6 +19,7 @@ include(hardware-bluetooth)
 #
 # extra stuff we need
 #
+adwaita-icon-theme
 bluez
 dbus-extras
 desktop-file-utils
