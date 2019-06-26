@@ -5,6 +5,6 @@
 # [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(lib-openssl)
-openssh
+include(openssh-client)
 openssh-extras-server
 tallow

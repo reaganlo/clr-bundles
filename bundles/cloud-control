@@ -20,7 +20,7 @@ include(sudo)
 awscli
 botocore
 docker
-openssh
+include(openssh-client)
 psmisc
 include(sqlite)
 include(xorriso)
