@@ -598,7 +598,6 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mozjs-dev
-include(devpkg-mozjs52)
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib
@@ -759,6 +758,7 @@ poppler-data-clr-rename-dev
 poppler-dev
 poppler-extras
 include(devpkg-popt)
+ppp
 ppp-dev
 pretend
 include(procps-ng)

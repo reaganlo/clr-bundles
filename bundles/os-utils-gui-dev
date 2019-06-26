@@ -522,7 +522,6 @@ mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
 mozjs-dev
-include(devpkg-mozjs52)
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib
@@ -666,6 +665,7 @@ pluggy-python
 include(polkit)
 polkit-dev
 include(devpkg-popt)
+ppp
 ppp-dev
 include(procps-ng)
 procps-ng-bin

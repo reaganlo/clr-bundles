@@ -425,7 +425,7 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mozjs-dev
-include(devpkg-mozjs52)
+include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
 mtdev-dev
@@ -546,6 +546,7 @@ pluggy-python
 polkit-dev
 include(devpkg-popt)
 include(devpkg-postgresql)
+ppp
 ppp-dev
 pretend
 include(procps-ng)

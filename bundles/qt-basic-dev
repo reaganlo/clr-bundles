@@ -332,7 +332,7 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mozjs-dev
-include(devpkg-mozjs52)
+include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
 mtdev-dev

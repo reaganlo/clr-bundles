@@ -591,7 +591,6 @@ R-tidyr
 R-tidyselect
 R-timeDate
 R-timeSeries
-R-tinytex
 R-tis
 R-tm
 R-toOrdinal
@@ -972,7 +971,7 @@ meson
 mkfontdir-bin
 mkfontscale-bin
 mozjs-dev
-include(devpkg-mozjs52)
+include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
 mtdev-dev
