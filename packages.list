@@ -305,3 +305,4 @@ qt-creator # Cross-platform IDE for Qt
 pandoc # The universal markup converter
 hardinfo # No detailed summary available
 firewalld # A firewall daemon with D-Bus interface providing a dynamic firewall
+rabbitmq-server # A message-broker software
