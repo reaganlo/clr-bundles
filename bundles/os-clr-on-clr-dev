@@ -712,7 +712,7 @@ p11-kit-dev32
 packaging
 include(devpkg-pacrunner)
 pandas
-pandoc
+include(pandoc)
 include(devpkg-pango)
 pango-dev32
 include(devpkg-parted)

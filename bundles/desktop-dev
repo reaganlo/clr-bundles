@@ -133,7 +133,6 @@ colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-gegl)
-include(devpkg-compat-gtksourceview-soname3)
 coreutils
 coverage
 cppcheck
@@ -670,7 +669,7 @@ p11-kit-dev32
 p7zip
 packaging
 include(devpkg-pacrunner)
-pandoc
+include(pandoc)
 include(devpkg-pango)
 pango-dev32
 include(devpkg-pangomm)

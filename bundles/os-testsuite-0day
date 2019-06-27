@@ -24,6 +24,6 @@ include(devpkg-mariadb)
 libXaw-dev
 include(memcached)
 moreutils
-pandoc
+include(pandoc)
 ruby
 sg3_utils

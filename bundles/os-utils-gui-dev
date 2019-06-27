@@ -585,7 +585,7 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 p7zip
 include(devpkg-pacrunner)
-pandoc
+include(pandoc)
 include(devpkg-pango)
 pango-dev32
 include(devpkg-pangomm)

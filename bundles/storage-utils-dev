@@ -239,7 +239,7 @@ openssl-lib32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
-pandoc
+include(pandoc)
 include(patch)
 pbr
 include(devpkg-pcre)
