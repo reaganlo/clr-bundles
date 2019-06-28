@@ -35,7 +35,6 @@ include(gvim)
 include(libva-utils)
 include(seahorse)
 include(totem)
-include(emacs-x11)
 
 # apps low level deps
 glib-bin
