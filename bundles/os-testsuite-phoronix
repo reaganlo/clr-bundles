@@ -88,6 +88,7 @@ include(devpkg-libpng)
 libtool
 libvorbis-dev
 include(devpkg-lua)
+memtier_benchmark
 mesa-demos
 meson
 mpfr-dev
