@@ -8,3 +8,4 @@ include(libstdcpp)
 include(lib-openssl)
 nodejs
 nodejs-doc
+yarn
