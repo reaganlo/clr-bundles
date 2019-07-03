@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run the long-term support 4.19 native kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 console-autostart
 include(bootloader)

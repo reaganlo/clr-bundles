@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Files for building modules against LTS kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(linux-lts2018-dev)

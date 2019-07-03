@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Installs kernel, initrd, kernel config, system map, and creates a bootloader entry for the new kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 

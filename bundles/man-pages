@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Linux man-pages to document kernel and C library interfaces for user-space programs.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, kernel, documentation
+# [TAGS]: Tools and Utilities, Kernel, documentation
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 

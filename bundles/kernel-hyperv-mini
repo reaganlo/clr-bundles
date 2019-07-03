@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Run the Microsoft Hyper-V mini-os specific kernel.
 # [STATUS]: Pending-Delete
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: William Douglas
 filesystem

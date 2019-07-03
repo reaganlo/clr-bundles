@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run the long-term support 4.14 native kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 console-autostart
 include(bootloader)

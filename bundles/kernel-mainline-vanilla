@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run the mainline current vanilla kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(hardware-uefi)
 

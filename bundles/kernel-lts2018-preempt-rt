@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run the Intel "PK" kernel 2018, an enterprise-style kernel with backports, plus PREEMPT_RT support.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 #
 include(bootloader)

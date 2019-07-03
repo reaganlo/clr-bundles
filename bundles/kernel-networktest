@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Kernel with NFS root FS support and modular network drivers.
 # [STATUS]: Pending-Delete
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 filesystem

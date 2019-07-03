@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Files for building modules against IoT LTS2018 SOS kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 linux-iot-lts2018-sos-dev

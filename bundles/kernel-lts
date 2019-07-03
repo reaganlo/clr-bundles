@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run the latest long-term support native kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
 # This is a meta-bundle which include the latest longterm native kernel

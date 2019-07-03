@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Run the Intel "PK" kernel and enterprise-style kernel with backports.
 # [STATUS]: Pending-Delete
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 filesystem

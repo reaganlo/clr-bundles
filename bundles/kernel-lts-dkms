@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Support module for building/loading via Dynamic Kernel Module System (DKMS) in LTS kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 include(kernel-lts2018-dkms)

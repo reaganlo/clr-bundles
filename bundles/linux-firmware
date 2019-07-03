@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Firmware for kernel drivers.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-firmware
 

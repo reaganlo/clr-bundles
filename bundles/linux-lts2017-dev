@@ -2,6 +2,6 @@
 # [DESCRIPTION]: Files for building modules against LTS2017 kernel.
 # [STATUS]: WIP
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, kernel
+# [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-lts2017-dev
