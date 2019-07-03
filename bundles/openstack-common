@@ -47,7 +47,7 @@ python-keystoneclient
 pytz
 pyxattr
 rabbitmq-c
-rabbitmq-server
+include(rabbitmq-server)
 radvd
 requests
 include(rsync)

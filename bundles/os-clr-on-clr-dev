@@ -509,6 +509,7 @@ include(devpkg-libfontenc)
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgd)
+libgeotiff-dev
 libgfortran-avx
 libgfortran-compat-soname3
 libgfortran-compat-soname4
@@ -575,6 +576,7 @@ libsndfile-dev32
 include(devpkg-libsolv)
 include(devpkg-libsoup)
 libsoup-dev32
+libspatialite-dev
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

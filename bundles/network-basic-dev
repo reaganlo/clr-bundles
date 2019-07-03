@@ -56,6 +56,7 @@ coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
+include(devpkg-cyrus-sasl)
 datefudge
 db
 db-dev
@@ -68,14 +69,17 @@ include(docbook-utils)
 docbook-xml
 include(doxygen)
 e2fsprogs
+e2fsprogs-data
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
+e2fsprogs-extras
 ebtables-dev
 include(devpkg-elfutils)
 elfutils-dev32
 include(devpkg-expat)
 expat-dev32
 expect
+file-dev
 include(flex)
 flex-dev
 include(devpkg-fontconfig)
@@ -156,6 +160,9 @@ include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
 libgcrypt-dev32
+libgfortran-avx
+libgfortran-compat-soname3
+libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
@@ -219,6 +226,7 @@ nss-altfiles
 include(devpkg-nss)
 numactl-dev
 openconnect-dev
+openldap-dev
 opensm-dev
 include(openssl)
 include(devpkg-openssl)
@@ -348,5 +356,6 @@ xmlto
 include(xz)
 include(devpkg-xz)
 xz-dev32
+include(yasm)
 include(devpkg-zlib)
 zlib-dev32

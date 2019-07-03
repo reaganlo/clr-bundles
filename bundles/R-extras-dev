@@ -67,11 +67,11 @@ R-MatrixModels
 R-ModelMetrics
 R-NADA
 R-NLP
-R-NMF
 R-PKI
 R-R.methodsS3
 R-R.oo
 R-R.utils
+R-R6
 R-RANN
 R-RColorBrewer
 R-RCurl
@@ -87,7 +87,6 @@ R-Rcpp
 R-RcppArmadillo
 R-RcppEigen
 R-RcppProgress
-R-RcppRoll
 R-Rdpack
 R-Rmpfr
 R-Rmpi
@@ -177,6 +176,7 @@ R-config
 R-contfrac
 R-corpcor
 R-corrgram
+R-crayon
 R-crosstalk
 R-crul
 R-csvy
@@ -197,6 +197,7 @@ R-devtools
 R-dfoptim
 R-dichromat
 R-diffusionMap
+R-digest
 R-dimRed
 R-diptest
 R-distr
@@ -371,6 +372,7 @@ R-miniUI
 R-minpack.lm
 R-minqa
 R-mirt
+R-miscF
 R-miscTools
 R-mitools
 R-mlbench
@@ -414,7 +416,6 @@ R-pbivnorm
 R-pbkrtest
 R-pcaPP
 R-pcse
-R-pdfCluster
 R-pdftools
 R-pdp
 R-permute
@@ -442,6 +443,7 @@ R-polycor
 R-polynom
 R-prabclus
 R-pracma
+R-praise
 R-prefmod
 R-prettyunits
 R-princurve
@@ -518,6 +520,7 @@ R-roxygen2
 R-rprojroot
 R-rrcov
 R-rredlist
+R-rsample
 R-rsconnect
 R-rstan
 R-rstanarm
@@ -571,6 +574,7 @@ R-startupmsg
 R-statmod
 R-statnet.common
 R-stringi
+R-stringr
 R-strucchange
 R-styler
 R-subplex
@@ -579,11 +583,11 @@ R-superpc
 R-survey
 R-sys
 R-taxize
-R-tclust
 R-tensor
 R-tensorA
 R-tensorflow
 R-testthat
+R-texreg
 R-tfruns
 R-threejs
 R-tibble
@@ -591,6 +595,7 @@ R-tidyr
 R-tidyselect
 R-timeDate
 R-timeSeries
+R-tinytex
 R-tis
 R-tm
 R-toOrdinal
