@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
+include(os-core-plus)
 include(os-core-webproxy)
 btrfs-progs
 bzip2
