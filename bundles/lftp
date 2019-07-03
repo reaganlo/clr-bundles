@@ -2,7 +2,7 @@
 # [DESCRIPTION]: File transfer client for http, ftp, sftp and more.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(lib-openssl)

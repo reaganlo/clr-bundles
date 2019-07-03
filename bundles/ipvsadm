@@ -2,7 +2,7 @@
 # [DESCRIPTION]: IP virtual server tool to implement transport-layer load balancing inside Linux kernel.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 

@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Utility for network device discovery and security auditing.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Security, network
+# [TAGS]: Tools and Utilities, Security, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

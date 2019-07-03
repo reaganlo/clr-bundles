@@ -2,7 +2,7 @@
 # [DESCRIPTION]: A production quality, multilayer virtual switch--open vswitch kernel modules.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libstdcpp)

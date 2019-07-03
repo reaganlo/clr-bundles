@@ -2,7 +2,7 @@
 # [DESCRIPTION]: A virtual network computing (VNC) server for real X displays.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)

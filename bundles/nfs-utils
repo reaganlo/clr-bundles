@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Server and client tooling for network file systems (NFS).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(openldap)

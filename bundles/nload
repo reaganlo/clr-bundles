@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Monitor network traffic and bandwidth usage.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libstdcpp)

@@ -2,7 +2,7 @@
 # [DESCRIPTION]: A multi-platform application that enables communication between computer and smartphone.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(kde-frameworks5)

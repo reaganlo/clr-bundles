@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Shared Xtables code for extensions and iproute2.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, network
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 
