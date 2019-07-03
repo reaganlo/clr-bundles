@@ -13,4 +13,6 @@ include(samba)
 authconfig
 krb5
 nss-pam-ldapd
+pykerberos
+requests-kerberos
 sssd
