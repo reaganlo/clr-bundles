@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Free office productivity suite.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Productivity, Applications
+# [TAGS]: Productivity
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(libX11client)

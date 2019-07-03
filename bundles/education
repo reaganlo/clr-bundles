@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Educational applications.
 # [STATUS]: Active
 # [CAPABILITIES]: learning
-# [TAGS]: Education, Applications
+# [TAGS]: Education
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 
 include(desktop-gnomelibs)

@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Application for integrated email, calendar, and address book functionality.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Applications
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

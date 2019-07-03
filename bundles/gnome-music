@@ -2,7 +2,7 @@
 # [DESCRIPTION]: GNOME music player application with management features.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics, Applications
+# [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)

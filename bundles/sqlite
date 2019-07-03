@@ -2,7 +2,7 @@
 # [DESCRIPTION]: SQL database engine with file format that is stable, cross-platform, and backwards compatible.
 # [STATUS]: Active
 # [CAPABILITIES]: Manipulate .sqlite databases.
-# [TAGS]: Developer Tools, Databases
+# [TAGS]: Developer Tools
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libstdcpp)

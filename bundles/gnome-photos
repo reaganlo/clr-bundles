@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Application for browsing, editing, and organizing photos.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Multimedia and Graphics, Productivity, Applications
+# [TAGS]: Multimedia and Graphics, Productivity
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(libX11client)

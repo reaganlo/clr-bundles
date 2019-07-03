@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Cross-platform IDE for Qt
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools, Editor, IDE, Qt
+# [TAGS]: Developer Tools, Editor
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 
 include(qt-core)

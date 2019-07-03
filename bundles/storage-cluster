@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run a storage server.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Data Science, Python, storage
+# [TAGS]: Tools and Utilities, Data Science, Python
 # [MAINTAINER]: Matthew Pitterle <matthew.d.pitterle@intel.com>
 
 include(python3-basic)

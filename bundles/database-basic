@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run an SQL database.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Databases
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(python3-basic)
 

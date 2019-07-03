@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Run a PXE server.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Developer Tool
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(iptables)
 include(nginx)

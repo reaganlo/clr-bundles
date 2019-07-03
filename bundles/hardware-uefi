@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Provides bootloader tools for booting on a UEFI based system.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, Developer Tools, hardware
+# [TAGS]: Tools and Utilities, Developer Tools
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
 include(libglib)
