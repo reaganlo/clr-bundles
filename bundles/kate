@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Text editor that can open multiple files simultaneously.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Productivity, editor
+# [TAGS]: Productivity, Editor
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(kde-frameworks5)
