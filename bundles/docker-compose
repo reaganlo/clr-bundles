@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Tool for defining and running multi-container Docker applications.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tool
+# [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
 include(python3-basic)
