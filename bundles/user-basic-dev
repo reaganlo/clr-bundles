@@ -221,6 +221,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsl)
 gtk+-dev
 gtk-doc
@@ -254,6 +255,7 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
+jsoncpp-dev
 include(kbd)
 kdoctools-dev
 keyutils-dev
@@ -410,6 +412,7 @@ mozjs-dev
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
+msmtp
 mtdev-dev
 mtdev-dev32
 include(nasm)

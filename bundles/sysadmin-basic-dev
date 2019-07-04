@@ -193,6 +193,7 @@ include(make)
 man-db
 mpc-dev
 mpfr-dev
+msmtp
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

@@ -603,6 +603,7 @@ mozjs60-lib
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
+msmtp
 mtdev-dev
 mtdev-dev32
 mutter

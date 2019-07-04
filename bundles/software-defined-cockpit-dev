@@ -192,6 +192,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)

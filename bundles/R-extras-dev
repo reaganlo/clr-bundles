@@ -71,6 +71,8 @@ R-PKI
 R-R.methodsS3
 R-R.oo
 R-R.utils
+R-R2WinBUGS
+R-R2jags
 R-R6
 R-RANN
 R-RColorBrewer
@@ -140,6 +142,7 @@ R-bit64
 R-bitops
 R-blob
 R-bold
+R-bootstrap
 R-brew
 R-brglm
 R-bridgesampling
@@ -157,6 +160,7 @@ R-cclust
 R-cellranger
 R-checkmate
 R-chron
+R-circlize
 R-classInt
 R-cli
 R-clipr
@@ -176,6 +180,7 @@ R-config
 R-contfrac
 R-corpcor
 R-corrgram
+R-corrplot
 R-crayon
 R-crosstalk
 R-crul
@@ -372,7 +377,6 @@ R-miniUI
 R-minpack.lm
 R-minqa
 R-mirt
-R-miscF
 R-miscTools
 R-mitools
 R-mlbench
@@ -497,12 +501,12 @@ R-reshape
 R-reshape2
 R-reticulate
 R-rgenoud
-R-rgeos
 R-rgl
 R-rhandsontable
 R-rhub
 R-rio
 R-ritis
+R-rjags
 R-rjstat
 R-rlang
 R-rmarkdown
@@ -587,7 +591,6 @@ R-tensor
 R-tensorA
 R-tensorflow
 R-testthat
-R-texreg
 R-tfruns
 R-threejs
 R-tibble
@@ -599,7 +602,6 @@ R-tinytex
 R-tis
 R-tm
 R-toOrdinal
-R-treatSens
 R-triebeard
 R-trimcluster
 R-truncnorm
@@ -804,6 +806,7 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsl)
 gtk+-dev
 gtk-doc
@@ -834,6 +837,7 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
+jsoncpp-dev
 include(kbd)
 keyutils-dev
 kmod
@@ -966,6 +970,7 @@ include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 include(devpkg-lz4)
+lzo-dev
 m4
 include(make)
 makedepend
@@ -979,6 +984,7 @@ mozjs-dev
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
+msmtp
 mtdev-dev
 mtdev-dev32
 include(nasm)

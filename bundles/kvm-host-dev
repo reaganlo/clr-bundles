@@ -176,6 +176,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)

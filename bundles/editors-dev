@@ -163,6 +163,7 @@ m4
 include(make)
 mpc-dev
 mpfr-dev
+msmtp
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)

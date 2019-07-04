@@ -229,6 +229,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -428,6 +429,7 @@ mozjs-dev
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
+msmtp
 mtdev-dev
 mtdev-dev32
 include(nasm)
