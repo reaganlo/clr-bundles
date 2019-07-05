@@ -186,6 +186,9 @@ include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
 hostname
+ibus
+ibus-dev
+ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
 imagesize

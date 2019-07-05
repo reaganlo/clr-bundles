@@ -373,6 +373,9 @@ httpd-extras
 hunspell-dev
 include(devpkg-hwloc)
 hypothesis-python
+ibus
+ibus-dev
+ibus-libpinyin
 icu4c
 include(devpkg-icu4c)
 icu4c-dev32
@@ -735,9 +738,12 @@ pcsc-lite-dev
 pecan
 pep8
 perl
+perl-AnyEvent
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
+perl-Business-ISBN-Data
 perl-CPAN-Meta-Check
+perl-Canary-Stability
 perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Singleton
@@ -747,6 +753,7 @@ perl-DateTime-Locale
 perl-DateTime-TimeZone
 perl-Devel-StackTrace
 perl-Digest-CRC
+perl-Digest-HMAC
 perl-Dist-CheckConflicts
 perl-Encode-Locale
 perl-Error
@@ -757,6 +764,7 @@ perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
 perl-File-Listing
 perl-File-Slurp
+perl-Guard
 perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies
@@ -778,6 +786,7 @@ perl-Module-Build-Tiny
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA
+perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-SSLeay
 perl-Package-Stash
@@ -806,6 +815,7 @@ perl-URI-Escape-XS
 perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Parser
+perl-common-sense
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean

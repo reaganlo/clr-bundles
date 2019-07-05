@@ -345,7 +345,9 @@ help2man
 hostname
 hunspell-dev
 hypothesis-python
+ibus
 ibus-dev
+ibus-libpinyin
 ibus-table-dev
 icon-naming-utils-dev
 include(devpkg-icu4c)
@@ -684,7 +686,10 @@ pcre-dev32
 include(devpkg-pcre2)
 pcsc-lite-dev
 perl
+perl-AnyEvent
 perl-B-Hooks-EndOfScope
+perl-Business-ISBN-Data
+perl-Canary-Stability
 perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Singleton
@@ -692,11 +697,13 @@ perl-Crypt-SSLeay
 perl-DateTime
 perl-Devel-StackTrace
 perl-Digest-CRC
+perl-Digest-HMAC
 perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
 perl-File-Listing
+perl-Guard
 perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies
@@ -714,6 +721,7 @@ perl-MRO-Compat
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA
+perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-SSLeay
 perl-Package-Stash
@@ -737,6 +745,7 @@ perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-XML-Simple
+perl-common-sense
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean

@@ -182,16 +182,21 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
 perl
+perl-AnyEvent
 perl-B-Hooks-EndOfScope
+perl-Business-ISBN-Data
+perl-Canary-Stability
 perl-Class-Data-Inheritable
 perl-Class-Singleton
 perl-Crypt-SSLeay
 perl-DateTime
 perl-Devel-StackTrace
+perl-Digest-HMAC
 perl-Encode-Locale
 perl-Eval-Closure
 perl-Exception-Class
 perl-File-Listing
+perl-Guard
 perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies
@@ -208,6 +213,7 @@ perl-MRO-Compat
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA
+perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-SSLeay
 perl-Package-Stash
@@ -230,6 +236,7 @@ perl-URI
 perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Parser
+perl-common-sense
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
