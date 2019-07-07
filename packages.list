@@ -307,4 +307,5 @@ hardinfo # No detailed summary available
 firewalld # A firewall daemon with D-Bus interface providing a dynamic firewall
 rabbitmq-server # A message-broker software
 CopyQ # Clipboard manager with searchable and editable history
-mpv # Multimedia player and streamer. 
+mpv # Multimedia player and streamer.
+poppler # PDF rendering library based on xpdf-3.0 code base. 
