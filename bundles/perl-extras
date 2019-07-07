@@ -526,6 +526,7 @@ perl-Sys-Statistics-Linux
 perl-System-Command
 perl-TAP-Harness-Archive
 perl-Taint-Util
+perl-Template-Toolkit
 perl-Term-ProgressBar
 perl-Term-ReadKey
 perl-Term-ReadLine-Gnu
