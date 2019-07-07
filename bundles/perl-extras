@@ -5,6 +5,7 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
 include(perl-basic)
+include(libstdcpp)
 
 perl-Acme-Damn
 perl-Algorithm-C3
