@@ -15,6 +15,7 @@ include(qt-basic)
 codec2
 direwolf
 fldigi
+fllog
 flmsg
 flnet
 flrig
