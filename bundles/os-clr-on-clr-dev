@@ -836,7 +836,7 @@ include(plzip)
 include(polkit)
 polkit-dev
 polkit-qt-dev
-poppler
+include(poppler)
 poppler-dev
 poppler-extras
 include(devpkg-popt)

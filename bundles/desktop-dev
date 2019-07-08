@@ -762,7 +762,7 @@ pluggy
 pluggy-python
 ply
 polkit-dev
-poppler
+include(poppler)
 poppler-data-clr-rename-dev
 poppler-dev
 poppler-extras
