@@ -462,6 +462,7 @@ systemd
 taglib
 talloc
 tbb
+tesseract
 x11
 x11-xcb
 xapian-core
