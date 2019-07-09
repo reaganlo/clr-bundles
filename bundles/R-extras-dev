@@ -209,6 +209,7 @@ R-dlm
 R-doMPI
 R-doParallel
 R-doRNG
+R-doSNOW
 R-dotCall64
 R-dplyr
 R-drc

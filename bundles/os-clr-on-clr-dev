@@ -861,6 +861,7 @@ py
 py-python
 pyOpenSSL
 pyasn1
+pycairo
 pycairo-dev
 pycparser
 pycparser-python
