@@ -236,6 +236,8 @@ gnome-control-center-dev
 include(devpkg-gnome-desktop)
 gnome-icon-theme-dev
 include(devpkg-gnome-online-accounts)
+gnome-session
+gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 gnu-efi

@@ -133,6 +133,7 @@ colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 include(devpkg-compat-gegl)
+compat-gmime-26-dev
 coreutils
 coverage
 cppcheck
@@ -160,6 +161,7 @@ include(devpkg-dbus-glib)
 dbus-glib-dev32
 dbus-python
 dbus-python-dev
+dconf
 dconf-dev
 defusedxml
 dejagnu
@@ -185,6 +187,7 @@ emacs
 include(devpkg-enchant)
 enum34
 eog-dev
+evolution-data-server-data
 include(devpkg-evolution-data-server)
 include(devpkg-evolution)
 exempi-dev
@@ -202,6 +205,7 @@ include(devpkg-flatpak)
 include(flex)
 flex-dev
 fltk-dev
+folks-dev
 include(devpkg-font-util)
 font-util-dev32
 fontconfig
@@ -282,6 +286,8 @@ include(devpkg-gnome-desktop)
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
+gnome-session
+gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
@@ -959,6 +965,7 @@ include(yasm)
 yelp-dev
 yelp-tools-dev
 yelp-xsl-dev
+ytnef-dev
 zenity
 zlib
 include(devpkg-zlib)
