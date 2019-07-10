@@ -20,6 +20,7 @@ clinfo
 darkflow
 dldt
 dldt-dev
+dldt-doc
 dldt-extras
 intel-compute-runtime
 tensorflow
