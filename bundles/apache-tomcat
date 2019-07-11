@@ -7,7 +7,7 @@
 
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(openjdk)
+include(java-runtime)
 # end of custom additions
 
 # main package
