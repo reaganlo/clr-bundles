@@ -491,6 +491,7 @@ include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libksba-dev
 libmbim-dev
+libmediaart
 include(devpkg-libmediaart)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -874,6 +875,7 @@ talloc-python3
 tar
 tcl
 tcl-dev
+tcl-staticdev
 tdb-dev
 tdb-python3
 telepathy-glib-dev
