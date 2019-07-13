@@ -8,5 +8,6 @@
 compat-readline-soname5
 ncurses-compat
 ncurses-compat-lib
+ncurses-compat-lib-narrow
 compat-fuse-soname2
 libudev0-shim
