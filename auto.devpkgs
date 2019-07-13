@@ -160,6 +160,7 @@ gweather-3.0
 harfbuzz
 hwloc
 icu-i18n
+jack
 json-c
 libabigail
 libacl
