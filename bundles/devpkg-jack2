@@ -1,0 +1,8 @@
+# [TITLE]: devpkg-jack2
+# [DESCRIPTION]: All content for pkgconfig file jack.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+jack2-dev
