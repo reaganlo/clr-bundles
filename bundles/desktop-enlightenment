@@ -9,4 +9,5 @@ include(x11-server)
 efl
 enlightenment
 gdm
+rage
 xdg-utils
