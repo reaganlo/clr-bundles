@@ -315,4 +315,5 @@ geary # A library full of GTK+ widgets for mobile phones
 po4a # PO for anything: Maintain the translations of your documentation
 arandr # Another XRandR GUI
 apache-tomcat # Tomcat server
-jack2 # JACK low-latency audio server for multi-processor machines (daemon activation) 
+jack2 # JACK low-latency audio server for multi-processor machines (daemon activation)
+rxvt-unicode # No detailed summary available 
