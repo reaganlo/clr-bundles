@@ -22,7 +22,6 @@ binutils-extras
 binutils-locale
 include(bison)
 check
-check-dev
 cmake
 cmake-dev
 include(flex)
