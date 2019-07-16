@@ -70,6 +70,7 @@ file-dev
 include(flex)
 flex-dev
 fltk-dev
+include(devpkg-fuse)
 gawk
 gcc
 gcc-dev
@@ -226,11 +227,13 @@ include(patch)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcsc-lite
 pcsc-lite-dev
 perl
 perl-Error
 perl-XML-Parser
 pigz
+pinentry
 include(devpkg-pixman)
 pixman-dev32
 pkg-config

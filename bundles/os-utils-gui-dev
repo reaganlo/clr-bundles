@@ -288,6 +288,7 @@ include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
+hicolor-icon-theme
 hostname
 hunspell-dev
 ibus
@@ -601,6 +602,7 @@ pbr
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcsc-lite
 pcsc-lite-dev
 perl
 perl-AnyEvent
@@ -667,6 +669,7 @@ perl-namespace-clean
 pexpect
 php
 pigz
+pinentry
 pip
 include(devpkg-pipewire)
 include(devpkg-pixman)

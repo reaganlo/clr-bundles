@@ -67,6 +67,7 @@ expect
 file-dev
 include(flex)
 flex-dev
+include(devpkg-fuse)
 gawk
 gcc
 gcc-dev

@@ -21,6 +21,7 @@ Mako-python
 Markdown
 ModemManager-dev
 ModemManager-dev32
+include(NetworkManager)
 include(devpkg-NetworkManager)
 PackageKit-dev
 Pillow
@@ -97,6 +98,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -173,6 +175,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 include(docutils)
+double-conversion-dev
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -348,6 +351,7 @@ include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
+hicolor-icon-theme
 hostname
 hunspell-dev
 hypothesis-python
@@ -379,6 +383,7 @@ iso8601
 isodate
 itstool
 jansson-dev
+jemalloc-dev
 include(jq)
 include(devpkg-json-c)
 json-c-dev32
@@ -594,6 +599,7 @@ lzo-dev
 m4
 include(make)
 man-db
+include(devpkg-mariadb)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -658,6 +664,7 @@ openal-soft-dev32
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
+openjade-dev
 openjdk
 openjdk9
 openjdk9-dev
@@ -691,6 +698,7 @@ include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pcsc-lite
 pcsc-lite-dev
 perl
 perl-AnyEvent
@@ -722,6 +730,7 @@ perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Socket-SSL
 perl-IO-stringy
+perl-IPC-Run
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
@@ -759,6 +768,7 @@ perl-namespace-clean
 pexpect
 php
 pigz
+pinentry
 pip
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -774,6 +784,7 @@ poppler-data-clr-rename-dev
 poppler-dev
 poppler-extras
 include(devpkg-popt)
+include(devpkg-postgresql)
 ppp
 ppp-dev
 pretend

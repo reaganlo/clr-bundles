@@ -35,7 +35,7 @@ include(hexchat)
 libssh
 pidgin-sipe
 include(quassel)
-rxvt-unicode
+include(rxvt-unicode)
 include(spice-gtk)
 thermal_monitor
 include(tigervnc)

@@ -215,7 +215,6 @@ R-dplyr
 R-drc
 R-dtplyr
 R-dygraphs
-R-dynlm
 R-e1071
 R-earth
 R-ecodist
@@ -748,6 +747,7 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
+include(devpkg-fuse)
 gawk
 gc-dev
 gcc

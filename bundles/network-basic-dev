@@ -84,6 +84,7 @@ include(flex)
 flex-dev
 include(devpkg-fontconfig)
 include(devpkg-freetype)
+include(devpkg-fuse)
 gawk
 gcc
 gcc-dev

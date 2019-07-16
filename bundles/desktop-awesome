@@ -8,5 +8,5 @@ include(x11-server)
 awesome-wm
 dejavu-fonts
 include(feh)
-rxvt-unicode
+include(rxvt-unicode)
 xscreensaver
