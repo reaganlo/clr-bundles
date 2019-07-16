@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(acl)
+include(binutils)
 include(cpio)
 include(curl)
 include(diffutils)
@@ -13,15 +14,14 @@ include(git)
 include(make)
 include(openssh-server)
 include(perl-basic)
+include(rsync)
 include(sudo)
 
 attr
 bats
-include(binutils)
 expect
 glibc-bin
 perl
 perl-YAML-Tiny
-include(rsync)
 socat
 tpm2-simulator
