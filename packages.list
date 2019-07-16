@@ -296,7 +296,6 @@ yasm # assembler
 zathura # Minimalistic document viewer
 zip # create ZIP archives
 znc # IRC network bouncer
-zoneminder # A camera monitoring and analysis tool
 zsh # Z Shell, an interactive shell and powerful command-line interpreter for scripting language
 zstd # realtime data compression/decompression tool
 rsync # A fast, versatile, remote (and local) file-copying tool

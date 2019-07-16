@@ -1,18 +1,7 @@
 # [TITLE]: zoneminder
 # [DESCRIPTION]: A camera monitoring and analysis tool
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-include(perl-basic)
-include(curl)
-include(lib-imageformat)
-include(libstdcpp)
-
-# start of custom additions (edits outside this area will be removed automatically)
-
-# end of custom additions
-
-# main package
-zoneminder
+filesystem
