@@ -16,6 +16,7 @@ dist-pam-configs
 e2fsprogs-bin
 filesystem
 gawk-bin
+glibc-lib-avx2
 glibc-utils
 grep-bin
 hostname-bin
