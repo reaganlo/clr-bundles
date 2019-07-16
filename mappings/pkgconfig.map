@@ -266,6 +266,7 @@ pkgconfig(gutenprintui2)	devpkg-gutenprint
 pkgconfig(gweather-3.0)	devpkg-libgweather
 pkgconfig(hwloc)	devpkg-hwloc
 pkgconfig(pciaccess)	devpkg-libpciaccess
+pkgconfig(jack)	devpkg-jack2
 pkgconfig(json-c)	devpkg-json-c
 pkgconfig(libabigail)	devpkg-libabigail
 pkgconfig(libacl)	devpkg-acl
