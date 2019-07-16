@@ -317,4 +317,5 @@ apache-tomcat # Tomcat server
 jack2 # JACK low-latency audio server for multi-processor machines (daemon activation)
 rxvt-unicode # No detailed summary available
 mod_wsgi # Python WSGI adapter module for Apache
-uwsgi # The uWSGI server 
+uwsgi # The uWSGI server
+gdal # Geospatial Data Abstraction Library 

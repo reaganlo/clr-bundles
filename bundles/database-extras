@@ -1,13 +1,7 @@
 # [TITLE]: database-extras
 # [DESCRIPTION]: Run an SQL database.
-# [STATUS]: Active
+# [STATUS]: Deprecated
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(python3-basic)
-include(database-basic)
-include(lib-opengl)
-include(lib-imageformat)
-include(libX11client)
-
-gdal
+include(gdal)

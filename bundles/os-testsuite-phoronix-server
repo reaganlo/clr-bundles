@@ -5,15 +5,17 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(c-basic)
-include(database-basic)
 include(git)
 include(go-basic)
+include(mariadb)
 include(nodejs-basic)
 include(octave)
 include(php-basic)
+include(postgresql)
 include(python3-basic)
 include(python2-basic)
 include(rust-basic)
+include(sqlite)
 include(devpkg-acl)
 include(devpkg-attr)
 autoconf

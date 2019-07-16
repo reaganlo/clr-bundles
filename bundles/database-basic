@@ -1,11 +1,7 @@
 # [TITLE]: database-basic
 # [DESCRIPTION]: Run an SQL database.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include(python3-basic)
-
-include(mariadb)
-include(postgresql)
-include(sqlite)
+filesystem
