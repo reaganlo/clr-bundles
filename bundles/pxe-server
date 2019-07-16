@@ -7,9 +7,9 @@
 include(iptables)
 include(nginx)
 include(python3-basic)
+include(uwsgi)
 dhcp
 dnsmasq
 grub
 ipxe
-uwsgi
 wol
