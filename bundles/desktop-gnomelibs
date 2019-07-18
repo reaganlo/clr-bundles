@@ -27,6 +27,7 @@ ibus-lib
 atk-lib
 libnotify-lib
 alsa-plugins-lib
+libappindicator-lib
 gdk-pixbuf-lib
 libsoup-lib
 libva-lib
