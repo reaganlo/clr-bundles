@@ -8,6 +8,7 @@ include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
 
+# mandatory desktop applications
 # included apps
 include(baobab)
 include(cheese)
@@ -15,7 +16,6 @@ include(eog)
 include(evince)
 include(evolution)
 include(file-roller)
-include(firefox)
 include(flatpak)
 include(geary)
 include(gedit)
@@ -35,6 +35,14 @@ include(graphviz)
 include(libva-utils)
 include(seahorse)
 include(totem)
+# apps
+dconf-editor
+eog-plugins
+evolution-ews
+graphviz-extras
+libyami-utils
+pavucontrol
+simple-scan
 
 # apps low level deps
 glib-bin
@@ -45,11 +53,7 @@ python-zeep
 requests
 requests-ntlm
 
-# apps
-dconf-editor
-eog-plugins
-evolution-ews
-graphviz-extras
-libyami-utils
-pavucontrol
-simple-scan
+# also-add apps
+include(emacs-x11)
+include(firefox)
+include(gvim)
