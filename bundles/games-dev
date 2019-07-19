@@ -392,6 +392,7 @@ libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
 libtheora-dev
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 libtool-dev32
@@ -421,6 +422,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
+lxml
 include(devpkg-lz4)
 m4
 include(make)
@@ -662,6 +664,7 @@ wayland-protocols-dev32
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
+xauth
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils

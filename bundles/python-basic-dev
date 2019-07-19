@@ -36,6 +36,7 @@ buildreq-gnome
 buildreq-meson
 bzip2
 bzip2-dev
+ca-certs
 cffi
 clr-rpm-config
 cmake
@@ -138,6 +139,7 @@ libseccomp-dev32
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 include(devpkg-libunwind)
@@ -148,6 +150,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+lxml
 m4
 include(make)
 mpc-dev
@@ -216,6 +219,7 @@ util-linux-extras
 include(valgrind)
 valgrind-dev
 include(which)
+xauth
 xmlto
 include(xz)
 include(devpkg-xz)

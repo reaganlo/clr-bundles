@@ -160,6 +160,7 @@ libseccomp-dev32
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 libunistring-dev
@@ -173,6 +174,7 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(devpkg-lua)
+lxml
 m4
 include(make)
 mpc-dev
@@ -245,6 +247,7 @@ include(valgrind)
 valgrind-dev
 include(which)
 include(devpkg-xapian-core)
+xauth
 include(xz)
 include(devpkg-xz)
 xz-dev32

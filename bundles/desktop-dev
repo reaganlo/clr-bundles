@@ -451,6 +451,7 @@ libcryptui-dev
 include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdazzle)
+libdbusmenu-dev
 libdmx-dev
 include(devpkg-libdrm)
 libdrm-dev32
@@ -490,6 +491,7 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
+libindicator-dev
 include(devpkg-libinput)
 include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
@@ -940,6 +942,7 @@ include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
+xauth
 xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)

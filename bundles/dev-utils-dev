@@ -228,6 +228,7 @@ libseccomp-dev32
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 libunistring-dev
@@ -246,6 +247,7 @@ include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
 include(devpkg-lua)
+lxml
 include(devpkg-lz4)
 lzo-dev
 m4
@@ -426,6 +428,7 @@ valgrind-dev
 vim
 include(wget)
 include(which)
+xauth
 xmlto
 include(xz)
 include(devpkg-xz)

@@ -402,6 +402,7 @@ include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
+lxml
 include(devpkg-lz4)
 lzo-dev
 m4
@@ -666,6 +667,7 @@ wayland-protocols-dev32
 include(wget)
 include(which)
 include(devpkg-xapian-core)
+xauth
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils

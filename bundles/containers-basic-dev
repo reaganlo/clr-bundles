@@ -182,6 +182,7 @@ include(devpkg-libsecret)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 libunistring-dev
@@ -195,6 +196,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 linux-libc-headers
+lxml
 include(devpkg-lz4)
 lzo-dev
 m4
@@ -274,6 +276,7 @@ include(devpkg-vala)
 include(valgrind)
 valgrind-dev
 include(which)
+xauth
 xmlto
 include(xz)
 include(devpkg-xz)

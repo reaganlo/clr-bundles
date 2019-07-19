@@ -417,7 +417,6 @@ R-pbdZMQ
 R-pbivnorm
 R-pbkrtest
 R-pcaPP
-R-pcse
 R-pdftools
 R-pdp
 R-permute
@@ -429,7 +428,6 @@ R-pkgconfig
 R-pkgdown
 R-pkgload
 R-pkgmaker
-R-plm
 R-plogr
 R-plotly
 R-plotmo
@@ -947,6 +945,7 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
+include(devpkg-libtirpc)
 libtool
 libtool-dev
 libunistring-dev
@@ -971,6 +970,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
+lxml
 include(devpkg-lz4)
 lzo-dev
 m4
@@ -1190,6 +1190,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
 include(which)
+xauth
 xcb-proto
 include(devpkg-xcb-proto)
 xdg-utils

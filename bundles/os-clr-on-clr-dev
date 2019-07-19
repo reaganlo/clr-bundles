@@ -21,6 +21,7 @@ CGAL-dev
 CUnit
 CUnit-dev
 CUnit-dev32
+Cheetah
 Cython
 Django
 Jinja2
@@ -366,6 +367,7 @@ harfbuzz-dev32
 hdf5-dev
 help2man
 hostname
+html5lib
 httpd-data
 httpd-dev
 httpd-extras
@@ -493,6 +495,7 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 libclc-dev
+libcomps
 include(devpkg-libcroco)
 libcroco-dev32
 include(devpkg-libdatrie)
@@ -713,6 +716,7 @@ include(devpkg-opus)
 orc
 include(devpkg-orc)
 orc-dev32
+ordereddict
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -855,6 +859,7 @@ proj
 proj-dev
 protobuf-dev
 psutil
+psycopg2
 ptyprocess
 include(devpkg-pulseaudio)
 pulseaudio-dev32
@@ -877,14 +882,17 @@ pytest-xdist
 python
 python-core
 python-dateutil
+python-dateutil-legacypython
 python-dateutil-legacypython-legacypython
 python-dev
 python-future
+python-krbV
 python-magic
 python-memcached
 python-mimeparse
 python-mock
 python-mock-python
+python-multilib
 python-rpm
 python-subunit
 python3
@@ -935,6 +943,7 @@ requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
 rpcbind
+rpm
 rpm-build
 rpm-common
 rpm-dev
@@ -961,6 +970,7 @@ sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
+simplejson
 sip
 sip-dev
 six
@@ -1038,6 +1048,7 @@ unittest2
 unittest2-python
 unixODBC-dev
 include(unzip)
+urlgrabber
 urllib3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
@@ -1064,6 +1075,7 @@ include(wget)
 wheel
 include(which)
 include(devpkg-xapian-core)
+xauth
 xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
@@ -1086,10 +1098,14 @@ yajl-dev
 yajl-lib
 yaml-dev
 include(yasm)
+yum
+yum-metadata-parser
 include(zip)
 zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
 zope.interface
+zope.testing
+zope.testrunner
 include(devpkg-zstd)
