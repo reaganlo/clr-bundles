@@ -598,6 +598,7 @@ include(devpkg-lua)
 lxml
 include(devpkg-lz4)
 lzo-dev
+m17n-lib
 m4
 include(make)
 man-db
