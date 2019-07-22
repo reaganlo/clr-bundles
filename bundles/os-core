@@ -6,12 +6,7 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 bash-bin
 ca-certs-static
-clr-power-tweaks
-clr-systemd-config
-cnf
 coreutils-bin
-dbus-autostart
-dbus-bin
 dist-pam-configs
 e2fsprogs-bin
 filesystem
@@ -20,18 +15,8 @@ glibc-lib-avx2
 glibc-utils
 grep-bin
 hostname-bin
-iproute2-bin
-kmod-bin
-nano-bin
-nano-data
-netbase
 nettle-lib
-nss-altfiles
-procps-ng-bin
 sed-bin
 shadow
-systemd-bootchart
-systemd
-systemd-lib
 tzdata-minimal
 util-linux-bin
