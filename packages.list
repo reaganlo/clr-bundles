@@ -318,5 +318,6 @@ jack2 # JACK low-latency audio server for multi-processor machines (daemon activ
 rxvt-unicode # No detailed summary available
 mod_wsgi # Python WSGI adapter module for Apache
 uwsgi # The uWSGI server
-gdal # Geospatial Data Abstraction Library 
+gdal # Geospatial Data Abstraction Library
 su-exec # A simple tool that will simply execute a program with different privileges
+gnome-clocks # Clocks applications for GNOME 
