@@ -320,4 +320,5 @@ mod_wsgi # Python WSGI adapter module for Apache
 uwsgi # The uWSGI server
 gdal # Geospatial Data Abstraction Library
 su-exec # A simple tool that will simply execute a program with different privileges
-gnome-clocks # Clocks applications for GNOME 
+gnome-clocks # Clocks applications for GNOME
+gnome-contacts # Contacts Manager for GNOME 
