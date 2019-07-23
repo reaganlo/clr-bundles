@@ -321,4 +321,5 @@ uwsgi # The uWSGI server
 gdal # Geospatial Data Abstraction Library
 su-exec # A simple tool that will simply execute a program with different privileges
 gnome-clocks # Clocks applications for GNOME
-gnome-contacts # Contacts Manager for GNOME 
+gnome-contacts # Contacts Manager for GNOME
+dropwatch # Kernel dropped packet monitor 
