@@ -1,8 +1,8 @@
 # [TITLE]: Gradio
-# [DESCRIPTION]: A GTK3 app for finding and listening to internet radio stations
+# [DESCRIPTION]: A GTK3 app for finding and listening to internet radio stations.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)
