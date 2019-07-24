@@ -1,8 +1,8 @@
 # [TITLE]: feh
-# [DESCRIPTION]: No detailed summary available
+# [DESCRIPTION]: Fast X11 image viewer, managed via command-line.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Multimedia and Graphics, Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libX11client)
