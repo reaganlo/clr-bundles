@@ -1,8 +1,8 @@
 # [TITLE]: CopyQ
-# [DESCRIPTION]: Clipboard manager with searchable and editable history
+# [DESCRIPTION]: Clipboard manager with searchable and editable history.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(qt-core)
