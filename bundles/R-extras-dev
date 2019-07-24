@@ -19,7 +19,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 R-AER
-R-AmesHousing
 R-BB
 R-BBmisc
 R-BH
@@ -67,7 +66,6 @@ R-MatrixModels
 R-ModelMetrics
 R-NADA
 R-NLP
-R-PKI
 R-R.methodsS3
 R-R.oo
 R-R.utils
@@ -587,6 +585,7 @@ R-tensor
 R-tensorA
 R-tensorflow
 R-testthat
+R-texreg
 R-tfruns
 R-threejs
 R-tibble
