@@ -469,6 +469,8 @@ include(openblas)
 openconnect-dev
 openjade-dev
 openjdk
+openjdk11
+openjdk11-dev
 openjdk9
 openjdk9-dev
 openldap-dev
@@ -624,7 +626,6 @@ sqlite-autoconf-dev32
 stoken-dev
 include(strace)
 include(subversion)
-swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

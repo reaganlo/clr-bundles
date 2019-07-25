@@ -1017,6 +1017,8 @@ openblas-staticdev
 openexr-dev
 openjade-dev
 openjdk
+openjdk11
+openjdk11-dev
 openjdk9
 openjdk9-dev
 openldap-dev

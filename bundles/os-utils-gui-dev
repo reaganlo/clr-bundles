@@ -575,6 +575,8 @@ openconnect-dev
 include(devpkg-opencv)
 openexr-dev
 openjdk
+openjdk11
+openjdk11-dev
 openjdk9
 openjdk9-dev
 openldap-dev
@@ -728,7 +730,6 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
-slang-dev
 speex-dev
 speexdsp-dev
 spice-dev

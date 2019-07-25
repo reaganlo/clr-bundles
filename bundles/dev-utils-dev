@@ -277,6 +277,8 @@ nss-altfiles
 numactl-dev
 onig-dev
 include(openblas)
+openjdk11
+openjdk11-dev
 openjdk9
 openjdk9-dev
 include(devpkg-openmpi)

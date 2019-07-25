@@ -368,6 +368,8 @@ numactl-dev
 include(devpkg-oath-toolkit)
 open-iscsi
 openjdk
+openjdk11
+openjdk11-dev
 openjdk9
 openjdk9-dev
 openldap-dev
