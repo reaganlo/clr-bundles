@@ -323,4 +323,5 @@ su-exec # A simple tool that will simply execute a program with different privil
 gnome-clocks # Clocks applications for GNOME
 gnome-contacts # Contacts Manager for GNOME
 dropwatch # Kernel dropped packet monitor
-lynx # A text-based Web browser 
+lynx # A text-based Web browser
+fdupes # A program for identifying or deleting duplicate files residing within specified directories.
