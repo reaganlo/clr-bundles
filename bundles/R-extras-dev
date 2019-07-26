@@ -337,6 +337,7 @@ R-leaflet
 R-leaps
 R-lfe
 R-libcoin
+R-linprog
 R-listenv
 R-listviewer
 R-lme4
@@ -388,6 +389,7 @@ R-multcomp
 R-multicool
 R-multiwayvcov
 R-munsell
+R-mvnfast
 R-mvnormtest
 R-mvtnorm
 R-natserv

@@ -195,8 +195,8 @@ nghttp2-dev32
 nss-altfiles
 onig-dev
 openjade-dev
-openjdk9
-openjdk9-dev
+openjdk11
+openjdk11-dev
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
