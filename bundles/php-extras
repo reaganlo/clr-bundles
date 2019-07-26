@@ -19,7 +19,6 @@ php-dbase
 php-dio
 php-ds
 php-eio
-php-env
 php-ev
 php-gender
 php-geospatial
@@ -31,7 +30,6 @@ php-igbinary
 php-imagick
 php-inotify
 php-jsmin
-php-jsond
 php-json_post
 php-krb5
 php-lua
@@ -41,10 +39,8 @@ php-Molten
 php-mongodb
 php-msgpack
 php-oauth
-php-opencensus
 php-parle
 php-pcov
-php-pcs
 php-PDO_SQLANYWHERE
 php-proctitle
 php-propro
@@ -56,7 +52,6 @@ php-redis
 php-scrypt
 php-SeasClick
 php-SeasLog
-php-stackdriver_debugger
 php-stomp
 php-svm
 php-sync
@@ -73,4 +68,3 @@ php-xxtea
 php-Yaf
 php-yaml
 php-yar
-php-zip
