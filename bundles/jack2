@@ -1,8 +1,8 @@
 # [TITLE]: jack2
-# [DESCRIPTION]: JACK low-latency audio server for multi-processor machines (daemon activation)
+# [DESCRIPTION]: JACK low-latency audio server for multi-processor machines (daemon activation).
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(libstdcpp)
