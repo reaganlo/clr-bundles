@@ -67,6 +67,7 @@ include(acpica-unix2)
 alabaster
 include(devpkg-alsa-lib)
 alsa-lib-dev32
+apache-ant
 appdirs
 appstream-dev
 appstream-glib
@@ -132,6 +133,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-mvn
 buildreq-php
 buildreq-qmake
 buildreq-scons

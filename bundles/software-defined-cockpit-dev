@@ -91,6 +91,7 @@ coreutils
 cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 cups-dev
 include(devpkg-curl)
 curl-dev32

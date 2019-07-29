@@ -648,6 +648,7 @@ Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
+apache-ant
 armadillo
 asciidoc
 include(devpkg-at-spi2-atk)
@@ -681,6 +682,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-mvn
 buildreq-php
 buildreq-qmake
 buildreq-scons
@@ -1021,8 +1023,6 @@ openjade-dev
 openjdk
 openjdk11
 openjdk11-dev
-openjdk9
-openjdk9-dev
 openldap-dev
 include(openmpi)
 include(devpkg-openmpi)

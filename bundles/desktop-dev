@@ -144,6 +144,7 @@ include(cryptography)
 cryptography_vectors
 include(devpkg-cryptsetup)
 cssselect
+ctags
 cups
 cups-dev
 cups-filters
