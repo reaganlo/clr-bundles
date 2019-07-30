@@ -32,7 +32,7 @@ six
 Werkzeug
 wheel
 wrapt
-openblas
+include(openblas)
 # end of custom additions
 
 # main package

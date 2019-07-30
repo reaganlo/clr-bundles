@@ -93,6 +93,8 @@ gmime
 include(devpkg-gmime)
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
@@ -199,6 +201,7 @@ p11-kit-dev32
 include(patch)
 include(devpkg-pcre)
 pcre-dev32
+perl
 perl-XML-Parser
 pigz
 pkg-config
