@@ -303,6 +303,7 @@ include(devpkg-gflags)
 ghostscript
 ghostscript-dev
 include(git)
+gitdb2
 include(gjs)
 include(devpkg-glew)
 glib-bin

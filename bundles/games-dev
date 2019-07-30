@@ -106,7 +106,6 @@ include(devpkg-clutter)
 cmake
 cmocka-dev
 include(devpkg-colord)
-compat-curl-gnutls-soname4-dev
 compat-libpng-soname12-dev
 compat-libva-soname1-dev
 coreutils

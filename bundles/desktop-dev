@@ -11,6 +11,7 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+ImageMagick-dev
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev
@@ -354,6 +355,7 @@ harfbuzz-dev32
 help2man
 hicolor-icon-theme
 hostname
+html5lib
 hunspell-dev
 hypothesis-python
 ibus
