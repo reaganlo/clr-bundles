@@ -8,6 +8,7 @@ include(x11-server)
 dmenu
 include(feh)
 i3
+i3blocks
 i3lock
 i3status
 xdg-utils
