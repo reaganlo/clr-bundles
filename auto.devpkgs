@@ -16,6 +16,7 @@ dbus-1
 devmapper
 dri3proto
 evolution-mail-3.0
+eigen3
 expat
 ext2fs
 fann
