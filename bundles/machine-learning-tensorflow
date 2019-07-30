@@ -4,26 +4,36 @@
 # [CAPABILITIES]:
 # [TAGS]: Data Science, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include(cloud-api)
-include(python-data-science)
+include(python3-basic)
+include(libstdcpp)
 
-#
-# Key ML framework and tools
-#
-
-
+# start of custom additions (edits outside this area will be removed automatically)
 tensorboard
-tensorflow
 tflearn
-
-
-#
-# Dependencies, helpers and libraries for Key frameworks
-#
-
 Keras
+Keras_Applications
+Keras_Preprocessing
 horovod
 protobuf-python
 termcolor
 tensorflow-estimator
 tensorflow-probability
+absl-py
+astor
+gast
+google-pasta
+grpcio
+h5py
+Markdown
+numpy
+pandas
+protobuf
+six
+Werkzeug
+wheel
+wrapt
+openblas
+# end of custom additions
+
+# main package
+tensorflow
