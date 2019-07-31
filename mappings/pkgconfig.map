@@ -115,6 +115,7 @@ pkgconfig(xkeyboard-config)	devpkg-xkeyboard-config
 pkgconfig(iso-codes)	devpkg-iso-codes
 pkgconfig(libseccomp)	devpkg-libseccomp
 pkgconfig(libemail-engine)	devpkg-evolution
+pkgconfig(eigen3)	devpkg-eigen
 pkgconfig(ext2fs)	devpkg-e2fsprogs
 pkgconfig(com_err)	devpkg-e2fsprogs
 pkgconfig(fann)	devpkg-fann
