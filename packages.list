@@ -326,3 +326,4 @@ dropwatch # Kernel dropped packet monitor
 lynx # A text-based Web browser
 fdupes # A program for identifying or deleting duplicate files residing within specified directories.
 geeqie # a GTK based image viewer and browser
+neovim # Fork of Vim aiming to improve user experience, plugins, and GUIs 
