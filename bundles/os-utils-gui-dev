@@ -70,7 +70,6 @@ bash-completion-dev
 bats
 include(bc)
 bdftopcf
-beignet-dev
 include(binutils)
 binutils-dev
 include(bison)
@@ -573,6 +572,7 @@ octave-dev
 open-iscsi
 openal-soft-dev
 openal-soft-dev32
+opencl-headers-dev
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev

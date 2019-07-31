@@ -648,7 +648,6 @@ Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
-apache-ant
 armadillo
 asciidoc
 include(devpkg-at-spi2-atk)
@@ -667,7 +666,6 @@ automake-dev
 bash
 bash-completion-dev
 bats
-beignet-dev
 include(binutils)
 binutils-dev
 include(bison)
@@ -682,7 +680,6 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
-buildreq-mvn
 buildreq-php
 buildreq-qmake
 buildreq-scons
@@ -727,7 +724,7 @@ e2fsprogs-data
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
-eigen-dev
+include(devpkg-eigen)
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
@@ -1018,11 +1015,14 @@ onig-dev
 include(openblas)
 include(devpkg-openblas)
 openblas-staticdev
+opencl-headers-dev
 openexr-dev
 openjade-dev
 openjdk
 openjdk11
 openjdk11-dev
+openjdk9
+openjdk9-dev
 openldap-dev
 include(openmpi)
 include(devpkg-openmpi)

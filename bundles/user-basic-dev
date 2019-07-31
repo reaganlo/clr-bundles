@@ -18,14 +18,18 @@ include(user-basic)
 CUnit
 CUnit-dev
 CUnit-dev32
+CherryPy
 Cython
+Flask
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
+PyJWT
 Pygments
+Routes
 include(devpkg-SDL)
 include(Sphinx)
 Sphinx-python
@@ -33,13 +37,13 @@ Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
+Werkzeug
 Z3-dev
 Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
-apache-ant
 include(devpkg-apr)
 asciidoc
 aspell
@@ -51,6 +55,7 @@ include(devpkg-atk)
 atk-dev32
 include(devpkg-attr)
 attr-dev32
+attrs
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -63,7 +68,7 @@ bash
 bash-completion-dev
 bats
 include(bc)
-beignet-dev
+bcrypt
 include(binutils)
 binutils-dev
 include(bison)
@@ -81,7 +86,6 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
-buildreq-mvn
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -94,6 +98,7 @@ cffi
 check
 check-dev
 check-dev32
+cheroot
 clear-font
 clr-rpm-config
 cmake
@@ -102,7 +107,9 @@ cmocka-dev
 colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
+configparser
 coreutils
+coverage
 include(cpio)
 cppcheck
 cppunit-dev
@@ -138,10 +145,12 @@ e2fsprogs-extras
 ebtables
 ed
 efivar-dev
+include(elasticsearch)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
+enum34
 include(devpkg-expat)
 expat-dev32
 expect
@@ -158,6 +167,7 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
+funcsigs
 include(devpkg-fuse)
 gawk
 gc-dev
@@ -211,6 +221,9 @@ include(devpkg-gnutls)
 go
 gobject-introspection
 include(devpkg-gobject-introspection)
+google-api-python-client
+google-auth
+google-auth-httplib2
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
@@ -223,6 +236,7 @@ include(graphviz)
 graphviz-extras
 grep
 groff
+grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
 gtk+-dev
@@ -245,6 +259,7 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 imagesize
+influxdb
 include(intltool)
 intltool-dev
 include(iproute2)
@@ -254,6 +269,7 @@ iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
 iso8601
+isort
 jansson-dev
 include(joe)
 include(devpkg-json-c)
@@ -269,6 +285,7 @@ kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
+lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -411,9 +428,11 @@ m4
 include(make)
 makedepend
 man-db
+mccabe
 include(devpkg-mesa)
 mesa-dev32
 meson
+more-itertools
 mozjs-dev
 include(devpkg-mozjs60)
 mpc-dev
@@ -442,11 +461,14 @@ nss-altfiles
 include(devpkg-nss)
 numactl
 numactl-dev
+numpy
+oath-toolkit
 include(devpkg-oath-toolkit)
 onig-dev
 open-iscsi
 open-isns-dev
 include(openblas)
+opencl-headers-dev
 openjdk
 openjdk11
 openjdk11-dev
@@ -549,11 +571,13 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 ply
 include(polkit)
 polkit-dev
 include(devpkg-popt)
+portend
 include(devpkg-postgresql)
 prettytable
 processor-trace-dev
@@ -562,6 +586,8 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 psutil
+py
+pycodestyle
 pycparser
 pyparsing
 pytest
@@ -571,6 +597,7 @@ python-dev
 python3
 python3-core
 python3-dev
+pytz
 qemu
 include(devpkg-qtbase)
 qtbase-extras
@@ -587,6 +614,8 @@ rpm-common
 ruby
 sassc
 scikit-build
+scikit-learn
+scipy
 include(scons)
 sed
 setuptools
@@ -596,6 +625,7 @@ sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
+singledispatch
 six
 slang-dev
 snappy-dev
@@ -630,6 +660,7 @@ tcl
 tcl-dev
 tdb-dev
 tdb-python3
+tempora
 testrepository
 testresources
 testscenarios
@@ -670,6 +701,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(wget)
 include(which)
+wrapt
 include(devpkg-xapian-core)
 xauth
 xcb-proto

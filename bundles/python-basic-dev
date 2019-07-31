@@ -55,7 +55,7 @@ include(docbook-utils)
 docbook-xml
 include(doxygen)
 e2fsprogs
-eigen-dev
+include(devpkg-eigen)
 include(devpkg-elfutils)
 elfutils-dev32
 include(devpkg-expat)

@@ -41,7 +41,7 @@ bazel
 bokeh
 include(devpkg-boost)
 cycler-python
-eigen-dev
+include(devpkg-eigen)
 include(devpkg-fann)
 funcsigs
 gensim

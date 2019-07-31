@@ -22,8 +22,10 @@ CUnit
 CUnit-dev
 CUnit-dev32
 Cheetah
+CherryPy
 Cython
 Django
+Flask
 Jinja2
 Jinja2-python
 LVM2
@@ -43,12 +45,14 @@ ModemManager-dev
 ModemManager-dev32
 include(devpkg-NetworkManager)
 Pillow
+PyJWT
 PyQt5
 PySocks
 PyYAML
 Pygments
 R
 include(devpkg-R)
+Routes
 include(devpkg-SDL)
 SFCGAL-dev
 include(Sphinx)
@@ -58,6 +62,7 @@ Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
+Werkzeug
 Whoosh
 Z3-dev
 Z3-dev32
@@ -111,7 +116,6 @@ bats
 include(bc)
 bcrypt
 bdftopcf
-beignet-dev
 include(binutils)
 binutils-dev
 binwalk
@@ -153,6 +157,7 @@ chardet
 check
 check-dev
 check-dev32
+cheroot
 clear-font
 clr-avx-tools
 clr-python-timestamp
@@ -161,7 +166,6 @@ include(devpkg-clutter)
 cmake
 cmd2
 cmocka-dev
-include(devpkg-cmrt)
 colorama
 include(devpkg-colord)
 commonmark
@@ -234,7 +238,8 @@ e2fsprogs-extras
 ebtables
 ed
 efivar-dev
-eigen-dev
+include(devpkg-eigen)
+include(elasticsearch)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
@@ -338,6 +343,9 @@ go
 gobject-introspection
 include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
+google-api-python-client
+google-auth
+google-auth-httplib2
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
@@ -352,6 +360,7 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
@@ -388,6 +397,7 @@ idna
 idna-python
 imagesize
 importlib_metadata
+influxdb
 include(intltool)
 intltool-dev
 ipaddress
@@ -401,6 +411,7 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isodate
+isort
 jansson-dev
 jemalloc-dev
 include(joe)
@@ -456,6 +467,7 @@ kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
 lark-parser
+lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -633,7 +645,6 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 llvm-dev32
-llvm-lib
 lmdb-dev
 lua
 include(devpkg-lua)
@@ -646,6 +657,7 @@ include(make)
 makedepend
 man-db
 include(devpkg-mariadb)
+mccabe
 media-player-info
 memkind-dev
 include(devpkg-mesa)
@@ -871,6 +883,7 @@ ntlm-auth
 numactl
 numactl-dev
 numpy
+oath-toolkit
 include(devpkg-oath-toolkit)
 ocl-icd-dev
 octave-dev
@@ -879,6 +892,7 @@ open-iscsi
 open-isns-dev
 openal-soft-dev
 include(openblas)
+opencl-headers-dev
 openexr-dev
 openjade-dev
 openjdk
@@ -913,7 +927,6 @@ include(patch)
 pathlib2
 pbr
 pbr-legacypython
-pciutils
 include(devpkg-pciutils)
 pcre
 include(devpkg-pcre)
@@ -1027,6 +1040,7 @@ include(poppler)
 poppler-dev
 poppler-extras
 include(devpkg-popt)
+portend
 include(devpkg-postgresql)
 ppp
 ppp-dev
@@ -1051,6 +1065,7 @@ pyOpenSSL
 pyasn1
 pycairo
 pycairo-dev
+pycodestyle
 pycparser
 pycparser-python
 pycurl
@@ -1138,6 +1153,8 @@ sbc-dev
 sbc-dev32
 sbsigntools
 scikit-build
+scikit-learn
+scipy
 include(scons)
 secretstorage
 sed
@@ -1153,6 +1170,7 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 simplejson
+singledispatch
 sip
 sip-dev
 six
@@ -1204,6 +1222,7 @@ tcl-dev
 tcl-staticdev
 tdb-dev
 tdb-python3
+tempora
 testrepository
 testresources
 testscenarios
@@ -1256,6 +1275,7 @@ wcwidth
 include(wget)
 wheel
 include(which)
+wrapt
 include(devpkg-xapian-core)
 xauth
 xcb-proto
