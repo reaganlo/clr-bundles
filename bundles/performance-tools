@@ -33,6 +33,7 @@ include(net-tools)
 nicstat
 numatop
 open-lldp
+pm-graph
 include(powertop)
 include(procps-ng)
 psstop
