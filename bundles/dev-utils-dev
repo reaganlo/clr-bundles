@@ -24,6 +24,7 @@ Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
+apache-ant
 asciidoc
 include(devpkg-attr)
 attr-dev32
@@ -51,6 +52,7 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
+buildreq-mvn
 buildreq-qmake
 bzip2
 bzip2-dev
@@ -281,8 +283,6 @@ include(openblas)
 opencl-headers-dev
 openjdk11
 openjdk11-dev
-openjdk9
-openjdk9-dev
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)

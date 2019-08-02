@@ -722,8 +722,6 @@ openjdk
 openjdk-dev
 openjdk11
 openjdk11-dev
-openjdk9
-openjdk9-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh

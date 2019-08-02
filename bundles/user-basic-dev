@@ -44,6 +44,7 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
+apache-ant
 include(devpkg-apr)
 asciidoc
 aspell
@@ -86,6 +87,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-mvn
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -472,8 +474,6 @@ opencl-headers-dev
 openjdk
 openjdk11
 openjdk11-dev
-openjdk9
-openjdk9-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh
