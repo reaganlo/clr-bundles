@@ -97,7 +97,6 @@ gmp-dev32
 gmp-lib32
 gnu-efi
 gnu-efi-dev
-include(devpkg-gnutls)
 gperf
 include(graphviz)
 grep

@@ -59,6 +59,7 @@ asn1crypto
 asn1crypto-python
 aspell
 aspell-dev
+aspell-en
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -319,6 +320,7 @@ graphite-dev32
 include(graphviz)
 graphviz-extras
 grep
+grilo
 include(devpkg-grilo)
 grilo-plugins
 include(devpkg-grilo-plugins)
@@ -542,6 +544,7 @@ include(devpkg-librsvg)
 librsvg-dev32
 include(devpkg-libsamplerate)
 include(devpkg-libsass)
+libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
@@ -845,6 +848,7 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 rpm-dev
+rtkit
 rtmpdump-dev
 ruby
 ruby-dev

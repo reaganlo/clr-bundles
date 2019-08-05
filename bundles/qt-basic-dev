@@ -443,6 +443,7 @@ readline-dev32
 include(devpkg-rest)
 rest-dev32
 rpm-build
+rtkit
 ruby
 sassc
 sbc-dev

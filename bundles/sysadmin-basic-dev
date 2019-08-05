@@ -19,6 +19,7 @@ include(devpkg-apr)
 asciidoc
 aspell
 aspell-dev
+aspell-en
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -169,6 +170,7 @@ include(devpkg-libpcap)
 include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpwquality-dev
+libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libssh2)

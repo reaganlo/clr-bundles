@@ -88,6 +88,7 @@ asn1crypto
 asn1crypto-python
 aspell
 aspell-dev
+aspell-en
 assimp-dev
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
@@ -591,6 +592,7 @@ include(devpkg-librsvg)
 librsvg-dev32
 libsafec-dev
 include(devpkg-libsamplerate)
+libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
@@ -1142,6 +1144,7 @@ rpm
 rpm-build
 rpm-common
 rpm-dev
+rtkit
 ruby
 rust-std32
 rustc

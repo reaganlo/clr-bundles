@@ -32,6 +32,7 @@ appstream-dev
 appstream-glib
 asciidoc
 aspell-dev
+aspell-en
 assimp-dev
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
@@ -516,6 +517,7 @@ readline-dev32
 include(devpkg-rest)
 rest-dev32
 rpm-build
+rtkit
 rtmpdump-dev
 ruby
 sassc

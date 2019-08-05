@@ -50,6 +50,7 @@ appstream-glib
 include(devpkg-appstream-glib)
 asciidoc
 aspell-dev
+aspell-en
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -715,6 +716,7 @@ readline-dev32
 include(devpkg-rest)
 rest-dev32
 rpm-build
+rtkit
 ruby
 rust-std32
 rustc
