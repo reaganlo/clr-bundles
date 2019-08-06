@@ -29,6 +29,7 @@ lxqt-themes
 
 # core apps
 libfm-qt
+openbox
 pcmanfm-qt
 
 # misc session stuff
