@@ -332,3 +332,4 @@ postgresql11 # Database, version 11.x
 TLP # Advanced Power Management for Linux
 RawTherapee # A powerful cross-platform raw photo processing program
 mosquitto # mosquitto MQTT library (C bindings) 
+asunder # Graphical Audio CD ripper and encoder
