@@ -60,6 +60,7 @@ LS_COLORS
 lsacpi
 lshw
 lsof
+lzop
 man-db
 include(man-pages)
 mc
