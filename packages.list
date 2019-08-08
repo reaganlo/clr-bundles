@@ -331,3 +331,4 @@ xpra # runs X clients, typically on a remote host, and directs their display to 
 postgresql11 # Database, version 11.x
 TLP # Advanced Power Management for Linux
 RawTherapee # A powerful cross-platform raw photo processing program
+mosquitto # mosquitto MQTT library (C bindings) 
