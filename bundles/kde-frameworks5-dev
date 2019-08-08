@@ -513,6 +513,7 @@ qtwebsockets-dev
 re2-dev
 include(devpkg-readline)
 readline-dev32
+requests
 include(devpkg-rest)
 rest-dev32
 rpm-build

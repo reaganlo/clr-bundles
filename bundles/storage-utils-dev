@@ -329,6 +329,7 @@ qtbase-extras
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
+requests
 rpcbind
 rpm-build
 ruby
