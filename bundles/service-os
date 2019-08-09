@@ -10,7 +10,7 @@ include(kernel-iot-lts2018-sos)
 
 # Thermal control
 include(thermal_daemon)
-thermal_daemon-extras-thermald-autostart
+thermal_daemon-autostart
 
 #
 # The package below is a python script
