@@ -4,17 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
-include(Sphinx)
 include(git)
 include(httpd)
 include(mod_wsgi)
 include(nfs-utils)
 include(package-utils)
 include(postgresql)
-include(python2-basic)
 include(sudo)
 
 koji
 koji-extras
-mash
-python2-mod_wsgi-legacypython

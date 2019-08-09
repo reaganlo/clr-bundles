@@ -7,13 +7,10 @@
 include(python3-basic)
 # sad
 include(perl-basic)
-# more sad
-include(python2-basic)
 createrepo_c
 include(dnf)
 mock
 python-rpm
-python-rpm-legacypython
 rpm
 rpm-build
 rpm-common
