@@ -304,10 +304,10 @@ pkgconfig(libdvbv5)	devpkg-v4l-utils
 pkgconfig(libebook-1.2)	devpkg-evolution-data-server
 pkgconfig(libebook-contacts-1.2)	devpkg-evolution-data-server
 pkgconfig(libedata-book-1.2)	devpkg-evolution-data-server
-pkgconfig(libecpg)	devpkg-postgresql
-pkgconfig(libpq)	devpkg-postgresql
-pkgconfig(libpgtypes)	devpkg-postgresql
-pkgconfig(libecpg_compat)	devpkg-postgresql
+pkgconfig(libecpg)	devpkg-postgresql11
+pkgconfig(libpq)	devpkg-postgresql11
+pkgconfig(libpgtypes)	devpkg-postgresql11
+pkgconfig(libecpg_compat)	devpkg-postgresql11
 pkgconfig(libedata-cal-1.2)	devpkg-evolution-data-server
 pkgconfig(libevdev)	devpkg-libevdev
 pkgconfig(libevent)	devpkg-libevent
