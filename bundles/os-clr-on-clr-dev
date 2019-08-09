@@ -200,6 +200,8 @@ include(devpkg-dbus)
 dbus-dev32
 include(devpkg-dbus-glib)
 dbus-glib-dev32
+dbus-python
+dbus-python-dev
 defusedxml
 dejagnu
 deprecated-Babel-legacypython

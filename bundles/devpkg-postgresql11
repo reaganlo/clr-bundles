@@ -7,4 +7,4 @@
 
 include(devpkg-base)
 
-postgresql11
+include(postgresql11)
