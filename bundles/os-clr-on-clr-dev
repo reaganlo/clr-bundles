@@ -592,7 +592,6 @@ include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
-libsafec-dev
 include(devpkg-libsamplerate)
 libseccomp
 include(devpkg-libseccomp)

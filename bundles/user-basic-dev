@@ -386,7 +386,6 @@ libpwquality-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
-libsafec-dev
 libseccomp
 include(devpkg-libseccomp)
 libseccomp-dev32
