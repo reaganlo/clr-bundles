@@ -58,7 +58,6 @@ R-IRdisplay
 R-ISwR
 R-Iso
 R-JM
-R-Lahman
 R-LearnBayes
 R-MCMCpack
 R-Matching
@@ -131,7 +130,6 @@ R-benchr
 R-betareg
 R-bibtex
 R-biglm
-R-binGroup
 R-bindr
 R-bit
 R-bit64
@@ -266,7 +264,6 @@ R-gbRd
 R-gbm
 R-gclus
 R-gdata
-R-geepack
 R-generics
 R-geometry
 R-getopt
@@ -313,7 +310,6 @@ R-ipred
 R-iterators
 R-janitor
 R-joineR
-R-joineRML
 R-jpeg
 R-jqr
 R-jsonlite
@@ -347,7 +343,6 @@ R-locfit
 R-loo
 R-lpSolve
 R-lsei
-R-lsmeans
 R-lubridate
 R-magic
 R-magick
@@ -439,7 +434,6 @@ R-pls
 R-plyr
 R-pmml
 R-png
-R-poLCA
 R-polspline
 R-polyclip
 R-polycor
@@ -460,7 +454,6 @@ R-protolite
 R-proxy
 R-pryr
 R-ps
-R-psych
 R-psychotools
 R-purrr
 R-pvclust
@@ -515,7 +508,6 @@ R-rncl
 R-rngWELL
 R-rngtools
 R-robCompositions
-R-robust
 R-robustbase
 R-rotl
 R-roxygen2
@@ -568,7 +560,6 @@ R-spam
 R-spatstat.data
 R-spatstat.utils
 R-spdep
-R-speedglm
 R-spelling
 R-spls
 R-stabledist

@@ -193,6 +193,7 @@ libxslt-bin
 linux-libc-headers
 lxml
 include(devpkg-lz4)
+lzo-dev
 m4
 include(make)
 man-db

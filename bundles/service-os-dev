@@ -264,6 +264,7 @@ include(devpkg-telemetrics-client)
 include(texinfo)
 thin-provisioning-tools
 tk-dev
+tox
 include(tzdata)
 include(unzip)
 util-linux
