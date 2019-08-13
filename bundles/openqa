@@ -7,7 +7,7 @@
 include(kvm-host)
 include(perl-extras)
 include(postgresql)
-include(web-server-basic)
+include(httpd)
 opencv-lib
 openQA
 os-autoinst
