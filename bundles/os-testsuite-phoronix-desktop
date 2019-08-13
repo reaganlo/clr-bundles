@@ -95,6 +95,7 @@ numpy
 ocl-icd
 ocl-icd-dev
 include(openblas)
+opencl-headers-dev
 include(devpkg-openssl)
 include(devpkg-opus)
 p7zip
