@@ -285,6 +285,7 @@ gtk3-dev32
 include(devpkg-gtkmm3)
 include(devpkg-gtkspell3)
 guile
+gvfs
 gvfs-dev
 include(gzip)
 include(devpkg-harfbuzz)
