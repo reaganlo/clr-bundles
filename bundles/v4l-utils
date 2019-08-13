@@ -5,7 +5,6 @@
 # [TAGS]: Multimedia and Graphics, Tools and Utilities, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
-include(qt-basic)
 include(lib-imageformat)
 include(libstdcpp)
 
