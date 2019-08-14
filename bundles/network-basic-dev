@@ -46,6 +46,7 @@ bzip2
 bzip2-dev
 ca-certs
 include(devpkg-cairo)
+certifi
 cffi
 check-dev
 check-dev32

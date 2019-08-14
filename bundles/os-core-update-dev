@@ -17,6 +17,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-attr)
 attr-dev32
+audisp-json
 include(devpkg-audit)
 autoconf
 autogen

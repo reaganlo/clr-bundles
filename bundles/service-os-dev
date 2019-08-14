@@ -47,6 +47,7 @@ buildreq-qmake
 bzip2
 bzip2-dev
 ca-certs
+certifi
 cffi
 check-dev
 clr-rpm-config

@@ -37,6 +37,7 @@ buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
+certifi
 cffi
 clr-rpm-config
 cmake

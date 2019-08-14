@@ -44,6 +44,7 @@ atk-dev32
 include(devpkg-attr)
 attr-dev32
 attrs
+audisp-json
 include(devpkg-audit)
 autoconf
 autoconf213

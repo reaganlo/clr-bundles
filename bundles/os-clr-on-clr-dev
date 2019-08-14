@@ -101,6 +101,7 @@ include(devpkg-attr)
 attr-dev32
 attrs
 attrs-python
+audisp-json
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev

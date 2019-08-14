@@ -58,6 +58,7 @@ atk-dev32
 include(devpkg-attr)
 attr-dev32
 attrs
+audisp-json
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -97,6 +98,7 @@ ca-certs
 include(devpkg-cairo)
 cairo-dev32
 ceph-dev
+certifi
 cffi
 check
 check-dev

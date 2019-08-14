@@ -22,6 +22,7 @@ aspell-dev
 aspell-en
 include(devpkg-attr)
 attr-dev32
+audisp-json
 include(devpkg-audit)
 autoconf
 autogen

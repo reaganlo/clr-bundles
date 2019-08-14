@@ -60,6 +60,7 @@ atk-dev32
 include(devpkg-atkmm)
 include(devpkg-attr)
 attr-dev32
+audisp-json
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -95,10 +96,12 @@ ca-certs
 include(devpkg-cairo)
 cairo-dev32
 include(devpkg-cairomm)
+certifi
 cffi
 check
 check-dev
 check-dev32
+chrpath
 clear-font
 clr-rpm-config
 include(devpkg-clutter)
@@ -106,6 +109,7 @@ cmake
 cmocka-dev
 include(devpkg-cmrt)
 include(devpkg-cogl)
+colord
 include(devpkg-colord)
 colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
@@ -234,6 +238,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
 include(devpkg-gnome-bluetooth)
+gnome-common-dev
 gnome-control-center-dev
 include(devpkg-gnome-desktop)
 gnome-icon-theme-dev
@@ -361,9 +366,12 @@ libabigail
 libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
+include(devpkg-libatasmart)
 libatomic_ops-dev
 libavtp-dev
+libblockdev-dev
 libburn-dev
+libbytesize-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
@@ -375,6 +383,7 @@ libcap-ng-dev32
 libcdio-dev
 include(devpkg-libcgroup)
 libclc-dev
+include(devpkg-libconfig)
 include(devpkg-libcroco)
 libcroco-dev32
 include(devpkg-libdatrie)
@@ -419,6 +428,7 @@ include(devpkg-libidn2)
 libidn2-dev32
 libindicator-dev
 include(devpkg-libinput)
+include(devpkg-libiscsi)
 libisofs-dev
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
@@ -427,6 +437,7 @@ libmbim-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
+include(devpkg-libmtp)
 include(devpkg-libndp)
 libndp-dev32
 include(devpkg-libnetfilter_conntrack)
@@ -470,6 +481,7 @@ libsoup-dev32
 include(devpkg-libsrtp)
 include(devpkg-libssh2)
 libstdc++
+include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
@@ -548,6 +560,7 @@ include(nasm)
 nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
+include(devpkg-ndctl)
 include(net-tools)
 netbase
 nettle
@@ -683,6 +696,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 pluggy-python
+ply
 include(polkit)
 polkit-dev
 include(devpkg-popt)
@@ -695,6 +709,7 @@ psutil
 pugixml-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
+pyaml
 pycparser
 include(pygobject)
 include(devpkg-pygobject)
@@ -704,9 +719,13 @@ pytest
 python
 python-core
 python-dev
+python-pocketlint
+python-polib
 python3
 python3-core
 python3-dev
+pyudev
+pywbem
 qemu
 include(devpkg-qtbase)
 qtbase-extras
@@ -722,6 +741,7 @@ rtkit
 ruby
 rust-std32
 rustc
+samba-dev
 sassc
 sbc-dev
 sbc-dev32
@@ -774,6 +794,7 @@ tk
 tk-dev
 tpm2-tss-dev
 include(tzdata)
+udisks2-dev
 include(devpkg-uhttpmock)
 include(unzip)
 upower-dev
@@ -793,6 +814,7 @@ vala-bin
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
+volume_key-dev
 vte-dev
 wavpack-dev
 include(devpkg-wayland)

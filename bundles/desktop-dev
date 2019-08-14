@@ -71,6 +71,7 @@ include(devpkg-attr)
 attr-dev32
 attrs
 attrs-python
+audisp-json
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -597,6 +598,7 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
