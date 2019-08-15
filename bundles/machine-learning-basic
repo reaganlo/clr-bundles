@@ -18,8 +18,6 @@ include(machine-learning-mycroft)
 include(machine-learning-pytorch)
 include(machine-learning-tensorflow)
 
-neon
-neon-doc
 scikit-learn
 Theano
 
