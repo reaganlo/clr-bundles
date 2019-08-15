@@ -434,6 +434,7 @@ include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
 include(devpkg-libarchive)
+libass-dev
 include(devpkg-libassuan)
 include(devpkg-libatasmart)
 libatomic_ops-dev
@@ -884,7 +885,6 @@ stoken-dev
 include(strace)
 include(subversion)
 swig
-systemd
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

@@ -1126,6 +1126,7 @@ include(devpkg-qttools)
 qttranslations
 qtvirtualkeyboard-dev
 include(devpkg-qtwebchannel)
+include(devpkg-qtwebengine)
 qtwebsockets-dev
 qtx11extras-dev
 qtxmlpatterns-dev

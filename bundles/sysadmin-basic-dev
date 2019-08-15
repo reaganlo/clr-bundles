@@ -315,7 +315,6 @@ six
 slang-dev
 include(strace)
 swig
-systemd
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
