@@ -333,4 +333,5 @@ TLP # Advanced Power Management for Linux
 RawTherapee # A powerful cross-platform raw photo processing program
 mosquitto # mosquitto MQTT library (C bindings)
 asunder # Graphical Audio CD ripper and encoder
-kontact # KDE Personal Information Manager 
+kontact # KDE Personal Information Manager
+xscreensaver # A minimal installation of xscreensaver.
