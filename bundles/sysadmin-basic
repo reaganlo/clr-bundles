@@ -4,7 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Perl
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-# pciutils is not autospeced and so -data and -doc are specified manually
 # This bundle specificly contains all -doc bundles for os-core as well due
 # to size constraints for os-core.
 include(iproute2)
@@ -75,8 +74,6 @@ numactl
 include(parallel)
 include(patch)
 pciutils
-pciutils-data
-pciutils-doc
 pigz
 include(powertop)
 include(procps-ng)
