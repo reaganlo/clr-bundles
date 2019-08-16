@@ -77,6 +77,7 @@ gl
 glesv1_cm
 glesv2
 glew
+glfw3
 glib-2.0
 glibmm-2.4
 glm
