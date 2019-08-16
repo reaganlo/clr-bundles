@@ -335,3 +335,4 @@ mosquitto # mosquitto MQTT library (C bindings)
 asunder # Graphical Audio CD ripper and encoder
 kontact # KDE Personal Information Manager
 xscreensaver # A minimal installation of xscreensaver.
+isync # Utility to synchronize IMAP mailboxes with local maildir folders
