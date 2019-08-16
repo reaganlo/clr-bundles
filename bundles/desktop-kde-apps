@@ -93,6 +93,7 @@ kmouth
 kmplot
 knotes
 kolourpaint
+include(kontact)
 include(konqueror)
 include(konsole)
 kontactinterface
