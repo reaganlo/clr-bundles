@@ -46,6 +46,9 @@ To automatically create a "-dev" variant of a bundle, such that bundle
 "foo-dev" has what is required to build bundle "foo", simply add the bundle
 name "foo" in to the auto.devbundles file.
 
+To automatically create a "devpkg-foo" where "foo" is the name of a
+"foo.pc" file, just add "foo" to "auto.devpkgs".
+
 For debugging and visualization purposes, a small python program called
 `make-dot.py` is included. If run, the output will be suitable to create
 a dependency graph of the bundles. Run it as so:
