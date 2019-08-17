@@ -54,6 +54,6 @@ requests
 requests-ntlm
 
 # also-add apps
-include(emacs-x11)
-include(firefox)
-include(gvim)
+also-add(emacs-x11)
+also-add(firefox)
+also-add(gvim)

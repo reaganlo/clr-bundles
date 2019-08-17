@@ -5,39 +5,38 @@
 # [TAGS]: Other, Productivity, Developer Tools
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
-include(pidgin)
 include(python3-basic)
-include(virt-manager)
 
 #
 # Apps that are also pundles
 #
-include(atom)
-include(darktable)
-include(gimp)
-include(thunderbird)
-include(vlc)
+also-add(atom)
+also-add(darktable)
+also-add(geany)
+also-add(gimp)
+also-add(gimp)
+also-add(gphoto2)
+also-add(hexchat)
+also-add(pidgin)
+also-add(quassel)
+also-add(Remmina)
+also-add(rxvt-unicode)
+also-add(spice-gtk)
+also-add(thunderbird)
+also-add(tigervnc)
+also-add(vinagre)
+also-add(virt-manager)
+also-add(virt-viewer)
+also-add(vlc)
 
 
 #
 # Non-pundle apps
 #
-
-FreeRDP
-include(Remmina)
 chrome-gnome-shell
-include(geany)
+FreeRDP
 geany-plugins
-include(gimp)
 gmic
-include(gphoto2)
-include(hexchat)
 libssh
 pidgin-sipe
-include(quassel)
-include(rxvt-unicode)
-include(spice-gtk)
 thermal_monitor
-include(tigervnc)
-include(vinagre)
-include(virt-viewer)
