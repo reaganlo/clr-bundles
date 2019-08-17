@@ -92,6 +92,6 @@ xfce4-terminal
 xorg-fonts
 xrdp
 xrestop
-xscreensaver
+also-add(xscreensaver)
 xsel
 xwd

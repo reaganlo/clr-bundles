@@ -9,4 +9,4 @@ awesome-wm
 dejavu-fonts
 include(feh)
 include(rxvt-unicode)
-xscreensaver
+also-add(xscreensaver)

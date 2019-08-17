@@ -28,7 +28,7 @@ xrandr
 xrdb
 xrdp
 xrestop
-xscreensaver
+also-add(xscreensaver)
 xsel
 xset
 xsetroot
