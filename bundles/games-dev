@@ -373,6 +373,7 @@ include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
+libratbag-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
@@ -623,6 +624,7 @@ sqlite-autoconf-dev32
 stoken-dev
 include(strace)
 include(subversion)
+swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
