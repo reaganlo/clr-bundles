@@ -13,9 +13,11 @@ include(lib-imageformat)
 include(lib-opengl)
 include(os-core-legacy)
 
-include(extremetuxracer)
-include(minetest)
-include(supertuxkart)
+also-add(extremetuxracer)
+also-add(minetest)
+also-add(supertuxkart)
+also-add(flare)
+
 lutris
 scummvm
 
