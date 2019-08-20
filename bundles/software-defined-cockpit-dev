@@ -365,7 +365,6 @@ include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 meson
-mozjs-dev
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev

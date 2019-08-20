@@ -417,7 +417,6 @@ meson
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
-mozjs-dev
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
