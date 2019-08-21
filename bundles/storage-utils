@@ -7,7 +7,7 @@
 include(smartmontools)
 include(libglib)
 include(samba)
-include()
+
 LVM2
 LVM2-extras
 autofs

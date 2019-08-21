@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Games
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
+
 include(libX11client)
 include(libstdcpp)
-include()
+
 # start of custom additions
 include(minetestserver)
-include()
+
 # end of custom additions
-include()
+
 # main package
 minetest

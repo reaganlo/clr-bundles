@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-gdk-pixbuf)
@@ -14,5 +14,5 @@ include(libglib)
 include(devpkg-libX11)
 include(devpkg-mesa)
 include(devpkg-wayland)
-include()
+
 cogl-dev

@@ -4,12 +4,12 @@
 # [CAPABILITIES]: Test runners
 # [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
+
 include(perl-basic)
 include(python3-basic)
 include(Sphinx)
 include(python-testing)
-include()
+
 bats
 check
 cmocka

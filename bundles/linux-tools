@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Perl, Python
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
-include()
+
+
 # start of custom additions (edits outside this area will be removed automatically)
 include(perl-basic)
 include(binutils)
 include(libglib)
 include(python3-basic)
 # end of custom additions
-include()
+
 # main package
 linux-tools

@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(qt-basic)
 include(kde-frameworks5)
 include(lib-imageformat)
-include()
+
 attica-lib
 baloo-lib
 baloo-widgets-lib

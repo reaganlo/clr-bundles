@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
-include()
+
+
 # start of custom additions (edits outside this area will be removed automatically)
 flare-game
 # end of custom additions
-include()
+
 # main package
 flare-engine

@@ -7,7 +7,7 @@
 include(libX11client)
 include(wpa_supplicant)
 include(gstreamer)
-include()
+
 # Audio
 alsa-lib
 alsa-plugins
@@ -15,10 +15,10 @@ include(alsa-utils)
 include(pulseaudio)
 AVB-AudioModules
 SmartXbar
-include()
+
 # Graphics
 ias
-include()
+
 # Media
 gst-plugins-bad
 gst-plugins-base
@@ -32,7 +32,7 @@ libva-intel-driver
 mediasdk
 mediasdk-extras
 include(v4l-utils)
-include()
+
 # User tools
 fontconfig
 ioc-cbc-tools

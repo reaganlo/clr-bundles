@@ -40,8 +40,6 @@ buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
-include(devpkg-cairo)
-cairo-dev32
 certifi
 cffi
 check-dev
@@ -81,11 +79,6 @@ f2fs-tools-dev
 file-dev
 include(flex)
 flex-dev
-fontconfig-data
-include(devpkg-fontconfig)
-fontconfig-dev32
-include(devpkg-freetype)
-freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -123,12 +116,8 @@ gnu-efi
 gnu-efi-dev
 gnupg
 include(devpkg-gnutls)
-gobject-introspection
-include(devpkg-gobject-introspection)
 gperf
 gpgme-dev
-include(devpkg-graphite)
-graphite-dev32
 include(graphviz)
 grep
 groff
@@ -137,8 +126,6 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(gzip)
-include(devpkg-harfbuzz)
-harfbuzz-dev32
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
@@ -150,7 +137,6 @@ iptables-dev32
 iso8601
 jansson-dev
 include(devpkg-json-c)
-json-c-dev32
 include(kbd)
 kdoctools-dev
 keyutils-dev
@@ -162,7 +148,6 @@ ldb-dev
 ldb-extras
 include(devpkg-libX11)
 libX11-dev32
-include(devpkg-libXft)
 libabigail
 libaio-dev
 include(devpkg-libarchive)
@@ -189,7 +174,6 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
-include(devpkg-libjpeg-turbo)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -200,9 +184,6 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
-include(devpkg-libpng)
-libpng-dev32
-include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -237,7 +218,6 @@ mpc-dev
 mpfr-dev
 msmtp
 include(devpkg-multipath-tools)
-include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
@@ -253,8 +233,6 @@ include(devpkg-ntfs-3g)
 include(devpkg-open-iscsi)
 open-isns-dev
 openjdk
-openjdk11
-openjdk11-dev
 openldap-dev
 opensm-dev
 include(openssl)
@@ -403,20 +381,12 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-include(devpkg-util-macros)
-util-macros-dev32
 include(valgrind)
 valgrind-dev
 include(which)
 xauth
-xcb-proto
-include(devpkg-xcb-proto)
 xdg-utils
 xmlto
-include(devpkg-xorgproto)
-xorgproto-dev32
-include(devpkg-xtrans)
-xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32

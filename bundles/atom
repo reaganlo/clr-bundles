@@ -7,5 +7,5 @@
 # Run time requirement as Atom uses a lot of plugins  is compiled to use libpython
 include(desktop-gnomelibs)
 include(python3-basic)
-include()
+
 atom

@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Editor
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include()
+
 include(qt-core)
 include(qt-basic)
 include(libstdcpp)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 qt-creator

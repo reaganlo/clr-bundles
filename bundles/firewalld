@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: Security
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
+
 include(python3-basic)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 firewalld

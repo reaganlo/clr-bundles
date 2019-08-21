@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Multimedia and Graphics
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
-include()
+
+
 # start of custom additions
 include(libstdcpp)
 mesa-demos
 # end of custom additions
-include()
+
 # main packages
-include()
+
 mesa
 libdrm-lib

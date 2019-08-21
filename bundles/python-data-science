@@ -7,8 +7,8 @@
 include(c-basic)
 include(cloud-api)
 include(python-extras)
-include()
-include()
+
+
 # Key pydata.org components
 bokeh
 dask
@@ -23,15 +23,15 @@ pandas
 scikit-image
 scikit-learn
 statsmodels
-include()
+
 #
 # Add from https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7
 #
-include()
+
 gensim
 nltk
 seaborn
-include()
+
 # misc tools to support the above
 asv
 llvmlite

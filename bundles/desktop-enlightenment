@@ -5,7 +5,7 @@
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(x11-server)
-include()
+
 efl
 enlightenment
 gdm

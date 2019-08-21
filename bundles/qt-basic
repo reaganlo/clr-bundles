@@ -7,7 +7,7 @@
 include(fonts-basic)
 include(libX11client)
 include(qt-core)
-include()
+
 qt3d
 qtbase
 qtcanvas3d

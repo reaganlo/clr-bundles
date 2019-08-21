@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-glib)
@@ -13,5 +13,5 @@ include(devpkg-gobject-introspection)
 include(devpkg-gtk3)
 include(devpkg-libffi)
 include(devpkg-mozjs60)
-include()
+
 gjs-dev

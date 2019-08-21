@@ -6,7 +6,7 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(desktop-kde-libs)
 include(qt-basic)
-include()
+
 #
 # Needed for kde wrapper script
 #
@@ -15,7 +15,7 @@ include(x11-server)
 include(fuse)
 include(lib-samba)
 include(hardware-bluetooth)
-include()
+
 #
 # extra stuff we need
 #
@@ -26,7 +26,7 @@ desktop-file-utils
 fontconfig
 shared-mime-info
 include(tzdata)
-include()
+
 # Extra service level deps
 alsa-plugins
 include(alsa-utils)
@@ -36,13 +36,13 @@ cups-filters
 cups-pk-helper
 ghostscript
 gutenprint
-include()
+
 #
 # main bits
 #
-include()
+
 #  https://download.kde.org/stable/plasma/5.13.4/
-include()
+
 accountsservice
 attica
 baloo

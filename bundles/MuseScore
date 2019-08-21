@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Multimedia and Graphics, Productivity
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
-include()
+
 include(qt-basic)
 include(libstdcpp)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 MuseScore

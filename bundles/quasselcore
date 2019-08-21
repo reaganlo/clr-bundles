@@ -4,12 +4,12 @@
 # [CAPABILITIES]: Quassel IRC core server
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
+
 include(libstdcpp)
-include()
+
 # start of custom additions
 include(qt-core)
 # end of custom additions
-include()
+
 # main package
 quassel-extras

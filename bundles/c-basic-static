@@ -4,10 +4,10 @@
 # [CAPABILITIES]: Build and run C language programs
 # [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
-include()
+
+
 include(c-basic)
-include()
+
 glibc-staticdev
 zlib-staticdev
 zstd-staticdev

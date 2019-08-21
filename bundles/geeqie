@@ -4,15 +4,15 @@
 # [CAPABILITIES]:
 # [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
+
 include(libX11client)
 include(lib-imageformat)
 include(libglib)
 include(libstdcpp)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 geeqie

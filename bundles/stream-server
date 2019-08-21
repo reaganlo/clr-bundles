@@ -6,7 +6,7 @@
 # [MAINTAINER]: Mario Alfredo Carrillo Arevalo <mario.alfredo.c.arevalo@intel.com>
 include(libstdcpp)
 include(gstreamer)
-include()
+
 include(gstreamer)
 gst-plugins-base
 gst-plugins-good

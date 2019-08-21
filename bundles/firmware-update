@@ -7,7 +7,7 @@
 include(cryptography)
 include(libX11client)
 include(python3-basic)
-include()
+
 clr-fwupd-hooks
 fwupd
 include(fwupdate)

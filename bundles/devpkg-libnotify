@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(devpkg-base)
 include(devpkg-gdk-pixbuf)
 include(libX11client)
 include(devpkg-glib)
 include(libglib)
-include()
+
 libnotify-dev

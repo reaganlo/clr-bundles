@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Security, Tools and Utilities,
 # [MAINTAINER]: Hernandez Gutierrez, Josue David <josue.d.hernandez.gutierrez@intel.com>
-include()
+
 # main package
 clr-init
-include()
+
 # kernel modules
 linux-cpio
 linux-current-cpio
 linux-lts2017-cpio
 linux-lts2018-cpio
 linux-mainline-cpio
-include()
+

@@ -9,7 +9,7 @@ include(openssh-server)
 include(sudo)
 include(libglib)
 include(python-basic)
-include()
+
 micro-config-drive
 e2fsprogs-bin
 glib-lib

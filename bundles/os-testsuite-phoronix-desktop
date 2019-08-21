@@ -17,7 +17,7 @@ include(devpkg-qtbase)
 include(nasm)
 include(hardware-gpu)
 include(libstdcpp)
-include()
+
 include(yasm)
 SDL
 include(devpkg-SDL)

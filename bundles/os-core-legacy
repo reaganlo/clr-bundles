@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
-include()
+
 glibc-libc32
 ncurses-lib32
 acl-lib32

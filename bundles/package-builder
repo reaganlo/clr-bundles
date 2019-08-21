@@ -10,13 +10,13 @@ include(git)
 include(package-utils)
 include(sudo)
 include(Sphinx)
-include()
+
 # common requirements
 include(make)
 include(plzip)
 six
 include(zstd)
-include()
+
 # autospec requirements
 abireport
 include(binutils)
@@ -25,6 +25,6 @@ gnupg
 pycurl
 toml
 urllib3
-include()
+
 # koji command line utility
 koji

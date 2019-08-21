@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
-include()
+
+
 # start of custom additions
 include(libstdcpp)
 include(lib-openssl)
 # end of custom additions
-include()
+
 # main package
 samba-lib
 #samba-extras

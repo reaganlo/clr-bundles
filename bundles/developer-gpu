@@ -8,7 +8,7 @@ include(devpkg-mesa)
 include(libX11client)
 include(qt-basic)
 include(hardware-gpu)
-include()
+
 SPIRV-Headers-dev
 SPIRV-Tools-dev
 Vulkan-Headers-dev

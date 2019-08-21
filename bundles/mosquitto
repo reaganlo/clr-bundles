@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include()
+
 include(lib-openssl)
 include(libstdcpp)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 mosquitto

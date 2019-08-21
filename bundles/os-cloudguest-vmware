@@ -7,5 +7,5 @@
 include(libstdcpp)
 include(lib-openssl)
 include(libglib)
-include()
+
 open-vm-tools

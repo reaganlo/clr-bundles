@@ -4,18 +4,18 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Data Science, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(cloud-api)
 include(computer-vision-models)
 include(python-extras)
 include(python-data-science)
 include(python2-basic)
 include(machine-learning-tensorflow)
-include()
+
 #
 # Key ML frameworks and tools
 #
-include()
+
 clinfo
 darkflow
 dldt
@@ -24,9 +24,9 @@ dldt-doc
 dldt-extras
 intel-compute-runtime
 tensorflow
-include()
+
 # support packages
-include()
+
 deprecated-boto3-legacypython
 deprecated-botocore-legacypython
 deprecated-docutils-legacypython

@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Games
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include()
+
 include(libstdcpp)
 include(libX11client)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 etr

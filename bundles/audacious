@@ -4,15 +4,15 @@
 # [CAPABILITIES]: Play MP3, OGG, and FLAC music files
 # [TAGS]: Multimedia and Graphics
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
+
 include(libX11client)
 include(curl)
 include(libglib)
 include(libstdcpp)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
 audacious-plugins
 # end of custom additions
-include()
+
 # main package
 audacious

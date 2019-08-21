@@ -6,12 +6,12 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libX11client)
 include(python-extras)
-include()
-include()
+
+
 # common cad/cam tools
 include(inkscape)
-include()
-include()
+
+
 # common maker libraries for low level hw access
 libusb
 pyusb

@@ -7,10 +7,10 @@
 include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
-include()
+
 # dependencies
 gdk-pixbuf
-include()
-include()
+
+
 # main application
 firefox

@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-include()
+
 include(libX11client)
 include(libglib)
-include()
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 hardinfo

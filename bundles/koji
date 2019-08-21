@@ -13,7 +13,7 @@ include(package-utils)
 include(postgresql)
 include(python2-basic)
 include(sudo)
-include()
+
 koji
 koji-extras
 mash

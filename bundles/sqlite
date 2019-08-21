@@ -4,13 +4,13 @@
 # [CAPABILITIES]: Manipulate .sqlite databases.
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
+
 include(libstdcpp)
-include()
+
 # start of custom additions
-include()
+
 # end of custom additions
-include()
+
 # main package
 sqlite-autoconf
 vsqlite

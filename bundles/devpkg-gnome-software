@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(devpkg-base)
 include(devpkg-appstream-glib)
 include(devpkg-atk)
@@ -12,5 +12,5 @@ include(devpkg-glib)
 include(libglib)
 include(devpkg-gtk3)
 include(devpkg-libsoup)
-include()
+
 gnome-software-dev

@@ -9,10 +9,10 @@ include(bootloader)
 include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
-include()
+
 console-autostart
 irqbalance
 mcelog
-include()
+
 # kernel package
 linux-iot-lts2018-preempt-rt

@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
@@ -16,5 +16,5 @@ include(devpkg-libxml2)
 include(devpkg-nspr)
 include(devpkg-nss)
 include(devpkg-sqlite-autoconf)
-include()
+
 evolution-data-server-dev

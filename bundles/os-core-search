@@ -7,7 +7,7 @@
 include(os-core)
 # for swupd-search
 include(python3-basic)
-include()
+
 clr-bundles
 clr-find-bundle
 swupd-search

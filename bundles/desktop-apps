@@ -7,7 +7,7 @@
 include(libX11client)
 include(desktop-gnomelibs)
 include(python3-basic)
-include()
+
 # mandatory desktop applications
 # included apps
 include(baobab)
@@ -43,16 +43,16 @@ graphviz-extras
 libyami-utils
 pavucontrol
 simple-scan
-include()
+
 # apps low level deps
 glib-bin
 glib-config
-include()
+
 # python specific deps
 python-zeep
 requests
 requests-ntlm
-include()
+
 # also-add apps
 also-add(emacs-x11)
 also-add(firefox)

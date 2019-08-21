@@ -4,10 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(os-testsuite-phoronix-desktop)
 include(os-testsuite-phoronix-server)
-include()
+
 include(R-basic)
 include(c-basic)
 include(desktop-apps-extras)
@@ -24,7 +24,7 @@ include(postgresql)
 include(python3-basic)
 include(sqlite)
 include(devpkg-qtbase)
-include()
+
 SDL
 include(devpkg-SDL)
 include(devpkg-SDL2_gfx)
@@ -138,7 +138,7 @@ include(devpkg-zlib)
 Vulkan-Headers
 Vulkan-Loader
 Vulkan-Tools
-include()
-include()
+
+
 # work around infra
 include(hwloc)

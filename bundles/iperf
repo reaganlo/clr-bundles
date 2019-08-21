@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Wang,Long <long1.wang@intel.com>
-include()
-include()
+
+
 # start of custom additions
-include()
+
 # end of custom additions
-include()
+
 # main package
 iperf

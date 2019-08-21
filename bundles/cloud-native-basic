@@ -8,8 +8,8 @@ include(ethtool)
 include(iproute2)
 include(p11-kit)
 include(libstdcpp)
-include()
-include()
+
+
 LVM2
 cloud-native-setup
 cni
@@ -25,7 +25,7 @@ ksonnet
 kubernetes
 runc
 socat
-include()
+
 # kata-containers packages
 kata-image
 kata-proxy

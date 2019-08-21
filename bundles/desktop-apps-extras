@@ -6,7 +6,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 include(python3-basic)
-include()
+
 #
 # Apps that are also pundles
 #
@@ -28,8 +28,8 @@ also-add(vinagre)
 also-add(virt-manager)
 also-add(virt-viewer)
 also-add(vlc)
-include()
-include()
+
+
 #
 # Non-pundle apps
 #

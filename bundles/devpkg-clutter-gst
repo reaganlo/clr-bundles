@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 include(devpkg-base)
 include(devpkg-clutter)
 include(devpkg-cogl)
 include(devpkg-glib)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
-include()
+
 clutter-gst-dev

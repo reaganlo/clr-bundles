@@ -4,11 +4,11 @@
 # [CAPABILITIES]: Create bootable ISO images, Install extlinux
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-include()
-include()
+
+
 # start of custom additions (edits outside this area will be removed automatically)
 syslinux-extras
 # end of custom additions
-include()
+
 # main package
 syslinux

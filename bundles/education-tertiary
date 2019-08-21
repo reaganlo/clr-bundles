@@ -4,13 +4,13 @@
 # [CAPABILITIES]: learning
 # [TAGS]: Education
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include()
+
 include(desktop-gnomelibs)
 include(desktop-kde-libs)
 include(libX11client)
 include(qt-basic)
 include(R-basic)
-include()
+
 cantor
 fritzing-app
 kmplot

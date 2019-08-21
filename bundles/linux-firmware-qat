@@ -4,6 +4,6 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
-include()
+
 # Intel QAT firmware files as CPIO (initrd)
 linux-firmware-qat-cpio

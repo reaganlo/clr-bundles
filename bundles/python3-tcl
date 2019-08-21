@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages, Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
+
 include(python3-basic)
-include()
+
 # start of custom additions
 include(tcl-basic)
 # end of custom additions
-include()
+
 # main package
 python3-tcl

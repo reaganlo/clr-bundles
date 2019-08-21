@@ -4,5 +4,5 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-include()
+
 can-utils

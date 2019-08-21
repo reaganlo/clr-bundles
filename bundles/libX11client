@@ -8,7 +8,7 @@ include(libstdcpp)
 include(libglib)
 include(lib-opengl)
 include(lib-openssl)
-include()
+
 cairo-lib
 fontconfig-data
 fontconfig-lib

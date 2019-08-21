@@ -4,10 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-include()
+
 # start of custom additions
-include()
+
 # end of custom additions
-include()
+
 # main package
 glibc-locale

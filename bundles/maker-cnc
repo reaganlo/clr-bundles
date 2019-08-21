@@ -8,18 +8,18 @@ include(inkscape)
 include(python-extras)
 include(python2-basic)
 include(maker-basic)
-include()
+
 # main CNC tools
-include()
+
 dmap2gcode
 F-Engrave
 FreeCAD
 include(openscad)
 pycam
-include()
-include()
+
+
 # dependencies
-include()
+
 gtk3
 gtkglext
 potrace

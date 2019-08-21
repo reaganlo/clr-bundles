@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
-include()
-include()
+
+
 # start of custom additions (edits outside this area will be removed automatically)
-include()
+
 # end of custom additions
-include()
+
 # main package
 su-exec

@@ -5,28 +5,28 @@
 # [TAGS]: Programming Languages, Data Science, R
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(libX11client)
-include()
+
 #
 # R base packages
 #
 clr-R-helpers
 R
 include(devpkg-R)
-include()
+
 #
 # Required for performance reasons
 #
 libgfortran-avx
 glibc-lib-avx2
 gcc-libs-math
-include()
+
 # runtime deps (plotting, help navigation, etc)
 clear-font
 include(less)
 #
 # Not listed because these are part of the R core above
 #
-include()
+
 # R-foreign
 # R-nnet
 # R-lattice
