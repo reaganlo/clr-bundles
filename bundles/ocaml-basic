@@ -4,8 +4,8 @@
 # [CAPABILITIES]: Build and run ocaml language programs
 # [TAGS]: Programming Languages
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
+include()
 # perl for autoconf and friends
-
+include()
 ocaml
 ocamlbuild

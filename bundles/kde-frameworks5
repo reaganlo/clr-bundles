@@ -6,7 +6,7 @@
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(qt-basic)
 include(lib-qt5webengine)
-
+include()
 # Libraries
 kactivities
 karchive
@@ -40,6 +40,6 @@ kxmlgui
 solid
 sonnet
 threadweaver
-
+include()
 # Misc
 breeze-icons

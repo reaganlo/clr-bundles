@@ -13,6 +13,6 @@ init-rdahead-extras
 irqbalance
 mcelog
 vbox-integration
-
+include()
 # kernel package
 linux-lts2017

@@ -6,22 +6,22 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(desktop-gnomelibs)
 include(fonts-basic)
-
+include()
 # Shared styling assets (intended for all supported styles)
 clr-wallpapers
-
+include()
 # Material style theming assets
 materia-theme
 paper-icon-theme
 papirus-icon-theme
 Qogir-theme
 vimix-icon-theme
-
+include()
 # Arc style (current default)
 arc-theme
 faba-icon-theme
 moka-icon-theme
-
+include()
 # Base fonts
 cantarell-fonts
 clear-font
@@ -31,7 +31,7 @@ noto-emoji
 powerline-fonts
 source-code-pro
 terminus-font
-
+include()
 # GNOME Platform assets (common)
 adwaita-icon-theme
 gnome-backgrounds

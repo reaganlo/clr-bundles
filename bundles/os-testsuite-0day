@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(c-basic)
 include(dev-utils)
 include(python3-basic)
 include(perl-basic)
-
+include()
 include(acpica-unix2)
 btrfs-progs
 docbook-xml

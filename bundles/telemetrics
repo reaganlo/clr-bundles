@@ -6,7 +6,7 @@
 # [MAINTAINER]: Robert A Nesius <robert.a.nesius@intel.com>
 include(findutils)
 include(lib-openssl)
-
+include()
 clr-debug-info
 swupd-probe
 swupd-probe-autostart

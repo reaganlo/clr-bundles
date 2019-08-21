@@ -4,13 +4,13 @@
 # [CAPABILITIES]: Quassel IRC client
 # [TAGS]: Productivity
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
+include()
 include(qt-basic)
 include(libstdcpp)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
 quassel-extras
 # end of custom additions
-
+include()
 # main package
 quassel

@@ -6,7 +6,7 @@
 # [MAINTAINER]: Daniela Plascencia <daniela.plascencia@intel.com>
 include(containers-basic)
 firecracker
-
+include()
 # kata-containers packages
 kata-image
 kata-proxy

@@ -5,17 +5,17 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(hardware-uefi)
-
+include()
 console-autostart
 include(bootloader)
 include(libglib)
 include(linux-firmware)
 include(linux-firmware-extras)
 include(qemu-guest-additions)
-
+include()
 init-rdahead-extras
 irqbalance
 mcelog
-
+include()
 # kernel package
 linux-current

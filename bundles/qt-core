@@ -6,8 +6,8 @@
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(libstdcpp)
 include(libglib)
-
+include()
 # For QMimeDatabase class
 shared-mime-info
-
+include()
 qtbase-extras

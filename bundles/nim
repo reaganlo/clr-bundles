@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
-
+include()
+include()
 # start of custom additions (edits outside this area will be removed automatically)
-
+include()
 # end of custom additions
-
+include()
 # main package
 nim

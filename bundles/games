@@ -12,17 +12,17 @@ include(NetworkManager-extras)
 include(lib-imageformat)
 include(lib-opengl)
 include(os-core-legacy)
-
+include()
 also-add(extremetuxracer)
 also-add(minetest)
 also-add(supertuxkart)
 also-add(flare)
-
+include()
 lutris
 scummvm
-
+include()
 # 32 bit client support for 32 bit games
-
+include()
 GConf-lib
 NetworkManager-data
 NetworkManager-lib
@@ -114,37 +114,37 @@ s2tc-lib32
 systemd-lib32
 xz-lib32
 zlib-lib32
-
+include()
 # Binary helpers for Steam + runtime
 libratbag
 linux-steam-integration
 xdg-user-dirs
 zenity
-
+include()
 # System integration (theme, data, etc)
 gnome-themes-standard
-
+include()
 # SDL1 Libraries (32-bit)
 SDL-lib32
 SDL_gfx-lib32
 SDL_image-lib32
 SDL_net-lib32
 SDL_ttf-lib32
-
+include()
 # SDL1 Libraries (native)
 SDL
 SDL_gfx
 SDL_image
 SDL_net
 SDL_ttf
-
+include()
 # SDL2 Libraries (32-bit)
 SDL2-lib32
 SDL2_gfx-lib32
 SDL2_image-lib32
 SDL2_net-lib32
 SDL2_ttf-lib32
-
+include()
 # SDL2 Libraries (native)
 SDL2
 SDL2_gfx

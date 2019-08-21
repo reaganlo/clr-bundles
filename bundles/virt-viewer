@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(libglib)
 include(libX11client)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
 include(gstreamer)
 # end of custom additions
-
+include()
 # main package
 virt-viewer

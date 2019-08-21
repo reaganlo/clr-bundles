@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-fontconfig)
 include(devpkg-freetype)
@@ -13,5 +13,5 @@ include(libglib)
 include(devpkg-libX11)
 include(devpkg-mesa)
 include(devpkg-pixman)
-
+include()
 cairo-dev

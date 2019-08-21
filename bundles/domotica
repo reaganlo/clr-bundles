@@ -8,7 +8,7 @@ include(cloud-api)
 include(python3-basic)
 include(libglib)
 include(qt-basic)
-
+include()
 astral
 hammock
 home-assistant

@@ -24,7 +24,7 @@ include(x11-server)
 include(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
-
+include()
 FreeRDP
 Thunar
 Vertex-theme

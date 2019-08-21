@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools, Kernel
 # [MAINTAINER]: Brett T. Warden <brett.t.warden@intel.com>
 linux-firmware
-
+include()
 # i915 firmware files as CPIO (initrd)
 linux-firmware-i915-cpio
 # Intel ucode files as CPIO (initrd)

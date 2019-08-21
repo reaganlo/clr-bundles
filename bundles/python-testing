@@ -7,12 +7,12 @@
 include(cloud-api)
 include(python3-basic)
 include(Sphinx)
-
+include()
 #
 # For the test suites
 #
 glibc-bin
-
+include()
 #
 linecache2
 py

@@ -4,24 +4,24 @@
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
-
+include()
 # Boot Software
 include(kernel-iot-lts2018-sos)
-
+include()
 # Thermal control
 include(thermal_daemon)
 thermal_daemon-autostart
-
+include()
 #
 # The package below is a python script
 #
 include(python3-basic)
 include(iasimage)
-
+include()
 # User Software
 acrn-hypervisor
 runc
-
+include()
 include(openvswitch)
 # openvswithc python files
 openvswitch-extras

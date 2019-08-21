@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
+include()
 compat-readline-soname5
 ncurses-compat
 ncurses-compat-lib

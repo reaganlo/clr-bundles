@@ -4,19 +4,19 @@
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages, Developer Tools, Python
 # [MAINTAINER]: Athenas Jimenez <athenas.jimenez.gonzalez@intel.com>
-
+include()
 include(python3-basic)
 include(python3-tcl)
 include(openblas)
 include(cloud-api)
 include(Sphinx)
 include(graphviz)
-
+include()
 #
 # For the test suite
 #
 glibc-bin
-
+include()
 #
 PyYAML
 boto

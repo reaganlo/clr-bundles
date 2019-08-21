@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-gcr)
 include(devpkg-glib)
@@ -14,5 +14,5 @@ include(devpkg-json-glib)
 include(devpkg-liboauth)
 include(devpkg-libsoup)
 include(devpkg-libxml2)
-
+include()
 libgdata-dev

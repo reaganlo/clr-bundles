@@ -6,10 +6,10 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(libstdcpp)
 include(libglib)
-
+include()
 include(lib-opengl)
-
+include()
 # gpu firmware
 include(linux-firmware-extras)
-
+include()
 intel-graphics-compiler

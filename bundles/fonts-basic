@@ -8,14 +8,14 @@ include(libstdcpp)
 include(libglib)
 include(python3-basic)
 include(lib-opengl)
-
+include()
 # tools
 fontconfig
 freetype
 harfbuzz
 mkfontdir
 mkfontscale
-
+include()
 # fonts
 cantarell-fonts
 clear-font

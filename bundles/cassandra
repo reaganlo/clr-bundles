@@ -4,10 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Data Science
 # [MAINTAINER]:Jue Wang <wang.jue@intel.com>
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
-
+include()
 # end of custom additions
-
+include()
 # main package
 cassandra

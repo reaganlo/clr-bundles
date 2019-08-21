@@ -11,14 +11,14 @@ include(desktop-gnomelibs)
 include(desktop-assets)
 include(desktop-locales)
 include(lib-imageformat)
-
+include()
 # the UI should provide a basic sysadmin experience
 include(openssl)
 include(sysadmin-basic)
 include(which)
 include(wpa_supplicant)
 include(hardware-printing)
-
+include()
 # Low level UI requirements
 # gir/typelibs have been split out and we need them.
 atk-data
@@ -65,10 +65,10 @@ include(pygobject)
 shared-mime-info
 telepathy-logger
 include(tzdata)
-
+include()
 # a11y
 at-spi2-core
-
+include()
 # Extra service level deps
 accountsservice
 alsa-plugins
@@ -99,7 +99,7 @@ udisks2
 upower
 xdg-user-dirs
 xdg-user-dirs-gtk
-
+include()
 # media
 gst-plugins-ugly
 gst-plugins-bad
@@ -116,14 +116,14 @@ libva-intel-driver
 libyami
 mediasdk
 mediasdk-extras
-
-
+include()
+include()
 # gnome-flashback for vnc/software rendering support
 gnome-applets
 gnome-flashback
 gnome-panel
 metacity
-
+include()
 # Main session bits
 gdm
 gnome-desktop
@@ -134,12 +134,12 @@ gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
 xdg-utils
-
+include()
 # Extensions for the default desktop experience
 dash-to-dock
 desktop-icons
 gnome-shell-impatience
-
+include()
 # Applications
 evolution-data-server
 include(flatpak)
@@ -157,7 +157,7 @@ gnome-video-effects
 gvfs
 include(nautilus)
 yelp
-
+include()
 # nice to have when using desktop
 cups
 ModemManager

@@ -7,7 +7,7 @@
 include(x11-server)
 include(fonts-basic)
 include(qt-basic)
-
+include()
 # base + lxqt
 libsysstat
 lxqt-about
@@ -26,11 +26,11 @@ lxqt-runner
 lxqt-session
 lxqt-sudo
 lxqt-themes
-
+include()
 # core apps
 libfm-qt
 openbox
 pcmanfm-qt
-
+include()
 # misc session stuff
 xdg-utils

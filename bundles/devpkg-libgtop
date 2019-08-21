@@ -4,9 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-glib)
 include(libglib)
-
+include()
 libgtop-dev

@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(libX11client)
 include(libglib)
 include(lib-imageformat)
-
+include()
 # start of custom additions
 weston
 # end of custom additions
-
+include()
 # main package
 weston-extras

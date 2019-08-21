@@ -7,7 +7,7 @@
 include(openssh-server)
 include(sudo)
 include(libglib)
-
+include()
 micro-config-drive-oci
 open-iscsi
 open-iscsi-autostart

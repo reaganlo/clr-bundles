@@ -6,11 +6,11 @@
 # [MAINTAINER]: Otavio Pontes <otavio.pontes@intel.com>
 include(os-core)
 include(libglib)
-
+include()
 efibootmgr-bin
 console-autostart
 include(bootloader)
 irqbalance
-
+include()
 include(linux-firmware)
 include(linux-firmware-extras)

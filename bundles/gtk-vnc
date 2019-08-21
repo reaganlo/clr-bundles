@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Python
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(libX11client)
 include(libglib)
 include(libstdcpp)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
 include(pulseaudio)
 # end of custom additions
-
+include()
 # main package
 gtk-vnc

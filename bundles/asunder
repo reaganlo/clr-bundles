@@ -4,15 +4,15 @@
 # [CAPABILITIES]:
 # [TAGS]: Tools and Utilities, Multimedia and Graphics
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-
+include()
 include(libglib)
 include(libX11client)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
 cdparanoia
 libcddb
 libcdio
 # end of custom additions
-
+include()
 # main package
 asunder

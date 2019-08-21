@@ -4,10 +4,10 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-expat)
 include(devpkg-freetype)
 include(devpkg-util-linux)
-
+include()
 fontconfig-dev

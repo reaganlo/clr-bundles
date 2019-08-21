@@ -8,24 +8,24 @@ include(Babel)
 include(desktop-kde-libs)
 include(maker-basic)
 include(c-basic)
-
-
-
+include()
+include()
+include()
 #
 # Reference stack for GIS at https://live.osgeo.org/en/overview/overview.html
 #
-
+include()
 # low level components
 include(gdal)
 geos
 proj
-
-
+include()
+include()
 # higher layer pieces
 grass
 QGIS
 postgis
-
+include()
 # core dev compoments
 gdal-dev
 geos-dev

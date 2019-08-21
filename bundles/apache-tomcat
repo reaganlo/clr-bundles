@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Tools and Utilities
 # [MAINTAINER]: Wang, Long <long1.wang@intel.com>
-
-
+include()
+include()
 # start of custom additions (edits outside this area will be removed automatically)
 include(java-runtime)
 # end of custom additions
-
+include()
 # main package
 apache-tomcat

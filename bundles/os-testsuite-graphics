@@ -5,7 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Ong, Hze Horng <hze.horng.ong@intel.com>
 include(glmark2)
-
+include()
 clear-font
 gdk-pixbuf
 glib

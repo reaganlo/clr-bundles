@@ -6,7 +6,7 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(perl-basic)
 include(libstdcpp)
-
+include()
 aspell
 caribou-locales
 colord-locales

@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-atkmm)
 include(devpkg-cairomm)
@@ -13,5 +13,5 @@ include(libX11client)
 include(devpkg-glibmm)
 include(devpkg-gtk3)
 include(devpkg-pangomm)
-
+include()
 gtkmm3-dev

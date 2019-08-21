@@ -4,14 +4,14 @@
 # [CAPABILITIES]:
 # [TAGS]: Security
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(kde-frameworks5)
 include(qt-basic)
 include(libstdcpp)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
-
+include()
 # end of custom additions
-
+include()
 # main package
 kleopatra

@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-cairo)
 include(devpkg-glib)
@@ -14,5 +14,5 @@ include(devpkg-libX11)
 include(devpkg-libXres)
 include(devpkg-pango)
 include(devpkg-startup-notification)
-
+include()
 libwnck3-dev

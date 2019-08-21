@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: Other, Productivity
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(desktop-kde-libs)
 include(perl-basic)
 include(qt-basic)
-
-
+include()
+include()
 include(akonadi)
 akonadi-calendar
 akonadi-calendar-tools

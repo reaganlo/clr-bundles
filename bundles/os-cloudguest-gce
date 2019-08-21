@@ -8,7 +8,7 @@ include(sudo)
 include(which)
 include(libglib)
 include(lib-openssl)
-
+include()
 compute-image-packages
 e2fsprogs-extras
 gsutil

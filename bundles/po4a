@@ -4,12 +4,12 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
-
+include()
 include(perl-basic)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
-
+include()
 # end of custom additions
-
+include()
 # main package
 po4a

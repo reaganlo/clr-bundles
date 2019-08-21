@@ -4,13 +4,13 @@
 # [CAPABILITIES]:
 # [TAGS]: Games
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
-
+include()
 include(libstdcpp)
-
+include()
 # start of custom additions
 include(lib-openssl)
 # end of custom additions
-
+include()
 # main package
 minetest_game
 minetest-extras

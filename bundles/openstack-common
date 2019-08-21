@@ -10,7 +10,7 @@ include(python-extras)
 include(openblas)
 include(libstdcpp)
 include(libX11client)
-
+include()
 include(Babel)
 M2Crypto
 include(devpkg-apr-util)
@@ -59,7 +59,7 @@ sysfsutils
 tgt
 watchdogd
 include(xorriso)
-
+include()
 # the base openstack components
 barbican
 cinder

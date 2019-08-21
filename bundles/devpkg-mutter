@@ -4,7 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
-
+include()
 include(devpkg-base)
 include(devpkg-atk)
 include(devpkg-cairo)
@@ -24,5 +24,5 @@ include(devpkg-mesa)
 include(devpkg-pango)
 include(devpkg-systemd)
 include(devpkg-wayland)
-
+include()
 mutter-dev

@@ -4,11 +4,11 @@
 # [CAPABILITIES]:
 # [TAGS]: Productivity
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
-
+include()
 include(libX11client)
 include(libglib)
 include(gstreamer)
-
+include()
 # start of custom additions (edits outside this area will be removed automatically)
 include(gnome-base-libs)
 pidgin-sipe
@@ -19,6 +19,6 @@ include(gstreamer)
 gst-plugins-base
 gst-plugins-good
 # end of custom additions
-
+include()
 # main package
 pidgin

@@ -8,5 +8,5 @@ include(clr-installer)
 include(desktop-gnomelibs)
 include(gparted)
 include(NetworkManager)
-
+include()
 clr-installer-extras
