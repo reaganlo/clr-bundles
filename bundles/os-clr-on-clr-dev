@@ -946,7 +946,9 @@ perl-CPAN-Meta-Check
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Class-Data-Inheritable
+perl-Class-Inspector
 perl-Class-Singleton
+perl-Class-Tiny
 perl-Crypt-SSLeay
 perl-DateTime
 perl-DateTime-Locale
@@ -964,7 +966,10 @@ perl-ExtUtils-Depends
 perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
 perl-ExtUtils-PkgConfig
+perl-File-Copy-Recursive
 perl-File-Listing
+perl-File-ShareDir
+perl-File-ShareDir-Install
 perl-File-Slurp
 perl-Future
 perl-Guard
@@ -998,6 +1003,7 @@ perl-POE-Test-Loops
 perl-Package-Stash
 perl-Params-ValidationCompiler
 perl-Path-Class
+perl-Path-Tiny
 perl-Role-Tiny
 perl-Specio
 perl-Struct-Dumb
@@ -1006,6 +1012,7 @@ perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Quote
 perl-Test-Fatal
+perl-Test-File-ShareDir-Dist
 perl-Test-Identity
 perl-Test-Needs
 perl-Test-Output
