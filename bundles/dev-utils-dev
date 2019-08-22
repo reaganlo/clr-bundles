@@ -77,6 +77,7 @@ cups-dev
 include(devpkg-curl)
 datefudge
 db
+db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -337,6 +338,7 @@ perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
 perl-HTTP-Negotiate
+perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Pipely
@@ -345,6 +347,7 @@ perl-IO-Tty
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
+perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA

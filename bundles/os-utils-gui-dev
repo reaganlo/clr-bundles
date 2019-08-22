@@ -70,7 +70,6 @@ automake
 automake-dev
 bash-completion-dev
 bats
-include(bc)
 bdftopcf
 include(binutils)
 binutils-dev
@@ -411,7 +410,6 @@ libgfortran-avx
 libgfortran-compat-soname3
 libgfortran-compat-soname4
 libgit2-dev
-libglade-dev
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
@@ -521,7 +519,6 @@ libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
-include(lightdm)
 links
 linux-firmware-wifi
 linux-libc-headers
@@ -651,6 +648,7 @@ perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
 perl-HTTP-Negotiate
+perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Pipely
@@ -659,6 +657,7 @@ perl-IO-Tty
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
+perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA

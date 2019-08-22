@@ -980,6 +980,7 @@ perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
 perl-HTTP-Negotiate
+perl-IO-AIO
 perl-IO-HTML
 perl-IO-Interactive-Tiny
 perl-IO-Pipely

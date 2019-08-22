@@ -43,6 +43,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 include(devpkg-curl)
 datefudge
+db-dev
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -248,6 +249,7 @@ perl-HTTP-Message
 perl-HTTP-Message-dev
 perl-HTTP-Negotiate
 perl-HTTP-Negotiate-dev
+perl-IO-AIO
 perl-IO-HTML
 perl-IO-HTML-dev
 perl-IO-Interactive-Tiny
@@ -259,6 +261,7 @@ perl-LWP-MediaTypes-dev
 perl-LWP-Protocol-https
 perl-LWP-Protocol-https-dev
 perl-MRO-Compat
+perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
 perl-Mozilla-CA
