@@ -136,7 +136,6 @@ include(devpkg-colord)
 colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
-include(devpkg-compat-gegl)
 compat-gmime-26-dev
 coreutils
 coverage

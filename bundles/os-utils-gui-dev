@@ -721,7 +721,6 @@ pyaml
 pycparser
 include(pygobject)
 include(devpkg-pygobject)
-pygobject-python
 pyparsing
 pytest
 python
