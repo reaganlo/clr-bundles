@@ -52,7 +52,7 @@ breeze
 breeze-gtk
 breeze-icons
 drkonqi
-include(dolphin)
+also-add(dolphin)
 dolphin-plugins
 exiv2
 gdk-pixbuf
@@ -77,7 +77,7 @@ kde-cli-tools
 kdecoration
 kde-gtk-config
 kdeplasma-addons
-include(kdiff3)
+also-add(kdiff3)
 kdoctools
 kfilemetadata
 kgamma5
@@ -99,12 +99,12 @@ knotifyconfig
 kpackage
 kparts
 kpty
-include(konsole)
+also-add(konsole)
 kscreen
 kscreenlocker
 kservice
 ksshaskpass
-include(ksysguard)
+also-add(ksysguard)
 ktextwidgets
 kwallet
 kwallet-pam

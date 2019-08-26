@@ -57,7 +57,7 @@ libnotify
 libpinyin
 librsvg
 include(linux-firmware-extras)
-include(linux-firmware-wifi)
+also-add(linux-firmware-wifi)
 mutter
 orca
 pango
@@ -142,11 +142,11 @@ gnome-shell-impatience
 
 # Applications
 evolution-data-server
-include(flatpak)
-include(gimp)
+also-add(flatpak)
+also-add(gimp)
 gnome-bluetooth
 gnome-calendar
-include(gnome-characters)
+also-add(gnome-characters)
 gnome-control-center
 gnome-software
 gnome-terminal
@@ -155,7 +155,7 @@ gnome-user-docs
 gnome-user-docs-doc
 gnome-video-effects
 gvfs
-include(nautilus)
+also-add(nautilus)
 yelp
 
 # nice to have when using desktop
@@ -163,4 +163,4 @@ cups
 ModemManager
 ntfs-3g
 swupd-search
-include(thermal_daemon)
+also-add(thermal_daemon)
