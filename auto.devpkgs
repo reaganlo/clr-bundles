@@ -167,6 +167,7 @@ json-c
 libabigail
 libacl
 libarchive
+libass
 libassuan
 libatasmart
 libattr
