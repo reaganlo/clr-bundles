@@ -19,7 +19,7 @@ include(binutils)
 binutils-dev
 binutils-doc
 binutils-extras
-binutils-locale
+binutils-locales
 include(bison)
 check
 cmake
