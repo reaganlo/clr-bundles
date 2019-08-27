@@ -339,5 +339,3 @@ isync # Utility to synchronize IMAP mailboxes with local maildir folders
 bpftrace # High-level tracing language for Linux eBPF
 gnome-mahjongg # Single player version of the classic Eastern tile game Mahjongg
 gnome-chess # Play the classic two-player boardgame of chess
-libgpiod # C library and tools for interacting with the linux GPIO character device
-libmodbus # A Modbus library
