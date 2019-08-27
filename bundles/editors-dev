@@ -228,6 +228,7 @@ perl-Crypt-SSLeay
 perl-DateTime
 perl-Devel-StackTrace
 perl-Digest-HMAC
+perl-Dist-CheckConflicts
 perl-Encode-Locale
 perl-Eval-Closure
 perl-Exception-Class
@@ -249,6 +250,7 @@ perl-IO-Interactive-Tiny
 perl-IO-Pipely
 perl-IO-Socket-SSL
 perl-IO-Tty
+perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-MRO-Compat
@@ -268,6 +270,8 @@ perl-Specio
 perl-Struct-Dumb
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
+perl-Sub-Info
+perl-Sub-Quote
 perl-Test-Fatal
 perl-Test-Identity
 perl-Test-Needs
@@ -278,6 +282,7 @@ perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
 perl-Test-Taint
+perl-Test2-Suite
 perl-Try-Tiny
 perl-URI
 perl-Variable-Magic

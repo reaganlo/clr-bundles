@@ -960,6 +960,7 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
+perl-Exporter-Tiny
 perl-ExtUtils-Config
 perl-ExtUtils-Depends
 perl-ExtUtils-Helpers
@@ -990,6 +991,7 @@ perl-IPC-Run
 perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
+perl-List-MoreUtils
 perl-MRO-Compat
 perl-Module-Build
 perl-Module-Build-Tiny
@@ -1001,6 +1003,7 @@ perl-Net-HTTP
 perl-Net-SSLeay
 perl-POE-Test-Loops
 perl-Package-Stash
+perl-Params-Util
 perl-Params-ValidationCompiler
 perl-Path-Class
 perl-Path-Tiny

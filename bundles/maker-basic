@@ -17,7 +17,7 @@ libusb
 pyusb
 usbutils
 libftdi1
-libmodbus
-libgpiod
+include(libmodbus)
+include(libgpiod)
 include(minicom)
 picocom
