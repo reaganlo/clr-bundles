@@ -431,7 +431,7 @@ include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
 include(devpkg-libarchive)
-libass-dev
+include(devpkg-libass)
 include(devpkg-libassuan)
 include(devpkg-libatasmart)
 libatomic_ops-dev

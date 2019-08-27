@@ -295,7 +295,7 @@ libXvMC-dev32
 include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
-libass-dev
+include(devpkg-libass)
 include(devpkg-libassuan)
 libc6
 libc6-dev
