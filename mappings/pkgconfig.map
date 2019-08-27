@@ -271,6 +271,7 @@ pkgconfig(jack)	devpkg-jack2
 pkgconfig(json-c)	devpkg-json-c
 pkgconfig(libabigail)	devpkg-libabigail
 pkgconfig(libacl)	devpkg-acl
+pkgconfig(libass)	devpkg-libass
 pkgconfig(libassuan)	devpkg-libassuan
 pkgconfig(libatasmart)	devpkg-libatasmart
 pkgconfig(libattr)	devpkg-attr
