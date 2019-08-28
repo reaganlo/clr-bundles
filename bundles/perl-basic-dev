@@ -231,6 +231,7 @@ perl-Encode-Locale-dev
 perl-Error-dev
 perl-Eval-Closure
 perl-Exception-Class
+perl-Exporter-Tiny
 perl-ExtUtils-Depends
 perl-ExtUtils-PkgConfig
 perl-File-Listing

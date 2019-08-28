@@ -517,6 +517,7 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
+perl-Exporter-Tiny
 perl-ExtUtils-Depends
 perl-ExtUtils-PkgConfig
 perl-File-Listing

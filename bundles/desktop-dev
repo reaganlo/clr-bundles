@@ -309,7 +309,6 @@ gobject-introspection-data
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
@@ -724,6 +723,7 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Exception-Class
+perl-Exporter-Tiny
 perl-ExtUtils-Depends
 perl-ExtUtils-PkgConfig
 perl-File-Listing

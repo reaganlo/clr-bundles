@@ -996,6 +996,7 @@ perl-MRO-Compat
 perl-Module-Build
 perl-Module-Build-Tiny
 perl-Module-Implementation
+perl-Module-Pluggable
 perl-Module-Runtime
 perl-Mozilla-CA
 perl-Net-Daemon
@@ -1008,12 +1009,14 @@ perl-Params-ValidationCompiler
 perl-Path-Class
 perl-Path-Tiny
 perl-Role-Tiny
+perl-Scope-Guard
 perl-Specio
 perl-Struct-Dumb
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Quote
+perl-Term-Table
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
 perl-Test-Identity
