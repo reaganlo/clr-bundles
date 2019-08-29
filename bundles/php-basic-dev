@@ -32,6 +32,7 @@ bison-dev
 include(devpkg-boost)
 buildreq-cmake
 buildreq-configure
+buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
@@ -39,6 +40,8 @@ buildreq-meson
 bzip2
 bzip2-dev
 ca-certs
+include(devpkg-cairo)
+cairo-dev32
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -48,6 +51,7 @@ db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
+desktop-file-utils
 include(diffutils)
 include(docbook-utils)
 docbook-xml
@@ -56,6 +60,7 @@ e2fsprogs
 include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 include(devpkg-elfutils)
+elfutils-dev32
 include(devpkg-enchant)
 include(devpkg-expat)
 expat-dev32
@@ -63,9 +68,12 @@ expect
 file-dev
 include(flex)
 flex-dev
+include(devpkg-fontconfig)
+fontconfig-dev32
 include(devpkg-freeglut)
 freetype
 include(devpkg-freetype)
+freetype-dev32
 gawk
 gcc
 gcc-dev
@@ -93,7 +101,11 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+gobject-introspection
+include(devpkg-gobject-introspection)
 gperf
+include(devpkg-graphite)
+graphite-dev32
 include(graphviz)
 grep
 groff
@@ -101,6 +113,8 @@ gtk-doc
 include(devpkg-gtk-doc)
 guile
 include(gzip)
+include(devpkg-harfbuzz)
+harfbuzz-dev32
 hostname
 httpd-dev
 include(devpkg-icu4c)
@@ -203,6 +217,7 @@ openssl-dev32
 include(p11-kit)
 include(patch)
 include(devpkg-pcre)
+pcre-dev32
 perl-IPC-Run
 perl-XML-Parser
 php-dev
@@ -226,6 +241,7 @@ rpm-build
 ruby
 sed
 shadow
+shared-mime-info
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
@@ -241,6 +257,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+include(tzdata)
 include(unzip)
 util-linux-bin
 include(devpkg-util-linux)
