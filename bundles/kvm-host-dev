@@ -458,7 +458,6 @@ ruby
 sassc
 scikit-learn
 scipy
-include(scons)
 sed
 setuptools
 shadow

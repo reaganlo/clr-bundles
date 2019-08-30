@@ -634,7 +634,6 @@ sassc
 scikit-build
 scikit-learn
 scipy
-include(scons)
 sed
 setuptools
 setuptools-legacypython
