@@ -21,6 +21,7 @@ gnome-icon-theme
 gnome-themes-standard
 gtk+
 gtk-xfce-engine
+gvfs
 hicolor-icon-theme
 libnotify-bin
 libxfce4ui-bin
