@@ -363,6 +363,7 @@ mccabe
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-gcc
 more-itertools
 include(devpkg-mozjs60)
 mpc-dev

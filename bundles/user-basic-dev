@@ -72,6 +72,7 @@ bash-completion-dev
 bats
 include(bc)
 bcrypt
+bind-utils
 include(binutils)
 binutils-dev
 include(bison)
@@ -123,6 +124,7 @@ include(devpkg-cryptsetup)
 cscope
 ctags
 cups-dev
+include(curl)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -271,6 +273,7 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
+iputils
 isa-l-dev
 include(devpkg-iso-codes)
 iso8601
@@ -436,6 +439,7 @@ mccabe
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-gcc
 more-itertools
 include(devpkg-mozjs60)
 mpc-dev

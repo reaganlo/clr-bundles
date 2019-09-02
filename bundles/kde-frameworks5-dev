@@ -414,6 +414,7 @@ include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin

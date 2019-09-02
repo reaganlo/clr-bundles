@@ -234,6 +234,7 @@ include(devpkg-lz4)
 lzo-dev
 m4
 include(make)
+mingw-gcc
 mpc-dev
 mpfr-dev
 msmtp

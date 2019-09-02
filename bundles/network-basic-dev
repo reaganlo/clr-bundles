@@ -29,6 +29,7 @@ automake
 automake-dev
 bash-completion-dev
 bats
+bind-utils
 bind-utils-dev
 include(binutils)
 include(bison)
@@ -58,6 +59,7 @@ cmocka-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+include(curl)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
@@ -148,6 +150,7 @@ include(iproute2)
 include(devpkg-ipset)
 include(devpkg-iptables)
 iptables-dev32
+iputils
 include(devpkg-json-c)
 json-c-dev32
 include(kbd)
@@ -229,6 +232,7 @@ include(devpkg-lz4)
 lzo-dev
 m4
 include(make)
+mingw-gcc
 mpc-dev
 mpfr-dev
 msmtp

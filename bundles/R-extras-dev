@@ -979,6 +979,7 @@ include(devpkg-mariadb)
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-gcc
 mkfontdir-bin
 mkfontscale-bin
 include(devpkg-mozjs60)

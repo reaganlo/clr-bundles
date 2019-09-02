@@ -422,6 +422,7 @@ include(make)
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-gcc
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock

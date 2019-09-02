@@ -118,6 +118,7 @@ bats
 include(bc)
 bcrypt
 bdftopcf
+bind-utils
 include(binutils)
 binutils-dev
 binwalk
@@ -410,6 +411,7 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
+iputils
 ipython
 isa-l-dev
 include(devpkg-iso-codes)
@@ -666,6 +668,7 @@ memkind-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin

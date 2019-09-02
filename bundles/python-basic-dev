@@ -154,6 +154,7 @@ linux-libc-headers
 lxml
 m4
 include(make)
+mingw-gcc
 mpc-dev
 mpfr-dev
 include(devpkg-ncurses)

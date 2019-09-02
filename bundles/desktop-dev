@@ -612,6 +612,7 @@ include(devpkg-mesa)
 mesa-dev32
 meson
 include(devpkg-metacity)
+mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
