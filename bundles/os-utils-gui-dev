@@ -815,6 +815,7 @@ upower-dev
 include(devpkg-usbredir)
 usbutils-dev
 usrbinpython
+usrbinvi
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

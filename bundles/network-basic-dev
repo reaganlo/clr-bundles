@@ -81,6 +81,7 @@ e2fsprogs-extras
 ebtables-dev
 include(devpkg-elfutils)
 elfutils-dev32
+emacs
 include(devpkg-expat)
 expat-dev32
 expect
@@ -129,6 +130,7 @@ include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
 gperf
+gpm-dev
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)
@@ -421,3 +423,4 @@ xz-dev32
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
+include(devpkg-zstd)
