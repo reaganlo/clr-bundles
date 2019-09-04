@@ -668,6 +668,9 @@ memkind-dev
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-binutils
+mingw-crt
+mingw-crt-dev
 mingw-gcc
 mkfontdir
 mkfontdir-bin

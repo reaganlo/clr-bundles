@@ -273,13 +273,19 @@ include(devpkg-pcre)
 pcre-dev32
 perl
 perl-AnyEvent
+perl-App-cpanminus
 perl-B-Hooks-EndOfScope
 perl-Business-ISBN-Data
+perl-CPAN-Meta-Check
 perl-Canary-Stability
 perl-Class-Data-Inheritable
+perl-Class-Inspector
 perl-Class-Singleton
+perl-Class-Tiny
 perl-Crypt-SSLeay
 perl-DateTime
+perl-DateTime-Locale
+perl-DateTime-TimeZone
 perl-Devel-StackTrace
 perl-Digest-CRC
 perl-Digest-HMAC
@@ -290,7 +296,10 @@ perl-Exception-Class
 perl-Exporter-Tiny
 perl-ExtUtils-Depends
 perl-ExtUtils-PkgConfig
+perl-File-Copy-Recursive
 perl-File-Listing
+perl-File-ShareDir
+perl-File-ShareDir-Install
 perl-Future
 perl-Guard
 perl-HTML-Parser
@@ -309,6 +318,7 @@ perl-IO-Tty
 perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
+perl-List-MoreUtils
 perl-MRO-Compat
 perl-Module-Build
 perl-Module-Implementation
@@ -319,8 +329,10 @@ perl-Net-HTTP
 perl-Net-SSLeay
 perl-POE-Test-Loops
 perl-Package-Stash
+perl-Params-Util
 perl-Params-ValidationCompiler
 perl-Path-Class
+perl-Path-Tiny
 perl-Role-Tiny
 perl-Specio
 perl-Struct-Dumb
@@ -329,6 +341,7 @@ perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Quote
 perl-Test-Fatal
+perl-Test-File-ShareDir-Dist
 perl-Test-Identity
 perl-Test-Needs
 perl-Test-Output
@@ -338,6 +351,7 @@ perl-Test-Requires
 perl-Test-RequiresInternet
 perl-Test-Simple
 perl-Test-Taint
+perl-Test-Warnings
 perl-Test2-Suite
 perl-Try-Tiny
 perl-URI
