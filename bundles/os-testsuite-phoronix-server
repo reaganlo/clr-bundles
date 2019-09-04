@@ -31,6 +31,7 @@ cmake
 also-add(devpkg-curl)
 dialog
 dmidecode
+also-add(devpkg-expat)
 also-add(devpkg-fftw)
 also-add(fio)
 also-add(devpkg-flac)
@@ -42,6 +43,7 @@ also-add(devpkg-glog)
 gmp-dev
 gnupg
 also-add(devpkg-hwloc)
+also-add(java-basic)
 jemalloc-dev
 jemalloc-dev
 libaio-dev
@@ -58,6 +60,7 @@ also-add(devpkg-libpng)
 libtool
 libvorbis-dev
 also-add(devpkg-lua)
+also-add(machine-learning-basic)
 meson
 mpfr-dev
 also-add(openmpi)
@@ -87,6 +90,7 @@ pkg-config-dev
 also-add(devpkg-popt)
 pth-dev
 python3-dev
+also-add(R-basic)
 also-add(redis-native)
 also-add(scons)
 snappy-dev
