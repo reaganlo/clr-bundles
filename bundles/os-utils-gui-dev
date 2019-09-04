@@ -79,6 +79,7 @@ include(devpkg-bluez)
 include(devpkg-boost)
 bridge-utils
 include(devpkg-brotli)
+bubblewrap
 buildreq-cmake
 buildreq-configure
 buildreq-cpan

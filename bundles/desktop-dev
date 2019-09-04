@@ -25,6 +25,7 @@ include(NetworkManager)
 include(devpkg-NetworkManager)
 PackageKit-dev
 Pillow
+PyQt5
 PySocks
 include(devpkg-R)
 include(devpkg-SDL)
@@ -92,6 +93,7 @@ include(devpkg-boost)
 include(devpkg-brotli)
 brotlipy
 btrfs-progs-dev
+bubblewrap
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -881,6 +883,7 @@ sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
+sip
 six
 slang-dev
 source-highlight
