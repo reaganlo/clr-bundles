@@ -118,7 +118,6 @@ bats
 include(bc)
 bcrypt
 bdftopcf
-bind-utils
 include(binutils)
 binutils-dev
 binwalk
@@ -411,7 +410,6 @@ include(iproute2)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
-iputils
 ipython
 isa-l-dev
 include(devpkg-iso-codes)
@@ -998,6 +996,7 @@ perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-List-MoreUtils
+perl-List-MoreUtils-XS
 perl-MRO-Compat
 perl-Module-Build
 perl-Module-Build-Tiny
@@ -1023,7 +1022,9 @@ perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Quote
 perl-Term-Table
+perl-Test-Deep
 perl-Test-Fatal
+perl-Test-File
 perl-Test-File-ShareDir-Dist
 perl-Test-Identity
 perl-Test-Needs
@@ -1211,7 +1212,6 @@ snappy-dev
 snowballstemmer
 solid-dev
 sonnet-dev
-sortedcontainers
 source-highlight
 speex-dev
 speexdsp-dev
