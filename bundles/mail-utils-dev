@@ -177,6 +177,8 @@ libxslt-bin
 linux-libc-headers
 include(devpkg-lua)
 lxml
+include(devpkg-lz4)
+lz4-dev32
 m4
 include(make)
 mingw-gcc

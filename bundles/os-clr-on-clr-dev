@@ -653,6 +653,7 @@ lua
 include(devpkg-lua)
 lxml
 include(devpkg-lz4)
+lz4-dev32
 lzlib-dev
 lzo-dev
 m4
@@ -1246,7 +1247,6 @@ systemd-lib
 talloc
 include(devpkg-talloc)
 talloc-extras
-talloc-python3
 tar
 tcl
 tcl-dev

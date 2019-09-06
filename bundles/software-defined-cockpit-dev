@@ -358,6 +358,7 @@ include(llvm)
 llvm-dev32
 lxml
 include(devpkg-lz4)
+lz4-dev32
 m4
 include(make)
 include(devpkg-mediasdk)

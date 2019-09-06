@@ -602,6 +602,7 @@ lmdb-dev
 include(devpkg-lua)
 lxml
 include(devpkg-lz4)
+lz4-dev32
 lzo-dev
 m17n-lib
 m4
@@ -921,7 +922,6 @@ systemd-lib
 include(devpkg-taglib)
 include(devpkg-talloc)
 talloc-extras
-talloc-python3
 tar
 tcl
 tcl-dev

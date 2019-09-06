@@ -231,6 +231,7 @@ include(llvm)
 lmdb-dev
 lxml
 include(devpkg-lz4)
+lz4-dev32
 lzo-dev
 m4
 include(make)
@@ -408,7 +409,6 @@ systemd-extras
 systemd-lib
 include(devpkg-talloc)
 talloc-extras
-talloc-python3
 tar
 tcl
 tcl-dev
