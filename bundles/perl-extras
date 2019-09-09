@@ -14,11 +14,15 @@ perl-Algorithm-Diff
 perl-Algorithm-Diff-XS
 perl-Algorithm-Merge
 perl-Algorithm-Munkres
+perl-Alien-Build
+perl-Alien-m4
 perl-AnyEvent
+perl-AnyEvent-AIO
 perl-AnyEvent-CacheDNS
 perl-Apache-Htpasswd
 perl-Apache-Session
 perl-App-cpanminus
+perl-App-perlbrew
 perl-AppConfig
 perl-Archive-Cpio
 perl-Archive-Extract
@@ -36,7 +40,9 @@ perl-Authen-SASL
 perl-B-Hooks-EndOfScope
 perl-B-Hooks-OP-Check
 perl-B-Keywords
+perl-BDB
 perl-BSD-Resource
+perl-Bencode
 perl-Biblio-EndnoteStyle
 perl-Bit-Vector
 perl-Browser-Open
@@ -100,10 +106,12 @@ perl-Config-Grammar
 perl-Config-IniFiles
 perl-Config-Std
 perl-Config-Tiny
+perl-Const-Fast
 perl-Context-Preserve
 perl-Contextual-Return
 perl-Convert-ASN1
 perl-Convert-Bencode
+perl-Convert-Bencode_XS
 perl-Convert-Binary-C
 perl-Cookie-Baker
 perl-Coro
@@ -188,6 +196,7 @@ perl-Dist-CheckConflicts
 perl-Domain-PublicSuffix
 perl-Dumbbench
 perl-DynaLoader-Functions
+perl-EV
 perl-Email-Abstract
 perl-Email-Address
 perl-Email-Address-XS
@@ -202,11 +211,13 @@ perl-Encode-Locale
 perl-Error
 perl-Eval-Closure
 perl-Event
+perl-Event-Lib
 perl-Event-RPC
 perl-Exception-Class
 perl-Exporter-Declare
 perl-Exporter-Easy
 perl-Exporter-Lite
+perl-Exporter-Tidy
 perl-Exporter-Tiny
 perl-ExtUtils-Config
 perl-ExtUtils-Depends
@@ -214,6 +225,7 @@ perl-ExtUtils-Helpers
 perl-ExtUtils-InstallPaths
 perl-ExtUtils-PkgConfig
 perl-FCGI-ProcManager
+perl-FFI-CheckLib
 perl-Feed-Find
 perl-Fennec-Lite
 perl-File-BaseDir
@@ -245,6 +257,7 @@ perl-File-Tail
 perl-File-Touch
 perl-File-Type
 perl-File-Which
+perl-File-chdir
 perl-File-pushd
 perl-Filesys-Df
 perl-Filesys-Notify-Simple
@@ -253,7 +266,9 @@ perl-Font-TTF
 perl-FreezeThaw
 perl-Frontier-RPC
 perl-Future
+perl-Future-IO-ImplBase
 perl-GD-Barcode
+perl-GIS-Distance
 perl-Geo-Distance
 perl-Geo-IP
 perl-Geo-IPfree
@@ -290,6 +305,7 @@ perl-Hash-Merge
 perl-Hash-MoreUtils
 perl-Hash-MultiValue
 perl-I18N-Charset
+perl-IO-AIO
 perl-IO-All
 perl-IO-Async
 perl-IO-Capture
@@ -399,6 +415,7 @@ perl-Module-ScanDeps
 perl-Module-Starter
 perl-Module-Util
 perl-Module-Versions-Report
+perl-Mojo-DOM58
 perl-Mojo-IOLoop-ReadWriteProcess
 perl-Mojo-Pg
 perl-Mojo-RabbitMQ-Client
@@ -449,6 +466,8 @@ perl-PDF-API2
 perl-PDF-Table
 perl-PDF-Writer
 perl-POD2-Base
+perl-POE
+perl-POE-Test-Loops
 perl-POSIX-strftime-Compiler
 perl-Package-Constants
 perl-Package-DeprecationManager
@@ -492,6 +511,7 @@ perl-Proc-Wait3
 perl-Protocol-OSC
 perl-Quota
 perl-Readonly
+perl-Redis
 perl-Ref-Util
 perl-Ref-Util-XS
 perl-Regexp-Common
@@ -638,6 +658,7 @@ perl-Time-Duration-Parse
 perl-Time-ParseDate
 perl-Time-Period
 perl-TimeDate
+perl-Tk
 perl-Tk-DoubleClick
 perl-Try-Tiny
 perl-Type-Tiny
