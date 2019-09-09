@@ -776,7 +776,6 @@ mvn-maven-builder-support
 mvn-maven-bundle-plugin
 mvn-maven-compat
 mvn-maven-core
-mvn-maven-embedder
 mvn-maven-error-diagnostics
 mvn-maven-model
 mvn-maven-model-builder
@@ -799,7 +798,6 @@ mvn-maven-scm
 mvn-maven-scm-provider-svnjava
 mvn-maven-settings
 mvn-maven-shared
-mvn-maven-slf4j-provider
 mvn-maven-surefire
 mvn-maven-toolchain
 mvn-mockito-core
