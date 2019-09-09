@@ -146,6 +146,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 bzip2-dev
+bzip2-dev32
 ca-certs
 cached-property
 include(devpkg-cairo)
@@ -1105,7 +1106,6 @@ pyparsing
 pytest
 pytest-python
 pytest-runner
-pytest-timeout
 pytest-xdist
 python
 python-core

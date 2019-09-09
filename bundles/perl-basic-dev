@@ -35,6 +35,7 @@ buildreq-gnome
 buildreq-meson
 bzip2
 bzip2-dev
+bzip2-dev32
 include(devpkg-cairo)
 cairo-dev32
 clr-rpm-config

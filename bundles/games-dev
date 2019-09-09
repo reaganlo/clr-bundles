@@ -89,6 +89,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 bzip2-dev
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 cairo-dev32

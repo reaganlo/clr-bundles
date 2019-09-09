@@ -46,6 +46,7 @@ buildreq-meson
 buildreq-qmake
 bzip2
 bzip2-dev
+bzip2-dev32
 include(devpkg-cairo)
 cairo-dev32
 check
