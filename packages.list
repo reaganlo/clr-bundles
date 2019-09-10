@@ -340,4 +340,5 @@ bpftrace # High-level tracing language for Linux eBPF
 gnome-mahjongg # Single player version of the classic Eastern tile game Mahjongg
 gnome-chess # Play the classic two-player boardgame of chess
 coturn # The TURN Server is a VoIP media traffic NAT traversal server and gateway
-tilix # A tiling terminal emulator for Linux using GTK+ 3 
+tilix # A tiling terminal emulator for Linux using GTK+ 3
+mumble # A voice server/client for game chatting.
