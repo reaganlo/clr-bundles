@@ -1,11 +1,10 @@
-# [TITLE]: devpkg-libnftnl
-# [DESCRIPTION]: All content for pkgconfig file libnftnl.pc.
+# [TITLE]: devpkg-bzip2
+# [DESCRIPTION]: All content for pkgconfig file bzip2.pc.
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(devpkg-base)
-include(devpkg-libmnl)
 
-libnftnl-dev
+bzip2-dev

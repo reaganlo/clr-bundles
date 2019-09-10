@@ -16,6 +16,7 @@ pkgconfig(pixman-1)	devpkg-pixman
 pkgconfig(fontconfig)	devpkg-fontconfig
 pkgconfig(freetype2)	devpkg-freetype
 pkgconfig(zlib)	devpkg-zlib
+pkgconfig(bzip2)	devpkg-bzip2
 pkgconfig(harfbuzz)	devpkg-harfbuzz
 pkgconfig(graphite2)	devpkg-graphite
 pkgconfig(expat)	devpkg-expat
@@ -103,7 +104,6 @@ pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(nss)	devpkg-nss
 pkgconfig(nspr)	devpkg-nspr
 pkgconfig(libedataserverui-1.2)	devpkg-evolution-data-server
-pkgconfig(libecal-1.2)	devpkg-evolution-data-server
 pkgconfig(libical)	devpkg-libical
 pkgconfig(icu-i18n)	devpkg-icu4c
 pkgconfig(icu-uc)	devpkg-icu4c
@@ -196,7 +196,6 @@ pkgconfig(gnome-bluetooth-1.0)	devpkg-gnome-bluetooth
 pkgconfig(gnome-settings-daemon)	devpkg-gnome-settings-daemon
 pkgconfig(gnome-software)	devpkg-gnome-software
 pkgconfig(appstream-glib)	devpkg-appstream-glib
-pkgconfig(gnome-video-effects)	devpkg-gnome-video-effects
 pkgconfig(gnutls)	devpkg-gnutls
 pkgconfig(nettle)	devpkg-nettle
 pkgconfig(hogweed)	devpkg-nettle
@@ -309,7 +308,6 @@ pkgconfig(libecpg)	devpkg-postgresql
 pkgconfig(libpq)	devpkg-postgresql
 pkgconfig(libpgtypes)	devpkg-postgresql
 pkgconfig(libecpg_compat)	devpkg-postgresql
-pkgconfig(libedata-cal-1.2)	devpkg-evolution-data-server
 pkgconfig(libevdev)	devpkg-libevdev
 pkgconfig(libevent)	devpkg-libevent
 pkgconfig(libevent_core)	devpkg-libevent
