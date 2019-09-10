@@ -73,7 +73,7 @@ buildreq-mvn
 buildreq-qmake
 buildreq-scons
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
@@ -353,6 +353,7 @@ include(libxslt)
 libxslt-bin
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 lxml
@@ -414,6 +415,7 @@ include(devpkg-pango)
 pango-dev32
 include(devpkg-parted)
 include(patch)
+patchelf
 pbr
 include(devpkg-pcre)
 pcre-dev32

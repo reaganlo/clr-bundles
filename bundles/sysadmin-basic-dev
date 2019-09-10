@@ -45,7 +45,7 @@ buildreq-golang
 buildreq-meson
 buildreq-qmake
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 bzip2-dev32
 include(devpkg-cairo)
 cairo-dev32
@@ -249,6 +249,7 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 include(pandoc)
 include(patch)
+patchelf
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32

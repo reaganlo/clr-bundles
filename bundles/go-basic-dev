@@ -36,7 +36,7 @@ buildreq-distutils3
 buildreq-golang
 buildreq-meson
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 ca-certs
 check-dev
 clr-rpm-config

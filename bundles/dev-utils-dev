@@ -55,7 +55,7 @@ buildreq-meson
 buildreq-mvn
 buildreq-qmake
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
@@ -310,6 +310,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
+patchelf
 pbr
 include(devpkg-pcre)
 pcre-dev32

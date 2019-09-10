@@ -91,7 +91,7 @@ buildreq-meson
 buildreq-qmake
 buildreq-scons
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
@@ -238,6 +238,7 @@ gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
+include(devpkg-gnome-autoar)
 include(devpkg-gnome-bluetooth)
 gnome-common-dev
 gnome-control-center-dev
@@ -618,6 +619,7 @@ include(devpkg-pangomm)
 include(parallel)
 include(devpkg-parted)
 include(patch)
+patchelf
 pbr
 include(devpkg-pcre)
 pcre-dev32
@@ -799,6 +801,7 @@ stoken-dev
 include(strace)
 include(subversion)
 swig
+sysprof-dev
 systemd
 systemd-bin
 include(devpkg-systemd)

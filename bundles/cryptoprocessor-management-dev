@@ -37,7 +37,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-meson
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 ca-certs
 clr-rpm-config
 cmocka-dev

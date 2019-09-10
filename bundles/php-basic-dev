@@ -38,7 +38,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-meson
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 include(devpkg-cairo)
@@ -102,6 +102,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
 gperf
@@ -219,6 +220,7 @@ include(devpkg-openssl)
 openssl-dev32
 include(p11-kit)
 include(patch)
+patchelf
 include(devpkg-pcre)
 pcre-dev32
 perl-IPC-Run

@@ -38,8 +38,8 @@ autoconf-data
 also-add(bc)
 also-add(bison)
 also-add(devpkg-boost)
-bzip2-dev
-bzip2-dev
+include(devpkg-bzip2)
+include(devpkg-bzip2)
 also-add(devpkg-cairo)
 clinfo
 cmake

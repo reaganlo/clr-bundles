@@ -45,7 +45,7 @@ buildreq-kernel
 buildreq-meson
 buildreq-qmake
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 ca-certs
 certifi
 cffi
@@ -213,6 +213,7 @@ include(devpkg-openvswitch)
 include(p11-kit)
 packaging
 include(patch)
+patchelf
 include(devpkg-pcre)
 pcre-dev32
 perl-XML-Parser

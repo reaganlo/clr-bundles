@@ -35,7 +35,7 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-meson
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 ca-certs
 certifi
 cffi
@@ -170,6 +170,7 @@ include(devpkg-openssl)
 openssl-dev32
 include(p11-kit)
 include(patch)
+patchelf
 pbr
 include(devpkg-pcre)
 pcre-dev32

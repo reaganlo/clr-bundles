@@ -106,7 +106,7 @@ buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
-bzip2-dev
+include(devpkg-bzip2)
 bzip2-dev32
 ca-certs
 cached-property
@@ -300,7 +300,6 @@ include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
 gnome-terminal-doc
-include(devpkg-gnome-video-effects)
 gnu-efi
 gnu-efi-dev
 gnupg
@@ -598,6 +597,7 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -702,6 +702,7 @@ include(devpkg-pangomm)
 include(parallel)
 include(devpkg-parted)
 include(patch)
+patchelf
 pbr
 include(devpkg-pciutils)
 include(devpkg-pcre)
@@ -915,6 +916,7 @@ stoken-dev
 include(strace)
 include(subversion)
 swig
+sysprof-dev
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -1018,6 +1020,7 @@ yaml-dev
 include(yasm)
 yelp-dev
 yelp-tools-dev
+yelp-xsl
 yelp-xsl-dev
 ytnef-dev
 zenity

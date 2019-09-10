@@ -45,8 +45,8 @@ also-add(bc)
 also-add(bison)
 bndl-lamp-basic
 also-add(devpkg-boost)
-bzip2-dev
-bzip2-dev
+include(devpkg-bzip2)
+include(devpkg-bzip2)
 also-add(devpkg-cairo)
 clinfo
 cmake
