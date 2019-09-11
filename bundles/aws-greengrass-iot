@@ -5,13 +5,9 @@
 # [TAGS]: Other, Python
 # [MAINTAINER]: Daniel Castellanos <luis.daniel.castellanos@intel.com>
 include(python-extras)
-include(python2-basic)
 include(cloud-api)
 
 awscli
 boto3
-deprecated-boto3-legacypython
 numpy
-deprecated-numpy-legacypython
-opencv-legacypython
 opencv-python
