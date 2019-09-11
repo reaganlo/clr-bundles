@@ -294,12 +294,14 @@ include(devpkg-gnome-desktop)
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
+gnome-screensaver
 gnome-session
 gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
 gnome-terminal-doc
+gnome-video-effects-data
 gnu-efi
 gnu-efi-dev
 gnupg
@@ -555,6 +557,7 @@ libsndfile-dev32
 include(devpkg-libsoup)
 libsoup-dev32
 include(devpkg-libspectre)
+libsrtp
 include(devpkg-libsrtp)
 include(devpkg-libssh2)
 libstdc++
