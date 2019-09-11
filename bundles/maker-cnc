@@ -6,7 +6,6 @@
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 include(inkscape)
 include(python-extras)
-include(python2-basic)
 include(maker-basic)
 
 # main CNC tools
@@ -15,24 +14,14 @@ dmap2gcode
 F-Engrave
 FreeCAD
 include(openscad)
-pycam
 
 
 # dependencies
 
 gtk3
-gtkglext
 potrace
 pycairo
-deprecated-pycairo-legacypython
-pygtk
-pygtk-legacypython
-pygtkglext
-pygtkglext-legacypython
 include(pygobject)
-pygobject-legacy
-pygobject-legacy-legacypython
-python-tcl
 PyOpenGL
 PyYAML
 svg.path
