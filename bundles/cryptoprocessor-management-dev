@@ -104,13 +104,11 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libX11-dev32
 libabigail
-libaio-dev
 libc6
 libc6-dev
 libcap
@@ -191,7 +189,6 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 rpm-build
-ruby
 sed
 shadow
 shared-mime-info
@@ -204,7 +201,6 @@ systemd-lib
 tar
 tcl
 include(texinfo)
-thin-provisioning-tools
 tpm2-abrmd-dev
 tpm2-tss-dev
 include(tzdata)

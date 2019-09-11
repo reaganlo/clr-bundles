@@ -7,7 +7,6 @@
 include(dev-utils)
 include(mail-utils)
 include(os-core-dev)
-CUnit-dev
 Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -119,7 +118,6 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -241,7 +239,6 @@ tar
 tcl
 tcl-dev
 include(texinfo)
-thin-provisioning-tools
 tokyocabinet-dev
 include(tzdata)
 include(unzip)

@@ -48,6 +48,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 datefudge
 include(devpkg-dbus)

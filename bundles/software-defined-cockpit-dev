@@ -223,7 +223,6 @@ include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -250,7 +249,6 @@ include(devpkg-libXvMC)
 libXvMC-dev32
 include(devpkg-libXxf86misc)
 libabigail
-libaio-dev
 libavtp-dev
 libc6
 libc6-dev
@@ -447,7 +445,6 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 rtkit
-ruby
 rust-std32
 rustc
 sassc
@@ -476,7 +473,6 @@ include(devpkg-tbb)
 tcl
 tcl-dev
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 include(tzdata)
 include(unzip)

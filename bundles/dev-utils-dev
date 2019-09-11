@@ -194,7 +194,6 @@ include(devpkg-libXtst)
 include(devpkg-libXv)
 include(devpkg-libXxf86misc)
 libabigail
-libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
 libc6
@@ -311,7 +310,6 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
 patchelf
-pbr
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
@@ -434,7 +432,6 @@ rpm-build
 rpm-common
 ruby
 scdoc-dev
-scikit-build
 sed
 setuptools
 setuptools-legacypython
@@ -464,7 +461,6 @@ testscenarios
 testtools
 include(texinfo)
 include(texlive)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev

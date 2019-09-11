@@ -54,6 +54,7 @@ include(devpkg-compat-fuse-soname2)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 cups-dev
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)

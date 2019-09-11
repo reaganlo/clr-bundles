@@ -1199,7 +1199,6 @@ sassc
 sbc-dev
 sbc-dev32
 sbsigntools
-scikit-build
 scikit-learn
 scipy
 include(scons)

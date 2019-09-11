@@ -105,14 +105,12 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(less)
 include(devpkg-libX11)
 libX11-dev32
 libabigail
-libaio-dev
 libc6
 libc6-dev
 libcap
@@ -196,7 +194,6 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 rpm-build
-ruby
 sed
 shadow
 include(devpkg-sqlite-autoconf)
@@ -209,7 +206,6 @@ systemd-lib
 tar
 tcl
 include(texinfo)
-thin-provisioning-tools
 tk
 include(unzip)
 util-linux

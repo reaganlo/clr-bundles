@@ -650,7 +650,6 @@ rpm-build
 rpm-common
 ruby
 sassc
-scikit-build
 scikit-learn
 scipy
 sed

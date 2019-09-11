@@ -398,7 +398,6 @@ json-glib-dev32
 include(kbd)
 kdoctools-dev
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -943,7 +942,6 @@ testtools
 tevent-dev
 tevent-python3
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev

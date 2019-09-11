@@ -131,13 +131,11 @@ iso8601
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libX11-dev32
 libabigail
-libaio-dev
 libc6
 libc6-dev
 libcap
@@ -243,7 +241,6 @@ pytz
 include(devpkg-readline)
 readline-dev32
 rpm-build
-ruby
 runc-dev
 sed
 setuptools
@@ -267,7 +264,6 @@ tcl-dev
 telemetrics-client
 include(devpkg-telemetrics-client)
 include(texinfo)
-thin-provisioning-tools
 tk-dev
 tox
 include(tzdata)

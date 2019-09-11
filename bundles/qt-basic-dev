@@ -7,7 +7,6 @@
 include(dev-utils)
 include(os-core-dev)
 include(qt-basic)
-CUnit-dev
 Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -208,7 +207,6 @@ include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 keyutils-dev
-kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -448,7 +446,6 @@ include(devpkg-rest)
 rest-dev32
 rpm-build
 rtkit
-ruby
 sassc
 sbc-dev
 sbc-dev32
@@ -476,7 +473,6 @@ tar
 tcl
 tcl-dev
 include(texinfo)
-thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(tzdata)
