@@ -9,7 +9,6 @@ include(cloud-api)
 include(computer-vision-models)
 include(python-extras)
 include(python-data-science)
-include(python2-basic)
 include(machine-learning-tensorflow)
 
 #
@@ -27,25 +26,14 @@ tensorflow
 
 # support packages
 
-deprecated-boto3-legacypython
-deprecated-botocore-legacypython
-deprecated-docutils-legacypython
-deprecated-futures-legacypython
-deprecated-jmespath-legacypython
 mkl-dnn-dev
 numpy
-deprecated-numpy-legacypython
 include(openblas)
 include(devpkg-opencv)
-opencv-legacypython
 opencv-python
 pandas
-python-dateutil-legacypython
 python-dldt
-deprecated-python-dldt-legacypython
-deprecated-s3transfer-legacypython
 scikit-image
 scipy-python
 tflearn
-deprecated-urllib3-legacypython
 wheel
