@@ -163,7 +163,6 @@ pkgconfig(gdlib)	devpkg-libgd
 pkgconfig(gdm)	devpkg-gdm
 pkgconfig(gdm-pam-extensions)	devpkg-gdm
 pkgconfig(gee-0.8)	devpkg-libgee
-pkgconfig(gegl-0.2)	devpkg-compat-gegl
 pkgconfig(babl)	devpkg-babl
 pkgconfig(gegl-0.4)	devpkg-gegl
 pkgconfig(gegl-sc-0.4)	devpkg-gegl
