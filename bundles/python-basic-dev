@@ -7,6 +7,7 @@
 include(dev-utils)
 include(os-core-dev)
 include(python-basic)
+CUnit-dev
 Cython
 Jinja2
 include(devpkg-LVM2)
@@ -43,6 +44,7 @@ cmake
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 db
 db-dev
@@ -101,10 +103,12 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libabigail
+libaio-dev
 libc6-dev
 libcap
 include(devpkg-libcap)
@@ -191,6 +195,7 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 rpm-build
+ruby
 sed
 setuptools
 setuptools-legacypython
@@ -209,6 +214,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 tk-dev
 include(tzdata)
 include(unzip)

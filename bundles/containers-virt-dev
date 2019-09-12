@@ -43,6 +43,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 ca-certs
+certifi
 check-dev
 clr-rpm-config
 coreutils
@@ -51,6 +52,7 @@ include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
 datefudge
+db
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -240,6 +242,7 @@ perl-Error
 perl-XML-Parser
 pigz
 pinentry
+pip
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
@@ -247,6 +250,7 @@ pkg-config-dev
 polkit-dev
 include(devpkg-popt)
 include(procps-ng)
+procps-ng-bin
 include(pygobject)
 python-dev
 python3
@@ -261,8 +265,10 @@ rpm-build
 ruby
 rustc
 sed
+setuptools
 shadow
 shared-mime-info
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 include(strace)
 swig
@@ -273,9 +279,11 @@ systemd-extras
 systemd-lib
 tar
 tcl
+tcl-dev
 include(texinfo)
 thin-provisioning-tools
 tk
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux

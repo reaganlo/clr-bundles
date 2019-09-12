@@ -7,6 +7,7 @@
 include(dev-utils)
 include(os-core-dev)
 include(perl-basic)
+CUnit-dev
 Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -41,6 +42,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 datefudge
 db-dev
@@ -121,12 +123,14 @@ include(devpkg-json-c)
 json-c-dev32
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-libX11)
 libX11-dev32
 include(devpkg-libXft)
 libabigail
+libaio-dev
 libc6-dev
 libcap
 include(devpkg-libcap)
@@ -339,6 +343,7 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 rpm-build
+ruby
 sed
 shadow
 shared-mime-info
@@ -351,6 +356,7 @@ systemd-lib
 tar
 tcl
 include(texinfo)
+thin-provisioning-tools
 include(tzdata)
 include(unzip)
 util-linux

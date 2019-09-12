@@ -194,6 +194,7 @@ include(devpkg-libXtst)
 include(devpkg-libXv)
 include(devpkg-libXxf86misc)
 libabigail
+libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
 libc6
@@ -461,6 +462,7 @@ testscenarios
 testtools
 include(texinfo)
 include(texlive)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev

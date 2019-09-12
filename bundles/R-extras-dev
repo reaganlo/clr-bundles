@@ -840,6 +840,7 @@ json-glib-dev32
 jsoncpp-dev
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -1199,6 +1200,7 @@ testscenarios
 testtools
 include(texinfo)
 include(texlive)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev

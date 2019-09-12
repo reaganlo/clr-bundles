@@ -58,6 +58,7 @@ cmocka-dev
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge
@@ -148,12 +149,14 @@ include(intltool)
 intltool-dev
 include(iproute2)
 include(devpkg-ipset)
+include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
 json-c-dev32
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -161,6 +164,7 @@ include(devpkg-libX11)
 libX11-dev32
 include(devpkg-libXft)
 libabigail
+libaio-dev
 libc6
 libc6-dev
 libcap
@@ -380,6 +384,7 @@ include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 rpm-build
+ruby
 sed
 setuptools
 setuptools-legacypython
@@ -399,6 +404,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 tk-dev
 tpm2-tss-dev
 include(tzdata)

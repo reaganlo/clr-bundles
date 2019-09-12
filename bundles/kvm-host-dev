@@ -94,6 +94,7 @@ coreutils
 coverage
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 cups-dev
 include(devpkg-curl)
 curl-dev32
@@ -230,6 +231,7 @@ include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 keyutils-dev
+kmod
 kmod-bin
 include(devpkg-kmod)
 kmod-dev32
@@ -490,6 +492,7 @@ tcl
 tcl-dev
 tempora
 include(texinfo)
+thin-provisioning-tools
 include(devpkg-tiff)
 tox
 tox-python

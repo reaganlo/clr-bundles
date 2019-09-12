@@ -47,6 +47,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 datefudge
 db
@@ -131,6 +132,7 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -138,6 +140,7 @@ include(devpkg-libX11)
 libX11-dev32
 include(devpkg-libXpm)
 libabigail
+libaio-dev
 libc6
 libc6-dev
 libcap
@@ -255,6 +258,7 @@ re2c
 include(devpkg-readline)
 readline-dev32
 rpm-build
+ruby
 sed
 shadow
 shared-mime-info
@@ -270,6 +274,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 include(tzdata)

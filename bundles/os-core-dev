@@ -5,6 +5,7 @@
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(dev-utils)
+CUnit-dev
 Cython
 include(devpkg-LVM2)
 Linux-PAM-dev
@@ -33,6 +34,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 include(devpkg-dbus)
 dbus-dev32
@@ -92,9 +94,11 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 libabigail
+libaio-dev
 libc6-dev
 libcap
 include(devpkg-libcap)
@@ -163,6 +167,7 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 rpm-build
+ruby
 sed
 shadow
 shadow-dev
@@ -175,6 +180,7 @@ systemd-lib
 tar
 tcl
 include(texinfo)
+thin-provisioning-tools
 include(unzip)
 include(devpkg-util-linux)
 util-linux-dev32

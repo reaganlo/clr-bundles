@@ -111,6 +111,7 @@ cracklib-dev
 include(cryptography)
 cryptography_vectors
 include(devpkg-cryptsetup)
+ctags
 cups-dev
 include(devpkg-curl)
 curl-dev32
@@ -269,6 +270,7 @@ include(devpkg-json-glib)
 json-glib-dev32
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
@@ -296,6 +298,7 @@ libXvMC-dev32
 libXxf86dga-dev
 include(devpkg-libXxf86misc)
 libabigail
+libaio-dev
 libc6
 libc6-dev
 include(devpkg-libcanberra)
@@ -658,6 +661,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
 tornado

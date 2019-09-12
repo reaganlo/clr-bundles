@@ -45,6 +45,7 @@ clr-rpm-config
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 include(devpkg-curl)
 datefudge
 include(devpkg-dbus)
@@ -114,12 +115,14 @@ iptables-dev32
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 include(less)
 include(devpkg-libX11)
 libX11-dev32
 libabigail
+libaio-dev
 include(devpkg-libarchive)
 libc6
 libc6-dev
@@ -217,6 +220,7 @@ python3-dev
 include(devpkg-readline)
 readline-dev32
 rpm-build
+ruby
 sed
 shadow
 shared-mime-info
@@ -231,6 +235,7 @@ systemd-lib
 tar
 tcl
 include(texinfo)
+thin-provisioning-tools
 include(tzdata)
 include(unzip)
 util-linux

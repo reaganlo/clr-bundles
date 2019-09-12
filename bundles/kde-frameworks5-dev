@@ -89,6 +89,7 @@ include(devpkg-compat-enchant-soname1)
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
+ctags
 cups-dev
 include(devpkg-curl)
 curl-dev32
@@ -256,6 +257,7 @@ kitemmodels-dev
 kitemviews-dev
 kjobwidgets-dev
 kjs-dev
+kmod
 include(devpkg-kmod)
 kmod-dev32
 knewstuff-dev
@@ -528,6 +530,7 @@ rest-dev32
 rpm-build
 rtkit
 rtmpdump-dev
+ruby
 sassc
 sbc-dev
 sbc-dev32
@@ -561,6 +564,7 @@ tar
 tcl
 tcl-dev
 include(texinfo)
+thin-provisioning-tools
 threadweaver-dev
 include(devpkg-tiff)
 tk-dev
