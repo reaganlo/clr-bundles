@@ -1050,7 +1050,6 @@ perl-CPAN-Meta-Check
 perl-Canary-Stability
 perl-Class-Data-Inheritable
 perl-Class-Inspector
-perl-Class-Singleton
 perl-Class-Tiny
 perl-Crypt-SSLeay
 perl-DateTime

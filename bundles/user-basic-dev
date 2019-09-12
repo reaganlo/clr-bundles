@@ -514,7 +514,6 @@ perl-Canary-Stability
 perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Inspector
-perl-Class-Singleton
 perl-Class-Tiny
 perl-Crypt-SSLeay
 perl-DateTime
