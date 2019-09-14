@@ -294,14 +294,12 @@ include(devpkg-gnome-desktop)
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
-gnome-screensaver
 gnome-session
 gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 include(devpkg-gnome-software)
 gnome-terminal-doc
-gnome-video-effects-data
 gnu-efi
 gnu-efi-dev
 gnupg
@@ -918,7 +916,6 @@ stoken-dev
 include(strace)
 include(subversion)
 swig
-sysprof-dev
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
@@ -1022,7 +1019,6 @@ yaml-dev
 include(yasm)
 yelp-dev
 yelp-tools-dev
-yelp-xsl
 yelp-xsl-dev
 ytnef-dev
 zenity

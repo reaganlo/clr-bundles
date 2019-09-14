@@ -345,6 +345,10 @@ gnu-efi-dev
 gnupg
 include(devpkg-gnutls)
 go
+go-github.com-BurntSushi-toml
+go-github.com-inconshreveable-mousetrap
+go-github.com-spf13-cobra
+go-github.com-spf13-pflag
 gobject-introspection
 include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man

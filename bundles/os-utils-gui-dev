@@ -238,7 +238,6 @@ gmp-dev32
 gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
-include(devpkg-gnome-autoar)
 include(devpkg-gnome-bluetooth)
 gnome-common-dev
 gnome-control-center-dev
@@ -801,7 +800,6 @@ stoken-dev
 include(strace)
 include(subversion)
 swig
-sysprof-dev
 systemd
 systemd-bin
 include(devpkg-systemd)
