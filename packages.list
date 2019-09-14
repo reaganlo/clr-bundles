@@ -260,6 +260,7 @@ syndication # RSS/Atom parser library
 synergy # Keyboard and mouse sharing across networks
 syslinux # Kernel loader which uses a FAT, ext2/3 or iso9660 filesystem or a PXE network
 sysstat # utilities for monitoring system performance and usage activity
+tensorflow-serving # a flexible, high-performance serving system for machine learning models
 testdisk # Recover various partition failures and deleted files
 texinfo # unix style documentation tooling
 texlive # major TeX-related typesetting programs, macro packages, and fonts.
