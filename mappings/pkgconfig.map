@@ -104,6 +104,7 @@ pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(nss)	devpkg-nss
 pkgconfig(nspr)	devpkg-nspr
 pkgconfig(libedataserverui-1.2)	devpkg-evolution-data-server
+pkgconfig(libecal-1.2)	devpkg-evolution-data-server
 pkgconfig(libical)	devpkg-libical
 pkgconfig(icu-i18n)	devpkg-icu4c
 pkgconfig(icu-uc)	devpkg-icu4c
@@ -307,6 +308,7 @@ pkgconfig(libecpg)	devpkg-postgresql
 pkgconfig(libpq)	devpkg-postgresql
 pkgconfig(libpgtypes)	devpkg-postgresql
 pkgconfig(libecpg_compat)	devpkg-postgresql
+pkgconfig(libedata-cal-1.2)	devpkg-evolution-data-server
 pkgconfig(libevdev)	devpkg-libevdev
 pkgconfig(libevent)	devpkg-libevent
 pkgconfig(libevent_core)	devpkg-libevent
