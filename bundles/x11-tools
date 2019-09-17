@@ -8,6 +8,7 @@ include(libX11client)
 include(perl-basic)
 
 evtest
+numlockx
 setxkbmap
 include(x11vnc)
 xauth
