@@ -32,7 +32,6 @@ include(openblas)
 include(devpkg-opencv)
 opencv-python
 pandas
-python-dldt
 scikit-image
 scipy-python
 tflearn
