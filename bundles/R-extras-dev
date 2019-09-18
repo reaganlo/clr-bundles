@@ -644,6 +644,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 apache-ant
+apache-maven
 armadillo
 asciidoc
 include(devpkg-at-spi2-atk)
