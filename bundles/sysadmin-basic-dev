@@ -17,8 +17,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-apr)
 asciidoc
-aspell
-aspell-dev
+include(aspell)
 aspell-en
 include(devpkg-attr)
 attr-dev32

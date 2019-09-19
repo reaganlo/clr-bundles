@@ -57,7 +57,7 @@ include(devpkg-apr)
 asciidoc
 asn1crypto
 asn1crypto-python
-aspell
+include(aspell)
 aspell-dev
 aspell-en
 include(devpkg-at-spi2-atk)

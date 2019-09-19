@@ -47,7 +47,7 @@ include(devpkg-alsa-lib)
 apache-ant
 include(devpkg-apr)
 asciidoc
-aspell
+include(aspell)
 aspell-en
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32

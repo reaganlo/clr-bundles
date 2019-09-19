@@ -86,7 +86,7 @@ argparse
 asciidoc
 asn1crypto
 asn1crypto-python
-aspell
+include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
