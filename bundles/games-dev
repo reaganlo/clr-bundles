@@ -214,6 +214,7 @@ gmp-lib-hsw
 gmp-lib32
 gnu-efi
 gnu-efi-dev
+gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
 gnutls-dev32

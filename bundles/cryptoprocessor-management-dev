@@ -89,6 +89,7 @@ glibc-utils
 gmp-dev
 gnu-efi
 gnu-efi-dev
+gnu-efi-staticdev
 gperf
 include(graphviz)
 grep

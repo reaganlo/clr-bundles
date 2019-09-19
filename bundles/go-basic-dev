@@ -89,6 +89,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gnu-efi
 gnu-efi-dev
+gnu-efi-staticdev
 go
 gperf
 include(graphviz)

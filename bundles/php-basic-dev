@@ -106,6 +106,7 @@ gmp-dev32
 gmp-lib32
 gnu-efi
 gnu-efi-dev
+gnu-efi-staticdev
 include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)

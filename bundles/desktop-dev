@@ -302,6 +302,7 @@ include(devpkg-gnome-software)
 gnome-terminal-doc
 gnu-efi
 gnu-efi-dev
+gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
 gnutls-dev32
