@@ -7,7 +7,7 @@
 include(perl-basic)
 include(libstdcpp)
 
-aspell
+also-add(aspell)
 caribou-locales
 colord-locales
 evolution-data-server-locales

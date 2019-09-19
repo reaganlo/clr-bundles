@@ -1,14 +1,15 @@
-# [TITLE]: aspell-es
-# [DESCRIPTION]: Espanol dictionary for aspell
+# [TITLE]: aspell
+# [DESCRIPTION]: Spell checking utility
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Productivity
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 
+include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-include(aspell)
+also-add(aspell-es)
 # end of custom additions
 
 # main package
-aspell-es
+aspell
