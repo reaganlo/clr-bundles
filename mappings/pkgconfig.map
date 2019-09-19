@@ -349,6 +349,8 @@ pkgconfig(libiptc)	devpkg-iptables
 pkgconfig(libiscsi)	devpkg-libiscsi
 pkgconfig(libjpeg)	devpkg-libjpeg-turbo
 pkgconfig(libKF5Attica)	devpkg-attica
+pkgconfig(Qt5Core)	devpkg-qtbase
+pkgconfig(Qt5Network)	devpkg-qtbase
 pkgconfig(libkmod)	devpkg-kmod
 pkgconfig(libkms)	devpkg-libdrm
 pkgconfig(liblab_gamut)	devpkg-graphviz
@@ -521,14 +523,12 @@ pkgconfig(opencv)	devpkg-opencv
 pkgconfig(opus)	devpkg-opus
 pkgconfig(popt)	devpkg-popt
 pkgconfig(pygobject-3.0)	devpkg-pygobject
-pkgconfig(Qt5Core)	devpkg-qtbase
 pkgconfig(Qt5Svg)	devpkg-qtsvg
 pkgconfig(Qt5Gui)	devpkg-qtbase
 pkgconfig(Qt5Widgets)	devpkg-qtbase
 pkgconfig(Qt5UiTools)	devpkg-qttools
 pkgconfig(Qt5WebEngine)	devpkg-qtwebengine
 pkgconfig(Qt5Qml)	devpkg-qtdeclarative
-pkgconfig(Qt5Network)	devpkg-qtbase
 pkgconfig(Qt5Quick)	devpkg-qtdeclarative
 pkgconfig(Qt5WebEngineCore)	devpkg-qtwebengine
 pkgconfig(Qt5Positioning)	devpkg-qtlocation
