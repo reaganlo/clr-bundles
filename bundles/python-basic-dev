@@ -62,6 +62,7 @@ include(devpkg-elfutils)
 elfutils-dev32
 include(devpkg-expat)
 expect
+include(findutils)
 include(flex)
 flex-dev
 gawk
@@ -81,6 +82,7 @@ include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
+glibc-bin
 glibc-dev32
 glibc-libc32
 include(glibc-locale)

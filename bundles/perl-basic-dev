@@ -36,6 +36,7 @@ buildreq-meson
 bzip2
 include(devpkg-bzip2)
 bzip2-dev32
+ca-certs
 include(devpkg-cairo)
 cairo-dev32
 clr-rpm-config
@@ -60,6 +61,7 @@ elfutils-dev32
 include(devpkg-expat)
 expat-dev32
 expect
+include(findutils)
 include(flex)
 flex-dev
 fontconfig-data
@@ -85,6 +87,7 @@ include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
+glibc-bin
 glibc-dev32
 glibc-libc32
 include(glibc-locale)

@@ -735,6 +735,7 @@ expect
 extras
 include(devpkg-fftw)
 file-dev
+include(findutils)
 include(flex)
 flex-dev
 fltk-dev

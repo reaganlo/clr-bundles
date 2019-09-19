@@ -69,6 +69,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 file-dev
+include(findutils)
 include(flex)
 flex-dev
 include(devpkg-fontconfig)
@@ -95,6 +96,7 @@ include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32

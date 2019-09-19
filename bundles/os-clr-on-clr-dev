@@ -264,6 +264,7 @@ fcgi-dev
 include(devpkg-fftw)
 include(file)
 file-dev
+include(findutils)
 fixtures
 fixtures-python
 include(devpkg-flac)
@@ -362,6 +363,7 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
+gradle
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32

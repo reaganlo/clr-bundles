@@ -69,6 +69,7 @@ include(git)
 glib-bin
 include(devpkg-glib)
 glib-dev32
+glibc-bin
 glibc-dev
 glibc-dev32
 glibc-libc32

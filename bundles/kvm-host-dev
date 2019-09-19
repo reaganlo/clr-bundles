@@ -129,6 +129,7 @@ expat-dev32
 expect
 fcgi-dev
 file-dev
+include(findutils)
 include(flex)
 flex-dev
 fontconfig-data

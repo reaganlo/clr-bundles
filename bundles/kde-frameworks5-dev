@@ -67,6 +67,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-mvn
 buildreq-php
 buildreq-qmake
 buildreq-scons
@@ -120,6 +121,7 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
+include(findutils)
 include(devpkg-flac)
 flac-dev32
 include(flex)
@@ -190,6 +192,7 @@ include(devpkg-googletest)
 gperf
 include(gpgme)
 gpgme-dev
+gradle
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32
