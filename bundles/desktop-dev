@@ -102,6 +102,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-mvn
 buildreq-php
 buildreq-qmake
 buildreq-scons
@@ -316,6 +317,7 @@ gperf
 include(gpgme)
 gpgme-dev
 gpm-dev
+gradle
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32

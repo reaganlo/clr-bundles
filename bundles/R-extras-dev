@@ -799,6 +799,7 @@ gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
+gradle
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)

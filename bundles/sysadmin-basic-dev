@@ -18,7 +18,6 @@ acl-dev32
 include(devpkg-apr)
 asciidoc
 include(aspell)
-aspell-en
 include(devpkg-attr)
 attr-dev32
 audisp-json

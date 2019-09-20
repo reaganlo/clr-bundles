@@ -48,7 +48,6 @@ apache-ant
 include(devpkg-apr)
 asciidoc
 include(aspell)
-aspell-en
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
