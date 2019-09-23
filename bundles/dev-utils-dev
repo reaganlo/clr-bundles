@@ -143,7 +143,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
 go
@@ -298,7 +298,7 @@ nghttp2-dev32
 ninja
 nose
 nss-altfiles
-numactl-dev
+include(devpkg-numactl)
 onig-dev
 include(openblas)
 opencl-headers-dev

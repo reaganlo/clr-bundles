@@ -109,7 +109,7 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 go
 gperf

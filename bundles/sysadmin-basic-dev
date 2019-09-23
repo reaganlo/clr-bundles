@@ -120,7 +120,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
 gobject-introspection
@@ -237,7 +237,7 @@ nettle-dev32
 nettle-lib
 nettle-lib32
 nss-altfiles
-numactl-dev
+include(devpkg-numactl)
 onig-dev
 openjdk11
 openjdk11-dev

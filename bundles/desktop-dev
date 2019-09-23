@@ -303,13 +303,14 @@ gnome-shell
 include(devpkg-gnome-software)
 gnome-terminal-doc
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
 gnutls-dev32
 go
 gobject-introspection
+gobject-introspection-bin
 gobject-introspection-data
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)

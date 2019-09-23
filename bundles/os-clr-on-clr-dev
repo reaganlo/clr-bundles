@@ -342,7 +342,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
@@ -909,7 +909,7 @@ include(devpkg-nss)
 nss-lib32
 ntlm-auth
 numactl
-numactl-dev
+include(devpkg-numactl)
 numpy
 oath-toolkit
 include(devpkg-oath-toolkit)

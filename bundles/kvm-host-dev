@@ -183,7 +183,7 @@ gmp-gmpxx
 gmp-lib-hsw
 gmp-lib32
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
 gobject-introspection
@@ -395,7 +395,7 @@ include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)
 numactl
-numactl-dev
+include(devpkg-numactl)
 numpy
 oath-toolkit
 include(devpkg-oath-toolkit)

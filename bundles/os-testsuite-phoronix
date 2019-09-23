@@ -101,7 +101,7 @@ also-add(nasm)
 also-add(devpkg-ncurses)
 ninja
 numactl
-numactl-dev
+include(devpkg-numactl)
 numpy
 ocl-icd
 ocl-icd-dev

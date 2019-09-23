@@ -99,7 +99,7 @@ gmp-dev
 gmp-dev32
 gmp-lib32
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gperf
 include(graphviz)

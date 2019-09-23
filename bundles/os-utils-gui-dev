@@ -250,7 +250,7 @@ gnome-settings-daemon
 include(devpkg-gnome-settings-daemon)
 gnome-shell
 gnu-efi
-gnu-efi-dev
+include(devpkg-gnu-efi)
 gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
@@ -584,7 +584,7 @@ nss-altfiles
 include(devpkg-nss)
 nss-lib32
 numactl
-numactl-dev
+include(devpkg-numactl)
 ocl-icd-dev
 octave-dev
 open-iscsi
