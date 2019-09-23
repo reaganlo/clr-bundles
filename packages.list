@@ -347,3 +347,4 @@ aspell-es # No detailed summary available
 iwd # Wireless daemon for Linux
 cmus # A small, fast and powerful console music player.
 aspell # Spell checking utility
+sway # i3-compatible Wayland compositor
