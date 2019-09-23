@@ -8,3 +8,4 @@ include(machine-learning-tensorflow)
 
 Edge-optimized-models
 dldt-model-optimizer
+open_model_zoo
