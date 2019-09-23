@@ -183,6 +183,7 @@ pkgconfig(glesv1_cm)	devpkg-mesa
 pkgconfig(glesv2)	devpkg-mesa
 pkgconfig(glew)	devpkg-glew
 pkgconfig(glu)	devpkg-glu
+pkgconfig(glfw3)	devpkg-glfw
 pkgconfig(glm)	devpkg-glm
 pkgconfig(glproto)	devpkg-xorgproto
 pkgconfig(gmime-3.0)	devpkg-gmime
@@ -196,6 +197,7 @@ pkgconfig(gnome-bluetooth-1.0)	devpkg-gnome-bluetooth
 pkgconfig(gnome-settings-daemon)	devpkg-gnome-settings-daemon
 pkgconfig(gnome-software)	devpkg-gnome-software
 pkgconfig(appstream-glib)	devpkg-appstream-glib
+pkgconfig(gnu-efi)	devpkg-gnu-efi
 pkgconfig(gnutls)	devpkg-gnutls
 pkgconfig(nettle)	devpkg-nettle
 pkgconfig(hogweed)	devpkg-nettle
@@ -518,6 +520,7 @@ pkgconfig(libzmq)	devpkg-libzmq
 pkgconfig(libzstd)	devpkg-zstd
 pkgconfig(lua)	devpkg-lua
 pkgconfig(mozjs-52)	devpkg-mozjs52
+pkgconfig(numa)	devpkg-numactl
 pkgconfig(ompi)	devpkg-openmpi
 pkgconfig(opencv)	devpkg-opencv
 pkgconfig(opus)	devpkg-opus
