@@ -166,6 +166,7 @@ pkgconfig(gdm-pam-extensions)	devpkg-gdm
 pkgconfig(gee-0.8)	devpkg-libgee
 pkgconfig(gegl-0.4)	devpkg-gegl
 pkgconfig(babl)	devpkg-babl
+pkgconfig(lcms2)	devpkg-lcms2
 pkgconfig(gegl-sc-0.4)	devpkg-gegl
 pkgconfig(geoclue-2.0)	devpkg-geoclue
 pkgconfig(geocode-glib-1.0)	devpkg-geocode-glib
@@ -439,7 +440,6 @@ pkgconfig(libpulse-simple)	devpkg-pulseaudio
 pkgconfig(libqpdf)	devpkg-qpdf
 pkgconfig(libR)	devpkg-R
 pkgconfig(libraw)	devpkg-LibRaw
-pkgconfig(lcms2)	devpkg-lcms2
 pkgconfig(libraw_r)	devpkg-LibRaw
 pkgconfig(librdmacm)	devpkg-rdma-core
 pkgconfig(librepo)	devpkg-librepo
