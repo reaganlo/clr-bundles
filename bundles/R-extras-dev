@@ -140,7 +140,6 @@ R-bootstrap
 R-brew
 R-brglm
 R-bridgesampling
-R-brms
 R-broom
 R-ca
 R-caTools
@@ -175,6 +174,7 @@ R-contfrac
 R-corpcor
 R-corrgram
 R-corrplot
+R-covr
 R-crayon
 R-crosstalk
 R-crul
@@ -492,6 +492,7 @@ R-reprex
 R-reshape
 R-reshape2
 R-reticulate
+R-rex
 R-rgenoud
 R-rgl
 R-rhandsontable
@@ -521,6 +522,7 @@ R-rstanarm
 R-rstantools
 R-rstudioapi
 R-rsvg
+R-rversions
 R-rvest
 R-sROC
 R-sampling

@@ -38,6 +38,7 @@ include(devpkg-SDL_image)
 include(devpkg-SDL_net)
 include(devpkg-SDL_ttf)
 include(Sphinx)
+Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -692,6 +693,7 @@ include(devpkg-woff2)
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
+include(devpkg-xcb-util-cursor)
 xdg-utils
 include(devpkg-xkeyboard-config)
 xmlto
