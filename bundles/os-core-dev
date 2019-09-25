@@ -184,6 +184,7 @@ tcl
 include(texinfo)
 thin-provisioning-tools
 include(unzip)
+util-linux
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras

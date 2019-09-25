@@ -460,7 +460,6 @@ sbc-dev32
 include(scons)
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info

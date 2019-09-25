@@ -184,6 +184,7 @@ cppunit-dev
 cracklib-dev
 include(cryptography)
 cryptography_vectors
+cryptsetup
 include(devpkg-cryptsetup)
 cscope
 cssselect
@@ -234,7 +235,7 @@ include(dosfstools)
 double-conversion-dev
 include(doxygen)
 dpcontracts
-dpdk-dev
+include(devpkg-dpdk)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)

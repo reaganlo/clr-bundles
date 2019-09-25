@@ -111,7 +111,7 @@ include(docbook-utils)
 docbook-xml
 include(dosfstools)
 include(doxygen)
-dpdk-dev
+include(devpkg-dpdk)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)

@@ -178,7 +178,6 @@ R-covr
 R-crayon
 R-crosstalk
 R-crul
-R-csvy
 R-cubature
 R-curl
 R-cvTools
@@ -237,7 +236,6 @@ R-fastICA
 R-fastmatch
 R-fauxpas
 R-fda
-R-feather
 R-ff
 R-fields
 R-filehash
@@ -254,7 +252,6 @@ R-fossil
 R-fpc
 R-fracdiff
 R-fs
-R-fst
 R-furrr
 R-futile.options
 R-future
@@ -287,7 +284,6 @@ R-gss
 R-gtable
 R-gtools
 R-haven
-R-hexView
 R-hexbin
 R-highlight
 R-highr
@@ -301,6 +297,7 @@ R-httr
 R-hunspell
 R-hypergeo
 R-igraph
+R-import
 R-ineq
 R-ini
 R-inline
@@ -333,6 +330,7 @@ R-leaflet
 R-leaps
 R-lfe
 R-libcoin
+R-lifecycle
 R-linprog
 R-listenv
 R-listviewer
@@ -396,7 +394,6 @@ R-nnls
 R-nortest
 R-npsurv
 R-numDeriv
-R-nycflights13
 R-openssl
 R-openxlsx
 R-optextras
@@ -476,7 +473,6 @@ R-rbenchmark
 R-rcmdcheck
 R-reactR
 R-reactlog
-R-readODS
 R-readr
 R-readstata13
 R-readxl
@@ -502,7 +498,6 @@ R-ritis
 R-rjstat
 R-rlang
 R-rmarkdown
-R-rmatio
 R-rms
 R-rmutil
 R-rncl
@@ -967,7 +962,6 @@ include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
 libxml2-dev32
-libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
@@ -1177,7 +1171,6 @@ rustc
 sassc
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info

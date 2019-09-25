@@ -401,7 +401,6 @@ libxkbcommon-dev32
 include(libxml2)
 include(devpkg-libxml2)
 libxml2-dev32
-libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)

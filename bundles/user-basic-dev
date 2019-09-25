@@ -141,7 +141,7 @@ docbook-xml
 include(docutils)
 include(dosfstools)
 include(doxygen)
-dpdk-dev
+include(devpkg-dpdk)
 e2fsprogs
 e2fsprogs-data
 include(devpkg-e2fsprogs)
@@ -418,7 +418,6 @@ include(libxml2)
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
-libxml2-python
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
@@ -654,7 +653,6 @@ scikit-learn
 scipy
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 sg3_utils-dev
 shadow
