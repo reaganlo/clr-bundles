@@ -45,6 +45,7 @@ acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 apache-ant
+apache-maven
 include(devpkg-apr)
 asciidoc
 include(aspell)
@@ -89,6 +90,7 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-mvn
+buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
