@@ -1,8 +1,8 @@
 # [TITLE]: coturn
-# [DESCRIPTION]: The TURN Server is a VoIP media traffic NAT traversal server and gateway
+# [DESCRIPTION]: The TURN Server is a VoIP media traffic NAT traversal server and gateway.
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities, Networking
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(lib-openssl)
