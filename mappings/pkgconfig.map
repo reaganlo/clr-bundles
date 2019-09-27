@@ -2,9 +2,9 @@ pkgconfig(alsa)	devpkg-alsa-lib
 pkgconfig(apr-1)	devpkg-apr
 pkgconfig(apr-util-1)	devpkg-apr-util
 pkgconfig(atk)	devpkg-atk
-pkgconfig(gobject-2.0)	devpkg-glib
 pkgconfig(glib-2.0)	devpkg-glib
 pkgconfig(libpcre)	devpkg-pcre
+pkgconfig(gobject-2.0)	devpkg-glib
 pkgconfig(libffi)	devpkg-libffi
 pkgconfig(audit)	devpkg-audit
 pkgconfig(bigreqsproto)	devpkg-xorgproto
@@ -49,7 +49,9 @@ pkgconfig(clutter-1.0)	devpkg-clutter
 pkgconfig(cogl-1.0)	devpkg-cogl
 pkgconfig(gmodule-no-export-2.0)	devpkg-glib
 pkgconfig(gdk-pixbuf-2.0)	devpkg-gdk-pixbuf
-pkgconfig(libpng16)	devpkg-libpng
+pkgconfig(gio-2.0)	devpkg-glib
+pkgconfig(mount)	devpkg-util-linux
+pkgconfig(shared-mime-info)	devpkg-shared-mime-info
 pkgconfig(wayland-egl)	devpkg-wayland
 pkgconfig(wayland-client)	devpkg-wayland
 pkgconfig(wayland-server)	devpkg-wayland
@@ -59,8 +61,6 @@ pkgconfig(xrandr)	devpkg-libX11
 pkgconfig(randrproto)	devpkg-xorgproto
 pkgconfig(cogl-path-1.0)	devpkg-cogl
 pkgconfig(cairo-gobject)	devpkg-cairo
-pkgconfig(gio-2.0)	devpkg-glib
-pkgconfig(mount)	devpkg-util-linux
 pkgconfig(pangocairo)	devpkg-pango
 pkgconfig(pango)	devpkg-pango
 pkgconfig(fribidi)	devpkg-fribidi
@@ -104,6 +104,8 @@ pkgconfig(camel-1.2)	devpkg-evolution-data-server
 pkgconfig(nss)	devpkg-nss
 pkgconfig(nspr)	devpkg-nspr
 pkgconfig(libedataserverui-1.2)	devpkg-evolution-data-server
+pkgconfig(libecal-2.0)	devpkg-evolution-data-server
+pkgconfig(libical-glib)	devpkg-libical
 pkgconfig(libical)	devpkg-libical
 pkgconfig(icu-i18n)	devpkg-icu4c
 pkgconfig(icu-uc)	devpkg-icu4c
@@ -338,7 +340,6 @@ pkgconfig(libgvc)	devpkg-graphviz
 pkgconfig(libgvpr)	devpkg-graphviz
 pkgconfig(libibumad)	devpkg-rdma-core
 pkgconfig(libibverbs)	devpkg-rdma-core
-pkgconfig(libical-glib)	devpkg-libical
 pkgconfig(libidn)	devpkg-libidn
 pkgconfig(libidn2)	devpkg-libidn2
 pkgconfig(libip4tc)	devpkg-iptables
@@ -428,6 +429,7 @@ pkgconfig(libpmemblk)	devpkg-pmdk
 pkgconfig(libpmemlog)	devpkg-pmdk
 pkgconfig(libpmemobj)	devpkg-pmdk
 pkgconfig(libpmempool)	devpkg-pmdk
+pkgconfig(libpng16)	devpkg-libpng
 pkgconfig(libprocps)	devpkg-procps-ng
 pkgconfig(libprofiler)	devpkg-gperftools
 pkgconfig(libprotobuf-c)	devpkg-protobuf-c
@@ -548,7 +550,6 @@ pkgconfig(SDL_image)	devpkg-SDL_image
 pkgconfig(SDL_mixer)	devpkg-SDL_mixer
 pkgconfig(SDL_net)	devpkg-SDL_net
 pkgconfig(SDL_ttf)	devpkg-SDL_ttf
-pkgconfig(shared-mime-info)	devpkg-shared-mime-info
 pkgconfig(systemd)	devpkg-systemd
 pkgconfig(taglib)	devpkg-taglib
 pkgconfig(talloc)	devpkg-talloc

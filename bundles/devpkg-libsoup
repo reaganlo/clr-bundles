@@ -11,5 +11,6 @@ include(libglib)
 include(devpkg-libpsl)
 include(devpkg-libxml2)
 include(devpkg-sqlite-autoconf)
+include(devpkg-zlib)
 
 libsoup-dev
