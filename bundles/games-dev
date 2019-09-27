@@ -427,7 +427,6 @@ m4
 include(make)
 include(devpkg-mesa)
 mesa-dev32
-meson
 mingw-gcc
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
@@ -454,7 +453,6 @@ include(devpkg-network-manager-applet)
 include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
-ninja
 nose
 nose-python
 include(devpkg-nspr)
@@ -633,7 +631,6 @@ rustc
 sassc
 sbc-dev
 sbc-dev32
-include(scons)
 sed
 setuptools
 setuptools-legacypython

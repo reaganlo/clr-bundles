@@ -622,7 +622,6 @@ include(devpkg-mariadb)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
-meson
 include(devpkg-metacity)
 mingw-gcc
 mkfontdir
@@ -665,7 +664,6 @@ include(devpkg-network-manager-applet)
 include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
-ninja
 nose
 not-ffmpeg-dev
 npth-dev
@@ -899,7 +897,6 @@ sane-backends-dev
 sassc
 sbc-dev
 sbc-dev32
-include(scons)
 sed
 setuptools
 setuptools-legacypython

@@ -419,7 +419,6 @@ media-player-info
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
-meson
 mingw-gcc
 mkfontdir
 mkfontdir-bin
@@ -537,7 +536,6 @@ ruby
 sassc
 sbc-dev
 sbc-dev32
-include(scons)
 sed
 setuptools
 setuptools-legacypython

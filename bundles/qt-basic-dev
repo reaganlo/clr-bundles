@@ -344,7 +344,6 @@ include(make)
 include(devpkg-mariadb)
 include(devpkg-mesa)
 mesa-dev32
-meson
 mingw-gcc
 mkfontdir
 mkfontdir-bin
@@ -365,7 +364,6 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
-ninja
 nss-altfiles
 octave-dev
 openal-soft-dev
@@ -457,7 +455,6 @@ ruby
 sassc
 sbc-dev
 sbc-dev32
-include(scons)
 sed
 setuptools
 setuptools-python

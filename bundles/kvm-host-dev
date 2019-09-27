@@ -368,7 +368,6 @@ include(make)
 mccabe
 include(devpkg-mesa)
 mesa-dev32
-meson
 mingw-gcc
 more-itertools
 include(devpkg-mozjs60)
@@ -390,7 +389,6 @@ include(nfs-utils)
 include(devpkg-nftables)
 include(devpkg-nghttp2)
 nghttp2-dev32
-ninja
 include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)

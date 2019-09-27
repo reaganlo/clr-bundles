@@ -1208,7 +1208,6 @@ sbc-dev32
 sbsigntools
 scikit-learn
 scipy
-include(scons)
 secretstorage
 sed
 selenium

@@ -542,7 +542,6 @@ include(make)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
-meson
 mingw-gcc
 mkfontdir
 mkfontdir-bin
@@ -577,7 +576,6 @@ include(devpkg-newt)
 include(nfs-utils)
 include(devpkg-nghttp2)
 nghttp2-dev32
-ninja
 not-ffmpeg-dev
 npth-dev
 include(devpkg-nspr)
@@ -780,7 +778,6 @@ samba-dev
 sassc
 sbc-dev
 sbc-dev32
-include(scons)
 sed
 setuptools
 setuptools-python
