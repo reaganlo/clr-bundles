@@ -15,8 +15,8 @@ cpprestsdk
 dbus-1
 devmapper
 dri3proto
-evolution-mail-3.0
 eigen3
+evolution-mail-3.0
 expat
 ext2fs
 fann
@@ -163,6 +163,7 @@ harfbuzz
 hwloc
 icu-i18n
 jack
+jansson
 json-c
 libabigail
 libacl
@@ -462,12 +463,14 @@ SDL_mixer
 SDL_net
 SDL_ttf
 shared-mime-info
+speex
 sqlite3
 systemd
 taglib
 talloc
 tbb
 tesseract
+vpx
 x11
 x11-xcb
 xapian-core
