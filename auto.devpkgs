@@ -470,6 +470,8 @@ taglib
 talloc
 tbb
 tesseract
+theora
+vorbis
 vpx
 x11
 x11-xcb
