@@ -121,7 +121,7 @@ zlib-lib32
 libratbag
 linux-steam-integration
 xdg-user-dirs
-zenity
+include(zenity)
 
 # System integration (theme, data, etc)
 gnome-themes-standard

@@ -894,7 +894,7 @@ yajl-dev
 yajl-lib
 yaml-dev
 include(yasm)
-zenity
+include(zenity)
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

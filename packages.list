@@ -350,3 +350,4 @@ aspell # Spell checking utility
 sway # i3-compatible Wayland compositor
 vpp # Vector Packet Processing
 haveged # Daemon for feeding entropy into the random pool
+zenity # Display graphical dialog boxes from shell scripts

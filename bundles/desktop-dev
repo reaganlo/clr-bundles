@@ -1028,7 +1028,7 @@ yelp-tools-dev
 yelp-xsl
 yelp-xsl-dev
 ytnef-dev
-zenity
+include(zenity)
 zlib
 include(devpkg-zlib)
 zlib-dev32
