@@ -425,7 +425,7 @@ include(devpkg-iso-codes)
 iso8601
 isodate
 isort
-jansson-dev
+include(devpkg-jansson)
 jemalloc-dev
 include(joe)
 include(devpkg-json-c)
@@ -619,7 +619,7 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
-libtheora-dev
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -634,7 +634,7 @@ libuv
 libuv-dev
 include(devpkg-libva)
 libvdpau-dev
-libvorbis-dev
+include(devpkg-libvorbis)
 libvorbis-dev32
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
@@ -1233,7 +1233,7 @@ snowballstemmer
 solid-dev
 sonnet-dev
 source-highlight
-speex-dev
+include(devpkg-speex)
 speexdsp-dev
 sphinxcontrib-applehelp
 sphinxcontrib-devhelp

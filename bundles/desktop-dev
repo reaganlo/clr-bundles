@@ -162,6 +162,7 @@ datefudge
 db
 db-dev
 dbus
+dbus-bin
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -395,7 +396,7 @@ include(devpkg-iso-codes)
 iso8601
 isodate
 itstool
-jansson-dev
+include(devpkg-jansson)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -572,7 +573,7 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
-libtheora-dev
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -584,9 +585,9 @@ libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
 libvdpau-dev
-libvorbis-dev
+include(devpkg-libvorbis)
 libvorbis-dev32
-libvpx-dev
+include(devpkg-libvpx)
 include(devpkg-libwacom)
 include(devpkg-libwebp)
 include(devpkg-libwnck3)
@@ -909,7 +910,7 @@ sip
 six
 slang-dev
 source-highlight
-speex-dev
+include(devpkg-speex)
 speexdsp-dev
 spice-dev
 spice-protocol-dev
@@ -994,6 +995,7 @@ include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-desktop-portal
 include(devpkg-xdg-desktop-portal)
+xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-utils
 xf86-input-libinput

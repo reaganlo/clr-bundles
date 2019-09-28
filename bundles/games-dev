@@ -266,7 +266,7 @@ iptables-dev32
 include(devpkg-iso-codes)
 iso8601
 itstool
-jansson-dev
+include(devpkg-jansson)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
@@ -390,7 +390,7 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
-libtheora-dev
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -403,7 +403,7 @@ include(devpkg-libusb)
 libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
-libvorbis-dev
+include(devpkg-libvorbis)
 libvorbis-dev32
 include(devpkg-libwebp)
 libwebp-dev32
@@ -640,7 +640,7 @@ shared-mime-info
 include(devpkg-shared-mime-info)
 six
 slang-dev
-speex-dev
+include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)

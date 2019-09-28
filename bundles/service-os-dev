@@ -237,7 +237,6 @@ pycparser
 pyparsing
 pytest
 python-core
-python-dev
 python-kconfiglib
 python3
 python3-core

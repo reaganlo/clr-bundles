@@ -279,7 +279,7 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isort
-jansson-dev
+include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
 json-c-dev32

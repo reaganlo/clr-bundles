@@ -58,7 +58,7 @@ also-add(devpkg-libnl)
 also-add(devpkg-libogg)
 also-add(devpkg-libpng)
 libtool
-libvorbis-dev
+include(devpkg-libvorbis)
 also-add(devpkg-lua)
 also-add(machine-learning-basic)
 meson

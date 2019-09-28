@@ -423,7 +423,6 @@ protobuf-dev
 pycparser
 pytest
 python-core
-python-dev
 python3
 python3-core
 python3-dev

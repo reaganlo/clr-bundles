@@ -335,7 +335,7 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
-libtheora-dev
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -347,9 +347,9 @@ libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
 libvdpau-dev
-libvorbis-dev
+include(devpkg-libvorbis)
 libvorbis-dev32
-libvpx-dev
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -433,7 +433,6 @@ include(devpkg-pulseaudio)
 pulseaudio-dev32
 python
 python-core
-python-dev
 python3
 python3-core
 python3-dev
@@ -458,7 +457,7 @@ shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
 six
-speex-dev
+include(devpkg-speex)
 speexdsp-dev
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32

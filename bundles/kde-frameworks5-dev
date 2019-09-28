@@ -380,7 +380,7 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
-libtheora-dev
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -392,9 +392,9 @@ libunwind-dev32
 include(devpkg-libusb)
 include(devpkg-libva)
 libvdpau-dev
-libvorbis-dev
+include(devpkg-libvorbis)
 libvorbis-dev32
-libvpx-dev
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
@@ -503,7 +503,6 @@ pycparser
 pytest
 python
 python-core
-python-dev
 python3
 python3-core
 python3-dev
@@ -547,7 +546,7 @@ six
 snappy-dev
 solid-dev
 sonnet-dev
-speex-dev
+include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
