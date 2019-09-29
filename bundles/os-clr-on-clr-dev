@@ -97,6 +97,7 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 atomicwrites
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs

@@ -31,6 +31,8 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
+apache-ant
+apache-maven
 appstream-dev
 appstream-glib
 asciidoc
@@ -43,6 +45,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 include(devpkg-audit)
@@ -522,6 +525,7 @@ include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtwebchannel)
 qtwebsockets-dev
+qtxmlpatterns-dev
 re2-dev
 include(devpkg-readline)
 readline-dev32
