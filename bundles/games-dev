@@ -31,6 +31,7 @@ include(devpkg-SDL2)
 SDL2-dev32
 include(devpkg-SDL2_gfx)
 include(devpkg-SDL2_image)
+SDL2_image-dev32
 include(devpkg-SDL2_net)
 include(devpkg-SDL2_ttf)
 include(devpkg-SDL_gfx)
@@ -158,6 +159,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+fltk-dev
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
@@ -233,6 +235,7 @@ grep
 groff
 gsettings-desktop-schemas
 include(devpkg-gsl)
+include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
@@ -255,6 +258,9 @@ include(devpkg-icu4c)
 icu4c-dev32
 idna
 idna-python
+igt-gpu-tools-dev
+ilmbase-dev
+intel-gmmlib-dev
 include(intltool)
 intltool-dev
 ipaddress
@@ -325,6 +331,7 @@ include(devpkg-libevdev)
 libevdev-dev32
 include(devpkg-libevent)
 libevent-dev32
+include(devpkg-libexif)
 include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libfontenc)
@@ -359,6 +366,7 @@ include(devpkg-libnfnetlink)
 libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
+libnice-dev
 include(devpkg-libnl)
 libnl-dev32
 include(devpkg-libnotify)
@@ -385,6 +393,9 @@ libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
 libsoup-dev32
+libsrtp
+include(devpkg-libsrtp)
+include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -405,6 +416,7 @@ include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
 libvorbis-dev32
+include(devpkg-libvpx)
 include(devpkg-libwebp)
 libwebp-dev32
 include(devpkg-libxkbcommon)
@@ -425,6 +437,7 @@ include(devpkg-lz4)
 lz4-dev32
 m4
 include(make)
+include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 mingw-gcc
@@ -434,6 +447,7 @@ mock
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
+include(devpkg-mpg123)
 msmtp
 mtdev-dev
 mtdev-dev32
@@ -462,7 +476,10 @@ nss-lib32
 octave-dev
 onig-dev
 openal-soft-dev
+openal-soft-dev32
 openconnect-dev
+include(devpkg-opencv)
+openexr-dev
 openjdk
 openjdk11
 openjdk11-dev
@@ -607,6 +624,7 @@ include(pygobject)
 pyparsing
 pytest
 pytest-python
+python
 python-core
 python-dev
 python-mock
@@ -618,6 +636,7 @@ pytz
 qemu
 include(devpkg-qtbase)
 qtbase-extras
+include(devpkg-qtdeclarative)
 include(devpkg-readline)
 readline-dev32
 requests
@@ -655,6 +674,7 @@ systemd-dev32
 systemd-extras
 systemd-lib
 systemd-lib32
+include(devpkg-taglib)
 tar
 tcl
 tcl-dev
@@ -675,11 +695,13 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+include(devpkg-v4l-utils)
 vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
 virtualenv
+wavpack-dev
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
