@@ -2,7 +2,7 @@
 # [DESCRIPTION]: Display graphical dialog boxes from shell scripts
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]:
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(libX11client)
