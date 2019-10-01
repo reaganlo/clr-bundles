@@ -380,6 +380,7 @@ idna
 idna-python
 igt-gpu-tools-dev
 ilmbase-dev
+imagescan
 include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
