@@ -33,7 +33,6 @@ Mako-python
 abireport
 include(cabextract)
 configobj
-cve-check-tool
 include(diffoscope)
 include(dnf)
 efitools
