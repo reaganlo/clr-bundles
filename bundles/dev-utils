@@ -4,6 +4,7 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
+also-add(the_silver_surfer)
 include(git)
 include(openssl)
 include(perl-basic)
