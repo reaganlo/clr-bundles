@@ -35,3 +35,4 @@ seaborn
 # misc tools to support the above
 asv
 llvmlite
+plotly
