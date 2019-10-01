@@ -21,7 +21,6 @@ CGAL-dev
 CUnit
 CUnit-dev
 CUnit-dev32
-Cheetah
 CherryPy
 Cython
 Django
@@ -599,6 +598,7 @@ include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
+librepo
 include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
@@ -940,7 +940,6 @@ include(devpkg-opus)
 orc
 include(devpkg-orc)
 orc-dev32
-ordereddict
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -1132,11 +1131,9 @@ pytest-xdist
 python
 python-core
 python-dateutil
-python-dateutil-legacypython
 python-dateutil-legacypython-legacypython
 python-dev
 python-future
-python-krbV
 python-magic
 python-memcached
 python-mimeparse
@@ -1189,12 +1186,12 @@ include(devpkg-readline)
 readline-dev32
 recommonmark
 requests
+requests-kerberos
 requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
 rpcbind
-rpm
 rpm-build
 rpm-common
 rpm-dev
@@ -1222,7 +1219,6 @@ sg3_utils-dev
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)
-simplejson
 singledispatch
 sip
 sip-dev
@@ -1300,7 +1296,6 @@ unittest2
 unittest2-python
 unixODBC-dev
 include(unzip)
-urlgrabber
 urllib3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
@@ -1352,14 +1347,10 @@ yajl-dev
 yajl-lib
 yaml-dev
 include(yasm)
-yum
-yum-metadata-parser
 include(zip)
 zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
 zope.interface
-zope.testing
-zope.testrunner
 include(devpkg-zstd)
