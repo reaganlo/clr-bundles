@@ -207,21 +207,7 @@ dbus-python
 dbus-python-dev
 defusedxml
 dejagnu
-deprecated-Babel-legacypython
-deprecated-MarkupSafe-legacypython
-deprecated-PyYAML-legacypython
-deprecated-asn1crypto-legacypython
-deprecated-attrs-legacypython
-deprecated-cffi-legacypython
-deprecated-cryptography-legacypython
-deprecated-hypothesis-legacypython
-deprecated-ipaddress-legacypython
-deprecated-nose-legacypython
-deprecated-pyasn1-legacypython
-deprecated-pycparser-legacypython
-deprecated-pytz-legacypython
 deprecated-setuptools_scm-legacypython
-deprecated-unittest2-legacypython
 desktop-file-utils
 dhcp
 include(diffutils)
@@ -251,9 +237,7 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
-entrypoints
 enum34
-enum34-legacypython
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -434,7 +418,6 @@ include(devpkg-json-glib)
 json-glib-dev32
 jsoncpp-dev
 jsondiff
-jsonschema-python
 karchive-dev
 kauth
 kauth-dev
@@ -452,7 +435,7 @@ kded-dev
 kdesignerplugin-dev
 kdoctools-dev
 kemoticons-dev
-keyring
+kerberos
 keyutils-dev
 kglobalaccel
 kglobalaccel-dev
@@ -1131,7 +1114,6 @@ pytest-xdist
 python
 python-core
 python-dateutil
-python-dateutil-legacypython-legacypython
 python-dev
 python-future
 python-magic
@@ -1206,7 +1188,6 @@ sbc-dev32
 sbsigntools
 scikit-learn
 scipy
-secretstorage
 sed
 selenium
 serf-dev
@@ -1320,7 +1301,6 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
 include(wget)
-wheel
 include(which)
 wrapt
 include(devpkg-xapian-core)
@@ -1352,5 +1332,4 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
-zope.interface
 include(devpkg-zstd)
