@@ -353,3 +353,4 @@ haveged # Daemon for feeding entropy into the random pool
 zenity # Display graphical dialog boxes from shell scripts
 the_silver_searcher # A code-searching tool similar to ack, but faster.
 SVT-AV1 # AV1-compliant encoder library core.
+gpaste # Clipboard management system 
