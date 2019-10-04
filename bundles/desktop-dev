@@ -11,6 +11,7 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+ImageMagick
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev
@@ -353,6 +354,7 @@ gtk3
 gtk3-bin
 include(devpkg-gtk3)
 gtk3-dev32
+gtkmm2-dev
 include(devpkg-gtkmm3)
 gtksourceview
 gtksourceview-dev

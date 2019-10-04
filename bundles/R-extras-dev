@@ -768,6 +768,7 @@ gettext-bin
 gettext-dev
 ghostscript
 ghostscript-dev
+giflib-dev
 include(git)
 include(devpkg-glew)
 glib-bin

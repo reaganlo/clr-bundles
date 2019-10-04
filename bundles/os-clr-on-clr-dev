@@ -299,6 +299,7 @@ gettext-dev
 include(devpkg-gflags)
 ghostscript
 ghostscript-dev
+giflib-dev
 include(git)
 gitdb2
 include(gjs)
