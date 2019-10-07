@@ -28,6 +28,7 @@ include(flex)
 gcc
 gcc-dev
 chrpath
+gettext
 glibc-dev
 include(glibc-locale)
 glibc-utils
@@ -36,6 +37,7 @@ gmp-doc
 gmp-gmpxx
 gmp-lib
 indent
+include(intltool)
 libstdc++
 libtool
 libtool-dev
