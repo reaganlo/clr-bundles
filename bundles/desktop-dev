@@ -942,10 +942,6 @@ tdb-dev
 tdb-python3
 telepathy-glib-dev
 telepathy-logger-dev
-testrepository
-testresources
-testscenarios
-testtools
 tevent-dev
 tevent-python3
 include(texinfo)
@@ -961,7 +957,6 @@ tracker-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
-unittest2
 include(unzip)
 upower-dev
 urllib3

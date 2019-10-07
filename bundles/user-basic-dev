@@ -710,6 +710,7 @@ tokyocabinet-dev
 tox
 tox-python
 tpm2-tss-dev
+tqdm
 traceback2
 include(tzdata)
 include(unzip)

@@ -465,6 +465,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+tqdm
 traceback2
 include(tzdata)
 include(unzip)

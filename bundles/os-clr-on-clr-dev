@@ -1270,6 +1270,7 @@ tornado
 tox
 tox-python
 tpm2-tss-dev
+tqdm
 traceback2
 traceback2-python
 typing

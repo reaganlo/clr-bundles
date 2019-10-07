@@ -253,7 +253,6 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-vala
 include(valgrind)
 valgrind-dev
 include(which)
