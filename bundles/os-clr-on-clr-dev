@@ -207,7 +207,6 @@ dbus-python
 dbus-python-dev
 defusedxml
 dejagnu
-deprecated-setuptools_scm-legacypython
 desktop-file-utils
 dhcp
 include(diffutils)
