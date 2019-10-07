@@ -81,7 +81,6 @@ include(devpkg-apr-util)
 argcomplete
 argon2-dev
 argon2_cffi
-argparse
 asciidoc
 asn1crypto
 asn1crypto-python
