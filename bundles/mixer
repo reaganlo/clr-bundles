@@ -24,7 +24,6 @@ hardlink
 m4
 mixer-tools
 nosync
-pyliblzma
 python-rpm
 toml
 rpm

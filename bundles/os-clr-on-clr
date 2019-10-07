@@ -67,7 +67,6 @@ pesign
 include(devpkg-pmdk)
 pycodestyle
 pycurl
-pyliblzma
 pyOpenSSL
 python-magic
 python-rpm
