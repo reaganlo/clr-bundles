@@ -17,7 +17,6 @@ include(devpkg-apr-util)
 debtcollector
 elixir
 funcsigs
-functools32
 include(haproxy)
 iso8601
 jsonschema
