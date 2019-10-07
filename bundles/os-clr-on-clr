@@ -79,7 +79,6 @@ sbsigntools
 include(scons)
 six
 include(devpkg-telemetrics-client)
-urlgrabber
 include(devpkg-xcb-proto)
 include(devpkg-xorgproto)
 xmlstarlet
