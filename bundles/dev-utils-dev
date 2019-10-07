@@ -420,6 +420,7 @@ processor-trace-dev
 include(procps-ng)
 procps-ng-bin
 protobuf-dev
+pycodestyle
 pycparser
 pytest
 python-core

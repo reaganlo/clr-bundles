@@ -44,7 +44,6 @@ ca-certs
 certifi
 check-dev
 clr-rpm-config
-containerd-dev
 coreutils
 cracklib-dev
 cri-containerd-dev
