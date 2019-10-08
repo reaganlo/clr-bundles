@@ -12,6 +12,7 @@ include(libglib)
 accountsservice
 adwaita-icon-theme
 arc-theme
+at-spi2-core
 cantarell-fonts
 clear-font
 gdk-pixbuf
