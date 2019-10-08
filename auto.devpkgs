@@ -432,6 +432,7 @@ libzip
 libzmq
 libzstd
 LLVMSPIRVLib
+lttng-ust
 lua
 mozjs-52
 mozjs-60
