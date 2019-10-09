@@ -133,7 +133,6 @@ btrfs-progs-dev
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
-buildreq-distutils
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
