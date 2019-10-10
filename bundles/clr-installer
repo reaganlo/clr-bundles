@@ -13,7 +13,6 @@ include(linux-firmware-extras)
 include(linux-firmware-wifi)
 include(glibc-locale)
 include(openssh-server)
-include(telemetrics)
 include(tzdata)
 include(wpa_supplicant)
 
