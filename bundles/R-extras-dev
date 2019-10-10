@@ -1174,7 +1174,6 @@ setuptools
 setuptools-python
 shadow
 shared-mime-info
-include(devpkg-shared-mime-info)
 six
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)

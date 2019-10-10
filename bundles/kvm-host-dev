@@ -109,6 +109,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
+include(docutils)
 include(dosfstools)
 include(doxygen)
 include(devpkg-dpdk)
@@ -444,7 +445,6 @@ py
 pycodestyle
 pycparser
 pyparsing
-python
 python-core
 python-dev
 python3
@@ -468,7 +468,6 @@ sed
 setuptools
 shadow
 shared-mime-info
-include(devpkg-shared-mime-info)
 singledispatch
 six
 snappy-dev

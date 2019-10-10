@@ -21,6 +21,7 @@ CGAL-dev
 CUnit
 CUnit-dev
 CUnit-dev32
+Cheetah3
 CherryPy
 Cython
 Django
@@ -1109,7 +1110,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-xdist
-python
 python-core
 python-dateutil
 python-dev
@@ -1197,7 +1197,6 @@ setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
-include(devpkg-shared-mime-info)
 singledispatch
 sip
 sip-dev

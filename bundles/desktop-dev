@@ -926,6 +926,7 @@ include(strace)
 include(subversion)
 swig
 sysprof-dev
+sysprof-staticdev
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32

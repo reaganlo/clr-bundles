@@ -624,7 +624,6 @@ include(pygobject)
 pyparsing
 pytest
 pytest-python
-python
 python-core
 python-dev
 python-mock
@@ -656,7 +655,6 @@ setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info
-include(devpkg-shared-mime-info)
 six
 slang-dev
 include(devpkg-speex)

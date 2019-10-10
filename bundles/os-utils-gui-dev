@@ -750,7 +750,6 @@ include(pygobject)
 include(devpkg-pygobject)
 pyparsing
 pytest
-python
 python-core
 python-dev
 python-pocketlint
@@ -801,6 +800,7 @@ include(strace)
 include(subversion)
 swig
 sysprof-dev
+sysprof-staticdev
 systemd
 systemd-bin
 include(devpkg-systemd)
