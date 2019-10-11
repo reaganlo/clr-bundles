@@ -108,8 +108,6 @@ ksmtp
 ksystemlog
 ktimer
 ktnef
-ktp-approver
-ktp-common-internals
 ktp-desktop-applets
 kwalletmanager
 kxmlrpcclient
