@@ -356,3 +356,4 @@ SVT-AV1 # AV1-compliant encoder library core.
 gpaste # Clipboard management system
 traefik # A cloud based reverse proxy and load balancer
 postfix # Mail transfer agent (MTA) that routes and delivers electronic mail. SMTP server.
+samtools # C library for high-throughput sequencing data formats
