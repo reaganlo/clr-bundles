@@ -7,12 +7,15 @@
 
 include(NetworkManager)
 
-NetworkManager-openconnect
-NetworkManager-vpnc
-NetworkManager-openvpn
-network-manager-applet
 include(libX11client)
 include(openldap)
-linux-firmware-wifi
 include(wpa_supplicant)
+
+linux-firmware-wifi
 ModemManager
+network-manager-applet
+NetworkManager-openconnect
+NetworkManager-openvpn
+NetworkManager-vpnc
+usb-modeswitch
+usb-modeswitch-data
