@@ -10,7 +10,7 @@ include(nginx-mainline)
 
 memc-nginx-module
 nginx_cookie_flag_module
-include(nginx-mainline)
+nginx-upload-module
 ngx_brotli
 ngx_http_auth_pam_module
 ngx_http_enhanced_memcached_module
