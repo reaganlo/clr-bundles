@@ -541,7 +541,6 @@ sbc-dev
 sbc-dev32
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 shadow
 shared-mime-info

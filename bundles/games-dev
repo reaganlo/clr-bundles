@@ -624,7 +624,6 @@ include(pygobject)
 pyparsing
 pytest
 pytest-python
-python-core
 python-dev
 python-mock
 python-mock-python

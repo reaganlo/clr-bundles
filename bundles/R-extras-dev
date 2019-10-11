@@ -1152,7 +1152,6 @@ proj
 proj-dev
 protobuf-dev
 pycparser
-python-core
 python3
 python3-core
 python3-dev
