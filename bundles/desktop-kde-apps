@@ -144,6 +144,5 @@ qrencode
 also-add(spectacle)
 svgpart
 also-add(syndication)
-telepathy-qt
 also-add(yakuake)
 zeroconf-ioslave

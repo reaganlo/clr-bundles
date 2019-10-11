@@ -626,7 +626,6 @@ include(libxml2)
 libxml2-bin
 include(devpkg-libxml2)
 libxml2-dev32
-libxml2-legacy-legacypython
 libxml2-python
 libxml2-python3
 include(libxslt)
@@ -936,7 +935,6 @@ include(patch)
 patchelf
 pathlib2
 pbr
-pbr-legacypython
 include(devpkg-pciutils)
 pcre
 include(devpkg-pcre)
