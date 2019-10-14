@@ -233,6 +233,7 @@ R-fMultivar
 R-fOptions
 R-fansi
 R-fastICA
+R-fastmap
 R-fastmatch
 R-fauxpas
 R-fda
@@ -1010,6 +1011,7 @@ include(devpkg-nspr)
 nss-altfiles
 nss-bin
 include(devpkg-nss)
+include(devpkg-numactl)
 numpy
 ocl-icd-dev
 octave-dev
@@ -1039,6 +1041,7 @@ include(devpkg-pango)
 pango-dev32
 include(patch)
 patchelf
+include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
@@ -1141,6 +1144,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 pluggy-python
+pmix-dev
 polkit-dev
 poppler-dev
 poppler-extras

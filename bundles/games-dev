@@ -50,9 +50,11 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
+appdirs
 asciidoc
 asn1crypto
 asn1crypto-python
+astroid
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -106,7 +108,10 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
+colorama
 include(devpkg-colord)
+configparser
+contextlib2
 coreutils
 coverage
 cracklib-dev
@@ -136,6 +141,7 @@ include(diffutils)
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt-python
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -154,6 +160,7 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
+filelock
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -260,6 +267,7 @@ idna
 idna-python
 igt-gpu-tools-dev
 ilmbase-dev
+importlib_metadata
 intel-gmmlib-dev
 include(intltool)
 intltool-dev
@@ -271,6 +279,7 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-iso-codes)
 iso8601
+isort
 itstool
 include(devpkg-jansson)
 include(devpkg-json-c)
@@ -283,6 +292,7 @@ kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
+lazy-object-proxy
 include(devpkg-lcms2)
 include(devpkg-libX11)
 libX11-dev32
@@ -432,11 +442,13 @@ linux-libc-headers
 include(llvm)
 include(devpkg-llvm)
 llvm-dev32
+logilab-common
 lxml
 include(devpkg-lz4)
 lz4-dev32
 m4
 include(make)
+mccabe
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -444,6 +456,7 @@ mingw-gcc
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
+more-itertools
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
@@ -501,6 +514,7 @@ include(devpkg-pango)
 pango-dev32
 include(patch)
 patchelf
+pathlib2
 pbr
 include(devpkg-pcre)
 pcre-dev32
@@ -596,6 +610,7 @@ perl-namespace-clean
 php
 pigz
 pip
+pipreqs
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
@@ -620,10 +635,14 @@ pycairo
 pycairo-dev
 pycparser
 pycparser-python
+pyflakes
 include(pygobject)
+pylint
 pyparsing
 pytest
 pytest-python
+pytest-runner
+pytest-timeout
 python-dev
 python-mock
 python-mock-python
@@ -652,6 +671,8 @@ sed
 setuptools
 setuptools-legacypython
 setuptools-python
+setuptools_scm
+setuptools_scm-python
 shadow
 shared-mime-info
 six
@@ -679,10 +700,14 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+toml
 tornado
 tox
 tpm2-tss-dev
+typed_ast
 include(tzdata)
+unittest2
+unittest2-python
 include(unzip)
 urllib3
 util-linux
@@ -706,6 +731,7 @@ wayland-protocols-dev32
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
+wrapt
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -722,7 +748,10 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 yaml-dev
+yarg
+yarg-python
 include(yasm)
+zipp
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

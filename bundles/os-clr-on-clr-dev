@@ -89,6 +89,7 @@ include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
+astroid
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -96,7 +97,6 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 atomicwrites
-include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -213,6 +213,7 @@ distro
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt-python
 include(docutils)
 docutils-python
 include(dosfstools)
@@ -247,6 +248,7 @@ fcgi-dev
 include(devpkg-fftw)
 include(file)
 file-dev
+filelock
 include(findutils)
 fixtures
 fixtures-python
@@ -548,6 +550,7 @@ include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 libkipi-dev
 libksba-dev
+libmaxminddb-dev
 libmbim-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -641,6 +644,7 @@ include(llvm)
 include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
+logilab-common
 lua
 include(devpkg-lua)
 lxml
@@ -1057,6 +1061,7 @@ php-dev
 pigz
 pinentry
 pip
+pipreqs
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
@@ -1066,6 +1071,7 @@ pluggy
 pluggy-python
 ply
 include(plzip)
+pmix-dev
 include(polkit)
 polkit-dev
 polkit-qt-dev
@@ -1102,11 +1108,14 @@ pycodestyle
 pycparser
 pycparser-python
 pycurl
+pyflakes
 include(pygobject)
+pylint
 pyparsing
 pytest
 pytest-python
 pytest-runner
+pytest-timeout
 pytest-xdist
 python-core
 python-dateutil
@@ -1260,6 +1269,7 @@ include(devpkg-tiff)
 tk
 tk-dev
 tokyocabinet-dev
+toml
 tornado
 tox
 tox-python
@@ -1267,6 +1277,7 @@ tpm2-tss-dev
 tqdm
 traceback2
 traceback2-python
+typed_ast
 typing
 include(tzdata)
 unittest2
@@ -1322,6 +1333,8 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
+yarg
+yarg-python
 include(yasm)
 include(zip)
 zipp

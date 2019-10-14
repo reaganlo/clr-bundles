@@ -44,10 +44,8 @@ buildreq-meson
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
-bzip2-dev32
 ca-certs
 include(devpkg-cairo)
-cairo-dev32
 certifi
 cffi
 check-dev
@@ -89,11 +87,8 @@ file-dev
 include(findutils)
 include(flex)
 flex-dev
-fontconfig-data
 include(devpkg-fontconfig)
-fontconfig-dev32
 include(devpkg-freetype)
-freetype-dev32
 include(devpkg-fuse)
 gawk
 gcc
@@ -103,7 +98,6 @@ gcc-libgcc32
 gcc-libstdc++32
 gcc7-dev
 gcc8-dev
-include(gdb)
 gdb-dev
 gdbm-dev
 gettext
@@ -129,12 +123,8 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 include(devpkg-gnutls)
-gobject-introspection
-include(devpkg-gobject-introspection)
 gperf
 gpm-dev
-include(devpkg-graphite)
-graphite-dev32
 include(graphviz)
 grep
 groff
@@ -143,8 +133,6 @@ include(devpkg-gtk-doc)
 include(devpkg-gtk3)
 guile
 include(gzip)
-include(devpkg-harfbuzz)
-harfbuzz-dev32
 hostname
 include(devpkg-icu4c)
 icu4c-dev32
@@ -156,7 +144,6 @@ include(iptables)
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
-json-c-dev32
 include(kbd)
 keyutils-dev
 kmod
@@ -165,7 +152,6 @@ kmod-dev32
 include(devpkg-krb5)
 include(devpkg-libX11)
 libX11-dev32
-include(devpkg-libXft)
 libabigail
 libaio-dev
 libc6
@@ -193,7 +179,7 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
-include(devpkg-libjpeg-turbo)
+libmaxminddb-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -209,8 +195,6 @@ libnftnl-dev32
 include(devpkg-libnl)
 include(devpkg-libpcap)
 include(devpkg-libpng)
-libpng-dev32
-include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-librsvg)
 include(devpkg-libseccomp)
@@ -241,7 +225,6 @@ mingw-gcc
 mpc-dev
 mpfr-dev
 msmtp
-include(nasm)
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -257,8 +240,6 @@ nghttp2-dev32
 nss-altfiles
 include(devpkg-nss)
 openconnect-dev
-openjdk11
-openjdk11-dev
 openldap-dev
 opensm-dev
 include(openssl)
@@ -412,19 +393,11 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
-include(devpkg-util-macros)
-util-macros-dev32
 include(valgrind)
 valgrind-dev
 include(which)
 xauth
-xcb-proto
-include(devpkg-xcb-proto)
 xmlto
-include(devpkg-xorgproto)
-xorgproto-dev32
-include(devpkg-xtrans)
-xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
