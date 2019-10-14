@@ -358,3 +358,4 @@ traefik # A cloud based reverse proxy and load balancer
 postfix # Mail transfer agent (MTA) that routes and delivers electronic mail. SMTP server.
 samtools # C library for high-throughput sequencing data formats
 sox # Audio file format and effects library
+simplescreenrecorder # A feature-rich screen recorder that supports X11 and OpenGL. 
