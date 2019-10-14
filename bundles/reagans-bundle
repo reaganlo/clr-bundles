@@ -1,0 +1,10 @@
+# [TITLE]: reagans-bundle
+# [DESCRIPTION]: Provides default bundles for a build.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Reagan Lopez <reagan.lopez@intel.com>
+include(bootloader)
+include(kernel-native)
+include(os-core)
+include(os-core-update)
