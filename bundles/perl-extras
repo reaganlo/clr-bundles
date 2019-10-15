@@ -523,6 +523,7 @@ perl-Router-Simple
 perl-SGLMSpm
 perl-SMTP-Server
 perl-SQL-Abstract
+perl-SQL-SplitStatement
 perl-SQL-Translator
 perl-SUPER
 perl-Scalar-String
@@ -539,6 +540,7 @@ perl-Sort-Naturally
 perl-Sort-Versions
 perl-Specio
 perl-Spiffy
+perl-SQL-SplitStatement
 perl-Statistics-Basic
 perl-Statistics-CaseResampling
 perl-Stream-Buffered
