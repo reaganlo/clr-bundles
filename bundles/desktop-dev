@@ -197,7 +197,6 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
-enum34
 eog-dev
 evolution-data-server-data
 include(devpkg-evolution-data-server)
@@ -643,6 +642,7 @@ include(devpkg-mpg123)
 msmtp
 mtdev-dev
 mtdev-dev32
+murrine
 mutter
 mutter-data
 include(devpkg-mutter)

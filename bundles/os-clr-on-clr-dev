@@ -236,7 +236,7 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
-enum34
+entrypoints
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -419,6 +419,7 @@ include(devpkg-json-glib)
 json-glib-dev32
 jsoncpp-dev
 jsondiff
+jsonschema-python
 karchive-dev
 kauth
 kauth-dev
@@ -437,6 +438,7 @@ kdesignerplugin-dev
 kdoctools-dev
 kemoticons-dev
 kerberos
+keyring
 keyutils-dev
 kglobalaccel
 kglobalaccel-dev
@@ -925,6 +927,7 @@ include(devpkg-opus)
 orc
 include(devpkg-orc)
 orc-dev32
+ordereddict
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -999,6 +1002,7 @@ perl-IO-Socket-SSL
 perl-IO-Tty
 perl-IO-stringy
 perl-IPC-Run
+perl-IPC-Run3
 perl-Importer
 perl-LWP-MediaTypes
 perl-LWP-Protocol-https
@@ -1193,6 +1197,7 @@ sbc-dev32
 sbsigntools
 scikit-learn
 scipy
+secretstorage
 sed
 selenium
 serf-dev
@@ -1308,6 +1313,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
 include(wget)
+wheel
 include(which)
 wrapt
 include(devpkg-xapian-core)

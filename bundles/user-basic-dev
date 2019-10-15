@@ -171,7 +171,6 @@ elfutils
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
-enum34
 include(devpkg-expat)
 expat-dev32
 expect
@@ -254,6 +253,7 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
+gradle
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)

@@ -112,7 +112,6 @@ elfutils
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
-enum34
 include(devpkg-expat)
 expat-dev32
 expect

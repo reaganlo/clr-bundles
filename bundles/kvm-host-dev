@@ -34,6 +34,7 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 apache-ant
+apache-maven
 asciidoc
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
@@ -124,7 +125,6 @@ include(elasticsearch)
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
-enum34
 include(devpkg-expat)
 expat-dev32
 expect
@@ -195,6 +195,7 @@ google-auth-httplib2
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
+gradle
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)

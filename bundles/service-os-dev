@@ -73,7 +73,6 @@ e2fsprogs-dev32
 efivar-dev
 include(devpkg-elfutils)
 elfutils-dev32
-enum34
 include(devpkg-expat)
 expat-dev32
 expect

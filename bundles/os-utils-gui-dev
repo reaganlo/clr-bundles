@@ -557,6 +557,7 @@ include(devpkg-mpg123)
 msmtp
 mtdev-dev
 mtdev-dev32
+murrine
 mutter
 mutter-data
 include(devpkg-mutter)
