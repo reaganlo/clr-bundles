@@ -943,7 +943,6 @@ tcl-staticdev
 tdb-dev
 tdb-python3
 telepathy-glib-dev
-telepathy-logger-dev
 tevent-dev
 tevent-python3
 include(texinfo)

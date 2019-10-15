@@ -63,7 +63,6 @@ orca
 pango
 include(pygobject)
 shared-mime-info
-telepathy-logger
 include(tzdata)
 
 # a11y
