@@ -362,3 +362,4 @@ simplescreenrecorder # A feature-rich screen recorder that supports X11 and Open
 collectd # Daemon which collects system performance statistics periodically
 devhelp # API documentation browser for GNOME
 psensor # A graphical hardware temperature monitor for Linux
+sysprof # Kernel based performance profiler 
