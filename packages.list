@@ -360,3 +360,4 @@ samtools # C library for high-throughput sequencing data formats
 sox # Audio file format and effects library
 simplescreenrecorder # A feature-rich screen recorder that supports X11 and OpenGL.
 collectd # Daemon which collects system performance statistics periodically 
+devhelp # API documentation browser for GNOME 
