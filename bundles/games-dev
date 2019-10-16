@@ -61,6 +61,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs-python
@@ -439,7 +440,6 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 logilab-common
 lxml
@@ -456,6 +456,7 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 more-itertools
+more-itertools-python
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
@@ -668,7 +669,6 @@ sbc-dev
 sbc-dev32
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 setuptools_scm
 setuptools_scm-python

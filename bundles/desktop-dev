@@ -69,6 +69,7 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 include(devpkg-atkmm)
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -609,7 +610,6 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -633,6 +633,7 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
+more-itertools-python
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib
@@ -863,7 +864,6 @@ pylint
 pyparsing
 pytest
 pytest-python
-python
 python-core
 python-dev
 python-mock
@@ -904,7 +904,6 @@ sbc-dev
 sbc-dev32
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 sg3_utils-dev
 shadow

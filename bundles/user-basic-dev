@@ -60,6 +60,7 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -445,7 +446,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common
@@ -465,6 +465,7 @@ meson
 mingw-gcc
 mock
 more-itertools
+more-itertools-python
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
@@ -692,7 +693,6 @@ scikit-learn
 scipy
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 setuptools_scm
 setuptools_scm-python

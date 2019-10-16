@@ -31,6 +31,7 @@ asciidoc
 asn1crypto
 asn1crypto-python
 astroid
+atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs-python
@@ -296,6 +297,7 @@ include(devpkg-metrics-discovery)
 mingw-gcc
 mock
 more-itertools
+more-itertools-python
 mpc-dev
 mpfr-dev
 msmtp
@@ -457,7 +459,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-timeout
-python-dev
 python-mock
 python-mock-python
 python3
@@ -474,7 +475,6 @@ ruby
 scdoc-dev
 sed
 setuptools
-setuptools-legacypython
 setuptools-python
 setuptools_scm
 setuptools_scm-python

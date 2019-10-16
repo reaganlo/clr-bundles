@@ -152,7 +152,6 @@ R-caret
 R-cclust
 R-cellranger
 R-checkmate
-R-chron
 R-circlize
 R-classInt
 R-cli
@@ -172,7 +171,6 @@ R-commonmark
 R-config
 R-contfrac
 R-corpcor
-R-corrgram
 R-corrplot
 R-covr
 R-crayon
@@ -299,7 +297,6 @@ R-hunspell
 R-hypergeo
 R-igraph
 R-import
-R-ineq
 R-ini
 R-inline
 R-inum
@@ -346,7 +343,6 @@ R-lubridate
 R-magic
 R-magick
 R-magrittr
-R-manipulate
 R-manipulateWidget
 R-mapdata
 R-mapproj
@@ -464,7 +460,6 @@ R-questionr
 R-qvcalc
 R-randomForest
 R-randomNames
-R-randtests
 R-randtoolbox
 R-ranger
 R-rappdirs
@@ -606,7 +601,6 @@ R-utf8
 R-uuid
 R-varImp
 R-vcd
-R-vcdExtra
 R-vcr
 R-vctrs
 R-vegan
@@ -971,7 +965,6 @@ include(devpkg-libxslt)
 include(devpkg-libzmq)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 include(devpkg-lua)
 lxml
