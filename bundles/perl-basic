@@ -7,7 +7,7 @@
 include(lib-openssl)
 
 perl
-perl-doc
+perl-man
 perl-Config-General
 perl-Config-Tiny
 perl-Crypt-SSLeay
