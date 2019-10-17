@@ -251,6 +251,7 @@ perl-LWP-Protocol-https
 perl-LWP-Protocol-https-dev
 perl-List-MoreUtils
 perl-MRO-Compat
+perl-Math-BigInt-GMP
 perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
@@ -295,6 +296,7 @@ perl-WWW-RobotRules
 perl-XML-NamespaceSupport-dev
 perl-XML-Parser-dev
 perl-common-sense
+perl-dev
 perl-libwww-perl
 perl-libwww-perl-dev
 perl-namespace-autoclean

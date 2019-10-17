@@ -25,7 +25,6 @@ Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
-apache-ant
 appdirs
 asciidoc
 asn1crypto
@@ -61,7 +60,6 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
-buildreq-mvn
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
@@ -386,6 +384,7 @@ perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-List-MoreUtils
 perl-MRO-Compat
+perl-Math-BigInt-GMP
 perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime

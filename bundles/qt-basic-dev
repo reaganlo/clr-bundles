@@ -391,6 +391,8 @@ pcre-dev32
 include(devpkg-pcre2)
 perl
 perl-IPC-Run
+perl-Math-BigInt-GMP
+perl-Test-Simple
 perl-XML-Parser
 php
 pigz

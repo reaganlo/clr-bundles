@@ -80,6 +80,7 @@ ca-certs
 include(devpkg-cairo)
 cairo-dev32
 ceph-dev
+certifi
 check-dev
 check-dev32
 cheroot
@@ -101,6 +102,7 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
+db
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -424,6 +426,8 @@ pcre-dev32
 pecan
 perl
 perl-Digest-CRC
+perl-Math-BigInt-GMP
+perl-Test-Simple
 perl-XML-Parser
 php
 pigz
@@ -439,6 +443,7 @@ include(devpkg-popt)
 portend
 prettytable
 include(procps-ng)
+procps-ng-bin
 protobuf-dev
 psutil
 py
@@ -475,6 +480,7 @@ spice
 spice-dev
 spice-protocol
 spice-protocol-dev
+sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
@@ -493,6 +499,7 @@ tempora
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
+tk-dev
 tox
 tox-python
 include(tzdata)

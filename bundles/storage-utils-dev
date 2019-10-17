@@ -301,6 +301,7 @@ perl-LWP-MediaTypes
 perl-LWP-Protocol-https
 perl-List-MoreUtils
 perl-MRO-Compat
+perl-Math-BigInt-GMP
 perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime

@@ -186,6 +186,8 @@ include(devpkg-pcre)
 include(devpkg-pcre2)
 perl
 perl-Error
+perl-Math-BigInt-GMP
+perl-Test-Simple
 perl-XML-Parser
 pigz
 pkg-config

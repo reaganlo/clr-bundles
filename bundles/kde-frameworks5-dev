@@ -392,6 +392,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
@@ -475,6 +476,8 @@ pcre-dev32
 include(devpkg-pcre2)
 perl
 perl-IPC-Run
+perl-Math-BigInt-GMP
+perl-Test-Simple
 perl-URI
 perl-URI-Encode
 perl-URI-Escape-XS

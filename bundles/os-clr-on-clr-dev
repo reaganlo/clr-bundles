@@ -1010,6 +1010,7 @@ perl-LWP-Protocol-https
 perl-List-MoreUtils
 perl-List-MoreUtils-XS
 perl-MRO-Compat
+perl-Math-BigInt-GMP
 perl-Module-Build
 perl-Module-Build-Tiny
 perl-Module-Implementation
