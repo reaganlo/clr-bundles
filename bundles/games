@@ -60,6 +60,7 @@ libSM-lib32
 libX11-lib32
 libXScrnSaver-lib32
 libXau-lib32
+libXaw-lib32
 libXcomposite-lib32
 libXcursor-lib32
 libXdamage-lib32
@@ -70,6 +71,7 @@ libXft-lib32
 libXi-lib32
 libXinerama-lib32
 libXmu-lib32
+libXpm-lib32
 libXrandr-lib32
 libXrender-lib32
 libXt-lib32
