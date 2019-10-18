@@ -4,7 +4,8 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools, Data Science
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
-include(machine-learning-tensorflow)
+
+include(python3-basic)
 
 Edge-optimized-models
 dldt-model-optimizer

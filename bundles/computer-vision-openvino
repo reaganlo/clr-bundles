@@ -1,0 +1,22 @@
+# [TITLE]: computer-vision-openvino
+# [DESCRIPTION]: Basic openvino bundle for computer vision
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools, Data Science, Python
+# [MAINTAINER]: Qi Zheng <qi.zheng@intel.com>
+
+include(python3-basic)
+include(computer-vision-models)
+
+#
+# dldt
+#
+
+dldt
+dldt-dev
+dldt-doc
+dldt-extras
+
+# support packages
+numpy
+opencv
