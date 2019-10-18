@@ -96,8 +96,6 @@ gmime
 include(devpkg-gmime)
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -209,7 +207,6 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
-perl
 perl-Math-BigInt-GMP
 perl-Test-Simple
 perl-XML-Parser

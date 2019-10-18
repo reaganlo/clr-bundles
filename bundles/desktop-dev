@@ -180,6 +180,7 @@ dejagnu
 desktop-file-utils
 dhcp
 dhcp-dev
+dialog
 include(diffutils)
 dnsmasq
 include(docbook-utils)
@@ -817,6 +818,7 @@ perl-WWW-RobotRules
 perl-XML-Parser
 perl-XML-Simple
 perl-common-sense
+perl-data
 perl-libwww-perl
 perl-namespace-autoclean
 perl-namespace-clean
@@ -837,7 +839,6 @@ polkit-dev
 include(poppler)
 poppler-data-clr-rename-dev
 poppler-dev
-poppler-extras
 include(devpkg-popt)
 include(devpkg-postgresql)
 ppp

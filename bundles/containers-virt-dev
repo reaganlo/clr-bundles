@@ -102,8 +102,6 @@ glibc-staticdev
 glibc-utils
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -233,7 +231,6 @@ pcre-dev32
 include(devpkg-pcre2)
 pcsc-lite
 pcsc-lite-dev
-perl
 perl-Error
 perl-Math-BigInt-GMP
 perl-Test-Simple

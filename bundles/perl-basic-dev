@@ -187,7 +187,6 @@ p11-kit-dev32
 include(patch)
 include(devpkg-pcre)
 pcre-dev32
-perl
 perl-AnyEvent
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
@@ -296,6 +295,7 @@ perl-WWW-RobotRules
 perl-XML-NamespaceSupport-dev
 perl-XML-Parser-dev
 perl-common-sense
+perl-data
 perl-dev
 perl-libwww-perl
 perl-libwww-perl-dev

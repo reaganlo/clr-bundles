@@ -164,8 +164,6 @@ glibc-utils
 include(devpkg-glu)
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -394,6 +392,7 @@ perl-IPC-Run
 perl-Math-BigInt-GMP
 perl-Test-Simple
 perl-XML-Parser
+perl-data
 php
 pigz
 pip

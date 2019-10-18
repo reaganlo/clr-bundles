@@ -180,8 +180,6 @@ include(devpkg-glu)
 glu-dev32
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -482,6 +480,7 @@ perl-URI
 perl-URI-Encode
 perl-URI-Escape-XS
 perl-XML-Parser
+perl-data
 phonon-dev
 php
 pigz
