@@ -27,6 +27,7 @@ gptfdisk
 ipmctl
 lsscsi
 mdadm
+mmc-utils
 mtools
 multipath-tools
 ndctl
