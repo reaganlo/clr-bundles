@@ -14,6 +14,7 @@ include(wpa_supplicant)
 linux-firmware-wifi
 ModemManager
 network-manager-applet
+NetworkManager-l2tp
 NetworkManager-openconnect
 NetworkManager-openvpn
 NetworkManager-vpnc
