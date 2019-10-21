@@ -218,6 +218,7 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
+perl-Test-Simple
 perl-XML-Parser
 pesign
 pigz
