@@ -17,6 +17,7 @@ akonadi-mime
 akonadi-notes
 akonadi-search
 akonadiconsole
+also-add(mariadb)
 # end of custom additions
 
 # main package
