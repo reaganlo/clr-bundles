@@ -502,7 +502,6 @@ open-iscsi
 open-isns-dev
 include(openblas)
 opencl-headers-dev
-openjdk
 openjdk11
 openjdk11-dev
 openldap-dev

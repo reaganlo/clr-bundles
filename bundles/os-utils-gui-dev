@@ -595,7 +595,6 @@ opencl-headers-dev
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
-openjdk
 openjdk11
 openjdk11-dev
 openldap-dev

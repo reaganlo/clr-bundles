@@ -449,7 +449,6 @@ include(devpkg-nss)
 octave-dev
 openal-soft-dev
 openjade-dev
-openjdk
 openjdk11
 openjdk11-dev
 openldap-dev

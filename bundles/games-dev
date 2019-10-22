@@ -305,7 +305,9 @@ libXcursor-dev32
 include(devpkg-libXft)
 libXft-dev32
 include(devpkg-libXmu)
+libXmu-dev32
 include(devpkg-libXpm)
+libXpm-dev32
 include(devpkg-libXres)
 include(devpkg-libXt)
 libXt-dev32
@@ -494,7 +496,6 @@ openal-soft-dev32
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
-openjdk
 openjdk11
 openjdk11-dev
 openldap-dev

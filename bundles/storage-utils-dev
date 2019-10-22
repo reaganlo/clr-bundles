@@ -238,7 +238,6 @@ nss-altfiles
 include(devpkg-ntfs-3g)
 include(devpkg-open-iscsi)
 open-isns-dev
-openjdk
 openldap-dev
 opensm-dev
 include(openssl)

@@ -400,7 +400,6 @@ oath-toolkit
 include(devpkg-oath-toolkit)
 open-iscsi
 opencl-headers-dev
-openjdk
 openjdk11
 openjdk11-dev
 openldap-dev
