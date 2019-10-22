@@ -263,7 +263,7 @@ gettext-bin
 gettext-dev
 include(devpkg-gexiv2)
 include(devpkg-gfbgraph)
-ghostscript
+also-add(ghostscript)
 ghostscript-dev
 include(devpkg-gimp)
 include(git)

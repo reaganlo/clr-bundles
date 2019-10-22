@@ -298,7 +298,7 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gflags)
-ghostscript
+also-add(ghostscript)
 ghostscript-dev
 giflib-dev
 include(git)

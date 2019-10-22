@@ -34,7 +34,7 @@ bash-completion
 cups
 cups-filters
 cups-pk-helper
-ghostscript
+also-add(ghostscript)
 gutenprint
 
 #

@@ -214,7 +214,7 @@ include(devpkg-geocode-glib)
 gettext
 gettext-bin
 gettext-dev
-ghostscript
+also-add(ghostscript)
 ghostscript-dev
 include(git)
 include(gjs)

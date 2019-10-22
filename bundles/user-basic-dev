@@ -213,7 +213,7 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gflags)
-ghostscript
+also-add(ghostscript)
 ghostscript-dev
 include(git)
 include(devpkg-glew)

@@ -79,7 +79,7 @@ cups
 cups-filters
 cups-pk-helper
 dhcp
-ghostscript
+also-add(ghostscript)
 gutenprint
 gnome-online-accounts
 ModemManager

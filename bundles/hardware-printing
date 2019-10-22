@@ -8,6 +8,8 @@ include(libstdcpp)
 include(python3-basic)
 include(libX11client)
 
+also-add(ghostscript)
+
 cups
 cups-filters
 gutenprint

@@ -151,7 +151,7 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
-ghostscript
+also-add(ghostscript)
 ghostscript-dev
 include(git)
 include(devpkg-glew)
