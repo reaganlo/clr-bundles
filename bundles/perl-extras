@@ -37,6 +37,7 @@ perl-Audio-Scan
 perl-Audio-Wav
 perl-Authen-NTLM
 perl-Authen-SASL
+perl-B-COW
 perl-B-Hooks-EndOfScope
 perl-B-Hooks-OP-Check
 perl-B-Keywords
@@ -83,6 +84,7 @@ perl-Class-Factory-Util
 perl-Class-Inspector
 perl-Class-Load
 perl-Class-Load-XS
+perl-Class-Measure
 perl-Class-Method-Modifiers
 perl-Class-MethodMaker
 perl-Class-Mix
@@ -161,8 +163,11 @@ perl-Date-Manip
 perl-DateTime
 perl-DateTime-Format-Builder
 perl-DateTime-Format-DateParse
+perl-DateTime-Format-Flexible
+perl-DateTime-Format-ISO8601
 perl-DateTime-Format-Mail
 perl-DateTime-Format-MySQL
+perl-DateTime-Format-Natural
 perl-DateTime-Format-Pg
 perl-DateTime-Format-Strptime
 perl-DateTime-Format-W3CDTF
@@ -441,6 +446,7 @@ perl-Net-Daemon
 perl-Net-HTTP
 perl-Net-IDN-Encode
 perl-Net-INET6Glue
+perl-Net-IP
 perl-Net-Ident
 perl-Net-MAC
 perl-Net-MQTT
@@ -540,7 +546,6 @@ perl-Sort-Naturally
 perl-Sort-Versions
 perl-Specio
 perl-Spiffy
-perl-SQL-SplitStatement
 perl-Statistics-Basic
 perl-Statistics-CaseResampling
 perl-Stream-Buffered
