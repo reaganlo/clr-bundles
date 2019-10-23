@@ -518,6 +518,7 @@ pkgconfig(libyami)	devpkg-libyami
 pkgconfig(libzip)	devpkg-libzip
 pkgconfig(libzmq)	devpkg-libzmq
 pkgconfig(libzstd)	devpkg-zstd
+pkgconfig(lttng-ust)	devpkg-lttng-ust
 pkgconfig(lua)	devpkg-lua
 pkgconfig(mozjs-52)	devpkg-mozjs52
 pkgconfig(numa)	devpkg-numactl
