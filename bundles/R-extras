@@ -111,6 +111,7 @@ R-conting
 R-corpcor
 R-corrgram
 R-corrplot
+R-covr
 R-cowplot
 R-crayon
 R-crosstalk
@@ -121,6 +122,7 @@ R-Cubist
 R-curl
 R-CVST
 R-cvTools
+R-cyclocomp
 R-DAAG
 R-data.table
 R-date
@@ -144,6 +146,7 @@ R-deSolve
 R-devtools
 R-dfoptim
 R-dichromat
+R-diffobj
 R-diffusionMap
 R-digest
 R-dimRed
@@ -164,6 +167,7 @@ R-dplyr
 R-drc
 R-DRR
 R-DT
+R-dtplyr
 R-dtw
 R-dygraphs
 R-dynlm
@@ -203,6 +207,7 @@ R-fAsianOptions
 R-fAssets
 R-fastcluster
 R-fastICA
+R-fastmap
 R-fastmatch
 R-fauxpas
 R-fBasics
@@ -228,6 +233,9 @@ R-FMStable
 R-fMultivar
 R-FNN
 R-fNonlinear
+R-fontBitstreamVera
+R-fontLiberation
+R-fontquiver
 R-fOptions
 R-forcats
 R-foreach
@@ -239,8 +247,10 @@ R-fpc
 R-fracdiff
 R-fRegression
 R-fs
+R-fst
 R-fTrading
 R-fUnitRoots
+R-furrr
 R-futile.logger
 R-futile.options
 R-future
@@ -250,8 +260,9 @@ R-gbm
 R-gbRd
 R-gbutils
 R-gclus
-R-gdata
 R-g.data
+R-gdata
+R-gdtools
 R-geepack
 R-geiger
 R-GeneralizedHyperbolic
@@ -290,8 +301,10 @@ R-haven
 R-hdrcde
 R-here
 R-hexbin
+R-hexView
 R-highlight
 R-highr
+R-HistData
 R-Hmisc
 R-hms
 R-htmlTable
@@ -310,8 +323,8 @@ R-ICSNP
 R-igraph
 R-import
 R-ineq
-R-ini
 R-influenceR
+R-ini
 R-inline
 R-inum
 R-invgamma
@@ -356,6 +369,9 @@ R-LearnBayes
 R-lfe
 R-lhs
 R-libcoin
+R-lifecycle
+R-linprog
+R-lintr
 R-listenv
 R-listviewer
 R-lle
@@ -363,6 +379,7 @@ R-lme4
 R-lmerTest
 R-lmtest
 R-locfit
+R-logcondens
 R-logspline
 R-loo
 R-lpSolve
@@ -404,6 +421,7 @@ R-minpack.lm
 R-minqa
 R-mirt
 R-misc3d
+R-miscF
 R-miscTools
 R-mitools
 R-mixtools
@@ -427,6 +445,7 @@ R-multcompView
 R-multicool
 R-multiwayvcov
 R-munsell
+R-mvnfast
 R-mvnormtest
 R-mvoutlier
 R-mvtnorm
@@ -535,6 +554,8 @@ R-questionr
 R-qvcalc
 R-R2Cuba
 R-R2HTML
+R-R2jags
+R-R2WinBUGS
 R-R6
 R-RandomFields
 R-RandomFieldsUtils
@@ -560,7 +581,9 @@ R-RcppProgress
 R-RcppRoll
 R-RCurl
 R-Rdpack
+R-reactlog
 R-reactR
+R-readODS
 R-readr
 R-readstata13
 R-readxl
@@ -577,6 +600,8 @@ R-reprex
 R-reshape
 R-reshape2
 R-reticulate
+R-rex
+R-rgdal
 R-rgenoud
 R-rgeos
 R-rgl
@@ -591,6 +616,7 @@ R-RJSONIO
 R-rjstat
 R-rlang
 R-rmarkdown
+R-rmatio
 R-R.methodsS3
 R-Rmpfr
 R-Rmpi
@@ -623,7 +649,9 @@ R-RSQLite
 R-rstan
 R-rstanarm
 R-rstantools
+R-rstudio
 R-rstudioapi
+R-rstudio-server
 R-rsvg
 R-Rtsne
 R-RUnit
@@ -694,6 +722,7 @@ R-startupmsg
 R-statip
 R-statmod
 R-statnet.common
+R-stringdist
 R-stringi
 R-stringr
 R-strucchange
@@ -706,6 +735,7 @@ R-survey
 R-svUnit
 R-sys
 R-systemfit
+R-systemfonts
 R-tau
 R-taxize
 R-tclust
@@ -733,6 +763,7 @@ R-toOrdinal
 R-topicmodels
 R-TRAMPR
 R-treatSens
+R-treatSense
 R-tree
 R-triebeard
 R-trimcluster
@@ -750,12 +781,14 @@ R-urca
 R-urltools
 R-uroot
 R-usethis
+R-UsingR
 R-utf8
 R-uuid
 R-varImp
 R-vcd
 R-vcdExtra
 R-vcr
+R-vctrs
 R-vegan
 R-VGAM
 R-VGAMdata
@@ -778,6 +811,8 @@ R-worrms
 R-xfun
 R-XML
 R-xml2
+R-XML::Feed
+R-xmlparsedata
 R-xopen
 R-xtable
 R-xts
