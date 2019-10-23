@@ -97,7 +97,7 @@ gdbm-dev
 gettext
 gettext-bin
 gettext-dev
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 include(git)
 glib-bin

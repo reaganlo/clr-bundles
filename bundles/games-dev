@@ -198,7 +198,7 @@ include(devpkg-geoclue)
 gettext
 gettext-bin
 gettext-dev
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 include(git)
 include(gjs)
@@ -496,8 +496,6 @@ openal-soft-dev32
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
-openjdk11
-openjdk11-dev
 openldap-dev
 include(openssl)
 include(devpkg-openssl)

@@ -213,7 +213,7 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gflags)
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 include(git)
 include(devpkg-glew)
@@ -292,6 +292,7 @@ intltool-dev
 ipaddress
 ipaddress-python
 include(iproute2)
+ipset
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32

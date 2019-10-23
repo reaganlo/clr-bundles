@@ -214,7 +214,7 @@ include(devpkg-geocode-glib)
 gettext
 gettext-bin
 gettext-dev
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 include(git)
 include(gjs)
@@ -595,8 +595,6 @@ opencl-headers-dev
 openconnect-dev
 include(devpkg-opencv)
 openexr-dev
-openjdk11
-openjdk11-dev
 openldap-dev
 openssh
 include(openssl)

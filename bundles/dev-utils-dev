@@ -318,8 +318,6 @@ include(devpkg-numactl)
 onig-dev
 include(openblas)
 opencl-headers-dev
-openjdk11
-openjdk11-dev
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)

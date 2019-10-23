@@ -131,6 +131,7 @@ R-betareg
 R-bibtex
 R-biglm
 R-bindr
+R-bindrcpp
 R-bit
 R-bit64
 R-bitops
@@ -762,7 +763,7 @@ geos-dev
 gettext
 gettext-bin
 gettext-dev
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 giflib-dev
 include(git)

@@ -151,7 +151,7 @@ gdk-pixbuf-dev32
 gettext
 gettext-bin
 gettext-dev
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 include(git)
 include(devpkg-glew)
@@ -393,8 +393,6 @@ openal-soft-dev
 openal-soft-dev32
 include(devpkg-opencv)
 openexr-dev
-openjdk11
-openjdk11-dev
 openldap-dev
 include(openssl)
 include(devpkg-openssl)

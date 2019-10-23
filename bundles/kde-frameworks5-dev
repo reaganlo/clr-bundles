@@ -160,7 +160,7 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gflags)
-also-add(ghostscript)
+include(ghostscript)
 ghostscript-dev
 include(git)
 include(devpkg-glew)
