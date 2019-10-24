@@ -989,11 +989,10 @@ perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Slurp
-perl-Future
 perl-Guard
 perl-HTML-Parser
 perl-HTML-Tagset
-perl-HTTP-Cookies
+perl-HTTP-Cookies-perl
 perl-HTTP-Daemon
 perl-HTTP-Date
 perl-HTTP-Message
@@ -1022,7 +1021,7 @@ perl-Module-Runtime
 perl-Mozilla-CA
 perl-Net-Daemon
 perl-Net-HTTP
-perl-Net-SSLeay
+perl-Net-SSLeay-perl
 perl-POE-Test-Loops
 perl-Package-Stash
 perl-Params-Util
@@ -1032,7 +1031,6 @@ perl-Path-Tiny
 perl-Role-Tiny
 perl-Scope-Guard
 perl-Specio
-perl-Struct-Dumb
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
 perl-Sub-Info
@@ -1042,7 +1040,6 @@ perl-Test-Deep
 perl-Test-Fatal
 perl-Test-File
 perl-Test-File-ShareDir-Dist
-perl-Test-Identity
 perl-Test-Needs
 perl-Test-Output
 perl-Test-Pod
@@ -1062,7 +1059,7 @@ perl-WWW-RobotRules
 perl-XML-Parser
 perl-common-sense
 perl-data
-perl-libwww-perl
+perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pexpect
