@@ -11,6 +11,7 @@ include(libX11client)
 include(openldap)
 include(wpa_supplicant)
 
+libreswan
 linux-firmware-wifi
 ModemManager
 network-manager-applet
@@ -20,3 +21,4 @@ NetworkManager-openvpn
 NetworkManager-vpnc
 usb-modeswitch
 usb-modeswitch-data
+xl2tpd
