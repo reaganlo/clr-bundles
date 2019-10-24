@@ -649,7 +649,7 @@ R-RSQLite
 R-rstan
 R-rstanarm
 R-rstantools
-R-rstudio
+include(R-rstudio)
 R-rstudioapi
 R-rstudio-server
 R-rsvg

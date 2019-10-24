@@ -179,6 +179,8 @@ icu4c-dev32
 idna
 idna-python
 importlib_metadata
+intel-ipsec-mb
+intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
 ipaddress
@@ -299,6 +301,7 @@ more-itertools-python
 mpc-dev
 mpfr-dev
 msmtp
+nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
 ndg_httpsclient

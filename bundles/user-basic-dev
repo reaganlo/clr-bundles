@@ -287,6 +287,8 @@ idna-python
 imagesize
 importlib_metadata
 influxdb
+intel-ipsec-mb
+intel-ipsec-mb-dev
 include(intltool)
 intltool-dev
 ipaddress
@@ -474,6 +476,7 @@ msmtp
 mtdev-dev
 mtdev-dev32
 include(nasm)
+nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(devpkg-ndctl)
