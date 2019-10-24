@@ -593,7 +593,7 @@ perl-Module-Runtime
 perl-Mozilla-CA
 perl-Net-Daemon
 perl-Net-HTTP
-perl-Net-SSLeay-data
+perl-Net-SSLeay
 perl-POE-Test-Loops
 perl-Package-Stash
 perl-Params-Util
