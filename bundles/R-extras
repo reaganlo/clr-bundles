@@ -763,7 +763,6 @@ R-toOrdinal
 R-topicmodels
 R-TRAMPR
 R-treatSens
-R-treatSense
 R-tree
 R-triebeard
 R-trimcluster
@@ -781,7 +780,6 @@ R-urca
 R-urltools
 R-uroot
 R-usethis
-R-UsingR
 R-utf8
 R-uuid
 R-varImp
@@ -811,7 +809,6 @@ R-worrms
 R-xfun
 R-XML
 R-xml2
-R-XML::Feed
 R-xmlparsedata
 R-xopen
 R-xtable
