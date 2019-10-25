@@ -365,3 +365,4 @@ psensor # A graphical hardware temperature monitor for Linux
 sysprof # Kernel based performance profiler
 qalculate-gtk # Multi-purpose cross-platform desktop calculator.
 ghostscript # Loads and saves PNG files
+eid-mw # The middleware, viewer and Firefox extension for the Belgian electronic identity card (Belgian eID) 
