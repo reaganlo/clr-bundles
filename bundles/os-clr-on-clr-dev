@@ -334,10 +334,6 @@ gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
 go
-go-github.com-BurntSushi-toml
-go-github.com-inconshreveable-mousetrap
-go-github.com-spf13-cobra
-go-github.com-spf13-pflag
 gobject-introspection
 include(devpkg-gobject-introspection)
 golang-github-cpuguy83-go-md2man
@@ -989,6 +985,7 @@ perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
 perl-File-Slurp
+perl-Future
 perl-Guard
 perl-HTML-Parser
 perl-HTML-Tagset
@@ -1031,6 +1028,7 @@ perl-Path-Tiny
 perl-Role-Tiny
 perl-Scope-Guard
 perl-Specio
+perl-Struct-Dumb
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
 perl-Sub-Info
@@ -1040,6 +1038,7 @@ perl-Test-Deep
 perl-Test-Fatal
 perl-Test-File
 perl-Test-File-ShareDir-Dist
+perl-Test-Identity
 perl-Test-Needs
 perl-Test-Output
 perl-Test-Pod
