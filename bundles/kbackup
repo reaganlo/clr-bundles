@@ -1,9 +1,9 @@
-# [TITLE]: kcachegrind
-# [DESCRIPTION]: Frontend visualization tool for Valgrind's cachegrind & callggrind.
+# [TITLE]: kbackup
+# [DESCRIPTION]: A program that lets you back up any directories or files
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(kde-frameworks5)
 include(qt-core)
@@ -15,4 +15,4 @@ include(libstdcpp)
 # end of custom additions
 
 # main package
-kcachegrind
+kbackup

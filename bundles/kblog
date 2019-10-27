@@ -1,13 +1,12 @@
-# [TITLE]: kcachegrind
-# [DESCRIPTION]: Frontend visualization tool for Valgrind's cachegrind & callggrind.
+# [TITLE]: kblog
+# [DESCRIPTION]: A blogging library for KDE
 # [STATUS]: Active
 # [CAPABILITIES]:
-# [TAGS]: Developer Tools
-# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+# [TAGS]:
+# [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
 
 include(kde-frameworks5)
 include(qt-core)
-include(qt-basic)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
@@ -15,4 +14,4 @@ include(libstdcpp)
 # end of custom additions
 
 # main package
-kcachegrind
+kblog

@@ -365,4 +365,30 @@ psensor # A graphical hardware temperature monitor for Linux
 sysprof # Kernel based performance profiler
 qalculate-gtk # Multi-purpose cross-platform desktop calculator.
 ghostscript # Loads and saves PNG files
-eid-mw # The middleware, viewer and Firefox extension for the Belgian electronic identity card (Belgian eID) 
+eid-mw # The middleware, viewer and Firefox extension for the Belgian electronic identity card (Belgian eID)
+kgeography # Geography Trainer
+kcachegrind # Frontend visualization tool for Valgrind's cachegrind & callggrind.
+keditbookmarks # Bookmark Organizer and Editor
+kfloppy # Floppy Formatter
+analitza # A library to add mathematical features to your program
+artikulate # Improve your pronunciation by listening to native speakers
+dragon # A multimedia player where the focus is on simplicity, instead of features
+eventviews # Library for creating events
+filelight # View disk usage information
+kapidox # Frameworks API Documentation Tools
+kbackup # A program that lets you back up any directories or files
+kblog # A blogging library for KDE
+kcharselect # Character Selector
+kcolorchooser # Color Chooser
+kcron # Configure and schedule tasks
+kdebugsettings # An application to enable/disable qCDebug
+kdf # View Disk Usage
+kdiagram # No detailed summary available
+kfind # Find Files/Folders
+kitinerary # Data model and extraction system for travel reservation information
+kmediaplayer # Plugin interface for media player features
+kmousetool # Clicks the mouse for you, reducing the effects of RSI
+kmplot # Mathematical Function Plotter
+knotes # Popup notes
+kolourpaint # Paint Program
+ksystemlog # System log viewer tool 
