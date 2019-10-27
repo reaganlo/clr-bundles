@@ -17,7 +17,7 @@ include(mixer)
 include(network-basic)
 include(network-basic-dev)
 include(nodejs-basic)
-include(openssh-server)
+also-add(openssh-server)
 include(os-core)
 include(os-core-dev)
 include(os-core-update-dev)
@@ -33,8 +33,8 @@ Mako-python
 abireport
 include(cabextract)
 configobj
-include(diffoscope)
-include(dnf)
+also-add(diffoscope)
+also-add(dnf)
 efitools
 include(devpkg-fribidi)
 include(devpkg-gdk-pixbuf)
@@ -43,7 +43,7 @@ include(devpkg-gtk3)
 GitPython
 include(devpkg-gtk)
 libabigail
-include(libarchive)
+also-add(libarchive)
 libarchive-c
 include(devpkg-libarchive)
 libdeps
