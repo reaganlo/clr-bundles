@@ -6,22 +6,21 @@
 # [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
 include(alsa-utils)
 include(cryptography)
-include(darktable)
-include(darktable)
-include(eog)
-include(firefox)
-include(flatpak)
+also-add(darktable)
+also-add(eog)
+also-add(firefox)
+also-add(flatpak)
 include(fonts-basic)
 include(graphviz)
-include(gvim)
+also-add(gvim)
 include(openssl)
 include(perl-basic)
 include(python3-basic)
-include(thunderbird)
-include(thunderbird)
+also-add(thunderbird)
+also-add(thunderbird)
 include(wpa_supplicant)
 include(x11-server)
-include(emacs-x11)
+also-add(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
 
@@ -42,7 +41,7 @@ faba-icon-theme
 fontconfig
 garcon
 gdk-pixbuf
-include(geany)
+also-add(geany)
 geany-plugins
 glib-networking-lib
 gnome-icon-theme
@@ -51,7 +50,7 @@ gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine
 gtk3
-include(hexchat)
+also-add(hexchat)
 hicolor-icon-theme
 iceauth
 intel-gmmlib
@@ -77,10 +76,10 @@ pulseaudio-bin
 shared-mime-info
 systemd-extras
 thunar-volman
-include(tigervnc)
+also-add(tigervnc)
 vim-data
-include(virt-viewer)
-include(x11vnc)
+also-add(virt-viewer)
+also-add(x11vnc)
 xclip
 xcursor-themes
 xdg-user-dirs
