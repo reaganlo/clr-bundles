@@ -13,11 +13,11 @@ include(qt-basic)
 gcompris-qt
 kanagram
 kbruch
-kgeography
+include(kgeography)
 khangman
 kig
 klettres
-kmplot
+include(kmplot)
 kstars
 ktuberling
 kturtle

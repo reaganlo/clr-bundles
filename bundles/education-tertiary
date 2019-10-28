@@ -13,6 +13,6 @@ include(R-basic)
 
 cantor
 fritzing-app
-kmplot
+include(kmplot)
 kturtle
 marble

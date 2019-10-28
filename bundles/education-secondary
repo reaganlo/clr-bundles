@@ -12,9 +12,9 @@ include(qt-basic)
 
 fritzing-app
 kbruch
-kgeography
+include(kgeography)
 kig
-kmplot
+include(kmplot)
 kstars
 ktuberling
 kturtle

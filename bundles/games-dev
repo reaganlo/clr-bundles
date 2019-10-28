@@ -143,6 +143,7 @@ dnsmasq
 include(docbook-utils)
 docbook-xml
 docopt-python
+include(docutils)
 include(doxygen)
 e2fsprogs
 e2fsprogs-data
@@ -385,6 +386,7 @@ libnl-dev32
 include(devpkg-libnotify)
 include(devpkg-libogg)
 libogg-dev32
+include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
@@ -510,6 +512,7 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
 include(devpkg-pacrunner)
+include(pandoc)
 include(devpkg-pango)
 pango-dev32
 include(patch)
@@ -656,6 +659,7 @@ qemu
 include(devpkg-qtbase)
 qtbase-extras
 include(devpkg-qtdeclarative)
+include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 requests
