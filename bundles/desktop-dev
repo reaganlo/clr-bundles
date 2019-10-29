@@ -568,6 +568,7 @@ libsndfile-dev32
 include(devpkg-libsoup)
 libsoup-dev32
 include(devpkg-libspectre)
+libspiro-dev
 libsrtp
 include(devpkg-libsrtp)
 include(devpkg-libssh2)
