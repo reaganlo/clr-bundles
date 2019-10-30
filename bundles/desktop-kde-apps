@@ -71,7 +71,7 @@ also-add(kdiagram)
 kdialog
 also-add(keditbookmarks)
 also-add(kfind)
-also_add(kfloppy)
+also-add(kfloppy)
 also-add(kgeography)
 kget
 khelpcenter
