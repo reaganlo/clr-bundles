@@ -1,0 +1,15 @@
+# [TITLE]: lldb
+# [DESCRIPTION]: LLVM's software debugger
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+
+include(libstdcpp)
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+lldb

@@ -391,4 +391,5 @@ kmousetool # Clicks the mouse for you, reducing the effects of RSI
 kmplot # Mathematical Function Plotter
 knotes # Popup notes
 kolourpaint # Paint Program
-ksystemlog # System log viewer tool 
+ksystemlog # System log viewer tool
+lldb # LLVM's software debugger
