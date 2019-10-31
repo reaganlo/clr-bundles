@@ -52,7 +52,6 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-maven
 appdirs
-appstream
 appstream-glib
 include(devpkg-appstream-glib)
 include(devpkg-apr)
@@ -143,7 +142,6 @@ include(devpkg-colord)
 colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
-compat-gmime-26-dev
 coreutils
 coverage
 cppcheck
@@ -164,7 +162,6 @@ datefudge
 db
 db-dev
 dbus
-dbus-bin
 dbus-broker
 include(devpkg-dbus)
 dbus-dev32
@@ -200,7 +197,6 @@ elfutils-dev32
 emacs
 include(devpkg-enchant)
 eog-dev
-evolution-data-server-data
 include(devpkg-evolution-data-server)
 include(devpkg-evolution)
 exempi-dev
@@ -214,12 +210,10 @@ file-dev
 include(findutils)
 include(devpkg-flac)
 flac-dev32
-include(flatpak)
 include(devpkg-flatpak)
 include(flex)
 flex-dev
 fltk-dev
-folks-dev
 include(devpkg-font-util)
 font-util-dev32
 fontconfig
@@ -262,7 +256,6 @@ gettext
 gettext-bin
 gettext-dev
 include(devpkg-gexiv2)
-include(devpkg-gfbgraph)
 include(ghostscript)
 ghostscript-dev
 include(devpkg-gimp)
@@ -286,7 +279,6 @@ glibc-utils
 include(devpkg-glibmm)
 include(devpkg-glu)
 glu-dev32
-include(devpkg-gmime)
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -314,7 +306,6 @@ gnu-efi-staticdev
 gnupg
 include(devpkg-gnutls)
 gnutls-dev32
-go
 gobject-introspection
 gobject-introspection-bin
 gobject-introspection-data
@@ -331,10 +322,7 @@ graphite-dev32
 include(graphviz)
 graphviz-extras
 grep
-grilo
 include(devpkg-grilo)
-grilo-plugins
-include(devpkg-grilo-plugins)
 groff
 gsettings-desktop-schemas
 include(devpkg-gsettings-desktop-schemas)
@@ -343,7 +331,6 @@ include(devpkg-gsound)
 include(devpkg-gspell)
 include(devpkg-gst-plugins-bad)
 include(devpkg-gst-plugins-base)
-gst-plugins-good
 include(devpkg-gstreamer)
 gstreamer-dev32
 gtk+
@@ -357,8 +344,6 @@ include(devpkg-gtk3)
 gtk3-dev32
 gtkmm2-dev
 include(devpkg-gtkmm3)
-gtksourceview
-gtksourceview-dev
 include(devpkg-gtkspell3)
 guile
 include(devpkg-gutenprint)
@@ -514,10 +499,7 @@ include(devpkg-libinput)
 include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
-libksba-dev
 libmbim-dev
-libmediaart
-include(devpkg-libmediaart)
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
@@ -567,7 +549,6 @@ libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
 libsoup-dev32
-include(devpkg-libspectre)
 libspiro-dev
 libsrtp
 include(devpkg-libsrtp)
@@ -674,7 +655,6 @@ include(devpkg-nghttp2)
 nghttp2-dev32
 nose
 not-ffmpeg-dev
-npth-dev
 include(devpkg-nspr)
 nss-altfiles
 include(devpkg-nss)
@@ -703,7 +683,6 @@ include(devpkg-opus)
 orc
 include(devpkg-orc)
 orc-dev32
-ostree
 include(devpkg-ostree)
 include(p11-kit)
 include(devpkg-p11-kit)
@@ -723,8 +702,6 @@ include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-pcsc-lite
-pcsc-lite-dev
 perl
 perl-AnyEvent
 perl-App-cpanminus
@@ -736,25 +713,30 @@ perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Inspector
 perl-Class-Tiny
+perl-Config-INI-Reader-Ordered-perl
+perl-Config-INI-perl
 perl-Crypt-SSLeay
+perl-Data-OptList
 perl-DateTime
 perl-DateTime-Locale
 perl-DateTime-TimeZone
+perl-Devel-LexAlias-perl
 perl-Devel-StackTrace
 perl-Digest-CRC
 perl-Digest-HMAC
 perl-Dist-CheckConflicts
 perl-Encode-Locale
-perl-Error
 perl-Eval-Closure
 perl-Exception-Class
 perl-Exporter-Tiny
 perl-ExtUtils-Depends
 perl-ExtUtils-PkgConfig
 perl-File-Copy-Recursive
+perl-File-HomeDir
 perl-File-Listing
 perl-File-ShareDir
 perl-File-ShareDir-Install
+perl-File-Which
 perl-Future
 perl-Guard
 perl-HTML-Parser
@@ -778,6 +760,7 @@ perl-LWP-Protocol-https
 perl-List-MoreUtils
 perl-MRO-Compat
 perl-Math-BigInt-GMP
+perl-Mixin-Linewise-perl
 perl-Module-Build
 perl-Module-Implementation
 perl-Module-Runtime
@@ -787,16 +770,20 @@ perl-Net-HTTP
 perl-Net-SSLeay-perl
 perl-POE-Test-Loops
 perl-Package-Stash
+perl-PadWalker
 perl-Params-Util
 perl-Params-ValidationCompiler
 perl-Path-Class
 perl-Path-Tiny
+perl-PerlIO-utf8_strict
 perl-Role-Tiny
 perl-Specio
 perl-Struct-Dumb
+perl-Sub-Exporter
 perl-Sub-Exporter-Progressive
 perl-Sub-Identify
 perl-Sub-Info
+perl-Sub-Install
 perl-Sub-Quote
 perl-Test-Fatal
 perl-Test-File-ShareDir-Dist
@@ -825,7 +812,6 @@ perl-namespace-clean
 pexpect
 php
 pigz
-pinentry
 pip
 include(devpkg-pipewire)
 include(devpkg-pixman)
@@ -863,7 +849,6 @@ pycparser-python
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
-pylint
 pyparsing
 pytest
 pytest-python
@@ -950,10 +935,8 @@ tevent-python3
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
-tk
 tk-dev
 tornado
-totem-pl-parser-dev
 tox
 tpm2-tss-dev
 tracker-dev
@@ -996,7 +979,6 @@ include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-desktop-portal
 include(devpkg-xdg-desktop-portal)
-xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-utils
 xf86-input-libinput
@@ -1027,10 +1009,8 @@ yajl-dev
 yaml-dev
 include(yasm)
 yelp-dev
-yelp-tools-dev
 yelp-xsl
 yelp-xsl-dev
-ytnef-dev
 include(zenity)
 zlib
 include(devpkg-zlib)
