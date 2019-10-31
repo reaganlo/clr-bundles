@@ -51,6 +51,7 @@ ca-certs
 check
 check-dev
 check-dev32
+clr-hardware-files
 clr-rpm-config
 cmake
 coreutils
@@ -236,6 +237,7 @@ patchelf
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 perl-AnyEvent
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
@@ -375,7 +377,6 @@ include(texinfo)
 thin-provisioning-tools
 include(tzdata)
 include(unzip)
-usbutils-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

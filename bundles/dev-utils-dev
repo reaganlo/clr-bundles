@@ -27,7 +27,6 @@ acl-dev32
 include(devpkg-alsa-lib)
 appdirs
 asciidoc
-asn1crypto
 asn1crypto-python
 astroid
 atomicwrites-python

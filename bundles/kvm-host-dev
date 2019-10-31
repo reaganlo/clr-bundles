@@ -420,6 +420,7 @@ patchelf
 pbr
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 pecan
 perl
 perl-Digest-CRC

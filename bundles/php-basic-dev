@@ -238,6 +238,7 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 perl-IPC-Run
 perl-Test-Simple
 perl-XML-Parser

@@ -56,7 +56,6 @@ appstream-glib
 include(devpkg-appstream-glib)
 include(devpkg-apr)
 asciidoc
-asn1crypto
 asn1crypto-python
 include(aspell)
 aspell-dev
@@ -129,6 +128,7 @@ chrpath
 clear-font
 clr-bundle-icons
 clr-bundle-screenshots
+clr-hardware-files
 clr-rpm-config
 include(devpkg-clutter)
 include(devpkg-clutter-gst)

@@ -19,7 +19,6 @@ acl-dev32
 include(acpica-unix2)
 acrn-hypervisor-dev
 asciidoc
-asn1crypto
 asn1crypto-python
 include(devpkg-attr)
 attr-dev32
@@ -218,6 +217,7 @@ include(patch)
 patchelf
 include(devpkg-pcre)
 pcre-dev32
+include(devpkg-pcre2)
 perl-Test-Simple
 perl-XML-Parser
 pesign

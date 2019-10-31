@@ -50,7 +50,6 @@ apache-maven
 appdirs
 include(devpkg-apr)
 asciidoc
-asn1crypto
 asn1crypto-python
 include(aspell)
 astroid
@@ -118,6 +117,7 @@ check-dev
 check-dev32
 cheroot
 clear-font
+clr-hardware-files
 clr-rpm-config
 cmake
 cmd2
