@@ -17,6 +17,7 @@ include(libglib)
 
 also-add(aspell)
 aspell-en
+autossh
 bash
 bashdb
 bzip2
