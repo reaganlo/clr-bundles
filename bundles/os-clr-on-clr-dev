@@ -964,6 +964,7 @@ perl-Data-OptList
 perl-DateTime
 perl-DateTime-Locale
 perl-DateTime-TimeZone
+perl-Devel-Caller-perl
 perl-Devel-LexAlias-perl
 perl-Devel-StackTrace
 perl-Digest-CRC
@@ -1039,8 +1040,10 @@ perl-Sub-Identify
 perl-Sub-Info
 perl-Sub-Install
 perl-Sub-Quote
+perl-Sub-Uplevel
 perl-Term-Table
 perl-Test-Deep
+perl-Test-Exception
 perl-Test-Fatal
 perl-Test-File
 perl-Test-File-ShareDir-Dist

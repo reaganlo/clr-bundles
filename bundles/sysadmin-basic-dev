@@ -48,6 +48,7 @@ buildreq-qmake
 bzip2
 include(devpkg-bzip2)
 ca-certs
+certifi
 check
 check-dev
 check-dev32
@@ -60,6 +61,7 @@ include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)
 datefudge
+db
 db-dev
 include(devpkg-dbus)
 dbus-dev32
@@ -342,11 +344,13 @@ perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
 pigz
+pip
 pkg-config
 pkg-config-dev
 polkit-dev
 include(devpkg-popt)
 include(procps-ng)
+procps-ng-bin
 protobuf-dev
 python3
 python3-core
@@ -364,6 +368,8 @@ shadow-dev
 shared-mime-info
 six
 slang-dev
+sqlite-autoconf
+include(devpkg-sqlite-autoconf)
 include(strace)
 swig
 systemd-bin
@@ -373,8 +379,10 @@ systemd-extras
 systemd-lib
 tar
 tcl
+tcl-dev
 include(texinfo)
 thin-provisioning-tools
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux
