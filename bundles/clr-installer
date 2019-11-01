@@ -7,14 +7,14 @@
 include(curl)
 include(iproute2)
 include(kbd)
-include(less)
 include(libstdcpp)
 include(linux-firmware-extras)
 include(linux-firmware-wifi)
-include(glibc-locale)
 include(openssh-server)
-include(tzdata)
 include(wpa_supplicant)
+
+also-add(glibc-locale)
+also-add(less)
 
 LVM2
 LVM2-extras
@@ -27,6 +27,7 @@ cryptsetup-config
 cryptsetup-lib
 dosfstools-bin
 e2fsprogs-extras
+glibc-utils
 gptfdisk-bin
 iputils
 include(jq)
@@ -35,5 +36,6 @@ parted-bin
 qemu-extras
 squashfs-tools-bin
 syslinux-data
+tzdata-minimal
 xfsprogs-bin
 xorriso-bin
