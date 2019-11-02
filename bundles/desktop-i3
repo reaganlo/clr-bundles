@@ -5,6 +5,7 @@
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(x11-server)
+also-add(sxiv)
 dmenu
 include(feh)
 i3

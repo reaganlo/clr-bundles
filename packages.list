@@ -394,3 +394,4 @@ kolourpaint # Paint Program
 ksystemlog # System log viewer tool
 lldb # LLVM's software debugger
 nethogs # Small net top tool for grouping bandwidth use per process
+sxiv # Minimal image viewer
