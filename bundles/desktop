@@ -43,6 +43,7 @@ gtk+
 gtk3
 ibus
 ibus-libpinyin
+ibus-skk
 ibus-unikey
 ibus-table
 ibus-typing-booster
