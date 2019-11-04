@@ -25,6 +25,7 @@ include(devpkg-NetworkManager)
 Pillow
 PySocks
 PyYAML
+Pygments
 include(devpkg-SDL)
 SDL-dev32
 include(devpkg-SDL2)
@@ -103,6 +104,7 @@ cffi-python
 chardet
 check-dev
 check-dev32
+check-manifest
 clear-font
 clr-rpm-config
 include(devpkg-clutter)
@@ -281,6 +283,7 @@ iso8601
 isort
 itstool
 include(devpkg-jansson)
+jarn.viewdoc
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
@@ -443,6 +446,7 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 logilab-common
 lxml
@@ -490,6 +494,7 @@ nss-altfiles
 include(devpkg-nss)
 nss-lib32
 octave-dev
+olefile
 onig-dev
 openal-soft-dev
 openal-soft-dev32
@@ -648,12 +653,14 @@ pyOpenSSL
 pyasn1
 pycairo
 pycairo-dev
+pycodestyle
 pycparser
 pycparser-python
 pyflakes
 include(pygobject)
 pylint
 pyparsing
+pyroma
 pytest
 pytest-python
 pytest-runner
@@ -769,4 +776,5 @@ include(yasm)
 zipp
 include(devpkg-zlib)
 zlib-dev32
+zope.event
 include(devpkg-zstd)
