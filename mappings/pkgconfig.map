@@ -9,7 +9,6 @@ pkgconfig(libffi)	devpkg-libffi
 pkgconfig(audit)	devpkg-audit
 pkgconfig(bigreqsproto)	devpkg-xorgproto
 pkgconfig(blkid)	devpkg-util-linux
-pkgconfig(uuid)	devpkg-util-linux
 pkgconfig(bluez)	devpkg-bluez
 pkgconfig(cairo)	devpkg-cairo
 pkgconfig(pixman-1)	devpkg-pixman
@@ -19,6 +18,7 @@ pkgconfig(zlib)	devpkg-zlib
 pkgconfig(bzip2)	devpkg-bzip2
 pkgconfig(harfbuzz)	devpkg-harfbuzz
 pkgconfig(graphite2)	devpkg-graphite
+pkgconfig(uuid)	devpkg-util-linux
 pkgconfig(expat)	devpkg-expat
 pkgconfig(egl)	devpkg-mesa
 pkgconfig(x11)	devpkg-libX11
