@@ -13,6 +13,7 @@ include(libglib)
 dapl
 libvma
 mstflint
+opa-fm
 opa-psm2
 opensm
 perftest
