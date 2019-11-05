@@ -544,6 +544,7 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
 libsigc++-dev
+libskk-dev
 include(devpkg-libsmbios)
 libsndfile-dev
 libsndfile-dev32

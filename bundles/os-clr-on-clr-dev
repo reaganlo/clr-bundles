@@ -209,6 +209,7 @@ dejagnu
 desktop-file-utils
 dhcp
 include(diffutils)
+distro
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -1128,6 +1129,7 @@ pyflakes
 include(pygobject)
 pylint
 pyparsing
+pyroute2
 pytest
 pytest-python
 pytest-runner

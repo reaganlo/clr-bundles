@@ -226,6 +226,7 @@ nss-altfiles
 include(devpkg-numactl)
 onig-dev
 openldap-dev
+openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
