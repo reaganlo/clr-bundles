@@ -497,6 +497,7 @@ include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
 optipng
+optipng-bin
 include(devpkg-opus)
 orc
 include(devpkg-orc)
