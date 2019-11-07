@@ -396,3 +396,4 @@ lldb # LLVM's software debugger
 nethogs # Small net top tool for grouping bandwidth use per process
 sxiv # Minimal image viewer
 obs-studio # OBS Studio Library
+ParaView # VTK-based Data Analysis and Visualization Application 
