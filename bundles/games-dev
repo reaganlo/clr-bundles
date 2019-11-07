@@ -446,7 +446,6 @@ include(devpkg-libxslt)
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 logilab-common
 lxml
@@ -462,6 +461,7 @@ mingw-gcc
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
+mod_perl-perl
 more-itertools
 more-itertools-python
 include(devpkg-mozjs60)

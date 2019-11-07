@@ -449,7 +449,6 @@ libxslt-bin
 include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 logilab-common
@@ -468,6 +467,7 @@ mesa-dev32
 meson
 mingw-gcc
 mock
+mod_perl-perl
 more-itertools
 more-itertools-python
 include(devpkg-mozjs60)

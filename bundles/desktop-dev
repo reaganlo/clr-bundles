@@ -595,7 +595,6 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -619,6 +618,7 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
+mod_perl-perl
 more-itertools-python
 mozjs60
 include(devpkg-mozjs60)

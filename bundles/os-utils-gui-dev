@@ -446,7 +446,6 @@ include(devpkg-libxslt)
 links
 linux-libc-headers
 include(llvm)
-include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -463,6 +462,7 @@ mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
+mod_perl-perl
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
