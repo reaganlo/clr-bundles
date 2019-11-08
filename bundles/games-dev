@@ -82,6 +82,7 @@ include(devpkg-bluez)
 include(devpkg-boost)
 include(devpkg-brotli)
 brotlipy
+bubblewrap
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -758,6 +759,7 @@ xauth
 xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
+xdg-dbus-proxy
 xdg-utils
 include(devpkg-xkeyboard-config)
 xmlto

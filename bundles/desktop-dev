@@ -979,6 +979,7 @@ xcb-proto
 include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xcursorgen
+xdg-dbus-proxy
 xdg-desktop-portal
 include(devpkg-xdg-desktop-portal)
 xdg-user-dirs

@@ -59,6 +59,7 @@ bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
 include(devpkg-brotli)
+bubblewrap
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -736,6 +737,7 @@ xauth
 xcb-proto
 include(devpkg-xcb-proto)
 xcursorgen
+xdg-dbus-proxy
 xdg-utils
 xf86-input-evdev-dev
 xf86-input-libinput
