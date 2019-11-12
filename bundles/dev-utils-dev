@@ -29,7 +29,6 @@ appdirs
 asciidoc
 asn1crypto-python
 astroid
-atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs-python
@@ -297,7 +296,6 @@ mingw-gcc
 mock
 mod_perl-perl
 more-itertools
-more-itertools-python
 mpc-dev
 mpfr-dev
 msmtp

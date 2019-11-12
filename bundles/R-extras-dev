@@ -444,6 +444,7 @@ R-polycor
 R-polynom
 R-prabclus
 R-pracma
+R-prais
 R-praise
 R-prefmod
 R-prettyunits
@@ -570,6 +571,7 @@ R-spdep
 R-spelling
 R-spls
 R-stabledist
+R-stargazer
 R-startupmsg
 R-statmod
 R-statnet.common
@@ -626,6 +628,7 @@ R-whisker
 R-whoami
 R-wikitaxa
 R-withr
+R-wooldridge
 R-worrms
 R-xfun
 R-xml2
