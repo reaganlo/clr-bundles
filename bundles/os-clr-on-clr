@@ -74,7 +74,7 @@ toml
 python-zeep
 requests-ntlm
 rpm
-rpm-common
+rpm-bin
 sbsigntools
 include(scons)
 six
