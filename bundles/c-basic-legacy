@@ -11,7 +11,6 @@ automake
 automake-dev
 include(binutils)
 binutils-dev
-binutils-doc
 binutils-locales
 include(bison)
 check
