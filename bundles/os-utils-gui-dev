@@ -522,6 +522,7 @@ perl
 perl-AnyEvent
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
+perl-BDB
 perl-Business-ISBN-Data
 perl-CPAN-Meta-Check
 perl-Canary-Stability
@@ -611,6 +612,7 @@ perl-Test-Simple
 perl-Test-Taint
 perl-Test-Warnings
 perl-Test2-Suite
+perl-TimeDate
 perl-Try-Tiny
 perl-URI
 perl-Variable-Magic

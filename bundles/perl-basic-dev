@@ -192,6 +192,7 @@ include(devpkg-pcre2)
 perl-AnyEvent
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
+perl-BDB
 perl-Business-ISBN-Data
 perl-CPAN-Meta-Check
 perl-Canary-Stability
@@ -299,6 +300,7 @@ perl-Test-Simple-dev
 perl-Test-Taint
 perl-Test-Warnings
 perl-Test2-Suite
+perl-TimeDate
 perl-Try-Tiny
 perl-Try-Tiny-dev
 perl-URI

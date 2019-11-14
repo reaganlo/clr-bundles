@@ -334,7 +334,6 @@ include(devpkg-gnutls)
 go
 gobject-introspection
 include(devpkg-gobject-introspection)
-golang-github-cpuguy83-go-md2man
 google-api-python-client
 google-auth
 google-auth-httplib2
@@ -533,7 +532,6 @@ libgfortran-compat-soname4
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
-libgpg-error-staticdev
 include(devpkg-libgudev)
 libgudev-dev32
 include(devpkg-libgusb)
@@ -950,6 +948,7 @@ perl
 perl-AnyEvent
 perl-App-cpanminus
 perl-B-Hooks-EndOfScope
+perl-BDB
 perl-Business-ISBN-Data
 perl-CPAN-Meta-Check
 perl-Canary-Stability
@@ -1058,6 +1057,7 @@ perl-Test-Simple
 perl-Test-Taint
 perl-Test-Warnings
 perl-Test2-Suite
+perl-TimeDate
 perl-Try-Tiny
 perl-URI
 perl-URI-Encode
