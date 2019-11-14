@@ -396,4 +396,5 @@ lldb # LLVM's software debugger
 nethogs # Small net top tool for grouping bandwidth use per process
 sxiv # Minimal image viewer
 obs-studio # OBS Studio Library
-ParaView # VTK-based Data Analysis and Visualization Application 
+ParaView # VTK-based Data Analysis and Visualization Application
+tesseract # An OCR Engine that was developed at HP Labs between 1985 and 1995... and now at Google.
