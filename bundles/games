@@ -95,6 +95,7 @@ libtheora-lib32
 libudev0-shim-lib
 libudev0-shim-lib32
 libusb-lib32
+libva-lib32
 libvdpau-lib32
 libvorbis-lib32
 libwebp-lib32
