@@ -239,8 +239,8 @@ perl-HTML-Tagset-dev
 perl-HTTP-Cookies-dev
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon
-perl-HTTP-Date
 perl-HTTP-Date-dev
+perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Message-dev
 perl-HTTP-Negotiate

@@ -1136,7 +1136,7 @@ perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon
-perl-HTTP-Date
+perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-IO-AIO

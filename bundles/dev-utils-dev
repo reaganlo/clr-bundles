@@ -319,6 +319,7 @@ include(devpkg-numactl)
 onig-dev
 include(openblas)
 opencl-headers-dev
+openjdk
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)
@@ -376,7 +377,7 @@ perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon
-perl-HTTP-Date
+perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-IO-AIO
@@ -538,6 +539,7 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
+vala
 include(valgrind)
 valgrind-dev
 vim

@@ -249,7 +249,6 @@ perl-BDB
 perl-Business-ISBN-Data
 perl-CPAN-Meta-Check
 perl-Canary-Stability
-perl-Capture-Tiny
 perl-Class-Data-Inheritable
 perl-Class-Inspector
 perl-Class-Tiny
@@ -282,7 +281,7 @@ perl-HTML-Parser
 perl-HTML-Tagset
 perl-HTTP-Cookies-perl
 perl-HTTP-Daemon
-perl-HTTP-Date
+perl-HTTP-Date-perl
 perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-IO-AIO
