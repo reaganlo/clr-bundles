@@ -702,8 +702,7 @@ requests
 include(devpkg-rest)
 rest-dev32
 rpcbind
-rpm-build
-rpm-common
+rpm-bin
 ruby
 sassc
 scikit-learn

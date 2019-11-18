@@ -878,7 +878,6 @@ requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
-rpm-build
 rpm-dev
 rtkit
 rtmpdump-dev

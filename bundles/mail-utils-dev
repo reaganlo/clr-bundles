@@ -226,7 +226,6 @@ qtbase-extras
 include(devpkg-readline)
 readline-dev32
 requests
-rpm-build
 ruby
 sed
 shadow

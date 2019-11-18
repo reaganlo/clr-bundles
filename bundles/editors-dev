@@ -45,7 +45,6 @@ pigz
 pkg-config
 pkg-config-dev
 python3-core
-rpm-build
 sed
 shadow
 slang-dev

@@ -481,8 +481,7 @@ include(devpkg-qtbase)
 include(devpkg-readline)
 readline-dev32
 requests
-rpm-build
-rpm-common
+rpm-bin
 ruby
 scdoc-dev
 sed

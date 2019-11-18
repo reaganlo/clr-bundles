@@ -258,7 +258,6 @@ python3-dev
 re2c
 include(devpkg-readline)
 readline-dev32
-rpm-build
 ruby
 sed
 shadow

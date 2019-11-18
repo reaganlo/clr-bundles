@@ -662,7 +662,6 @@ readline-dev32
 requests
 include(devpkg-rest)
 rest-dev32
-rpm-build
 rtkit
 ruby
 rust-std32

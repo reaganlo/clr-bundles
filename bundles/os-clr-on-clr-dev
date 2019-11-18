@@ -202,6 +202,7 @@ include(devpkg-dbus-glib)
 dbus-glib-dev32
 dbus-python
 dbus-python-dev
+debugedit
 defusedxml
 dejagnu
 desktop-file-utils
@@ -1192,8 +1193,7 @@ requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
 rpcbind
-rpm-build
-rpm-common
+rpm-bin
 rpm-dev
 rtkit
 ruby

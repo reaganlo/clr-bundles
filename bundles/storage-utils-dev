@@ -380,7 +380,6 @@ include(devpkg-readline)
 readline-dev32
 requests
 rpcbind
-rpm-build
 ruby
 samba-dev
 sed

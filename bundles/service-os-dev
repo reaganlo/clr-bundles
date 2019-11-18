@@ -243,7 +243,6 @@ python3-dev
 pytz
 include(devpkg-readline)
 readline-dev32
-rpm-build
 ruby
 runc-dev
 sed

@@ -361,7 +361,6 @@ python3-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-rpm-build
 ruby
 sed
 setuptools
