@@ -69,7 +69,7 @@ pycodestyle
 pycurl
 pyOpenSSL
 python-magic
-python-rpm
+rpm
 toml
 python-zeep
 requests-ntlm
