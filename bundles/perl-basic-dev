@@ -310,12 +310,12 @@ perl-WWW-RobotRules
 perl-XML-NamespaceSupport-dev
 perl-XML-Parser-dev
 perl-common-sense
-perl-data
 perl-dev
 perl-libwww-perl-dev
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
+perl-perl
 pigz
 pkg-config
 pkg-config-dev

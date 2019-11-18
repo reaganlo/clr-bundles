@@ -436,10 +436,10 @@ perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-common-sense
-perl-data
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
+perl-perl
 pexpect
 php-dev
 pigz
@@ -481,6 +481,7 @@ include(devpkg-qtbase)
 include(devpkg-readline)
 readline-dev32
 requests
+rpm
 rpm-bin
 ruby
 scdoc-dev

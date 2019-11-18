@@ -620,10 +620,10 @@ perl-WWW-RobotRules
 perl-XML-Parser
 perl-XML-Simple
 perl-common-sense
-perl-data
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
+perl-perl
 pexpect
 php
 pigz

@@ -342,10 +342,10 @@ perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-common-sense
-perl-data
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
+perl-perl
 pigz
 pip
 pkg-config

@@ -1067,10 +1067,10 @@ perl-Variable-Magic
 perl-WWW-RobotRules
 perl-XML-Parser
 perl-common-sense
-perl-data
 perl-libwww-perl-perl
 perl-namespace-autoclean
 perl-namespace-clean
+perl-perl
 pexpect
 php
 php-dev
@@ -1193,6 +1193,7 @@ requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
 rpcbind
+rpm
 rpm-bin
 rpm-dev
 rtkit

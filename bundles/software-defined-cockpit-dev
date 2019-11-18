@@ -412,10 +412,9 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 perl
-perl-Math-BigInt-GMP
 perl-Test-Simple
 perl-XML-Parser
-perl-data
+perl-perl
 php
 pigz
 pip

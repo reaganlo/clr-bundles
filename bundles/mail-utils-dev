@@ -208,7 +208,6 @@ patchelf
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-perl-Math-BigInt-GMP
 perl-Test-Simple
 perl-XML-Parser
 pigz

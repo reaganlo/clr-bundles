@@ -424,7 +424,6 @@ include(devpkg-pcre2)
 pecan
 perl
 perl-Digest-CRC
-perl-Math-BigInt-GMP
 perl-Test-Simple
 perl-XML-Parser
 php

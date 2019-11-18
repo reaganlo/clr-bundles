@@ -473,13 +473,12 @@ pcre-dev32
 include(devpkg-pcre2)
 perl
 perl-IPC-Run
-perl-Math-BigInt-GMP
 perl-Test-Simple
 perl-URI
 perl-URI-Encode
 perl-URI-Escape-XS
 perl-XML-Parser
-perl-data
+perl-perl
 phonon-dev
 php
 pigz
