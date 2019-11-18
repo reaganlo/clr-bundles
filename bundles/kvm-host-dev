@@ -91,7 +91,6 @@ cmd2
 colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
-configparser
 coreutils
 coverage
 cracklib-dev

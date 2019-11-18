@@ -126,7 +126,6 @@ R-backports
 R-base64enc
 R-bayesm
 R-bayesplot
-R-bazar
 R-bbmle
 R-bdsmatrix
 R-benchr
@@ -1113,7 +1112,7 @@ perl-Crypt-SSLeay
 perl-Data-OptList
 perl-DateTime
 perl-DateTime-Locale
-perl-DateTime-TimeZone
+perl-DateTime-TimeZone-perl
 perl-Devel-LexAlias-perl
 perl-Devel-StackTrace
 perl-Digest-HMAC

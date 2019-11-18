@@ -275,7 +275,7 @@ perl-Crypt-SSLeay
 perl-Data-OptList
 perl-DateTime
 perl-DateTime-Locale
-perl-DateTime-TimeZone
+perl-DateTime-TimeZone-perl
 perl-Devel-LexAlias-perl
 perl-Devel-StackTrace
 perl-Digest-HMAC
