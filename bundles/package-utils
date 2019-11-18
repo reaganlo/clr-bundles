@@ -10,8 +10,6 @@ include(perl-basic)
 createrepo_c
 include(dnf)
 mock
-python-rpm
 rpm
-rpm-build
 rpm-bin
 usermode

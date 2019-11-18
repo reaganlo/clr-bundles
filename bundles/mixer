@@ -24,7 +24,6 @@ bzip2
 include(dnf)
 include(cpio)
 rpm
-rpm-common
 bsdiff
 
 #TODO: Update when ister is replaced by clr-installer
