@@ -11,5 +11,4 @@ createrepo_c
 include(dnf)
 mock
 rpm
-rpm-bin
 usermode
